@@ -1,0 +1,16 @@
+#!/usr/bin/env php
+<?php ini_set('display_errors', false);
+
+require 'src/functions.php';
+require 'src/gamedata.php';
+
+echo "Enter a command: ";
+
+switch (trim(fgets(STDIN))) {
+    case 'badges':
+        require 'src/badges.php';
+        break;
+    default:
+        exit;
+        break;
+}
