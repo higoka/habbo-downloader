@@ -18,6 +18,9 @@ switch (trim(fgets(STDIN))) {
     case 'icons':
         require 'src/icons.php';
         break;
+    case 'mp3':
+        require 'src/mp3.php';
+        break;
     default:
         exit;
 }
