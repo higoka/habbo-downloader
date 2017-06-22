@@ -12,6 +12,9 @@ switch (trim(fgets(STDIN))) {
     case 'badges':
         require 'src/badges.php';
         break;
+    case 'furnitures':
+        require 'src/furnitures.php';
+        break;
     default:
         exit;
 }
