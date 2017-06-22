@@ -1,6 +1,8 @@
 #!/usr/bin/env php
 <?php ini_set('display_errors', false);
 
+echo "Initializing ...\n";
+
 require 'src/functions.php';
 require 'src/gamedata.php';
 
@@ -12,5 +14,4 @@ switch (trim(fgets(STDIN))) {
         break;
     default:
         exit;
-        break;
 }

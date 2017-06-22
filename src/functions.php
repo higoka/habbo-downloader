@@ -13,6 +13,8 @@ function download(array $files)
     ]);
 
     foreach ($files as $file => $url) {
+        echo "> Downloading: $url\n";
+
         if (file_exists($file)) {
             continue;
         }
