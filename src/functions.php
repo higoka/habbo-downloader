@@ -4,7 +4,7 @@ function download(array $files)
 {
     $context = stream_context_create([
         'http' => [
-            'user_agent' => 'n00b',
+            'user_agent' => 'habbo-sucks',
         ],
         'ssl' => [
             'verify_peer'      => false,
