@@ -22,12 +22,12 @@ type in a command and start to download from Habbo.
 - mp3
 
 ### Contribute
-Contribution, bug fixes etc are [always welcome](https://github.com/tafelglotzer/habbo-downloader/issues/new).
+Contribution, bug fixes etc are [always welcome](https://github.com/higoka/habbo-downloader/issues/new).
 
 ### Credits
-- [Tafelglotzer](https://github.com/tafelglotzer)
-- [All Contributors](https://github.com/tafelglotzer/habbo-downloader/contributors)
+- [Higoka](https://github.com/higoka)
+- [All Contributors](https://github.com/higoka/habbo-downloader/contributors)
 
 ### License
 The MIT License (MIT).
-Please see [License File](https://github.com/tafelglotzer/habbo-downloader/blob/master/LICENSE) for more information.
+Please see [License File](https://github.com/higoka/habbo-downloader/blob/master/LICENSE) for more information.
