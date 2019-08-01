@@ -6,25 +6,15 @@ function download(array $files)
         'http' => [
             'user_agent' => 'habbo-sucks',
         ],
-        'ssl' => [
-            'verify_peer'      => false,
-            'verify_peer_name' => false,
-        ],
     ]);
 
-    foreach ($files as $file => $url) {
-        echo "> Downloading: $url\n";
+    foreach ($files as $src => $dst) {
+        echo "> Downloading: $src\n";
 
-        if (file_exists($file)) {
+        if (is_file($dst)) {
             continue;
         }
 
-        $result = file_get_contents($url, false, $context);
-
-        if (! $result) {
-            continue;
-        }
-
-        file_put_contents($file, $result);
+        copy($src, $dst, $context);
     }
 }

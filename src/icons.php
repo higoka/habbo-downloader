@@ -5,10 +5,10 @@ if (! is_dir('resources/icons')) {
 }
 
 for ($i = 1; $i <= 300; $i++) {
-    $url = sprintf('https://images.habbo.com/c_images/catalogue/icon_%d.png', $i);
-    $file = sprintf('resources/icons/icon_%d.png', $i);
+    $src = "https://images.habbo.com/c_images/catalogue/icon_{$i}.png";
+    $dst = "resources/icons/icon_{$i}.png";
 
-    $files[$file] = $url;
+    $files[$src] = $dst;
 }
 
 download($files);

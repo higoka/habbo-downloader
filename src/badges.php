@@ -9,10 +9,10 @@ $texts = file_get_contents('resources/gamedata/external_flash_texts.txt');
 preg_match_all('~(?|(\w+)_badge_name|badge_name_(\w+)|(\w+)_badge_desc|badge_desc_(\w+))~', $texts, $matches);
 
 foreach (array_unique($matches[1]) as $badge) {
-    $url = sprintf('https://images.habbo.com/c_images/album1584/%s.gif', $badge);
-    $file = sprintf('resources/badges/%s.gif', $badge);
+    $src = "https://images.habbo.com/c_images/album1584/{$badge}.gif";
+    $dst = "resources/badges/{$badge}.gif";
 
-    $files[$file] = $url;
+    $files[$src] = $dst;
 }
 
 download($files);

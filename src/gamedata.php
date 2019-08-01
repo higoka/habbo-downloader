@@ -5,10 +5,10 @@ if (! is_dir('resources/gamedata')) {
 }
 
 $files = [
-    'resources/gamedata/furnidata.xml'            => 'https://www.habbo.com/gamedata/furnidata_xml/1',
-    'resources/gamedata/external_variables.txt'   => 'https://www.habbo.com/gamedata/external_variables/1',
-    'resources/gamedata/external_flash_texts.txt' => 'https://www.habbo.com/gamedata/external_flash_texts/1',
-    'resources/gamedata/figuremap.xml'            => "https://images.habbo.com/gordon/{$prod}/figuremap.xml",
+    'https://www.habbo.com/gamedata/furnidata_xml/1'        => 'resources/gamedata/furnidata.xml',
+    'https://www.habbo.com/gamedata/external_variables/1'   => 'resources/gamedata/external_variables.txt',
+    'https://www.habbo.com/gamedata/external_flash_texts/1' => 'resources/gamedata/external_flash_texts.txt',
+    "https://images.habbo.com/gordon/{$prod}/figuremap.xml" => 'resources/gamedata/figuremap.xml',
 ];
 
 download($files);
