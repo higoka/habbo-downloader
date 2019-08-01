@@ -11,26 +11,26 @@ ini_set('display_startup_errors', false);
 
 echo "Initializing ...\n";
 
-require 'src/functions.php';
-require 'src/gamedata.php';
+require_once 'src/functions.php';
+require_once 'src/gamedata.php';
 
 echo "Enter a command: ";
 
 switch (trim(fgets(STDIN))) {
     case 'badges':
-        require 'src/badges.php';
+        require_once 'src/badges.php';
         break;
     case 'furnitures':
-        require 'src/furnitures.php';
+        require_once 'src/furnitures.php';
         break;
     case 'clothes':
-        require 'src/clothes.php';
+        require_once 'src/clothes.php';
         break;
     case 'icons':
-        require 'src/icons.php';
+        require_once 'src/icons.php';
         break;
     case 'mp3':
-        require 'src/mp3.php';
+        require_once 'src/mp3.php';
         break;
     default:
         exit("Invalid command.\n");
