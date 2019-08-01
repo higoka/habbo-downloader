@@ -1,17 +1,19 @@
 # Habbo Downloader
-Download Badges, Furnitures, Clothes, Catalog Icons and MP3 from Habbo.
+A tiny script to download various files directly from Habbo.
 
 ### Requirements
 - PHP
 
+*The recommended version is PHP 7 or higher.*
+
 ### Setup
-Create a folder named "Downloader" on your desktop. Download and extract the zip file in the the folder you just created.
-Finally, open your CMD (Windows) or Terminal (MacOS) and execute this commands:
+Download or clone this repository and extract it. Using your terminal, navigate inside the folder.
+Now just execute the script using PHP.
 ```shell
-$ cd Desktop/Downloader
-$ /path/to/php run
+$ cd ~/Desktop/myFolder
+$ php run
 ```
-The first time you run the downloader, it downloads the gamedata from https://www.habbo.com. When its done, you can type in a command and start to download from Habbo. You can choose which production you want to use in the "run" file.
+*You can choose which production you want to use by changing it in the "run" file.*
 
 ### Commands
 - badges
@@ -22,10 +24,6 @@ The first time you run the downloader, it downloads the gamedata from https://ww
 
 ### Contribute
 Contribution, bug fixes etc are [always welcome](https://github.com/higoka/habbo-downloader/issues/new).
-
-### Credits
-- [Higoka](https://github.com/higoka)
-- [All Contributors](https://github.com/higoka/habbo-downloader/contributors)
 
 ### License
 The MIT License (MIT).
