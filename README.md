@@ -5,17 +5,16 @@ Download Badges, Furnitures, Clothes, Catalog Icons and MP3 from Habbo.
 - PHP
 
 ### Setup
-Create a folder named "Downloader" on your desktop. Download and extract the zip file in the the folder you just created. 
+Create a folder named "Downloader" on your desktop. Download and extract the zip file in the the folder you just created.
 Finally, open your CMD (Windows) or Terminal (MacOS) and execute this commands:
 ```shell
 $ cd Desktop/Downloader
 $ /path/to/php run
 ```
-The first time you run the downloader, it downloads the gamedata from https://www.habbo.com. When its done, you can
-type in a command and start to download from Habbo.
+The first time you run the downloader, it downloads the gamedata from https://www.habbo.com. When its done, you can type in a command and start to download from Habbo. You can choose which production you want to use in the "run" file.
 
 ### Commands
-- badges 
+- badges
 - furnitures
 - clothes
 - icons

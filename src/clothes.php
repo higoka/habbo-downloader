@@ -7,7 +7,7 @@ if (! is_dir('resources/clothes')) {
 $figuremap = new SimpleXMLElement(file_get_contents('resources/gamedata/figuremap.xml'));
 
 foreach ($figuremap as $item) {
-    $url = sprintf('https://images.habbo.com/gordon/PRODUCTION-201906172209-994650594/%s.swf', $item->attributes()->id);
+    $url = sprintf('https://images.habbo.com/gordon/%s/%s.swf', $prod, $item->attributes()->id);
     $file = sprintf('resources/clothes/%s.swf', $item->attributes()->id);
 
     $files[$file] = $url;

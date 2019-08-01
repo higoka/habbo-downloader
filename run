@@ -1,5 +1,10 @@
 #!/usr/bin/env php
-<?php ini_set('display_errors', false);
+<?php
+
+# current production
+$prod = 'PRODUCTION-201906172209-994650594';
+
+ini_set('display_errors', false);
 
 echo "Initializing ...\n";
 
