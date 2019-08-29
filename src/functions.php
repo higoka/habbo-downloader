@@ -9,7 +9,7 @@ function download(array $files, bool $override = false)
     ]);
 
     foreach ($files as $src => $dst) {
-        echo "> Downloading: $src\n";
+        echo "> downloading: $src\n";
 
         if (is_file($dst) && $override === false) {
             continue;

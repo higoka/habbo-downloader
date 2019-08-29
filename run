@@ -9,12 +9,12 @@ error_reporting(0);
 ini_set('display_errors', false);
 ini_set('display_startup_errors', false);
 
-echo "Initializing ...\n";
+echo "initializing ...\n\n";
 
 require_once 'src/functions.php';
 require_once 'src/gamedata.php';
 
-echo "Enter a command: ";
+echo "\nenter a command: ";
 
 switch (trim(fgets(STDIN))) {
     case 'badges':
@@ -33,5 +33,5 @@ switch (trim(fgets(STDIN))) {
         require_once 'src/mp3.php';
         break;
     default:
-        exit("Invalid command.\n");
+        exit("\ninvalid command\n");
 }
