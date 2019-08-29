@@ -9,7 +9,7 @@ function fetch(array $files, bool $override = false)
     ]);
 
     foreach ($files as $src => $dst) {
-        echo "> downloading: $src\n";
+        echo "\n> downloading: $src";
 
         if (is_file($dst) && $override === false) {
             continue;
