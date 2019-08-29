@@ -15,4 +15,4 @@ foreach ($furnidata->xpath('//furnitype') as $item) {
     $files[$src] = $dst;
 }
 
-download($files);
+fetch($files);

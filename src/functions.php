@@ -1,6 +1,6 @@
 <?php
 
-function download(array $files, bool $override = false)
+function fetch(array $files, bool $override = false)
 {
     $context = stream_context_create([
         'http' => [

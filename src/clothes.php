@@ -13,4 +13,4 @@ foreach ($figuremap as $item) {
     $files[$src] = $dst;
 }
 
-download($files);
+fetch($files);

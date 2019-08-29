@@ -17,4 +17,4 @@ foreach ($match[0] as $code) {
     $files[$src] = $dst;
 }
 
-download($files);
+fetch($files);

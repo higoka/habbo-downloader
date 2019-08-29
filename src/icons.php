@@ -11,4 +11,4 @@ for ($i = 1; $i <= 300; $i++) {
     $files[$src] = $dst;
 }
 
-download($files);
+fetch($files);
