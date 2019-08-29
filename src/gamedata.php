@@ -11,4 +11,4 @@ $files = [
     "https://images.habbo.com/gordon/{$prod}/figuremap.xml" => 'resources/gamedata/figuremap.xml',
 ];
 
-download($files);
+download($files, true);

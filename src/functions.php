@@ -1,6 +1,6 @@
 <?php
 
-function download(array $files)
+function download(array $files, bool $override = false)
 {
     $context = stream_context_create([
         'http' => [
@@ -11,7 +11,7 @@ function download(array $files)
     foreach ($files as $src => $dst) {
         echo "> Downloading: $src\n";
 
-        if (is_file($dst)) {
+        if (is_file($dst) && $override === false) {
             continue;
         }
 
