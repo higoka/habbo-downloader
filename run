@@ -2,7 +2,7 @@
 <?php
 
 # current production
-$prod = 'PRODUCTION-201906172209-994650594';
+$prod = 'PRODUCTION-201908162204-324153942';
 
 error_reporting(0);
 
