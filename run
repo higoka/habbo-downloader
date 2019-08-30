@@ -44,6 +44,9 @@ switch (trim(fgets(STDIN))) {
     case 'mp3':
         require_once 'src/mp3.php';
         break;
+    case 'hotelview':
+        require_once 'src/hotelview.php';
+        break;
     default:
         exit("\ninvalid command\n");
 }
