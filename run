@@ -9,7 +9,16 @@ error_reporting(0);
 ini_set('display_errors', false);
 ini_set('display_startup_errors', false);
 
-echo "initializing ...\n";
+echo "
+   __        __   __
+  / /  ___ _/ /  / /  ___
+ / _ \/ _ `/ _ \/ _ \/ _ \
+/_//_/\_,_/_.__/_.__/\___/            __
+ ___/ /__ _    _____  / /__  ___ ____/ /__ ____
+/ _  / _ \ |/|/ / _ \/ / _ \/ _ `/ _  / -_) __/
+\_,_/\___/__,__/_//_/_/\___/\_,_/\_,_/\__/_/
+
+initializing...\n";
 
 require_once 'src/functions.php';
 require_once 'src/gamedata.php';
