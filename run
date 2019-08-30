@@ -1,8 +1,7 @@
 #!/usr/bin/php
 <?php
 
-# current production
-$prod = 'PRODUCTION-201908162204-324153942';
+require_once 'src/functions.php';
 
 error_reporting(0);
 
@@ -20,7 +19,8 @@ echo "
 
 initializing...\n";
 
-require_once 'src/functions.php';
+$prod = parseProduction();
+
 require_once 'src/gamedata.php';
 
 echo "\n\nenter a command: ";
