@@ -20,6 +20,7 @@ $ php run
 - effects
 - icons
 - mp3
+- hotelview
 
 ### Contribute
 Contribution, bug fixes etc are [always welcome](https://github.com/higoka/habbo-downloader/issues/new).
