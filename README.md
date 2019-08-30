@@ -7,18 +7,18 @@ A tiny script to download various files directly from Habbo.
 NOTE: *The recommended version is PHP 7 or higher.*
 
 ### Setup
-Download or clone this repository and extract it. Using your terminal, navigate inside the folder.
-Now just execute the script using PHP.
+Clone or download this repository and extract it. Using the terminal, navigate inside the folder and execute the script.
 ```shell
 $ cd ~/Desktop/myFolder
 $ php run
 ```
-NOTE: *You can choose which production you want to use by changing it [HERE](https://github.com/higoka/habbo-downloader/blob/master/run#L5).*
+NOTE: *You can choose which production you want to use by changing it [HERE](https://github.com/higoka/habbo-downloader/blob/master/run#L4-L5).*
 
 ### Commands
 - badges
 - furnitures
 - clothes
+- effects
 - icons
 - mp3
 
