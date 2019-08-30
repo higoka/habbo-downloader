@@ -35,3 +35,5 @@ switch (trim(fgets(STDIN))) {
     default:
         exit("\ninvalid command\n");
 }
+
+echo "\n\nDone!\n";
