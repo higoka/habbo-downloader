@@ -12,7 +12,6 @@ Clone or download this repository and extract it. Using the terminal, navigate i
 $ cd ~/Desktop/myFolder
 $ php run
 ```
-NOTE: *You can choose which production you want to use by changing it [HERE](https://github.com/higoka/habbo-downloader/blob/master/run#L4-L5).*
 
 ### Commands
 - badges
