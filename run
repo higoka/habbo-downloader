@@ -35,6 +35,9 @@ switch (trim(fgets(STDIN))) {
     case 'clothes':
         require_once 'src/clothes.php';
         break;
+    case 'effects':
+        require_once 'src/effects.php';
+        break;
     case 'icons':
         require_once 'src/icons.php';
         break;
