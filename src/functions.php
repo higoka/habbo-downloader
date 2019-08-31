@@ -1,6 +1,6 @@
 <?php
 
-function fetch(array $files, bool $override = false)
+function fetch(array $files, bool $override = false): void
 {
     $context = stream_context_create([
         'http' => [
@@ -19,7 +19,7 @@ function fetch(array $files, bool $override = false)
     }
 }
 
-function parseProduction()
+function parseProduction(): string
 {
     echo "parsing current production...\n";
 
