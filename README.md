@@ -18,7 +18,7 @@ You can define the domain you want the files to be downloaded from.
 **Default**: ```com```  
 **Avaliable**: ```com.br, com.tr, com, de, es, nl, fi, fr, it```
 
-You can change it [here](https://github.com/higoka/habbo-downloader/blob/master/run#L7)
+You can change it [here](https://github.com/higoka/habbo-downloader/blob/master/run#L4-L7).
 
 ### Commands
 - badges
