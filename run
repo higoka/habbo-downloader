@@ -1,6 +1,11 @@
 #!/usr/bin/php
 <?php
 
+/**
+ * define the domain you want to download from
+ */
+$domain = 'com';
+
 require_once 'src/functions.php';
 
 error_reporting(0);
