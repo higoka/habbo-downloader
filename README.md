@@ -2,16 +2,23 @@
 A tiny script to download various files directly from Habbo.
 
 ### Requirements
-- PHP
-
-NOTE: *The recommended version is PHP 7 or higher.*
+- PHP 7 or higher
 
 ### Setup
 Clone or download this repository and extract it. Using the terminal, navigate inside the folder and execute the script.
+
 ```shell
 $ cd ~/Desktop/myFolder
 $ php run
 ```
+
+### Configuration
+You can define the domain you want the files to be downloaded from.
+
+**Default**: ```com```  
+**Avaliable**: ```com.br, com.tr, com, de, es, nl, fi, fr, it```
+
+You can change it [here](https://github.com/higoka/habbo-downloader/blob/master/run#L7)
 
 ### Commands
 - badges
