@@ -32,7 +32,7 @@ change it [here](https://github.com/higoka/habbo-downloader/blob/master/run#L4-L
 - hotelview
 
 ### Error Handling
-You can [enable debugging](https://github.com/higoka/habbo-downloader/blob/master/run#L9-L12) to see the errors.
+You can [enable debugging](https://github.com/higoka/habbo-downloader/blob/master/run#L9-L12) to see the errors. If you cant fix it on your own, feel free to [create an issue](https://github.com/higoka/habbo-downloader/issues/new). 
 
 ### Contribute
 Contribution, bug fixes etc are [always welcome](https://github.com/higoka/habbo-downloader/issues/new).
