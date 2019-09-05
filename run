@@ -1,16 +1,8 @@
 <?php
 
-/**
- * define the domain you want to download from
- */
-$domain = 'com';
+$config = require_once 'config.php';
 
-/**
- * enable or disable debugging
- */
-$debug = false;
-
-if ($debug) {
+if ($config['debug']) {
     error_reporting(E_ALL);
     ini_set('display_errors', true);
     ini_set('display_startup_errors', true);
