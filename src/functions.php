@@ -2,12 +2,6 @@
 
 function fetch(array $files, bool $override = false): void
 {
-    $context = stream_context_create([
-        'http' => [
-            'user_agent' => 'habbo-sucks',
-        ],
-    ]);
-
     foreach ($files as $src => $dst) {
         echo "\n> downloading: $src";
 
@@ -15,7 +9,21 @@ function fetch(array $files, bool $override = false): void
             continue;
         }
 
-        copy($src, $dst, $context);
+        $ch = curl_init($src);
+
+        curl_setopt($ch, CURLOPT_HEADER, false);
+        curl_setopt($ch, CURLOPT_USERAGENT, 'habbo-sucks');
+        curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+
+        $content  = curl_exec($ch);
+        $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+
+        curl_close($ch);
+
+        if ($httpCode === 200) {
+            file_put_contents($dst, $content);
+        }
     }
 }
 
