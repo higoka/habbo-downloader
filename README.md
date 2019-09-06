@@ -1,4 +1,7 @@
-# Habbo Downloader
+# habbo-downloader
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/higoka/habbo-downloader?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/higoka/habbo-downloader?style=for-the-badge)
+
 A tiny script to download various files directly from Habbo.
 
 ***JOIN OUR DISCUSSION:*** [click here](https://github.com/higoka/habbo-downloader/issues/5)
