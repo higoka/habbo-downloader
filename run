@@ -1,5 +1,7 @@
 <?php
 
+define('VERSION', '1.4.1');
+
 $config = require_once 'config.php';
 
 if ($config['debug']) {
@@ -24,6 +26,8 @@ echo "
 \_,_/\___/__,__/_//_/_/\___/\_,_/\_,_/\__/_/
 
 initializing...\n";
+
+checkVersion();
 
 $prod = parseProduction();
 

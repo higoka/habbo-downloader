@@ -37,3 +37,21 @@ function parseProduction(): string
 
     return $match[0];
 }
+
+function checkVersion(): void
+{
+    $context = stream_context_create([
+        'http' => [
+            'user_agent' => 'habbo-sucks',
+        ],
+    ]);
+
+    $json = file_get_contents('https://api.github.com/repos/higoka/habbo-downloader/releases/latest', false, $context);
+    $json = json_decode($json, true);
+
+    $version = substr($json['tag_name'], 1);
+
+    if (version_compare($version, VERSION) === 1) {
+        echo "\n\e[33m> new version available @ v{$version}\n";
+    }
+}
