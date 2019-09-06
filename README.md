@@ -1,4 +1,4 @@
-# Habbo Downloader
+# habbo-downloader
 A tiny script to download various files directly from Habbo.
 
 ***JOIN OUR DISCUSSION:*** [click here](https://github.com/higoka/habbo-downloader/issues/5)
