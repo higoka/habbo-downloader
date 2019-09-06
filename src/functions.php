@@ -35,7 +35,7 @@ function parseProduction(): string
         ],
     ]);
 
-    $var = file_get_contents('https://www.habbo.com/gamedata/external_variables/1', false, $context);
+    $var = file_get_contents('https://www.habbo.com/gamedata/external_variables/0', false, $context);
 
     if (! preg_match('~PRODUCTION-[^/]+~i', $var, $match)) {
         exit("error parsing production\n");
