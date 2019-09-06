@@ -21,8 +21,6 @@ function fetch(array $files, bool $override = false): void
 
 function parseProduction(): string
 {
-    echo "parsing current production...\n";
-
     $context = stream_context_create([
         'http' => [
             'user_agent' => 'habbo-sucks',
@@ -34,6 +32,8 @@ function parseProduction(): string
     if (! preg_match('~PRODUCTION-[^/]+~i', $var, $match)) {
         exit("error parsing production\n");
     }
+
+    echo "\n\e[32m@ {$match[0]}\e[0m\n";
 
     return $match[0];
 }
