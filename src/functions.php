@@ -14,11 +14,7 @@ function fetchString(string $url): ?string
 
     curl_close($ch);
 
-    if ($httpCode === 200) {
-        return $content;
-    }
-
-    return null;
+    return ($httpCode === 200) ? $content : null;
 }
 
 function fetch(array $files, bool $override = false): void
