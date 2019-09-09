@@ -26,7 +26,9 @@ function fetch(array $files, bool $override = false): void
             continue;
         }
 
-        if (null === fetchString($src)) {
+        $content = fetchString($src);
+        
+        if (null === $content) {
             continue;
         }
 
