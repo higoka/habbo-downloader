@@ -26,9 +26,7 @@ function fetch(array $files, bool $override = false): void
             continue;
         }
 
-        $content = fetchString($src);
-        
-        if (null === $content) {
+        if (null === ($content = fetchString($src))) {
             continue;
         }
 
@@ -38,13 +36,7 @@ function fetch(array $files, bool $override = false): void
 
 function parseProduction(): string
 {
-    $context = stream_context_create([
-        'http' => [
-            'user_agent' => 'habbo-sucks',
-        ],
-    ]);
-
-    $var = file_get_contents('https://www.habbo.com/gamedata/external_variables/0', false, $context);
+    $var = fetchString('https://www.habbo.com/gamedata/external_variables/0');
 
     if (! preg_match('~PRODUCTION-[^/]+~i', $var, $match)) {
         exit("error parsing production\n");
@@ -57,13 +49,7 @@ function parseProduction(): string
 
 function checkVersion(): void
 {
-    $context = stream_context_create([
-        'http' => [
-            'user_agent' => 'habbo-sucks',
-        ],
-    ]);
-
-    $json = file_get_contents('https://api.github.com/repos/higoka/habbo-downloader/releases/latest', false, $context);
+    $json = fetchString('https://api.github.com/repos/higoka/habbo-downloader/releases/latest');
     $json = json_decode($json, true);
 
     $version = substr($json['tag_name'], 1);
