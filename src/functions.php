@@ -1,5 +1,26 @@
 <?php
 
+function fetchString(string $url): ?string
+{
+    $ch = curl_init($url);
+
+    curl_setopt($ch, CURLOPT_HEADER, false);
+    curl_setopt($ch, CURLOPT_USERAGENT, 'habbo-sucks');
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+
+    $content  = curl_exec($ch);
+    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+
+    curl_close($ch);
+
+    if ($httpCode === 200) {
+        return $content;
+    }
+
+    return null;
+}
+
 function fetch(array $files, bool $override = false): void
 {
     foreach ($files as $src => $dst) {
@@ -9,21 +30,11 @@ function fetch(array $files, bool $override = false): void
             continue;
         }
 
-        $ch = curl_init($src);
-
-        curl_setopt($ch, CURLOPT_HEADER, false);
-        curl_setopt($ch, CURLOPT_USERAGENT, 'habbo-sucks');
-        curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-
-        $content  = curl_exec($ch);
-        $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-
-        curl_close($ch);
-
-        if ($httpCode === 200) {
-            file_put_contents($dst, $content);
+        if (null === fetchString($src)) {
+            continue;
         }
+
+        file_put_contents($dst, $content);
     }
 }
 
