@@ -7,7 +7,7 @@ A tiny script to download various files directly from Habbo.
 ***JOIN OUR DISCUSSION:*** [click here](https://github.com/higoka/habbo-downloader/issues/5)
 
 ### Requirements
-- PHP 7 or higher
+- PHP 7.1 or higher
 
 ### Setup
 Clone or download this repository and extract it. Using the terminal, navigate inside the folder and execute the script.
