@@ -27,8 +27,6 @@ echo "
 
 initializing...\n";
 
-checkVersion();
-
 $prod = parseProduction();
 
 require_once 'src/gamedata.php';

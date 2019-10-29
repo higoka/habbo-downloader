@@ -38,15 +38,3 @@ function parseProduction(): string
 
     return $match[0];
 }
-
-function checkVersion(): void
-{
-    $json = fetchString('https://api.github.com/repos/higoka/habbo-downloader/releases/latest');
-    $json = json_decode($json, true);
-
-    $version = substr($json['tag_name'], 1);
-
-    if (version_compare($version, VERSION) === 1) {
-        echo "\n\e[33m> new version available @ v{$version}\n";
-    }
-}
