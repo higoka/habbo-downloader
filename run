@@ -1,7 +1,5 @@
 <?php
 
-define('VERSION', '1.4.7');
-
 $config = require_once 'config.php';
 
 if ($config['debug']) {
