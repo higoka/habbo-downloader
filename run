@@ -53,6 +53,9 @@ switch (trim(fgets(STDIN))) {
     case 'hotelview':
         require_once 'src/hotelview.php';
         break;
+    case 'ficon':
+        require_once 'src/ficon.php';
+        break;
     default:
         exit("\ninvalid command\n");
 }
