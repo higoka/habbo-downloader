@@ -13,6 +13,15 @@ foreach ($furnidata->xpath('//furnitype') as $item) {
     $dst = "resources/furnitures/{$name}.swf";
 
     $files[$src] = $dst;
+
+    if ($config['furnitureIcon'] === false) {
+        continue;
+    }
+
+    $src = "https://images.habbo.com/dcr/hof_furni/{$item->revision}/{$name}_icon.png";
+    $dst = "resources/furnitures/{$name}_icon.png";
+
+    $files[$src] = $dst;
 }
 
 fetch($files);
