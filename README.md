@@ -23,6 +23,7 @@ $ php run
 - icons
 - mp3
 - hotelview
+- ficon
 
 ### Error Handling
 You can enable [debugging mode](https://github.com/higoka/habbo-downloader/blob/master/config.php#L12) to see the errors. If you cant fix it on your own, feel free to [create an issue](https://github.com/higoka/habbo-downloader/issues/new). 
