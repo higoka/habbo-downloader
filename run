@@ -56,6 +56,9 @@ switch (trim(fgets(STDIN))) {
     case 'ficon':
         require_once 'src/ficon.php';
         break;
+    case 'gamedata':
+        require_once 'src/gamedata.php';
+        break;
     default:
         exit("\ninvalid command\n");
 }
