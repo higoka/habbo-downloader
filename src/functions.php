@@ -1,16 +1,13 @@
 <?php
 
-function fetchString(string $url): string
+function fetch(array $files, bool $override = false): void
 {
-    return file_get_contents($url, false, stream_context_create([
+    $context = stream_context_create([
         'http' => [
             'header' => 'user-agent:habbo-sucks',
         ],
-    ]));
-}
+    ]);
 
-function fetch(array $files, bool $override = false): void
-{
     foreach ($files as $src => $dst) {
         echo "\n> downloading: $src";
 
@@ -18,17 +15,17 @@ function fetch(array $files, bool $override = false): void
             continue;
         }
 
-        if (null === ($content = fetchString($src))) {
-            continue;
-        }
-
-        file_put_contents($dst, $content);
+        copy($src, $dst, $context);
     }
 }
 
 function parseProduction(): string
 {
-    $var = fetchString('https://www.habbo.com/gamedata/external_variables/0');
+    $var = file_get_contents('https://www.habbo.com/gamedata/external_variables/0', false, stream_context_create([
+        'http' => [
+            'header' => 'user-agent:habbo-sucks',
+        ],
+    ]));
 
     if (! preg_match('~PRODUCTION-[^/]+~i', $var, $match)) {
         exit("error parsing production\n");
