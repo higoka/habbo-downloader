@@ -4,7 +4,15 @@ if (! is_dir('resources/furnitures')) {
     mkdir('resources/furnitures', 0777, true);
 }
 
-$furnidata = simplexml_load_file('resources/gamedata/furnidata.xml');
+$xml = file_get_contents('resources/gamedata/furnidata.xml');
+
+# temporary fix for corrupted furnidata (com.br only)
+# https://www.habbo.com.br/gamedata/furnidata_xml/0
+if ($config['domain'] === 'com.br') {
+    $xml = str_replace('&', '&amp;', $xml);
+}
+
+$furnidata = simplexml_load_string($xml);
 
 foreach ($furnidata->xpath('//furnitype') as $item) {
     $name = strtok($item->attributes()->classname, '*');
