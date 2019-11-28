@@ -1,6 +1,6 @@
 <?php
 
-$config = require_once 'config.php';
+$config = require_once 'config/app.php';
 
 if ($config['debug']) {
     error_reporting(E_ALL);
