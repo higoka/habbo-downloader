@@ -4,14 +4,19 @@
 
 A tiny script to download various files directly from Habbo.
 
-### Requirements
-- PHP 7.1 or higher
+***feel free to contact me on discord***  
+`higoka#7120`
 
-### Start
-`run.bat` **for Windows**  
-`run.command` **for macOS**
+## Requirement
+All you need is PHP 7.1 or higher.
 
-### Commands
+## Usage
+Just execute the correct `run` file for your os.
+- `run.bat` **for Windows**  
+- `run.command` **for macOS**
+
+## Commands
+If you have any suggestions or improvements let me know.
 - badges
 - furnitures
 - clothes
@@ -20,13 +25,3 @@ A tiny script to download various files directly from Habbo.
 - mp3
 - hotelview
 - ficon
-
-### Error Handling
-You can enable [debugging mode](https://github.com/higoka/habbo-downloader/blob/master/config.php#L12) to see the errors. If you cant fix it on your own, feel free to [create an issue](https://github.com/higoka/habbo-downloader/issues/new). 
-
-### Contribute
-Contribution, bug fixes etc are [always welcome](https://github.com/higoka/habbo-downloader/issues/new).
-
-### License
-The MIT License (MIT).
-Please see [License File](https://github.com/higoka/habbo-downloader/blob/master/LICENSE) for more information.
