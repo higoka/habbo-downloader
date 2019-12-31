@@ -6,6 +6,10 @@ function fetch(array $files, bool $override = false): void
         'http' => [
             'header' => 'user-agent:habbo-sucks',
         ],
+        'ssl' => [
+            'verify_peer' => false,
+            'verify_peer_name' => false,
+        ],
     ]);
 
     foreach ($files as $src => $dst) {
@@ -24,6 +28,10 @@ function parseProduction(): string
     $var = file_get_contents('https://www.habbo.com/gamedata/external_variables/0', false, stream_context_create([
         'http' => [
             'header' => 'user-agent:habbo-sucks',
+        ],
+        'ssl' => [
+            'verify_peer' => false,
+            'verify_peer_name' => false,
         ],
     ]));
 
