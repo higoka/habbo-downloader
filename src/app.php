@@ -66,4 +66,4 @@ switch (trim(fgets(STDIN))) {
         exit("\ninvalid command\n");
 }
 
-exit;
+exit("\n\n");
