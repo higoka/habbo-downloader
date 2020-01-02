@@ -4,8 +4,10 @@
 
 A tiny script to download various files directly from Habbo.
 
-***feel free to contact me on discord***  
+***Discord***  
 `higoka#7120`
+
+![](preview.gif)
 
 ## Requirement
 All you need is PHP 7.1 or higher.
@@ -15,8 +17,9 @@ Just execute the correct `run` file for your os.
 - `run.bat` **for Windows**  
 - `run.command` **for macOS**
 
-## Commands
-If you have any suggestions or improvements let me know.
+After the initial required files have been downloaded a prompt will let you enter a command.
+
+**currently supported commands**
 - badges
 - furnitures
 - clothes
@@ -25,3 +28,5 @@ If you have any suggestions or improvements let me know.
 - mp3
 - hotelview
 - ficon
+
+If you have ideas for new commands or **any other project** please let me know!
