@@ -59,8 +59,11 @@ switch (trim(fgets(STDIN))) {
     case 'gamedata':
         require_once 'src/gamedata.php';
         break;
+    case 'help':
+        require_once 'src/help.php';
+        break;
     default:
         exit("\ninvalid command\n");
 }
 
-exit("\n\nDone!\n");
+exit;
