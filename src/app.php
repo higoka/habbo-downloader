@@ -62,6 +62,9 @@ switch (trim(fgets(STDIN))) {
     case 'gamedata':
         require_once 'src/gamedata.php';
         break;
+    case 'habboswf':
+        require_once 'src/habboswf.php';
+        break;
     case 'help':
         require_once 'src/help.php';
         break;
