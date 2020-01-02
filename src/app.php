@@ -23,6 +23,9 @@ echo "
 / _  / _ \ |/|/ / _ \/ / _ \/ _ `/ _  / -_) __/
 \_,_/\___/__,__/_//_/_/\___/\_,_/\_,_/\__/_/
 
+> Discord @ higoka#7120
+> Enter \"help\" for a list of commands
+
 initializing...\n";
 
 $prod = parseProduction();
