@@ -29,5 +29,6 @@ After the initial required files have been downloaded a prompt will let you ente
 - hotelview
 - ficon
 - gamedata
+- habboswf
 
 If you have ideas for new commands or **any other project** please let me know!
