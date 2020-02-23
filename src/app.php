@@ -65,6 +65,9 @@ switch (trim(fgets(STDIN))) {
     case 'habboswf':
         require_once 'src/habboswf.php';
         break;
+    case 'pets':
+        require_once 'src/pets.php';
+        break;
     case 'help':
         require_once 'src/help.php';
         break;
