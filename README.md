@@ -40,6 +40,13 @@ After the initial required files have been downloaded a prompt will let you ente
 
 **If you have ideas for new commands or projects let me know.**
 
+## FAQ
+
+### Unable to find the wrapper “https” - did you forget to enable it when you configured PHP?
+
+**Solution**: Enable the `php_openssl` extension.  
+In your php.ini search for: `extension=php_openssl` and remove the semicolon ( `;` ) then restart PHP.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
