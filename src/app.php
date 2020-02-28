@@ -71,6 +71,9 @@ switch (trim(fgets(STDIN))) {
     case 'badgeparts':
         require_once 'src/badgeparts.php';
         break;
+    case 'targetedoffers':
+        require_once 'src/targetedoffers.php';
+        break;
     case 'help':
         require_once 'src/help.php';
         break;
