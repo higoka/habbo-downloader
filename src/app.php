@@ -74,6 +74,9 @@ switch (trim(fgets(STDIN))) {
     case 'targetedoffers':
         require_once 'src/targetedoffers.php';
         break;
+    case 'promo':
+        require_once 'src/promo.php';
+        break;
     case 'help':
         require_once 'src/help.php';
         break;
