@@ -33,6 +33,7 @@ After the initial required files have been downloaded a prompt will let you ente
 - icons
 - mp3
 - pets
+- badgeparts
 - hotelview
 - ficon
 - gamedata
