@@ -25,7 +25,7 @@ After the initial required files have been downloaded a prompt will let you ente
 
 ### Available Commands
 
-Currently there are a total of **14 Commands** available
+Currently there are a total of **15 Commands** available
 - badges
 - furnitures
 - clothes
