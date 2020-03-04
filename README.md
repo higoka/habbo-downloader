@@ -29,7 +29,7 @@ Currently there are a total of **16 Commands** available.
 If you have ideas for **new commands or projects** please let me know.
 
 |     Command    	|                       Description                       	|
-|:--------------:	|:-------------------------------------------------------:	|
+| --------------- | ---------------------------------------------------------	|
 | badges         	| Download all Habbo Badges                               	|
 | furnitures     	| Download all Habbo Furnitures                           	|
 | clothes        	| Download all Habbo Clothes                              	|
