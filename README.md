@@ -6,8 +6,7 @@
 
 A tiny script to download various files directly from Habbo.
 
-***Discord***
-`higoka#7120`
+**You can add me on Discord:** `higoka#7120`
 
 ![](preview.gif)
 
@@ -26,18 +25,22 @@ After the initial required files have been downloaded a prompt will let you ente
 
 ### Available Commands
 
+Currently there are a total of **15 Commands** available
 - badges
 - furnitures
 - clothes
 - effects
 - icons
 - mp3
-- pets
-- badgeparts
 - hotelview
 - ficon
 - gamedata
 - habboswf
+- pets
+- badgeparts
+- targetedoffers
+- promo
+- help
 
 **If you have ideas for new commands or projects let me know.**
 
