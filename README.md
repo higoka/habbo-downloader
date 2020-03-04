@@ -25,7 +25,7 @@ After the initial required files have been downloaded a prompt will let you ente
 
 ### Available Commands
 
-Currently there are a total of **15 Commands** available
+Currently there are a total of **16 Commands** available
 - badges
 - furnitures
 - clothes
@@ -40,6 +40,7 @@ Currently there are a total of **15 Commands** available
 - badgeparts
 - targetedoffers
 - promo
+- articles
 - help
 
 **If you have ideas for new commands or projects let me know.**
