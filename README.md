@@ -12,7 +12,7 @@ A tiny script to download various files directly from Habbo.
 
 ## Prerequisites
 
-- PHP 7 or higher
+- PHP 7.1 or higher
 
 ## Getting Started
 
