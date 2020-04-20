@@ -15,3 +15,4 @@ echo "\n> pets              Download the latest Habbo Pets";
 echo "\n> badgeparts        Download the latest Habbo Badgeparts";
 echo "\n> targetedoffers    Download the latest Habbo targetedoffers Images";
 echo "\n> promo             Download the latest Habbo web_promo and web_promo_small Images";
+echo "\n> articles          Download the latest Habbo News Articles Images (habbo-web-articles)";
