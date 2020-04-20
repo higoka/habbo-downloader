@@ -28,6 +28,8 @@ echo "
 
 initializing...\n";
 
+checkSystem();
+
 $prod = parseProduction();
 
 require_once 'src/gamedata.php';
