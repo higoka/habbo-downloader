@@ -1,5 +1,7 @@
 <?php
 
+const VERSION = 'v1.13.0';
+
 $config = require_once 'config/app.php';
 
 if ($config['debug']) {
@@ -29,6 +31,7 @@ echo "
 initializing...\n";
 
 checkSystem();
+checkVersion();
 
 $prod = parseProduction();
 

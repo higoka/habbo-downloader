@@ -58,3 +58,22 @@ function checkSystem(): void
         exit("\n\e[31m\"allow_url_fopen\" must be enabled\e[0m\n");
     }
 }
+
+function checkVersion(): void
+{
+    $res = file_get_contents('https://api.github.com/repos/higoka/habbo-downloader/releases/latest', false, stream_context_create([
+        'http' => [
+            'header' => 'user-agent:habbo-sucks',
+        ],
+        'ssl' => [
+            'verify_peer' => false,
+            'verify_peer_name' => false,
+        ],
+    ]));
+
+    $json = json_decode($res, true);
+
+    if (version_compare(VERSION, $json['tag_name'], '<')) {
+        echo "\n\e[33m> Update available: {$json['tag_name']}\e[0m\n";
+    }
+}
