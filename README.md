@@ -6,18 +6,13 @@
 
 A tiny script to download various files directly from Habbo.
 
-**You can add me on Discord:** `higoka#7120`
+**Add me on Discord:** `higoka#7120`
 
 ![](preview.gif)
 
-## Prerequisites
-
-- PHP 7.1 or higher
-- OpenSSL extension enabled
-
 ## Getting Started
 
-Just execute the correct `run` file for your os.
+Execute the `run` file for your OS.
 
 - `run.bat` **for Windows**
 - `run.command` **for macOS**
@@ -47,13 +42,6 @@ If you have ideas for **new commands or projects** please let me know.
 | promo          	| Download all Habbo web_promo and web_promo_small Images 	|
 | articles       	| Download all Habbo News Articles Images                 	|
 | help           	| Display a list of available commands                    	|
-
-## FAQ
-
-### Unable to find the wrapper “https” - did you forget to enable it when you configured PHP?
-
-**Solution**: Enable the `php_openssl` extension.  
-In your php.ini search for: `extension=php_openssl` and remove the semicolon ( `;` ) then restart PHP.
 
 ## License
 
