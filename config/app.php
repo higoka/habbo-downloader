@@ -9,7 +9,7 @@ return [
     /**
      * save badges as gif instead of new png format
      */
-    'saveGif' => false,
+    'saveGif' => true,
 
     /**
      * download furniture with icon
