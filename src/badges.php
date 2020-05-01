@@ -11,10 +11,10 @@ preg_match_all('~(?<=badge_(name|desc)_)[\w ]+|[\w ]+(?=_badge_(name|desc))~i', 
 foreach ($match[0] as $code) {
     $code = trim($code);
 
-    $src = "https://images.habbo.com/c_images/album1584/{$code}.gif";
-    $dst = "resources/badges/{$code}.gif";
+    $src = "https://images.habbo.com/c_images/album1584/{$code}.png";
+    $dst = "resources/badges/{$code}.png";
 
     $files[$src] = $dst;
 }
 
-fetch($files);
+fetch($files, false, $config['saveGif']);

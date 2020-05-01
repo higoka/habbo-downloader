@@ -1,6 +1,6 @@
 <?php
 
-function fetch(array $files, bool $override = false): void
+function fetch(array $files, bool $override = false, bool $saveGif = false): void
 {
     $context = stream_context_create([
         'http' => [
@@ -20,6 +20,10 @@ function fetch(array $files, bool $override = false): void
         }
 
         copy($src, $dst, $context);
+
+        if ($saveGif && $im = imagecreatefrompng($src)) {
+            imagegif($im, str_replace('.png', '.gif', $dst));
+        }
     }
 }
 

@@ -7,6 +7,11 @@ return [
     'domain' => 'com',
 
     /**
+     * save badges as gif instead of new png format
+     */
+    'saveGif' => false,
+
+    /**
      * download furniture with icon
      */
     'furnitureIcon' => false,
