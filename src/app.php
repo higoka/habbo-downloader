@@ -30,6 +30,12 @@ echo "
 
 initializing...\n";
 
+$ver = PHP_VERSION;
+
+if (version_compare($ver, '7.1.0', '<')) {
+    exit("\n\e[31mYou need at least PHP 7.1.0 or higher. You are using version: $ver\e[0m\n");
+}
+
 checkSystem();
 checkVersion();
 
