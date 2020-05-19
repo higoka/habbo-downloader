@@ -21,7 +21,7 @@ After the initial required files have been downloaded a prompt will let you ente
 
 ### Available Commands
 
-Currently there are a total of **16 Commands** available. 
+Currently there are a total of **17 Commands** available. 
 If you have ideas for **new commands or projects** please let me know.
 
 |     Command    	|                       Description                       	|
@@ -41,6 +41,7 @@ If you have ideas for **new commands or projects** please let me know.
 | targetedoffers 	| Download all Habbo targetedoffers Images                	|
 | promo          	| Download all Habbo web_promo and web_promo_small Images 	|
 | articles       	| Download all Habbo News Articles Images                 	|
+| gordon        	| Download all Habbo Gordon Files (EXPERIMENTAL)          	|
 | help           	| Display a list of available commands                    	|
 
 ## License
