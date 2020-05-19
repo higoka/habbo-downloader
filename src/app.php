@@ -1,6 +1,6 @@
 <?php
 
-const VERSION = 'v1.13.2';
+const VERSION = 'v1.14.2';
 
 $config = require_once 'config/app.php';
 
