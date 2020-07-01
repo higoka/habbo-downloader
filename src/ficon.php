@@ -7,7 +7,7 @@ if (! is_dir('resources/ficon')) {
 $furnidata = simplexml_load_file('resources/gamedata/furnidata.xml');
 
 foreach ($furnidata->xpath('//furnitype') as $item) {
-    $name = strtok($item->attributes()->classname, '*');
+    $name = str_replace('*', '_', $item->attributes()->classname);
 
     $src = "https://images.habbo.com/dcr/hof_furni/{$item->revision}/{$name}_icon.png";
     $dst = "resources/ficon/{$name}_icon.png";
