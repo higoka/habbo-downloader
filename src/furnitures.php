@@ -6,11 +6,8 @@ if (! is_dir('resources/furnitures')) {
 
 $xml = file_get_contents('resources/gamedata/furnidata.xml');
 
-# temporary fix for corrupted furnidata (com.br only)
-# https://www.habbo.com.br/gamedata/furnidata_xml/0
-if ($config['domain'] === 'com.br') {
-    $xml = str_replace('&', '&amp;', $xml);
-}
+# php has trouble parsing "&" so we replace with encoded value
+$xml = str_replace('&', '&amp;', $xml);
 
 $furnidata = simplexml_load_string($xml);
 
