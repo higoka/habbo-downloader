@@ -17,6 +17,14 @@ foreach ($furnidata->xpath('//furnitype') as $item) {
     $src = "https://images.habbo.com/dcr/hof_furni/{$item->revision}/{$name}.swf";
     $dst = "resources/furnitures/{$name}.swf";
 
+    if ($config['useRevision']) {
+        if (! is_dir("resources/furnitures/{$item->revision}")) {
+            mkdir("resources/furnitures/{$item->revision}", 0777, true);
+        }
+
+        $dst = "resources/furnitures/{$item->revision}/{$name}.swf";
+    }
+
     $files[$src] = $dst;
 }
 
