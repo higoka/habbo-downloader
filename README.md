@@ -6,7 +6,9 @@
 
 A tiny script to download various files directly from Habbo.
 
-**Add me on Discord:** `higoka#7120`
+**Add me on Discord:** `higoka#7120` 
+
+**Follow the development of `habbo-downloader v2.0` here**: https://github.com/higoka/habbo-downloader/tree/dev
 
 ![](preview.gif)
 
