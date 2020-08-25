@@ -1,4 +1,7 @@
 {
   "name": "habbo-downloader",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
