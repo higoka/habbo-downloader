@@ -58,6 +58,10 @@ function checkSystem(): void
         exit("\n\e[31mExtension missing: simplexml\e[0m\n");
     }
 
+    if (extension_loaded('gd') === false) {
+        exit("\n\e[31mExtension missing: gd\e[0m\n");
+    }
+
     if (ini_get('allow_url_fopen') !== '1') {
         exit("\n\e[31m\"allow_url_fopen\" must be enabled\e[0m\n");
     }
