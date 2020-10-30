@@ -31,7 +31,7 @@ async function fetchOne (src, dst) {
   await fs.promises.mkdir(path.dirname(dst), { recursive: true })
   await pipeline(res.body, fs.createWriteStream(dst))
 
-  console.log('ok')
+  console.log(`ok: ${src}`)
 
   return res
 }
