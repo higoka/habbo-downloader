@@ -6,3 +6,6 @@
 - huge performance improvement
 - bug fixes
 - works on every operating system
+
+### Requirement
+- NodeJS 15 or higher
