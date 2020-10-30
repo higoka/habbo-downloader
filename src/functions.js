@@ -1,21 +1,36 @@
 const fetch = require('node-fetch')
 const fs = require('fs')
+const path = require('path')
+const https = require('https')
+const { pipeline } = require('stream/promises')
 
-function fetchOne (src, dst) {
-  return new Promise(async (resolve, reject) => {
-    const res = await fetch(src)
-
-    if (res.ok === false) {
-      return reject(`failed to fetch "${src}", status: ${res.status}`)
-    }
-
-    const file = fs.createWriteStream(dst)
-
-    file.on('close', () => resolve(`downloaded: ${src}`))
-    file.on('error', (err) => reject(err))
-
-    res.body.pipe(file)
+const opt = {
+  agent: new https.Agent({
+    keepAlive: true,
   })
 }
 
-module.exports = { fetchOne }
+async function fetchOne (src, dst) {
+  const res = await fetch(src, opt)
+
+  if (res.ok === false) {
+    throw new Error(`failed to fetch "${src}", status: ${res.status}`)
+  }
+
+  await fs.promises.mkdir(path.dirname(dst), { recursive: true })
+  await pipeline(res.body, fs.createWriteStream(dst))
+
+  console.log('ok')
+
+  return res
+}
+
+async function fetchMany (all) {
+  await Promise.allSettled(
+    all.map((v) => fetchOne(v.src, v.dst).catch(console.log))
+  )
+
+  console.log('all')
+}
+
+module.exports = { fetchOne, fetchMany }
