@@ -1,7 +1,7 @@
 const { fetchText, fetchMany } = require('../functions')
 
-const regexOne = /badge_(?:name|desc)_(.*)=/gmi
-const regexTwo = /(.*)_badge_(?:name|desc)*=/gmi
+const regexOne = /badge_(?:name|desc)_([^=]+)/gmi
+const regexTwo = /(.*)_badge_(?:name|desc).*=/gmi
 
 async function parse (txt) {
   const match = [
