@@ -1,11 +1,14 @@
-# Work In Progress
+# habbo-downloader 2.0 (WORK IN PROGRESS)
 
-### habbo-downloader v2.0
-- super easy to use
-- fully rewritten using NodeJS
-- huge performance improvement
-- bug fixes
-- works on every operating system
+A tiny script to download various files directly from Habbo.
 
-### Requirement
-- NodeJS 15 or higher
+## Features
+
+- Works on every operating system ✅
+- Easy to use 💯
+- Blazing Fast ⚡
+- Many bug fixes 🐛 
+
+## Requirements
+
+- NodeJS >= 15.0
