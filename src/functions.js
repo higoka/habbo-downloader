@@ -3,6 +3,7 @@ const https = require('https')
 const path = require('path')
 const fs = require('fs')
 const { pipeline } = require('stream/promises')
+const NotFoundError = require('./error/NotFound')
 
 const opt = {
   agent: new https.Agent({
@@ -14,6 +15,13 @@ const opt = {
 async function fetchRaw (src) {
   const res = await fetch(src, opt)
   // add error handling
+  if (res.ok === false) {
+    if (res.status === 404) {
+      throw new NotFoundError(src)
+    }
+    throw new Error('oops')
+  }
+
   return res
 }
 
@@ -25,12 +33,20 @@ async function fetchText (src) {
 }
 
 async function fetchOne (src, dst) {
-  const res = await fetchRaw(src)
+  try {
+    const res = await fetchRaw(src)
 
-  await fs.promises.mkdir(path.dirname(dst), { recursive: true })
-  await pipeline(res.body, fs.createWriteStream(dst))
+    await fs.promises.mkdir(path.dirname(dst), { recursive: true })
+    await pipeline(res.body, fs.createWriteStream(dst))
 
-  console.log(`ok: ${src}`)
+    console.log(`ok: ${src}`)
+  } catch (err) {
+    if (err instanceof NotFoundError) {
+      console.log('err', 404, err.message)
+    } else {
+      throw err
+    }
+  }
 }
 
 async function fetchMany (all) {
