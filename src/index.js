@@ -1,4 +1,4 @@
-const handle = require('./command/furniture')
+const handle = require('./command/icon')
 const { fetchMany } = require('./functions')
 
 async function main () {

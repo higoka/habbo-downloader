@@ -33,20 +33,21 @@ async function fetchText (src) {
 }
 
 async function fetchOne (src, dst) {
-  try {
+  // try {
     const res = await fetchRaw(src)
 
     await fs.promises.mkdir(path.dirname(dst), { recursive: true })
     await pipeline(res.body, fs.createWriteStream(dst))
 
     console.log(`ok: ${src}`)
-  } catch (err) {
-    if (err instanceof NotFoundError) {
-      console.log('err', 404, err.message)
-    } else {
-      throw err
-    }
-  }
+  // } catch (err) {
+    // if (err instanceof NotFoundError) {
+      // console.log('err', 404, err.message)
+      // return 'a'
+    // } else {
+      // throw err
+    // }
+  // }
 }
 
 async function fetchMany (all) {
