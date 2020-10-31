@@ -1,7 +1,7 @@
 const fetch = require('node-fetch')
-const fs = require('fs')
-const path = require('path')
 const https = require('https')
+const path = require('path')
+const fs = require('fs')
 const { pipeline } = require('stream/promises')
 
 const opt = {
@@ -13,27 +13,24 @@ const opt = {
 
 async function fetchRaw (src) {
   const res = await fetch(src, opt)
+  // add error handling
+  return res
+}
 
-  if (res.ok === false) {
-    throw new Error(`failed to fetch "${src}", status: ${res.status}`)
-  }
+async function fetchText (src) {
+  const res = await fetchRaw(src)
+  const txt = await res.text()
 
-  return await res.text()
+  return txt
 }
 
 async function fetchOne (src, dst) {
-  const res = await fetch(src, opt)
-
-  if (res.ok === false) {
-    throw new Error(`failed to fetch "${src}", status: ${res.status}`)
-  }
+  const res = await fetchRaw(src)
 
   await fs.promises.mkdir(path.dirname(dst), { recursive: true })
   await pipeline(res.body, fs.createWriteStream(dst))
 
   console.log(`ok: ${src}`)
-
-  return res
 }
 
 async function fetchMany (all) {
@@ -44,4 +41,4 @@ async function fetchMany (all) {
   console.log('all')
 }
 
-module.exports = { fetchRaw, fetchOne, fetchMany }
+module.exports = { fetchText, fetchOne, fetchMany }
