@@ -1,6 +1,6 @@
 {
   "name": "habbo-downloader",
-  "version": "2.1.1",
+  "version": "2.2.1",
   "description": "A tiny script to download various files directly from Habbo.",
   "keywords": [
     "badges",
@@ -44,6 +44,7 @@
   },
   "dependencies": {
     "fast-xml-parser": "^3.17.4",
+    "minimist": "^1.2.5",
     "node-fetch": "^2.6.1"
   },
   "engines": {

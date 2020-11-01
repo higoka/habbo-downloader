@@ -15,7 +15,7 @@ async function fetchRaw (src) {
   const res = await fetch(src, opt)
 
   if (res.ok === false) {
-    throw new Error(`err: ${src}`)
+    throw new Error(`${res.status} ${src}`)
   }
 
   return res
@@ -34,7 +34,7 @@ async function fetchOne (src, dst) {
   await fs.promises.mkdir(path.dirname(dst), { recursive: true })
   await pipeline(res.body, fs.createWriteStream(dst))
 
-  return `downloaded: ${src}`
+  return `${res.status} ${src}`
 }
 
 async function fetchMany (all) {

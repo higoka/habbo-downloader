@@ -1,22 +1,10 @@
 #!/usr/bin/env node
 
-const readline = require('readline')
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout
-})
-
+const argv = require('minimist')(process.argv.slice(2))
 const { parseProduction } = require('./utils')
 
-function ask () {
-  rl.question('enter a command: ', async (command) => {
-    await require(`./command/${command}`)()
-    console.log('done')
-    ask()
-  })
-}
-
-async function main () {
+async function init () {
+  console.log(`\n\u001b[33m-------- PLEASE NOTE THAT THIS IS STILL A WORK IN PROGRESS --------\u001b[0m`)
   console.log(` _____     _   _`)
   console.log(`|  |  |___| |_| |_ ___`)
   console.log(`|     | .'| . | . | . |`)
@@ -26,12 +14,20 @@ async function main () {
   console.log(`|____/|___|_____|_|_|_|___|__,|___|___|_|    |___|_|___|\n`)
 
   console.log('> Discord @ higoka#7120')
-  console.log('> Enter \"help\" for a list of commands\n')
+  console.log('> Enter "help" for a list of commands\n')
 
   console.log('initializing...\n')
 
   await parseProduction()
-  ask()
+}
+
+async function main () {
+  try {
+    await init()
+    await require(`./command/${argv.c || argv.command}`)()
+  } catch (err) {
+    console.log('no command specified\n')
+  }
 }
 
 main()
