@@ -7,7 +7,7 @@ const rl = readline.createInterface({
 const { parseProduction } = require('./util')
 
 function ask () {
-  rl.question('Enter Command: ', async (command) => {
+  rl.question('enter a command: ', async (command) => {
     await require(`./command/${command}`)()
     console.log('done')
     ask()
@@ -22,6 +22,9 @@ async function main () {
   console.log(`|    \\ ___ _ _ _ ___| |___ ___ _| |___ ___   |_  | |   |`)
   console.log(`|  |  | . | | | |   | | . | .'| . | -_|  _|  |  _|_| | |`)
   console.log(`|____/|___|_____|_|_|_|___|__,|___|___|_|    |___|_|___|\n`)
+
+  console.log('> Discord @ higoka#7120')
+  console.log('> Enter \"help\" for a list of commands\n')
 
   console.log('initializing...\n')
 

@@ -3,7 +3,6 @@ const { getProduction } = require('../util')
 
 async function handle () {
   const prod = getProduction()
-
   await fetchMany([
     { src: 'https://www.habbo.com/gamedata/external_variables/0', dst: 'resource/gamedata/external_variables.txt' },
     { src: 'https://www.habbo.com/gamedata/external_flash_texts/0', dst: 'resource/gamedata/external_flash_texts.txt' },
