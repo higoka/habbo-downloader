@@ -23,7 +23,24 @@ First, install habbo-downloader:
 npm i -g habbo-downloader
 ```
 
-After installation, you can start the script by typing `habbo-downloader` **or the shorthand** `hdl` into your terminal.
+After installation, you can start the script by typing `habbo-downloader` **or the shorthand** `hdl` into your terminal and specifing a command
+
+```bash
+habbo-downloader --command [COMMAND NAME]
+```
+
+### Usage examples
+
+```bash
+habbo-downloader --command icons
+```
+
+Or use the shorthand version: 
+
+```bash
+hdl -c icons
+```
+
 ## Commands
 
 This is a list of all currently implemented commands. Please note that this project is still a **work in progress**.
