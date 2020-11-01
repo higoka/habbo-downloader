@@ -1,12 +1,33 @@
 {
   "name": "habbo-downloader",
   "version": "2.1.0",
+  "description": "A tiny script to download various files directly from Habbo.",
+  "keywords": [
+    "badges", "furnitures", "clothes", "effects", "icons", "mp3",
+    "hotelview", "gamedata", "pets", "badgeparts", "articles", "news",
+    "habbo", "downloader", "ripper", "habbo-downloader", "hdl",
+    "devbest", "ragezone", "krews", "nodejs", "fast", "performance"
+  ],
+  "homepage": "https://github.com/higoka/habbo-downloader",
+  "bugs": {
+    "url": "https://github.com/higoka/habbo-downloader/issues"
+  },
+  "license": "MIT",
+  "author": "Nico Rickenbach",
+  "main": "src/index.js",
+  "bin": {
+    "habbo-downloader": "src/index.js",
+    "hdl": "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/higoka/habbo-downloader.git"
+  },
   "dependencies": {
     "fast-xml-parser": "^3.17.4",
     "node-fetch": "^2.6.0"
   },
-  "bin": {
-    "habbo-downloader": "src/index.js",
-    "hdl": "src/index.js"
+  "engines": {
+    "node": ">=15.0"
   }
 }
