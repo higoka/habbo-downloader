@@ -1,6 +1,6 @@
 {
   "name": "habbo-downloader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "fast-xml-parser": "^3.17.4",
     "node-fetch": "^2.6.0"
