@@ -4,6 +4,8 @@
 
 A tiny script to download various files directly from Habbo.
 
+![](preview.gif)
+
 ## Features
 
 - Works on every operating system ✅
