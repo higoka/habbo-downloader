@@ -4,10 +4,17 @@ const rl = readline.createInterface({
   output: process.stdout
 })
 
-// const handle = require('./command/icon')
-// const { fetchMany } = require('./functions')
+const { parseProduction } = require('./util')
 
-function main () {
+function ask () {
+  rl.question('Enter Command: ', async (command) => {
+    await require(`./command/${command}`)()
+    console.log('done')
+    ask()
+  })
+}
+
+async function main () {
   console.log(` _____     _   _`)
   console.log(`|  |  |___| |_| |_ ___`)
   console.log(`|     | .'| . | . | . |`)
@@ -16,10 +23,10 @@ function main () {
   console.log(`|  |  | . | | | |   | | . | .'| . | -_|  _|  |  _|_| | |`)
   console.log(`|____/|___|_____|_|_|_|___|__,|___|___|_|    |___|_|___|\n`)
 
-  rl.question('Enter Command: ', async (command) => {
-      await require(`./command/${command}`)()
-      console.log('done')
-  })
+  console.log('initializing...\n')
+
+  await parseProduction()
+  ask()
 }
 
 main()
