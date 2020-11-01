@@ -4,5 +4,9 @@
   "dependencies": {
     "fast-xml-parser": "^3.17.4",
     "node-fetch": "^2.6.0"
+  },
+  "bin": {
+    "habbo-downloader": "src/index.js",
+    "hdl": "src/index.js"
   }
 }

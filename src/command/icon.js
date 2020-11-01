@@ -6,12 +6,11 @@ async function handle () {
 
   while (failed < 3) {
     try {
-      console.log(
-        await fetchOne(`https://images.habbo.com/c_images/catalogue/icon_${i}.png`, `resource/c_images/catalogue/icon_${i}.png`)
-      )
+      const msg = await fetchOne(`https://images.habbo.com/c_images/catalogue/icon_${i}.png`, `resource/c_images/catalogue/icon_${i}.png`)
       failed = 0
+      console.log(msg)
     } catch (err) {
-      console.log(err.message, failed)
+      console.log(err.message)
       failed++
     }
     i++
