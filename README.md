@@ -4,8 +4,6 @@
 
 A tiny script to download various files directly from Habbo.
 
-![](preview.gif)
-
 ## Features
 
 - Works on every operating system ✅
@@ -37,7 +35,7 @@ habbo-downloader --command [COMMAND NAME]
 habbo-downloader --command icons
 ```
 
-Or use the shorthand version: 
+Or use the shorthand version:
 
 ```bash
 hdl -c icons
