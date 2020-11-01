@@ -1,6 +1,6 @@
 # habbo-downloader 2.0 (WORK IN PROGRESS)
 
-### ❗❗❗ This is a work in progress. Use [habbo-downloader v1.x.x](https://github.com/higoka/habbo-downloader/tree/master) for a stable version ❗❗❗
+### ❗ This is a work in progress. Use [habbo-downloader v1.x.x](https://github.com/higoka/habbo-downloader/tree/master) for a stable version ❗
 
 A tiny script to download various files directly from Habbo.
 
