@@ -6,7 +6,7 @@ const rl = readline.createInterface({
   output: process.stdout
 })
 
-const { parseProduction } = require('./util')
+const { parseProduction } = require('./utils')
 
 function ask () {
   rl.question('enter a command: ', async (command) => {

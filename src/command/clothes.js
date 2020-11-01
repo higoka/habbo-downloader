@@ -1,5 +1,5 @@
 const { fetchText, fetchMany } = require('../functions')
-const { getProduction } = require('../util')
+const { getProduction } = require('../utils')
 const parser = require('fast-xml-parser')
 
 const prod = getProduction()

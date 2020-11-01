@@ -9,7 +9,7 @@ A tiny script to download various files directly from Habbo.
 - Works on every operating system ✅
 - Easy to use 💯
 - Blazing Fast ⚡
-- Many bug fixes 🐛 
+- Many bug fixes 🐛
 
 ## Requirements
 
@@ -28,10 +28,10 @@ After installation, you can start the script by typing `habbo-downloader` **or t
 
 This is a list of all currently implemented commands. Please note that this project is still a **work in progress**.
 
-|     Command    	|                       Description                       	|
-| --------------- | ---------------------------------------------------------	|
-| badge         	| Download all Habbo Badges                               	|
-| furniture     	| Download all Habbo Furnitures                           	|
-| icon          	| Download all Habbo Catalogue Icons                      	|
-| clothes        	| Download all Habbo Clothes                               	|
-| gamedata       	| Download all Habbo Gamedata                             	|
+|     Command     |                       Description                         |
+| --------------- | --------------------------------------------------------- |
+| badges          | Download all Habbo Badges                                 |
+| clothes         | Download all Habbo Clothes                                |
+| furnitures      | Download all Habbo Furnitures                             |
+| gamedata        | Download all Habbo Gamedata                               |
+| icons           | Download all Habbo Catalogue Icons                        |

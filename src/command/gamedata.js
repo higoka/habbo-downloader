@@ -1,5 +1,5 @@
 const { fetchMany } = require('../functions')
-const { getProduction } = require('../util')
+const { getProduction } = require('../utils')
 
 async function handle () {
   const prod = getProduction()
