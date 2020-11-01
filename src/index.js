@@ -1,17 +1,25 @@
-const handle = require('./command/icon')
-const { fetchMany } = require('./functions')
+const readline = require('readline')
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+})
 
-async function main () {
-  await handle()
+// const handle = require('./command/icon')
+// const { fetchMany } = require('./functions')
 
-  // test error handling 404 not found
-  // await fetchMany([
-  //   { src: 'https://images.habbo.com/c_images/catalogue/icon_100.png', dst: 'icon_100.png' },
-  //   { src: 'https://images.habbo.com/c_images/catalogue/icon_XYZ.png', dst: 'icon_XYZ.png' },
-  //   { src: 'https://images.habbo.com/c_images/catalogue/icon_200.png', dst: 'icon_200.png' },
-  // ])
+function main () {
+  console.log(` _____     _   _`)
+  console.log(`|  |  |___| |_| |_ ___`)
+  console.log(`|     | .'| . | . | . |`)
+  console.log(`|__|__|__,|___|___|___|          _            ___   ___`)
+  console.log(`|    \\ ___ _ _ _ ___| |___ ___ _| |___ ___   |_  | |   |`)
+  console.log(`|  |  | . | | | |   | | . | .'| . | -_|  _|  |  _|_| | |`)
+  console.log(`|____/|___|_____|_|_|_|___|__,|___|___|_|    |___|_|___|\n`)
 
-  console.log('done')
+  rl.question('Enter Command: ', async (command) => {
+      await require(`./command/${command}`)()
+      console.log('done')
+  })
 }
 
 main()
