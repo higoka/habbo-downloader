@@ -1,21 +1,10 @@
 const { fetchText, fetchMany } = require('../functions')
-const { getProduction } = require('../utils')
-const parser = require('fast-xml-parser')
+const { getProduction, parseXml } = require('../utils')
 
 const prod = getProduction()
-const opt = {
-  ignoreAttributes: false,
-  parseAttributeValue: false,
-  parseNodeValue: false,
-}
 
 async function parse (txt) {
-  if (parser.validate(txt) !== true) {
-    throw new Error('invalid xml')
-  }
-
-  const all = parser.parse(txt, opt)
-
+  const all = await parseXml(txt)
   return new Set(
     all.map.effect.map((item) => item['@_lib'])
   )

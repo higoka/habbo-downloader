@@ -1,4 +1,5 @@
 const { fetchText } = require('./functions')
+const parser = require('fast-xml-parser')
 
 let prod
 
@@ -12,4 +13,16 @@ function getProduction () {
   return prod
 }
 
-module.exports = { parseProduction, getProduction }
+async function parseXml (txt) {
+  if (parser.validate(txt) !== true) {
+    throw new Error('invalid xml')
+  }
+
+  return parser.parse(txt, {
+    ignoreAttributes: false,
+    parseAttributeValue: false,
+    parseNodeValue: false,
+  })
+}
+
+module.exports = { parseProduction, getProduction, parseXml }

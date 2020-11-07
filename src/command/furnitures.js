@@ -1,30 +1,21 @@
 const { fetchText, fetchMany } = require('../functions')
-const parser = require('fast-xml-parser')
-
-const opt = {
-  ignoreAttributes: false,
-  parseAttributeValue: false,
-  parseNodeValue: false,
-}
+const { parseXml } = require('../utils')
 
 async function parse (txt) {
-  if (parser.validate(txt) !== true) {
-    throw new Error('invalid xml')
-  }
-
-  const all = {}
-  const data = parser.parse(txt, opt)
+  const all = await parseXml(txt)
   const combined = [
-    ...data.furnidata.roomitemtypes.furnitype,
-    ...data.furnidata.wallitemtypes.furnitype,
+    ...all.furnidata.roomitemtypes.furnitype,
+    ...all.furnidata.wallitemtypes.furnitype,
   ]
+
+  const map = {}
 
   combined.forEach((item) => {
     const name = item['@_classname'].split('*')[0]
-    all[name] = { name: name, revision: item.revision }
+    map[name] = { name: name, revision: item.revision }
   })
 
-  return Object.values(all)
+  return Object.values(map)
 }
 
 async function handle () {
