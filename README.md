@@ -45,10 +45,12 @@ hdl -c icons
 
 This is a list of all currently implemented commands. Please note that this project is still a **work in progress**.
 
-|     Command     |                       Description                         |
+|     Command     |                        Description                        |
 | --------------- | --------------------------------------------------------- |
+| badgeparts      | Download all Habbo Badgeparts Images                      |
 | badges          | Download all Habbo Badges                                 |
 | clothes         | Download all Habbo Clothes                                |
+| effects         | Download all Habbo Effects                                |
 | furnitures      | Download all Habbo Furnitures                             |
 | gamedata        | Download all Habbo Gamedata                               |
 | icons           | Download all Habbo Catalogue Icons                        |
