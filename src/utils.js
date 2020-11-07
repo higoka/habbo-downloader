@@ -1,15 +1,13 @@
 const { fetchText } = require('./functions')
 const parser = require('fast-xml-parser')
 
-let prod
+let prod = false
 
-async function parseProduction () {
-  const txt = await fetchText('https://www.habbo.com/gamedata/external_variables/0')
-  prod = txt.match(/(?<=flash\.client\.url).*(PRODUCTION-[^\/]+)/mi)[1]
-  return prod
-}
+async function getProduction () {
+  if (prod === false) {
+    prod = (await fetchText('https://www.habbo.com/gamedata/external_variables/0')).match(/(?<=flash\.client\.url).*(PRODUCTION-[^\/]+)/mi)[1]
+  }
 
-function getProduction () {
   return prod
 }
 
@@ -25,4 +23,4 @@ async function parseXml (txt) {
   })
 }
 
-module.exports = { parseProduction, getProduction, parseXml }
+module.exports = { getProduction, parseXml }

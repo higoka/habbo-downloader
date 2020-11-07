@@ -1,8 +1,6 @@
 const { fetchText, fetchMany } = require('../functions')
 const { getProduction, parseXml } = require('../utils')
 
-const prod = getProduction()
-
 async function parse (txt) {
   const all = await parseXml(txt)
   return new Set(
@@ -11,6 +9,8 @@ async function parse (txt) {
 }
 
 async function handle () {
+  const prod = await getProduction()
+
   const txt = await fetchText(`https://images.habbo.com/gordon/${prod}/figuremap.xml`)
   const all = await parse(txt)
 
