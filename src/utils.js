@@ -11,6 +11,16 @@ async function getProduction () {
   return prod
 }
 
+let domain = 'com'
+
+async function setDomain (d) {
+  domain = d
+}
+
+async function getDomain () {
+  return domain
+}
+
 async function parseXml (txt) {
   if (parser.validate(txt) !== true) {
     throw new Error('invalid xml')
@@ -23,4 +33,4 @@ async function parseXml (txt) {
   })
 }
 
-module.exports = { getProduction, parseXml }
+module.exports = { getProduction, parseXml, getDomain, setDomain }

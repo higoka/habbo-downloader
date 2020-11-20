@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const argv = require('minimist')(process.argv.slice(2))
-const { getProduction } = require('./utils')
+const { getProduction, setDomain } = require('./utils')
 
 async function init () {
   console.log(`\n\u001b[33m-------- PLEASE NOTE THAT THIS IS STILL A WORK IN PROGRESS --------\u001b[0m`)
@@ -17,6 +17,12 @@ async function init () {
   console.log('> Enter "help" for a list of commands\n')
 
   console.log('initializing...\n')
+
+  const domain = argv.d || argv.domain
+
+  if (domain) {
+    await setDomain(domain)
+  }
 
   await getProduction()
 }
