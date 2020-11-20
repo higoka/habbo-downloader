@@ -169,4 +169,5 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/macos,node,visualstudiocode,git
 
 resource/
+resource20/
 .gitattributes
