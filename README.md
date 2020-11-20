@@ -29,6 +29,10 @@ After installation, you can start the script by typing `habbo-downloader` **or t
 habbo-downloader --command [COMMAND NAME]
 ```
 
+### Options
+`-c or --command [COMMAND NAME] (furnitures, icons, badges, ...)`  
+`-d or --domain [DOMAIN] (com, de, fr, it, ...)`
+
 ### Usage examples
 
 ```bash
@@ -39,6 +43,12 @@ Or use the shorthand version:
 
 ```bash
 hdl -c icons
+```
+
+Downloading from www.habbo.es:
+
+```bash
+hdl -c gamedata -d es
 ```
 
 ## Commands
