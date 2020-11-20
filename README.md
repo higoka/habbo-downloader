@@ -30,7 +30,7 @@ habbo-downloader --command [COMMAND NAME]
 ```
 
 ### Options
-`-c or --command [COMMAND NAME] (furnitures, icons, badges, ...)`  
+`-c or --command [COMMAND NAME] (furnitures, icons, badges, ...)`
 `-d or --domain [DOMAIN] (com, de, fr, it, ...)`
 
 ### Usage examples
@@ -64,3 +64,9 @@ This is a list of all currently implemented commands. Please note that this proj
 | furnitures      | Download all Habbo Furnitures                             |
 | gamedata        | Download all Habbo Gamedata                               |
 | icons           | Download all Habbo Catalogue Icons                        |
+
+**FOR HABBO 2020**
+
+|     Command     |                        Description                        |
+| --------------- | --------------------------------------------------------- |
+| furnitures20    | Download all Habbo 2020 Furnitures                        |
