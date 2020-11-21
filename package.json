@@ -43,6 +43,7 @@
     "url": "https://github.com/higoka/habbo-downloader.git"
   },
   "dependencies": {
+    "cows": "^2.1.0",
     "fast-xml-parser": "^3.17.4",
     "minimist": "^1.2.5",
     "node-fetch": "^2.6.1"
