@@ -29,7 +29,7 @@ After installation, you can start the script by typing `habbo-downloader` **or t
 habbo-downloader --command [COMMAND NAME]
 ```
 
-### Options
+## Options
 
 Here is a list of all currently available options.
 
