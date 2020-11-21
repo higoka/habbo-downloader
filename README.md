@@ -97,6 +97,7 @@ This is a list of all currently implemented commands. Please note that this proj
 | gamedata        | Download all Habbo Gamedata                               |
 | hotelview       | Download all Habbo Hotelview Images                       |
 | icons           | Download all Habbo Catalogue Icons                        |
+| pets            | Download all Habbo Pets                                   |
 
 **FOR HABBO 2020**
 
