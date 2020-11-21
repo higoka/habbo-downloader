@@ -30,23 +30,53 @@ habbo-downloader --command [COMMAND NAME]
 ```
 
 ### Options
-`-c or --command [COMMAND NAME] (furnitures, icons, badges, ...)`  
-`-d or --domain [DOMAIN] (com, de, fr, it, ...)`    
-`-s or --sockets [AMOUNT] (100, 200, ...)`
 
-### Usage examples
+Here is a list of all currently available options.
+
+#### REQUIRED
+
+```
+-c OR --command [COMMAND NAME]  
+```
+
+Defines the command to execute. See below the list of all available commands.
+
+#### OPTIONAL
+
+```
+-d OR --domain [DOMAIN]
+```  
+
+Defines from which domain the files should be downloaded.  
+
+**Default**: `com`  
+**Value**: `com.br, com.tr, com, de, es, fi, fr, it, nl`
+
+```
+-s OR --sockets [AMOUNT]
+```
+
+Maximal amount of open sockets to server. Increasing this value can improve download performance but  
+a too high value can result in blocked requests becuase of Habbos DDOS protection.  
+
+**Default**: `100`  
+**Value**: `Any number is valid`
+
+## Examples
+
+Simple example:
 
 ```bash
 habbo-downloader --command icons
 ```
 
-Or use the shorthand version:
+You also can use the shorthand version:
 
 ```bash
 hdl -c icons
 ```
 
-Downloading from www.habbo.es:
+Downloading from a different domain, for example: www.habbo.es
 
 ```bash
 hdl -c gamedata -d es
@@ -65,6 +95,7 @@ This is a list of all currently implemented commands. Please note that this proj
 | effects         | Download all Habbo Effects                                |
 | furnitures      | Download all Habbo Furnitures                             |
 | gamedata        | Download all Habbo Gamedata                               |
+| hotelview       | Download all Habbo Hotelview Images                       |
 | icons           | Download all Habbo Catalogue Icons                        |
 
 **FOR HABBO 2020**
