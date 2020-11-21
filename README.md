@@ -31,7 +31,8 @@ habbo-downloader --command [COMMAND NAME]
 
 ### Options
 `-c or --command [COMMAND NAME] (furnitures, icons, badges, ...)`  
-`-d or --domain [DOMAIN] (com, de, fr, it, ...)`
+`-d or --domain [DOMAIN] (com, de, fr, it, ...)`    
+`-s or --sockets [AMOUNT] (100, 200, ...)`
 
 ### Usage examples
 
