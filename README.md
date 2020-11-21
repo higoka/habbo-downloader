@@ -30,7 +30,7 @@ habbo-downloader --command [COMMAND NAME]
 ```
 
 ### Options
-`-c or --command [COMMAND NAME] (furnitures, icons, badges, ...)`
+`-c or --command [COMMAND NAME] (furnitures, icons, badges, ...)`  
 `-d or --domain [DOMAIN] (com, de, fr, it, ...)`
 
 ### Usage examples
