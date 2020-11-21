@@ -11,6 +11,15 @@ const opt = {
   })
 }
 
+async function fileExists (file) {
+  try {
+    await fs.promises.access(file, fs.constants.F_OK)
+    return true
+  } catch (err) {
+    return false
+  }
+}
+
 async function fetchRaw (src) {
   const res = await fetch(src, opt)
 
@@ -29,6 +38,10 @@ async function fetchText (src) {
 }
 
 async function fetchOne (src, dst) {
+  if (await fileExists(dst)) {
+    return `skipped: ${src}`
+  }
+
   const res = await fetchRaw(src)
 
   await fs.promises.mkdir(path.dirname(dst), { recursive: true })
