@@ -58,6 +58,7 @@ This is a list of all currently implemented commands. Please note that this proj
 
 |     Command     |                        Description                        |
 | --------------- | --------------------------------------------------------- |
+| articles        | Download all Habbo News Article Images                    |
 | badgeparts      | Download all Habbo Badgeparts Images                      |
 | badges          | Download all Habbo Badges                                 |
 | clothes         | Download all Habbo Clothes                                |
