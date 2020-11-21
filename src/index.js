@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const argv = require('minimist')(process.argv.slice(2))
-const { getProduction, setDomain } = require('./utils')
+const { initConfig } = require('./utils')
 
 async function init () {
   console.log(`\n\u001b[33m-------- PLEASE NOTE THAT THIS IS STILL A WORK IN PROGRESS --------\u001b[0m`)
@@ -18,13 +18,7 @@ async function init () {
 
   console.log('initializing...\n')
 
-  const domain = argv.d || argv.domain
-
-  if (domain) {
-    await setDomain(domain)
-  }
-
-  await getProduction()
+  await initConfig(argv)
 }
 
 async function main () {
@@ -32,7 +26,11 @@ async function main () {
     await init()
     await require(`./command/${argv.c || argv.command}`)()
   } catch (err) {
-    console.log('no command specified\n')
+    if (err.code === 'MODULE_NOT_FOUND') {
+      console.log('command not found')
+    } else {
+      console.log(err.message)
+    }
   }
 }
 

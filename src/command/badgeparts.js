@@ -1,8 +1,6 @@
 const { fetchMany } = require('../functions')
-const { getProduction } = require('../utils')
 
 async function handle () {
-  const prod = await getProduction()
   await fetchMany([
     { src: 'https://images.habbo.com/c_images/Badgeparts/badgepart_base_basic_1.png', dst: 'resource/c_images/Badgeparts/badgepart_base_basic_1.png' },
     { src: 'https://images.habbo.com/c_images/Badgeparts/badgepart_base_basic_2.png', dst: 'resource/c_images/Badgeparts/badgepart_base_basic_2.png' },

@@ -1,5 +1,5 @@
 const { fetchText, fetchMany } = require('../functions')
-const { getProduction, parseXml } = require('../utils')
+const { config, parseXml } = require('../utils')
 
 async function parse (txt) {
   const all = await parseXml(txt)
@@ -9,7 +9,7 @@ async function parse (txt) {
 }
 
 async function handle () {
-  const prod = await getProduction()
+  const prod = await config('prod')
 
   const txt = await fetchText(`https://images.habbo.com/gordon/${prod}/figuremap.xml`)
   const all = await parse(txt)

@@ -1,24 +1,24 @@
 const { fetchText } = require('./functions')
 const parser = require('fast-xml-parser')
 
-let prod = false
-
-async function getProduction () {
-  if (prod === false) {
-    prod = (await fetchText('https://www.habbo.com/gamedata/external_variables/0')).match(/(?<=flash\.client\.url).*(PRODUCTION-[^\/]+)/mi)[1]
-  }
-
-  return prod
+const conf = {
+  sockets: 100,
+  domain: 'com',
+  prod: false,
 }
 
-let domain = 'com'
+async function initConfig (argv) {
+  const d = argv.d || argv.domain
+  const s = argv.s || argv.sockets
 
-async function setDomain (d) {
-  domain = d
+  if (d) conf.domain = d
+  if (s) conf.sockets = s
+
+  conf.prod = (await fetchText(`https://www.habbo.${conf.domain}/gamedata/external_variables/0`)).match(/(?<=flash\.client\.url).*(PRODUCTION-[^\/]+)/mi)[1]
 }
 
-async function getDomain () {
-  return domain
+async function config (key = false) {
+  return key ? conf[key] : conf
 }
 
 async function parseXml (txt) {
@@ -33,4 +33,4 @@ async function parseXml (txt) {
   })
 }
 
-module.exports = { getProduction, parseXml, getDomain, setDomain }
+module.exports = { initConfig, config, parseXml }
