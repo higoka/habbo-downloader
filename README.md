@@ -57,7 +57,7 @@ Defines from which domain the files should be downloaded.
 ```
 
 Maximal amount of open sockets to server. Increasing this value can improve download performance but  
-a too high value can result in blocked requests becuase of Habbos DDOS protection.  
+**a too high value can result in blocked requests** becuase of Habbos DDOS protection.  
 
 **Default**: `100`  
 **Value**: `Any number is valid`
