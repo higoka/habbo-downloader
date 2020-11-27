@@ -37,6 +37,13 @@ async function fetchText (src) {
   return txt
 }
 
+async function fetchJson (src) {
+  const res = await fetchRaw(src)
+  const txt = await res.json()
+
+  return txt
+}
+
 async function fetchOne (src, dst) {
   if (await fileExists(dst)) {
     return `skipped: ${src}`
@@ -59,4 +66,4 @@ async function fetchMany (all) {
   )
 }
 
-module.exports = { fetchText, fetchOne, fetchMany }
+module.exports = { fetchText, fetchJson, fetchOne, fetchMany }

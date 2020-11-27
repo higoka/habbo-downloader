@@ -1,10 +1,9 @@
 #!/usr/bin/env node
 
 const argv = require('minimist')(process.argv.slice(2))
-const { initConfig } = require('./utils')
+const { initConfig, checkUpdate } = require('./utils')
 
 async function init () {
-  console.log(`\n\u001b[33m-------- PLEASE NOTE THAT THIS IS STILL A WORK IN PROGRESS --------\u001b[0m`)
   console.log(` _____     _   _`)
   console.log(`|  |  |___| |_| |_ ___`)
   console.log(`|     | .'| . | . | . |`)
@@ -18,6 +17,7 @@ async function init () {
 
   console.log('initializing...\n')
 
+  await checkUpdate()
   await initConfig(argv)
 }
 
