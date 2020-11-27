@@ -95,8 +95,11 @@ This is a list of all currently implemented commands. Please note that this proj
 | effects         | Download all Habbo Effects                                |
 | furnitures      | Download all Habbo Furnitures                             |
 | gamedata        | Download all Habbo Gamedata                               |
+| gordon          | Download all Habbo Gordon Files                           |
+| habboswf        | Download the latest Habbo.swf                             |
 | hotelview       | Download all Habbo Hotelview Images                       |
 | icons           | Download all Habbo Catalogue Icons                        |
+| mp3             | Download all Habbo MP3 Files (sound_machine_sample)       |
 | pets            | Download all Habbo Pets                                   |
 
 **FOR HABBO 2020**
