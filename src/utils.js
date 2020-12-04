@@ -7,14 +7,17 @@ const conf = {
   sockets: 100,
   domain: 'com',
   prod: false,
+  icons: false,
 }
 
 async function initConfig (argv) {
   const d = argv.d || argv.domain
   const s = argv.s || argv.sockets
+  const i = argv.i || argv.icons
 
   if (d) conf.domain = d
   if (s) conf.sockets = s
+  if (i) conf.icons = i
 
   conf.prod = (await fetchText(`https://www.habbo.${conf.domain}/gamedata/external_variables/0`)).match(/(?<=flash\.client\.url).*(PRODUCTION-[^\/]+)/mi)[1]
 }
