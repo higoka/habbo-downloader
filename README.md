@@ -51,7 +51,7 @@ Defines from which domain the files should be downloaded.
 **Value**: `com.br, com.tr, com, de, es, fi, fr, it, nl`
 
 ```
--i OR --icons [DOMAIN]
+-i OR --icons [VALUE]
 ```  
 
 Whether or not to download the furniture icons.  
