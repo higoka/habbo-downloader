@@ -51,6 +51,16 @@ Defines from which domain the files should be downloaded.
 **Value**: `com.br, com.tr, com, de, es, fi, fr, it, nl`
 
 ```
+-i OR --icons [DOMAIN]
+```  
+
+Whether or not to download the furniture icons.  
+Does **only** work when using the `furnitures` command.
+
+**Default**: `false`  
+**Value**: `true or false`
+
+```
 -s OR --sockets [AMOUNT]
 ```
 
