@@ -1,5 +1,9 @@
 # habbo-downloader 2.0
 
+![downloads](https://img.shields.io/npm/dt/habbo-downloader?style=for-the-badge)
+![version](https://img.shields.io/npm/v/habbo-downloader?label=version&style=for-the-badge)
+![license](https://img.shields.io/npm/l/habbo-downloader?style=for-the-badge)
+
 A tiny script to download various files directly from Habbo.
 
 ## Features
