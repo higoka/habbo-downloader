@@ -20,6 +20,7 @@
     "ripper",
     "habbo-downloader",
     "hdl",
+    "retrotown",
     "devbest",
     "ragezone",
     "krews",
@@ -44,7 +45,6 @@
   },
   "dependencies": {
     "compare-versions": "^3.6.0",
-    "cows": "^2.1.0",
     "fast-xml-parser": "^3.17.4",
     "minimist": "^1.2.5",
     "node-fetch": "^2.6.1"

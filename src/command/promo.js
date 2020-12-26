@@ -1,5 +1,4 @@
 const { fetchText, fetchMany } = require('../functions')
-const { config } = require('../utils')
 
 const regex = /web_promo_small\/([^;]+)/gmi
 

@@ -1,5 +1,4 @@
 const { fetchText, fetchMany } = require('../functions')
-const { config } = require('../utils')
 
 const regexOne = /^badge_(?:name|desc)_([^=]+)=/gmi
 const regexTwo = /^(.*)_badge_(?:name|desc).*=/gmi

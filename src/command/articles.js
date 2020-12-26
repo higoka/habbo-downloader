@@ -22,7 +22,7 @@ async function handle () {
 
   while (failed < 3) {
     try {
-      const txt = await fetchText(`https://images.habbo.com/habbo-web-news/en/production/all_${i}.html`)
+      const txt = await fetchText(`https://images.habbo.com/habbo-web-news/en/production/all_${i++}.html`)
       const all = await parse(txt)
 
       await fetchMany([...all].map((item) => {
@@ -33,7 +33,6 @@ async function handle () {
       }))
 
       failed = 0
-      i++
     } catch (err) {
       failed++
     }
