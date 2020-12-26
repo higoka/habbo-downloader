@@ -2,42 +2,34 @@ const { fetchText, fetchMany } = require('../functions')
 const { parseXml, config } = require('../utils')
 
 async function parse (txt) {
-  const all = await parseXml(txt)
-  const combined = [
-    ...all.furnidata.roomitemtypes.furnitype,
-    ...all.furnidata.wallitemtypes.furnitype,
+  const data = await parseXml(txt)
+  const all = [
+    ...data.furnidata.roomitemtypes.furnitype,
+    ...data.furnidata.wallitemtypes.furnitype,
   ]
 
-  const map = {}
+  const map = []
 
-  combined.forEach((item) => {
-    map[item['@_classname']] = {
-      revision: item.revision,
-      name: item['@_classname'].split('*')[0],
-      icon: item['@_classname'].replace('*', '_'),
-    }
+  all.forEach((item) => {
+    map.push(
+      `${item.revision}/${item['@_classname'].split('*')[0]}.swf`,
+      `${item.revision}/${item['@_classname'].replace('*', '_')}_icon.png`,
+    )
   })
 
-  return Object.values(map)
+  return new Set(map)
 }
 
 async function handle () {
-  const txt = await fetchText('https://www.habbo.com/gamedata/furnidata_xml/0')
+  const domain = await config('domain')
+
+  const txt = await fetchText(`https://www.habbo.${domain}/gamedata/furnidata_xml/0`)
   const all = await parse(txt)
 
   await fetchMany([...all].map((item) => {
     return {
-      src: `https://images.habbo.com/dcr/hof_furni/${item.revision}/${item.name}.swf`,
-      dst: `resource/dcr/hof_furni/${item.revision}/${item.name}.swf`
-    }
-  }))
-
-  if (await config('icons') === false) return
-
-  await fetchMany([...all].map((item) => {
-    return {
-      src: `https://images.habbo.com/dcr/hof_furni/${item.revision}/${item.icon}_icon.png`,
-      dst: `resource/dcr/hof_furni/${item.revision}/${item.icon}_icon.png`
+      src: `https://images.habbo.com/dcr/hof_furni/${item}`,
+      dst: `resource/dcr/hof_furni/${item}`
     }
   }))
 }
