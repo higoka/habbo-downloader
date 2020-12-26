@@ -1,8 +1,8 @@
 const { fetchText, fetchMany } = require('../functions')
 const { config } = require('../utils')
 
-const regexOne = /badge_(?:name|desc)_([^=]+)/gmi
-const regexTwo = /(.*)_badge_(?:name|desc).*=/gmi
+const regexOne = /^badge_(?:name|desc)_([^=]+)=/gmi
+const regexTwo = /^(.*)_badge_(?:name|desc).*=/gmi
 
 async function parse (txt) {
   const match = [
@@ -15,10 +15,22 @@ async function parse (txt) {
   )
 }
 
-async function handle () {
-  const conf = await config()
+async function collectText () {
+  const domain = [
+    'com.br', 'com.tr', 'com',
+    'de', 'es', 'fi',
+    'fr', 'it', 'nl'
+  ]
 
-  const txt = await fetchText(`https://www.habbo.${conf.domain}/gamedata/external_flash_texts/0`)
+  const all = await Promise.allSettled(
+    domain.map((d) => fetchText(`https://www.habbo.${d}/gamedata/external_flash_texts/0`))
+  )
+
+  return all.map((txt) => txt.value).join()
+}
+
+async function handle () {
+  const txt = await collectText()
   const all = await parse(txt)
 
   await fetchMany([...all].map((code) => {
