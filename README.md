@@ -113,6 +113,7 @@ This is a list of all currently implemented commands. Please note that this proj
 | icons           | Download all Habbo Catalogue Icons                        |
 | mp3             | Download all Habbo MP3 Files (sound_machine_sample)       |
 | pets            | Download all Habbo Pets                                   |
+| promo           | Download all Habbo Web Promo Images                       |
 
 **FOR HABBO 2020**
 
