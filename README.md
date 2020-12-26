@@ -55,16 +55,6 @@ Defines from which domain the files should be downloaded.
 **Value**: `com.br, com.tr, com, de, es, fi, fr, it, nl`
 
 ```
--i OR --icons [VALUE]
-```  
-
-Whether or not to download the furniture icons.  
-Does **only** work when using the `furnitures` command.
-
-**Default**: `false`  
-**Value**: `true or false`
-
-```
 -s OR --sockets [AMOUNT]
 ```
 
@@ -105,7 +95,7 @@ This is a list of all currently implemented commands. Please note that this proj
 | badges          | Download all Habbo Badges                                 |
 | clothes         | Download all Habbo Clothes                                |
 | effects         | Download all Habbo Effects                                |
-| furnitures      | Download all Habbo Furnitures                             |
+| furnitures      | Download all Habbo Furnitures + Icons                     |
 | gamedata        | Download all Habbo Gamedata                               |
 | gordon          | Download all Habbo Gordon Files                           |
 | habboswf        | Download the latest Habbo.swf                             |
