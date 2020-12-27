@@ -6,6 +6,8 @@
 
 A tiny script to download various files directly from Habbo.
 
+**Quick links: [EXAMPLES](#examples) - [COMMANDS](#commands) - [OPTIONS](#options) - [FAQ](#faq)**
+
 ## Features
 
 - Works on every operating system ✅
@@ -25,11 +27,14 @@ First, install habbo-downloader:
 npm i -g habbo-downloader
 ```
 
-After installation, you can start the script by typing `habbo-downloader` **or the shorthand** `hdl` into your terminal and specifing a command
+After installation, you can start the script by typing `habbo-downloader` **or the shorthand** `hdl` into your terminal and specifing a command.  
+**Also check out [some examples](#examples) to get started!**
 
 ```bash
 habbo-downloader --command [COMMAND NAME]
 ```
+
+
 
 ## Options
 
@@ -46,7 +51,7 @@ Defines the command to execute. See below the list of all available commands.
 #### OPTIONAL
 
 ```
--d OR --domain [DOMAIN]
+-d OR --domain [VALUE]
 ```  
 
 Defines from which domain the files should be downloaded.  
@@ -55,7 +60,17 @@ Defines from which domain the files should be downloaded.
 **Value**: `com.br, com.tr, com, de, es, fi, fr, it, nl`
 
 ```
--s OR --sockets [AMOUNT]
+-f OR --format [VALUE]
+```  
+
+Which format to use when downloading badges. Habbo now by default use PNG for their badges.  
+However you can still use GIF if you prefer that.
+
+**Default**: `png`  
+**Value**: `png or gif`
+
+```
+-s OR --sockets [VALUE]
 ```
 
 Maximal amount of open sockets to server. Increasing this value can improve download performance but  
@@ -105,8 +120,14 @@ This is a list of all currently implemented commands. Please note that this proj
 | pets            | Download all Habbo Pets                                   |
 | promo           | Download all Habbo Web Promo Images                       |
 
-**FOR HABBO 2020**
+**FOR HABBO 2020 (EXPERIMENTAL)**
 
 |     Command     |                        Description                        |
 | --------------- | --------------------------------------------------------- |
 | furnitures20    | Download all Habbo 2020 Furnitures                        |
+
+
+## FAQ
+
+**Q**: I get this error: `Error: Cannot find module 'stream/promises'`  
+**A**: Make sure you have NodeJS version **15.0 or higher** installed. You can check what version your using by typing `node -v` in your terminal.
