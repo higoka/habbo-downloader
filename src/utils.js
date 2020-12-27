@@ -6,15 +6,22 @@ const package = require('../package.json')
 const conf = {
   sockets: 100,
   domain: 'com',
+  format: 'png',
   prod: false,
 }
 
 async function initConfig (argv) {
+  const c = argv.c || argv.command
   const d = argv.d || argv.domain
   const s = argv.s || argv.sockets
+  const f = argv.f || argv.format
 
   if (d) conf.domain = d
   if (s) conf.sockets = s
+
+  if (c === 'badges' && f === 'gif') {
+    conf.format = 'gif'
+  }
 
   conf.prod = (await fetchText(`https://www.habbo.${conf.domain}/gamedata/external_variables/0`)).match(/(?<=flash\.client\.url).*(PRODUCTION-[^\/]+)/mi)[1]
 }
