@@ -7,6 +7,7 @@ const conf = {
   sockets: 100,
   domain: 'com',
   format: 'png',
+  revision: false,
   prod: false,
 }
 
@@ -15,9 +16,11 @@ async function initConfig (argv) {
   const d = argv.d || argv.domain
   const s = argv.s || argv.sockets
   const f = argv.f || argv.format
+  const r = argv.r || argv.revision
 
   if (d) conf.domain = d
   if (s) conf.sockets = s
+  if (r) conf.revision = r
 
   if (c === 'badges' && f === 'gif') {
     conf.format = 'gif'

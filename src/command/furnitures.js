@@ -12,8 +12,8 @@ async function parse (txt) {
 
   all.forEach((item) => {
     map.push(
-      `${item.revision}/${item['@_classname'].split('*')[0]}.swf`,
-      `${item.revision}/${item['@_classname'].replace('*', '_')}_icon.png`,
+      { revision: item.revision, name: `${item['@_classname'].replace('*', '_')}_icon.png` },
+      { revision: item.revision, name: `${item['@_classname'].split('*')[0]}.swf` },
     )
   })
 
@@ -21,15 +21,17 @@ async function parse (txt) {
 }
 
 async function handle () {
-  const domain = await config('domain')
+  const conf = await config()
 
-  const txt = await fetchText(`https://www.habbo.${domain}/gamedata/furnidata_xml/0`)
+  const txt = await fetchText(`https://www.habbo.${conf.domain}/gamedata/furnidata_xml/0`)
   const all = await parse(txt)
 
   await fetchMany([...all].map((item) => {
     return {
-      src: `https://images.habbo.com/dcr/hof_furni/${item}`,
-      dst: `resource/dcr/hof_furni/${item}`
+      src: `https://images.habbo.com/dcr/hof_furni/${item.revision}/${item.name}`,
+      dst: (conf.revision)
+        ? `resource/dcr/hof_furni/${item.revision}/${item.name}`
+        : `resource/dcr/hof_furni/${item.name}`
     }
   }))
 }
