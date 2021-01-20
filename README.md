@@ -60,6 +60,16 @@ Defines from which domain the files should be downloaded.
 **Value**: `com.br, com.tr, com, de, es, fi, fr, it, nl`
 
 ```
+-r OR --revision
+```  
+
+If specified, downloads furnitures and furniture icons inside of the revision
+folder else downloads directly to `dcr/hof_furni`
+
+**Default**: `-`  
+**Value**: `-`
+
+```
 -f OR --format [VALUE]
 ```  
 
