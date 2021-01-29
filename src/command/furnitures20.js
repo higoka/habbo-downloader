@@ -24,19 +24,17 @@ async function handle () {
 
   await fetchMany([...all].map((item) => {
     return {
-      src: `https://images.habbo.com/habbo-asset-bundles/dev/2019.3.9f1/Furni/WebGL/${item.revision}/${item.name}`,
+      src: `https://images.habbo.com/habbo-asset-bundles/production/2019.3.9f1/Furni/WebGL/${item.revision}/${item.name}`,
       dst: `resource20/dcr/hof_furni/${item.revision}/${item.name}`
     }
   }))
 
   await fetchMany([...all].map((item) => {
     return {
-      src: `https://images.habbo.com/habbo-asset-bundles/dev/2019.3.9f1/Furni/WebGL/${item.revision}/${item.name}.manifest`,
+      src: `https://images.habbo.com/habbo-asset-bundles/production/2019.3.9f1/Furni/WebGL/${item.revision}/${item.name}.manifest`,
       dst: `resource20/dcr/hof_furni/${item.revision}/${item.name}.manifest`
     }
   }))
-
-
 }
 
 module.exports = handle
