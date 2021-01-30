@@ -66,4 +66,23 @@ async function fetchMany (all) {
   )
 }
 
-module.exports = { fetchText, fetchJson, fetchOne, fetchMany }
+async function fetchUntil (opt, i = 1, failed = 0) {
+  try {
+    console.log(
+      await fetchOne(
+        opt.src.replace('%i%', i),
+        opt.dst.replace('%i%', i)
+      )
+    )
+    failed = 0
+  } catch (err) {
+    console.log(err.message)
+    failed++
+  } finally {
+    if (failed < 3) {
+      return fetchUntil(opt, ++i, failed)
+    }
+  }
+}
+
+module.exports = { fetchText, fetchJson, fetchOne, fetchMany, fetchUntil }
