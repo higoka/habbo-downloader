@@ -1,19 +1,18 @@
-const { fetchText, fetchMany } = require('../functions')
-const { parseXml, config } = require('../utils')
+const { fetchMany, fetchJson } = require('../functions')
+const { config } = require('../utils')
 
-async function parse (txt) {
-  const data = await parseXml(txt)
+async function parse (json) {
   const all = [
-    ...data.furnidata.roomitemtypes.furnitype,
-    ...data.furnidata.wallitemtypes.furnitype,
+    ...json.roomitemtypes.furnitype,
+    ...json.wallitemtypes.furnitype,
   ]
 
   const map = []
 
   all.forEach((item) => {
     map.push(
-      { revision: item.revision, name: `${item['@_classname'].replace('*', '_')}_icon.png` },
-      { revision: item.revision, name: `${item['@_classname'].split('*')[0]}.swf` },
+      { revision: item.revision, name: `${item.classname.replace('*', '_')}_icon.png` },
+      { revision: item.revision, name: `${item.classname.split('*')[0]}.swf` },
     )
   })
 
@@ -23,8 +22,8 @@ async function parse (txt) {
 async function handle () {
   const conf = await config()
 
-  const txt = await fetchText(`https://www.habbo.${conf.domain}/gamedata/furnidata_xml/0`)
-  const all = await parse(txt)
+  const json = await fetchJson(`https://www.habbo.${conf.domain}/gamedata/furnidata_json/0`)
+  const all = await parse(json)
 
   await fetchMany([...all].map((item) => {
     return {
