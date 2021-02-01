@@ -6,7 +6,7 @@
 
 A tiny script to download various files directly from Habbo.
 
-**Quick links: [EXAMPLES](#examples) - [COMMANDS](#commands) - [OPTIONS](#options) - [FAQ](#faq)**
+**Quick links: [COMMANDS](#commands) - [OPTIONS](#options) - [EXAMPLES](#examples) - [FAQ](#faq)**
 
 ## Features
 
@@ -34,8 +34,6 @@ After installation, you can start the script by typing `habbo-downloader` **or t
 habbo-downloader --command [COMMAND NAME]
 ```
 
-
-
 ## Options
 
 Here is a list of all currently available options.
@@ -49,6 +47,7 @@ Here is a list of all currently available options.
 Defines the command to execute. See below the list of all available commands.
 
 #### OPTIONAL
+
 
 ```
 -d OR --domain [VALUE]
@@ -89,26 +88,6 @@ Maximal amount of open sockets to server. Increasing this value can improve down
 **Default**: `100`  
 **Value**: `Any number is valid`
 
-## Examples
-
-Simple example:
-
-```bash
-habbo-downloader --command icons
-```
-
-You also can use the shorthand version:
-
-```bash
-hdl -c icons
-```
-
-Downloading from a different domain, for example: www.habbo.es
-
-```bash
-hdl -c gamedata -d es
-```
-
 ## Commands
 
 This is a list of all currently implemented commands. Please note that this project is still a **work in progress**.
@@ -130,12 +109,42 @@ This is a list of all currently implemented commands. Please note that this proj
 | pets            | Download all Habbo Pets                                   |
 | promo           | Download all Habbo Web Promo Images                       |
 
-**FOR HABBO 2020 (EXPERIMENTAL)**
+
+## HABBO 2020 (Unity WebGL)
+
+If you want to download unity files of **Habbo 2020** simply pass the option `--unity` or `-u` along.
+
+These commands support downloading unity files
 
 |     Command     |                        Description                        |
 | --------------- | --------------------------------------------------------- |
-| furnitures20    | Download all Habbo 2020 Furnitures                        |
+| furnitures      | Download all Habbo 2020 Furnitures + Icons                |
 
+## Examples
+
+Simple example:
+
+```bash
+habbo-downloader --command icons
+```
+
+You also can use the shorthand version:
+
+```bash
+hdl -c icons
+```
+
+Downloading from a different domain, for example: www.habbo.es
+
+```bash
+hdl -c gamedata -d es
+```
+
+Downloading Unity WebGL furniture files
+
+```bash
+hdl -c furnitures -u
+```
 
 ## FAQ
 
