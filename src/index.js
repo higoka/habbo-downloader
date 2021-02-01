@@ -24,7 +24,16 @@ async function init () {
 async function main () {
   try {
     await init()
-    await require(`./command/${argv.c || argv.command}`)()
+
+    const command = argv.c || argv.command
+    const isUnity = argv.u || argv.unity
+
+    console.log(command, isUnity)
+    if (isUnity) {
+      await require(`./command/unity/${command}`)()
+    } else {
+      await require(`./command/${command}`)()
+    }
   } catch (err) {
     if (err.code === 'MODULE_NOT_FOUND') {
       console.log('command not found')
