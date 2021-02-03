@@ -118,7 +118,9 @@ These commands support downloading unity files
 
 |     Command     |                        Description                        |
 | --------------- | --------------------------------------------------------- |
-| furnitures      | Download all Habbo 2020 Furnitures + Icons                |
+| clothes         | Download all Unity Clothes                                |
+| effects         | Download all Unity Effects                                |
+| furnitures      | Download all Unity Furnitures                             |
 
 ## Examples
 
