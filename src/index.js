@@ -28,7 +28,6 @@ async function main () {
     const command = argv.c || argv.command
     const isUnity = argv.u || argv.unity
 
-    console.log(command, isUnity)
     if (isUnity) {
       await require(`./command/unity/${command}`)()
     } else {
