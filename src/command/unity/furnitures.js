@@ -12,7 +12,7 @@ async function parse (json) {
   all.forEach((item) => {
     const name = item.classname.split('*')[0].toLowerCase()
     map.push(
-      { revision: item.revision, name: `${name}` },
+      { revision: item.revision, name: name },
       { revision: item.revision, name: `${name}.manifest` },
     )
   })
@@ -30,8 +30,8 @@ async function handle () {
     return {
       src: `https://images.habbo.com/habbo-asset-bundles/production/2019.3.9f1/Furni/WebGL/${item.revision}/${item.name}`,
       dst: (conf.revision)
-        ? `resource/unity/furni/${item.revision}/${item.name}`
-        : `resource/unity/furni/${item.name}`
+        ? `resource/unity/furnitures/${item.revision}/${item.name}`
+        : `resource/unity/furnitures/${item.name}`
     }
   }))
 }
