@@ -7,7 +7,9 @@ const { pipeline } = require('stream/promises')
 const opt = {
   agent: new https.Agent({
     keepAlive: true,
+    keepAliveMsecs: 24000,
     maxSockets: 100,
+    scheduling: 'fifo',
   })
 }
 
