@@ -11,7 +11,7 @@ async function parse (txt) {
 async function handle () {
   const prod = await config('prod')
 
-  const txt = await fetchText(`https://images.habbo.com/gordon/${prod}/figuremap.xml`)
+  const txt = await fetchText(`https://images.habbo.com/gordon/${prod}/figuremapv2.xml`)
   const all = await parse(txt)
 
   await fetchMany([...all].map((item) => {
