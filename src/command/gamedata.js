@@ -17,7 +17,7 @@ async function handle () {
     { src: `https://www.habbo.${conf.domain}/gamedata/figuredata/0`, dst: 'resource/gamedata/figuredata.xml' },
     { src: `https://images.habbo.com/gordon/${conf.prod}/figuremap.xml`, dst: 'resource/gamedata/figuremap.xml' },
     { src: `https://images.habbo.com/gordon/${conf.prod}/effectmap.xml`, dst: 'resource/gamedata/effectmap.xml' },
-  ])
+  ], true)
 }
 
 module.exports = handle

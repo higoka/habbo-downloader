@@ -46,8 +46,8 @@ async function fetchJson (src) {
   return txt
 }
 
-async function fetchOne (src, dst) {
-  if (await fileExists(dst)) {
+async function fetchOne (src, dst, replace = false) {
+  if (await fileExists(dst) && replace === false) {
     return `skipped: ${src}`
   }
 
@@ -59,9 +59,9 @@ async function fetchOne (src, dst) {
   return `${res.status} ${src}`
 }
 
-async function fetchMany (all) {
+async function fetchMany (all, replace = false) {
   await Promise.allSettled(
-    all.map((v) => fetchOne(v.src, v.dst)
+    all.map((v) => fetchOne(v.src, v.dst, replace)
       .then(console.log)
       .catch((err) => console.log(err.message))
     )
