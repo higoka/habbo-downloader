@@ -1,8 +1,20 @@
+const compareVersions = require('compare-versions')
+const package = require('../package.json')
+const parser = require('fast-xml-parser')
 const fetch = require('node-fetch')
 const https = require('https')
 const path = require('path')
 const fs = require('fs')
 const { pipeline } = require('stream/promises')
+
+const config = {
+  sockets: 100,
+  domain: 'com',
+  format: 'png',
+  revision: false,
+  prod: false,
+  output: './resource',
+}
 
 const opt = {
   agent: new https.Agent({
@@ -47,6 +59,8 @@ async function fetchJson (src) {
 }
 
 async function fetchOne (src, dst, replace = false) {
+  dst = path.join(config.output, dst)
+
   if (await fileExists(dst) && replace === false) {
     return `skipped: ${src}`
   }
@@ -87,4 +101,43 @@ async function fetchUntil (opt, i = 1, failed = 0) {
   }
 }
 
-module.exports = { fetchText, fetchJson, fetchOne, fetchMany, fetchUntil }
+async function parseXml (txt) {
+  if (parser.validate(txt) !== true) {
+    throw new Error('invalid xml')
+  }
+
+  return parser.parse(txt, {
+    ignoreAttributes: false,
+    parseAttributeValue: false,
+    parseNodeValue: false,
+  })
+}
+
+async function checkUpdate () {
+  const json = await fetchJson('https://registry.npmjs.org/habbo-downloader/latest')
+  if (compareVersions(json.version, package.version) > 0) {
+    console.log(`\u001b[33m[NOTE] A new version is available: "${json.version}". You are using version: "${package.version}". Please update habbo-downloader by running "npm i -g habbo-downloader" inside of the terminal.\u001b[0m\n`)
+  }
+}
+
+async function initConfig (argv) {
+  const c = argv.c || argv.command
+  const d = argv.d || argv.domain
+  const s = argv.s || argv.sockets
+  const f = argv.f || argv.format
+  const r = argv.r || argv.revision
+  const o = argv.o || argv.output
+
+  if (d) config.domain = d
+  if (s) config.sockets = s
+  if (r) config.revision = r
+  if (o) config.output = o
+
+  if (c === 'badges' && f === 'gif') {
+    config.format = 'gif'
+  }
+
+  config.prod = (await fetchText(`https://www.habbo.${config.domain}/gamedata/external_variables/0`)).match(/(?<=flash\.client\.url).*(PRODUCTION-[^\/]+)/mi)[1]
+}
+
+module.exports = { fetchText, fetchJson, fetchOne, fetchMany, fetchUntil, parseXml, checkUpdate, initConfig, config }

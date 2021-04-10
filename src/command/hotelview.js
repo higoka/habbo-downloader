@@ -1,5 +1,4 @@
-const { fetchMany, fetchText } = require('../functions')
-const { config } = require('../utils')
+const { fetchMany, fetchText, config } = require('../functions')
 
 const regex = /(?<=landing\.view\.background.+=).+(?<=reception\/)(.+)/gmi
 
@@ -12,15 +11,13 @@ async function parse (txt) {
 }
 
 async function handle () {
-  const domain = await config('domain')
-
-  const txt = await fetchText(`https://www.habbo.${domain}/gamedata/external_variables/0`)
+  const txt = await fetchText(`https://www.habbo.${config.domain}/gamedata/external_variables/0`)
   const all = await parse(txt)
 
   await fetchMany([...all].map((item) => {
     return {
       src: `https://images.habbo.com/c_images/reception/${item}`,
-      dst: `resource/c_images/reception/${item}`
+      dst: `c_images/reception/${item}`
     }
   }))
 }

@@ -1,5 +1,4 @@
-const { fetchMany, fetchJson } = require('../../functions')
-const { config } = require('../../utils')
+const { fetchMany, fetchJson, config } = require('../../functions')
 
 async function parse (json) {
   const all = [
@@ -21,17 +20,15 @@ async function parse (json) {
 }
 
 async function handle () {
-  const conf = await config()
-
-  const json = await fetchJson(`https://www.habbo.${conf.domain}/gamedata/furnidata_json/0`)
+  const json = await fetchJson(`https://www.habbo.${config.domain}/gamedata/furnidata_json/0`)
   const all = await parse(json)
 
   await fetchMany([...all].map((item) => {
     return {
       src: `https://images.habbo.com/habbo-asset-bundles/production/2019.3.9f1/Furni/WebGL/${item.revision}/${item.name}`,
-      dst: (conf.revision)
-        ? `resource/unity/furnitures/${item.revision}/${item.name}`
-        : `resource/unity/furnitures/${item.name}`
+      dst: (config.revision)
+        ? `unity/furnitures/${item.revision}/${item.name}`
+        : `unity/furnitures/${item.name}`
     }
   }))
 }

@@ -1,5 +1,4 @@
-const { fetchText, fetchMany } = require('../functions')
-const { config, parseXml } = require('../utils')
+const { fetchText, fetchMany, parseXml, config } = require('../functions')
 
 async function parse (txt) {
   const all = await parseXml(txt)
@@ -9,15 +8,13 @@ async function parse (txt) {
 }
 
 async function handle () {
-  const prod = await config('prod')
-
-  const txt = await fetchText(`https://images.habbo.com/gordon/${prod}/figuremapv2.xml`)
+  const txt = await fetchText(`https://images.habbo.com/gordon/${config.prod}/figuremapv2.xml`)
   const all = await parse(txt)
 
   await fetchMany([...all].map((item) => {
     return {
-      src: `https://images.habbo.com/gordon/${prod}/${item}.swf`,
-      dst: `resource/gordon/${prod}/${item}.swf`
+      src: `https://images.habbo.com/gordon/${config.prod}/${item}.swf`,
+      dst: `gordon/${config.prod}/${item}.swf`
     }
   }))
 }

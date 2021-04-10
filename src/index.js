@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const argv = require('minimist')(process.argv.slice(2))
-const { initConfig, checkUpdate } = require('./utils')
+const { initConfig, checkUpdate } = require('./functions')
 
 async function init () {
   console.log(` _____     _   _`)

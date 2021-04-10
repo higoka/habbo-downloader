@@ -28,7 +28,7 @@ async function handle () {
       await fetchMany([...all].map((item) => {
         return {
           src: `https://images.habbo.com/web_images/habbo-web-articles/${item}`,
-          dst: `resource/habbo-web-articles/${item}`
+          dst: `habbo-web-articles/${item}`
         }
       }))
 

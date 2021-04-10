@@ -1,10 +1,7 @@
-const { fetchOne } = require('../functions')
-const { config } = require('../utils')
+const { fetchOne, config } = require('../functions')
 
 async function handle () {
-  const prod = await config('prod')
-
-  fetchOne(`https://images.habbo.com/gordon/${prod}/Habbo.swf`, `resource/gordon/${prod}/Habbo.swf`)
+  fetchOne(`https://images.habbo.com/gordon/${config.prod}/Habbo.swf`, `gordon/${config.prod}/Habbo.swf`)
     .then(console.log)
     .catch((err) => console.log(err.message))
 }

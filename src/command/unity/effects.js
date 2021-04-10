@@ -1,5 +1,4 @@
-const { fetchText, fetchMany } = require('../../functions')
-const { config, parseXml } = require('../../utils')
+const { fetchText, fetchMany, parseXml, config } = require('../../functions')
 
 async function parse (txt) {
   const all = await parseXml(txt)
@@ -17,17 +16,15 @@ async function parse (txt) {
 }
 
 async function handle () {
-  const conf = await config()
-
-  const txt = await fetchText(`https://images.habbo.com/gordon/${conf.prod}/effectmap.xml`)
+  const txt = await fetchText(`https://images.habbo.com/gordon/${config.prod}/effectmap.xml`)
   const all = await parse(txt)
 
   await fetchMany([...all].map((item) => {
     return {
       src: `https://images.habbo.com/habbo-asset-bundles/production/2019.3.9f1/Content/WebGL/${item.revision}/${item.name}`,
-      dst: (conf.revision)
-        ? `resource/unity/effects/${item.revision}/${item.name}`
-        : `resource/unity/effects/${item.name}`
+      dst: (config.revision)
+        ? `unity/effects/${item.revision}/${item.name}`
+        : `unity/effects/${item.name}`
     }
   }))
 }

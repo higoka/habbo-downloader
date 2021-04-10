@@ -33,7 +33,7 @@ async function handle () {
   await fetchMany([...all].map((image) => {
     return {
       src: `https://images.habbo.com/c_images/web_promo_small/${image}`,
-      dst: `resource/c_images/web_promo_small/${image}`
+      dst: `c_images/web_promo_small/${image}`
     }
   }))
 }
