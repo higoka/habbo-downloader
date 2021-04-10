@@ -48,6 +48,15 @@ Defines the command to execute. See below the list of all available commands.
 
 #### OPTIONAL
 
+```
+-o OR --output [VALUE]
+```  
+
+Defines the output folder for the downloaded files.
+
+**Default**: `./resource`  
+**Value**: `Any valid path works`
+
 
 ```
 -d OR --domain [VALUE]
