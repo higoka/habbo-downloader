@@ -99,6 +99,7 @@ This is a list of all currently implemented commands. Please note that this proj
 | badges          | Download all Habbo Badges                                 |
 | clothes         | Download all Habbo Clothes                                |
 | effects         | Download all Habbo Effects                                |
+| ficons          | Download all Habbo Furniture Icons                        |
 | furnitures      | Download all Habbo Furnitures + Icons                     |
 | gamedata        | Download all Habbo Gamedata                               |
 | gordon          | Download all Habbo Gordon Files                           |
