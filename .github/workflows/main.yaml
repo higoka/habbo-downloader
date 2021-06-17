@@ -13,7 +13,7 @@ jobs:
           node-version: '15'
       - name: Set current date as environment variable
         run: |
-          echo "NOW::$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+          echo "NOW=$(date --rfc-3339=date)" >> ${GITHUB_ENV}
           echo "date test: $(NOW)"
       - name: Install packages
         run: npm i
