@@ -6,15 +6,15 @@ on:
 jobs:
   gamedata:
     runs-on: ubuntu-latest
+    env:
+      TODAY: date --rfc-3339=date
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
           node-version: '15'
-      - name: Set current date as environment variable
-        run: |
-          echo "NOW=$(date --rfc-3339=date)" >> ${GITHUB_ENV}
-          echo "date test: $(NOW)"
+      - name: Test environment variables
+        run: echo "${{ env.TODAY }}"
       - name: Install packages
         run: npm i
       - name: Run habbo-downloader
