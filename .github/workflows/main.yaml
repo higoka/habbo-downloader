@@ -4,7 +4,7 @@ on:
     - cron: '0 3 * * *'
   workflow_dispatch:
 jobs:
-  icons:
+  gamedata:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -14,6 +14,6 @@ jobs:
       - name: Install packages
         run: npm i
       - name: Run habbo-downloader
-        run: node src/index.js -c icons
+        run: node src/index.js -c gamedata -o resource/test
       - name: Git status
         run: git status
