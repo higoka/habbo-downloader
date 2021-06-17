@@ -7,7 +7,7 @@ jobs:
   gamedata:
     runs-on: ubuntu-latest
     env:
-      TODAY: date --rfc-3339=date
+      TODAY: $(date --rfc-3339=date)
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
