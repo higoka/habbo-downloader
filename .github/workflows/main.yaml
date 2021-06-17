@@ -17,3 +17,8 @@ jobs:
         run: node src/index.js -c gamedata -o resource/test
       - name: Git status
         run: git status
+      - name: Push changes
+        run: |
+          git add resource
+          git commit -m "daily resources download"
+          git push origin dev
