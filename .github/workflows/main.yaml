@@ -18,7 +18,7 @@ jobs:
       - name: Install packages
         run: npm i
       - name: Run habbo-downloader
-        run: node src/index.js -c gamedata -o resource/test
+        run: node src/index.js -c gamedata -o resource/${{ env.TODAY }}
       - name: Git status
         run: git status
       - name: Push changes
