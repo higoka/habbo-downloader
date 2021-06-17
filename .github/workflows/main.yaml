@@ -19,6 +19,8 @@ jobs:
         run: git status
       - name: Push changes
         run: |
+          git config user.name higoka
+          git config user.email nico.rickenbach@gmail.com
           git add resource
           git commit -m "daily resources download"
           git push origin dev
