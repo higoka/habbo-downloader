@@ -1,6 +1,6 @@
 {
   "name": "habbo-downloader",
-  "version": "2.23.1",
+  "version": "2.23.0",
   "description": "A tiny script to download various files directly from Habbo.",
   "keywords": [
     "badges",
