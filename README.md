@@ -8,6 +8,14 @@ A tiny script to download various files directly from Habbo.
 
 **Quick links: [COMMANDS](#commands) - [OPTIONS](#options) - [EXAMPLES](#examples) - [FAQ](#faq)**
 
+## Note
+
+If you are looking for a specific file or dont want to use habbo-downloader yourself,
+you can take a look at the [resource](https://github.com/higoka/habbo-downloader/tree/main/resource) folder. This folder contains all downloaded files from 
+habbo-downloader and updates automatically every 3 hours.
+
+If you like this project feel free to buy me a coffee or ⭐ this repo :)
+
 ## Features
 
 - Works on every operating system ✅
