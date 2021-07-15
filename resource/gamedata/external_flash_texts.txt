@@ -18898,6 +18898,7 @@ featured.offer.bundle35.title=Voodoo Bundle
 featured.offer.bundle36.title=Day of the Dead Bundle
 featured.offer.bundle37.title=Twisted Castle Bundle
 featured.offer.bundle38.title=Freaky Fairground Bundle
+featured.offer.bundle43.title=Habbo Island Resort
 featured.offer.bundle48.title=Fireside Chalet Bundle
 featured.offer.bundle49.title=Forgotten Attic Bundle
 featured.offer.bundle50.title=Japanese Love Garden Bundle
