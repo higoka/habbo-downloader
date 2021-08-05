@@ -84,7 +84,7 @@
 21aug09.text=Caught on Camera\n\nRicky was right, Virgina had a gig tonight.\n\nWalk carefully past the bouncers and find the outfit Ricky hid for you. When you've found it, use the camera that's in the room to take a picture of Virginia.\n\nRemember to be careful, if Virginia sees you here she'll take off.\n\n
 21aug09.title=Vaporwave Vibes
 21aug10.image=web_promo_small/spromo_trafficjamgame.png
-21aug10.text=Runaway Chase \n\nYour cover has been blown and the gang seems to be on your case. Time to get yourself out of there ASAP!\n\nHow to play:\n\n- Race to the end of the street and avoid the traffic jam on your way there.\n- Don't crash into any of the vehicles on the street or you'll lose.\n- You have 2 minutes to escape.
+21aug10.text=Traffic Jam \n\nYour cover has been blown and the gang seems to be on your case. Time to get yourself out of there ASAP!\n\nHow to play:\n\n- Race to the end of the street and avoid the traffic jam on your way there.\n- Don't crash into any of the vehicles on the street or you'll lose.\n- You have 2 minutes to escape.
 21aug10.title=Vaporwave Vibes
 21aug11.image=web_promo_small/spromo_numbergame.png
 21aug11.text=Time's Up!\n\nTime to test your luck! Play a round of Guess the Number and only if you win you'll be able to continue your search for Virginia in other parts of the casino.\n\nHow to play:\n\n- Choose one of the numbers placed in the room and pull the lever behind it.\n- If you manage to guess the right number you'll win the round and take the teleport to the next room.\n
