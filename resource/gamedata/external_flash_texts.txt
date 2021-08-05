@@ -16847,6 +16847,7 @@ badge_name_VPV17=Habbo PD
 badge_name_VPV18=Born to Race
 badge_name_VPV19=Caught on Camera
 badge_name_VPV21=Time's Up!
+badge_name_VPV22=HabboLympix Gym Bundle
 badge_name_VRD01=Love Randomizer Rare
 badge_name_VSP01=Speed Love
 badge_name_VSP02=Ultimate Matchmaker
