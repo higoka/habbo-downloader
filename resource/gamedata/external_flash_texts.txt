@@ -81,7 +81,7 @@
 21aug08.text=Where's Mike?\n\nThe informant was right, Mike is in danger! Stop the fire before it reaches Mike.\n\nHow to play:\n\n- Race across the orange tiles, and pull the lever to rescue Mike.\n- You only have 60 to seconds to untie Mike and get him away from the fire.
 21aug08.title=Vaporwave Vibes
 21aug09.image=web_promo_small/spromo_picturegame.png
-21aug09.text=Caught on Camera\n\nRicky was right, Virgina had a gig tonight.\n\nWalk carefully past the bouncers and find the outfit Ricky hid for you. When you've found it, use the camera that's in the room to take a picture of Virginia.\n\nRemember to be careful, if Virginia sees you here she'll take off.\n\n
+21aug09.text=Caught on Camera\n\nRicky was right, Virgina had a gig tonight.\n\nWalk carefully past the bouncers and find the outfit Ricky hid for you. When you've found it, stand behind the camera and take a picture of Virginia.\n\nRemember to be careful, if Virginia sees you here she'll take off.\n\n
 21aug09.title=Vaporwave Vibes
 21aug10.image=web_promo_small/spromo_trafficjamgame.png
 21aug10.text=Traffic Jam \n\nYour cover has been blown and the gang seems to be on your case. Time to get yourself out of there ASAP!\n\nHow to play:\n\n- Race to the end of the street and avoid the traffic jam on your way there.\n- Don't crash into any of the vehicles on the street or you'll lose.\n- You have 2 minutes to escape.
