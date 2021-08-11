@@ -38,6 +38,7 @@
   "license": "MIT",
   "author": "Nico Rickenbach",
   "main": "src/index.js",
+  "funding": "https://paypal.me/nicorickenbach",
   "bin": {
     "habbo-downloader": "src/index.js",
     "hdl": "src/index.js"
