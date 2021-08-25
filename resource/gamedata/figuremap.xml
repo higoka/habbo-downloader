@@ -5056,11 +5056,6 @@
   <lib id="acc_eye_U_gemglasses" revision="66552">
     <part id="4172" type="ea"/>
   </lib>
-  <lib id="shoe_U_rollerskates" revision="66552">
-    <part id="4168" type="sh"/>
-    <part id="4169" type="sh"/>
-    <part id="4170" type="sh"/>
-  </lib>
   <lib id="hair_U_volumehair" revision="66552">
     <part id="4171" type="hr"/>
     <part id="4171" type="hrb"/>
@@ -5127,7 +5122,7 @@
     <part id="4208" type="lc"/>
     <part id="4208" type="rc"/>
   </lib>
-  <lib id="jacket_M_pridehoodie" revision="66636">
+  <lib id="jacket_M_pridehoodie" revision="66692">
     <part id="4203" type="cc"/>
     <part id="4203" type="lc"/>
     <part id="4203" type="rc"/>
@@ -5139,7 +5134,7 @@
     <part id="4206" type="lc"/>
     <part id="4206" type="rc"/>
   </lib>
-  <lib id="jacket_F_pridehoodie" revision="66636">
+  <lib id="jacket_F_pridehoodie" revision="66692">
     <part id="4200" type="cc"/>
     <part id="4200" type="lc"/>
     <part id="4200" type="rc"/>
@@ -5177,6 +5172,95 @@
     <part id="4218" type="lc"/>
     <part id="4218" type="rc"/>
     <part id="4219" type="cc"/>
+  </lib>
+  <lib id="hat_U_spiritfire" revision="66694">
+    <part id="4232" type="ha"/>
+  </lib>
+  <lib id="shirt_F_ninja" revision="66701">
+    <part id="4226" type="ch"/>
+    <part id="4226" type="ls"/>
+    <part id="4226" type="rs"/>
+    <part id="4227" type="ch"/>
+  </lib>
+  <lib id="trousers_U_ninja" revision="66701">
+    <part id="4230" type="lg"/>
+    <part id="4231" type="lg"/>
+  </lib>
+  <lib id="acc_face_U_dollcheeks" revision="66697">
+    <part id="4220" type="fa"/>
+  </lib>
+  <lib id="hat_U_ninja" revision="66701">
+    <part id="4225" type="ha"/>
+  </lib>
+  <lib id="shirt_M_ninja" revision="66701">
+    <part id="4228" type="ch"/>
+    <part id="4228" type="ls"/>
+    <part id="4228" type="rs"/>
+    <part id="4229" type="ch"/>
+  </lib>
+  <lib id="hat_U_ghostheadband" revision="66699">
+    <part id="4223" type="ha"/>
+    <part id="4224" type="ha"/>
+  </lib>
+  <lib id="hair_U_himehair" revision="66698">
+    <part id="4221" type="hr"/>
+    <part id="4221" type="hrb"/>
+    <part id="4222" type="hr"/>
+  </lib>
+  <lib id="hair_U_ghosthair" revision="66713">
+    <part id="4233" type="hr"/>
+    <part id="4233" type="hrb"/>
+    <part id="4234" type="hr"/>
+  </lib>
+  <lib id="shoes_U_rollerskates" revision="66727">
+    <part id="4168" type="sh"/>
+    <part id="4169" type="sh"/>
+    <part id="4170" type="sh"/>
+  </lib>
+  <lib id="hat_U_diaelegantcrown" revision="66742">
+    <part id="4235" type="ha"/>
+  </lib>
+  <lib id="hat_U_diahermeshat" revision="66740">
+    <part id="4236" type="ha"/>
+  </lib>
+  <lib id="hat_U_diaicetiara" revision="66740">
+    <part id="4237" type="ha"/>
+  </lib>
+  <lib id="hat_U_mushroom2" revision="66748">
+    <part id="4238" type="ha"/>
+    <part id="4239" type="ha"/>
+    <part id="4240" type="ha"/>
+  </lib>
+  <lib id="shirt_F_flowerdress" revision="66752">
+    <part id="4244" type="ch"/>
+    <part id="4244" type="ls"/>
+    <part id="4244" type="rs"/>
+    <part id="4245" type="ch"/>
+  </lib>
+  <lib id="hat_U_petalhat" revision="66752">
+    <part id="4241" type="ha"/>
+    <part id="4242" type="ha"/>
+    <part id="4243" type="ha"/>
+  </lib>
+  <lib id="shirt_M_flowerdress" revision="66752">
+    <part id="4246" type="ch"/>
+    <part id="4246" type="ls"/>
+    <part id="4246" type="rs"/>
+    <part id="4247" type="ch"/>
+  </lib>
+  <lib id="hat_U_darkcrown" revision="66754">
+    <part id="4250" type="ha"/>
+  </lib>
+  <lib id="hair_U_fairyhair" revision="66759">
+    <part id="4263" type="hr"/>
+    <part id="4263" type="hrb"/>
+    <part id="4264" type="hr"/>
+    <part id="4265" type="hr"/>
+  </lib>
+  <lib id="jacket_U_fairywings" revision="66759">
+    <part id="4266" type="cc"/>
+    <part id="4266" type="lc"/>
+    <part id="4266" type="rc"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
