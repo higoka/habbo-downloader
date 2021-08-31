@@ -943,7 +943,7 @@ landing.view.doublecredits.layout=bitmap.uri,${image.library.url}reception/promo
 landing.view.doublecredits.widget=generic
 landing.view.drivingLicenseCommunityGoal.widget=communitygoalvsmodevote
 landing.view.dynamic.slot.1.widget=bonusrare
-landing.view.dynamic.slot.2.conf=2021-07-02 06:00,summer21cal;2021-07-31 06:00,HC312013;2021-08-02 06:00,aug21cal
+landing.view.dynamic.slot.2.conf=2021-08-02 06:00,aug21cal;2021-09-01 06:00,HC312013
 landing.view.dynamic.slot.2.layout=
 landing.view.dynamic.slot.2.widget=widgetcontainer
 landing.view.dynamic.slot.3.conf=2021-06-24 11:00,aug21new1
@@ -5021,7 +5021,7 @@ xmas2012.calendar.startdate=2012-12-02 00:00
 zendesk.url=https://help.habbo.com/home
 zoom.enabled=1
 
-productdata.load.url=https://www.habbo.com/gamedata/productdata/f0f0df2c4045eba6a5150079ed4480dca5580e04
+productdata.load.url=https://www.habbo.com/gamedata/productdata/0d7a1fd19d4f9fad5525d3a7453d9b801c4dc722
 external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/9895dbfb04fdc2cc016e5215606db4961f13c6f9
 flash.client.url=https://images.habbo.com/gordon/PRODUCTION-202108242203-847371901/
 furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/fab535bfc4fe5c301c7edc9541f9aba4bb8427a4
