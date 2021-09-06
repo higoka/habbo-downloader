@@ -5042,6 +5042,6 @@ zoom.enabled=1
 productdata.load.url=https://www.habbo.com/gamedata/productdata/01f48c40222c8df8cc672d10c88b699846a128f2
 external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/46b6f73e99c23455ad2751b9a125eebf35310865
 flash.client.url=https://images.habbo.com/gordon/PRODUCTION-202108242203-847371901/
-furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/d7b3a8d9203edf859e2c796d7116712aa5b7b63c
+furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/c2aa151f1a963db497368fbbe0469947cec7e63a
 external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/46b6f73e99c23455ad2751b9a125eebf35310865
 external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/926b5d1963cf5595af87590335695c8bebf7f58d
