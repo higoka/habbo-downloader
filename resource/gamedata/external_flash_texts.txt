@@ -16961,6 +16961,7 @@ badge_name_VPV19=Caught on Camera
 badge_name_VPV20=Frenchie
 badge_name_VPV21=Time's Up!
 badge_name_VPV22=HabboLympix Gym Bundle
+badge_name_VPV23=British Bulldog Giveaway
 badge_name_VPV24=80's Throwback! Competition Winner
 badge_name_VPV25=For making the top 5 in the 80's Throwback! competition
 badge_name_VPV26=For participating in the 80's Throwback! competition
