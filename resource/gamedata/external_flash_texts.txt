@@ -15192,6 +15192,7 @@ badge_name_StarsRoom=Habbo Stars Gremlin
 badge_name_StarsRoom_Top100=Habbo Stars Gremlin
 badge_name_StarsRoom_Top10=Habbo Stars Gremlin
 badge_name_T079=Don't Use!!
+badge_name_TBL01=Tables Offer 1
 badge_name_TBLT1=HiPad Early Adopter
 badge_name_TBLT2=HiPad Enthusiast
 badge_name_TBLT3=HiPad One Month-iversary
@@ -33790,6 +33791,8 @@ targeted.offer.extra20_sofas2_tto_all.desc=<a href="event:habbopages/5sofas2tto2
 targeted.offer.extra20_sofas2_tto_all.title=Sofas Offer Two
 targeted.offer.extra20_sofas3_tto_all.desc=<a href="event:habbopages/5sofas3tto20">Click here</a> to see a list of all the items included in this deal
 targeted.offer.extra20_sofas3_tto_all.title=Sofas Offer Three
+targeted.offer.extra20_tables1_tto_all.desc=<a href="event:habbopages/9tables1tto21">Click here</a> to see a list of all the items included in this deal
+targeted.offer.extra20_tables1_tto_all.title=Tables Offer 1
 targeted.offer.extra20_walls1_tto_all.desc=<a href="event:habbopages/2walls1tto20">Click here</a> to see a list of all the items included in this deal
 targeted.offer.extra20_walls1_tto_all.title=Walls Offer One
 targeted.offer.extra20_walls2_tto_all.desc=<a href="event:habbopages/2walls2tto20">Click here</a> to see a list of all the items included in this deal
