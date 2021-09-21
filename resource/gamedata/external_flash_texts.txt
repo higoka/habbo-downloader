@@ -19502,6 +19502,7 @@ featured.offer.sep21r4.title=RARE Lovely Little Teapot!
 featured.offer.sep21stump1.title=Fungal Stumps!
 featured.offer.sep21stump2.title=NEW Mushroom Month Items!
 featured.offer.sept21magicstack.title=Magic Stack Tiles!
+featured.offer.sept21rainbowltd.title=Rainbow Dragon Lamp LTD!
 featured.offer.sept21relephant.title=RARE Elephant Statue!
 featured.offer.sept21rfan.title=RARE Black Powered Fan!
 featured.offer.sept21rparasol.title=RARE Black Parasol!
