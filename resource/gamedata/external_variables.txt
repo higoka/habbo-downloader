@@ -5090,9 +5090,9 @@ xmas2012.calendar.startdate=2012-12-02 00:00
 zendesk.url=https://help.habbo.com/home
 zoom.enabled=1
 
-productdata.load.url=https://www.habbo.com/gamedata/productdata/ec0110660fa57c999ee64f5f3c8d7ca0a850c892
+productdata.load.url=https://www.habbo.com/gamedata/productdata/38cd1f43f2190743b9fe06a26934cb888d1ed5f0
 external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/0331159f93abe9780d6198cbc60e02c3227dd97e
 flash.client.url=https://images.habbo.com/gordon/PRODUCTION-202108242203-847371901/
-furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/5b0a8fc29d9de36d40583aff7692ee727c4519ea
+furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/0635168c78c94f59b3275c8090402c6a46e7f85c
 external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/0331159f93abe9780d6198cbc60e02c3227dd97e
 external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/620a319ad62f11ba38a5b715d6296c5b5f0d0a21
