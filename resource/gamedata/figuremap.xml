@@ -200,10 +200,8 @@
     <part id="2704" type="lg"/>
     <part id="2705" type="lg"/>
   </lib>
-  <lib id="shirt_U_shellbikini" revision="56282">
+  <lib id="shirt_U_shellbikini" revision="66789">
     <part id="2563" type="ch"/>
-    <part id="2563" type="ls"/>
-    <part id="2563" type="rs"/>
     <part id="2564" type="ch"/>
   </lib>
   <lib id="shirt_M_vneck" revision="35966">
@@ -440,7 +438,7 @@
     <part id="3493" type="ch"/>
     <part id="3494" type="ch"/>
   </lib>
-  <lib id="shirt_U_skele" revision="36694">
+  <lib id="shirt_U_skele" revision="66789">
     <part id="2392" type="ch"/>
     <part id="2392" type="ls"/>
     <part id="2392" type="rs"/>
@@ -884,7 +882,7 @@
     <part id="3124" type="rs"/>
     <part id="3125" type="ch"/>
   </lib>
-  <lib id="jacket_U_cloak" revision="50272">
+  <lib id="jacket_U_cloak" revision="66789">
     <part id="2509" type="cc"/>
     <part id="2509" type="lc"/>
     <part id="2509" type="rc"/>
@@ -2444,12 +2442,12 @@
     <part id="3141" type="rs"/>
     <part id="3142" type="ch"/>
   </lib>
-  <lib id="shirt_M_meowtfit" revision="56282">
+  <lib id="shirt_M_meowtfit" revision="66789">
     <part id="2567" type="ch"/>
     <part id="2567" type="ls"/>
     <part id="2567" type="rs"/>
     <part id="2568" type="ch"/>
-    <part id="2569" type="ch"/>
+    <part id="2569" type="ls"/>
   </lib>
   <lib id="jacket_U_longscarf" revision="65389">
     <part id="2935" type="cc"/>
@@ -2466,7 +2464,7 @@
   <lib id="acc_eye_U_hipsterglasses" revision="61363">
     <part id="2825" type="ea"/>
   </lib>
-  <lib id="shirt_U_cychest" revision="65959">
+  <lib id="shirt_U_cychest" revision="66789">
     <part id="3821" type="ch"/>
     <part id="3821" type="ls"/>
     <part id="3821" type="rs"/>
@@ -2506,12 +2504,12 @@
     <part id="2139" type="ca"/>
     <part id="2140" type="ca"/>
   </lib>
-  <lib id="shirt_F_meowtfit" revision="56410">
+  <lib id="shirt_F_meowtfit" revision="66789">
     <part id="2570" type="ch"/>
     <part id="2570" type="ls"/>
     <part id="2570" type="rs"/>
     <part id="2571" type="ch"/>
-    <part id="2572" type="ch"/>
+    <part id="2572" type="ls"/>
   </lib>
   <lib id="hat_U_inuithood" revision="66008">
     <part id="3827" type="ha"/>
@@ -2554,11 +2552,10 @@
   <lib id="acc_eye_U_eyestrawberry" revision="65640">
     <part id="3691" type="ea"/>
   </lib>
-  <lib id="jacket_U_spikes" revision="36694">
-    <part id="2385" type="cc"/>
+  <lib id="jacket_U_spikes" revision="66789">
     <part id="2385" type="lc"/>
     <part id="2385" type="rc"/>
-    <part id="2386" type="cc"/>
+    <part id="2386" type="lc"/>
   </lib>
   <lib id="acc_face_U_mouthhugger" revision="63232">
     <part id="2997" type="fa"/>
@@ -4100,7 +4097,7 @@
     <part id="2853" type="ch"/>
     <part id="2854" type="ch"/>
   </lib>
-  <lib id="shirt_U_flowytop" revision="64952">
+  <lib id="shirt_U_flowytop" revision="66789">
     <part id="3470" type="ch"/>
     <part id="3470" type="ls"/>
     <part id="3470" type="rs"/>
@@ -4446,7 +4443,7 @@
     <part id="2878" type="ca"/>
     <part id="2879" type="ca"/>
   </lib>
-  <lib id="acc_head_U_goggles" revision="57342">
+  <lib id="acc_head_U_goggles" revision="66796">
     <part id="2641" type="he"/>
     <part id="2642" type="he"/>
     <part id="2643" type="he"/>
@@ -4935,17 +4932,13 @@
     <part id="4095" type="hrb"/>
     <part id="4096" type="hr"/>
   </lib>
-  <lib id="shirt_F_valcorset" revision="66216">
+  <lib id="shirt_F_valcorset" revision="66789">
     <part id="4100" type="ch"/>
-    <part id="4100" type="ls"/>
-    <part id="4100" type="rs"/>
     <part id="4101" type="ch"/>
     <part id="4102" type="ch"/>
   </lib>
-  <lib id="shirt_M_valcorset" revision="66216">
+  <lib id="shirt_M_valcorset" revision="66789">
     <part id="4097" type="ch"/>
-    <part id="4097" type="ls"/>
-    <part id="4097" type="rs"/>
     <part id="4098" type="ch"/>
     <part id="4099" type="ch"/>
   </lib>
@@ -5262,6 +5255,62 @@
     <part id="4266" type="lc"/>
     <part id="4266" type="rc"/>
   </lib>
+  <lib id="shirt_F_conductorwaistcoat" revision="66797">
+    <part id="4363" type="ch"/>
+    <part id="4363" type="ls"/>
+    <part id="4363" type="rs"/>
+    <part id="4364" type="ch"/>
+    <part id="4365" type="ch"/>
+  </lib>
+  <lib id="acc_face_U_conductortache" revision="66797">
+    <part id="4359" type="fa"/>
+  </lib>
+  <lib id="shirt_M_conductorwaistcoat" revision="66797">
+    <part id="4366" type="ch"/>
+    <part id="4366" type="ls"/>
+    <part id="4366" type="rs"/>
+    <part id="4367" type="ch"/>
+    <part id="4368" type="ch"/>
+  </lib>
+  <lib id="hat_U_conductor" revision="66797">
+    <part id="4360" type="ha"/>
+    <part id="4361" type="ha"/>
+    <part id="4362" type="ha"/>
+  </lib>
+  <lib id="acc_head_U_earringbauble" revision="66812">
+    <part id="4371" type="he"/>
+    <part id="4372" type="he"/>
+    <part id="4373" type="he"/>
+  </lib>
+  <lib id="hair_U_governess" revision="66812">
+    <part id="4320" type="hr"/>
+    <part id="4320" type="hrb"/>
+    <part id="4374" type="hr"/>
+  </lib>
+  <lib id="shirt_U_governessdress" revision="66821">
+    <part id="4375" type="ch"/>
+    <part id="4375" type="ls"/>
+    <part id="4375" type="rs"/>
+    <part id="4376" type="ch"/>
+  </lib>
+  <lib id="jacket_F_salesjacket" revision="66822">
+    <part id="4378" type="cc"/>
+    <part id="4378" type="lc"/>
+    <part id="4378" type="rc"/>
+  </lib>
+  <lib id="acc_chest_U_salescase" revision="66822">
+    <part id="4379" type="ca"/>
+    <part id="4380" type="ca"/>
+    <part id="4381" type="ca"/>
+  </lib>
+  <lib id="acc_head_U_hollyhairpin" revision="66822">
+    <part id="4382" type="he"/>
+  </lib>
+  <lib id="jacket_M_salesjacket" revision="66822">
+    <part id="4377" type="cc"/>
+    <part id="4377" type="lc"/>
+    <part id="4377" type="rc"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
@@ -5301,7 +5350,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="66462">
+  <lib id="hh_human_item" revision="66808">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -5522,6 +5571,7 @@
     <part id="245" type="ri"/>
     <part id="246" type="ri"/>
     <part id="247" type="ri"/>
+    <part id="248" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
