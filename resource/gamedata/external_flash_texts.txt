@@ -33300,6 +33300,7 @@ roomevent_type_6=Grand Openings
 roomevent_type_7=Friending
 roomevent_type_8=Jobs
 roomevent_type_9=Group Events
+roomid.description=The temperature is %roomid% degrees in room... oh wait, that was the room id.
 roompassword.description=This room is locked with a password. Please enter the correct password to access the room.
 roompassword.enter_password=Enter password:
 roompassword.title=Password
