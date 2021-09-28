@@ -5311,6 +5311,14 @@
     <part id="4377" type="lc"/>
     <part id="4377" type="rc"/>
   </lib>
+  <lib id="hat_U_drinkhat" revision="66837">
+    <part id="4383" type="ha"/>
+  </lib>
+  <lib id="hat_U_catbeanie" revision="66841">
+    <part id="4384" type="ha"/>
+    <part id="4385" type="ha"/>
+    <part id="4386" type="ha"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
