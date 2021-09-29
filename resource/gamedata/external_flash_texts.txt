@@ -12939,6 +12939,7 @@ badge_name_HSJ18=Trapped by an Aka Manto
 badge_name_HSJ19=The final battle against princess Nary
 badge_name_HSJ20=On the hunt for the missing purification scrolls
 badge_name_HSJ21=Found the secret key to the old monk's cabin
+badge_name_HSJ23=Banquet Offer
 badge_name_HSL02=Habbo (Blooper) Star
 badge_name_HSO01=Big Hospital Drama Bundle
 badge_name_HSO02=Hospital Drama Bundle
@@ -34061,6 +34062,8 @@ targeted.offer.oct18_washliquid_tto_all.desc=Jumpstart your Habboween crafting a
 targeted.offer.oct18_washliquid_tto_all.title=10x Super Strength Bleach Offer!
 targeted.offer.oct19_clothing_tto_all.desc=Save 20% on awesome clothing for the next Habboween party you attend!
 targeted.offer.oct19_clothing_tto_all.title=Habboween Party Deal
+targeted.offer.oct21_food_tto_all.desc=<a href="event:habbopages/10foodtto21">Click here</a> to see a list of all the items included in this deal
+targeted.offer.oct21_food_tto_all.title=Banquet offer!
 targeted.offer.open.habbomall=Open the Shop
 targeted.offer.palooza_tko_gr1.desc=The time has come to look for the best spot to pitch your tent! With this pack you can ensure you have access to the BEST clothes and hairstyles in the Hotel with HC membership, plus grab a shiny new badge AND a bunch of sweet-looking furni… come to Habbo 15 prepared; don't miss out! <br><br>Offer is limited to one per person and includes:<br>- 65 Bronze coins (worth 65c)<br>- <a href="event:habbopages/habboclub">HC 1 month</a> (worth 25c)<br>- Hoopla Tent (worth 20c)<br>- Hook-a-Duck (worth 15c)<br>- Red Plane Landing Pad (worth 8c)<br>- Blue Plane Landing Pad (worth 8c)<br>- Badge (for free)
 targeted.offer.palooza_tko_gr1.title=Habbo 15 Festival Pack
