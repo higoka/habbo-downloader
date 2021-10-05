@@ -12945,6 +12945,7 @@ badge_name_HSJ22=There's no hiding from Yokais!
 badge_name_HSJ23=Banquet Offer
 badge_name_HSJ24=Beverage Collector Deal
 badge_name_HSJ25=Teleport Collector Deal
+badge_name_HSJ26=Freaky Fairground Bundle
 badge_name_HSL02=Habbo (Blooper) Star
 badge_name_HSO01=Big Hospital Drama Bundle
 badge_name_HSO02=Hospital Drama Bundle
