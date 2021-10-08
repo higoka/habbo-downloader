@@ -19578,6 +19578,7 @@ featured.offer.sept21rainbowltd.title=Rainbow Dragon Lamp LTD!
 featured.offer.sept21relephant.title=RARE Elephant Statue!
 featured.offer.sept21rfan.title=RARE Black Powered Fan!
 featured.offer.sept21rparasol.title=RARE Black Parasol!
+featured.offer.shirts_discount.title=40% OFF Shirts!
 featured.offer.soap16collectible.title=Rare Collectible Fishtanks
 featured.offer.soap16oldrare.title=New Classic Rare
 featured.offer.spirit21cloth.title=Spirits of Japan Clothing
