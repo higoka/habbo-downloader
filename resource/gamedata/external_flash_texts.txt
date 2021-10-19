@@ -4052,6 +4052,7 @@ badge_desc_ES733=I successfully completed chemistry class with HabboShire.com
 badge_desc_ES734=For winning the Cosy Garden furni merging competition!
 badge_desc_ES739=Happy 1st Habboversary, KitchenNinjette!
 badge_desc_ES746=Oh Deer, another HFFM Christmas!
+badge_desc_ES75K=
 badge_desc_ES770=
 badge_desc_ES772=Celebrated FlyHabbo´s 2nd Birthday on November 29 2014
 badge_desc_ES776=For making an impressive Christmas GIF.
@@ -8231,6 +8232,8 @@ badge_desc_US226=I launched into space with Habbox!
 badge_desc_US227=
 badge_desc_US228=
 badge_desc_US229=
+badge_desc_US230=
+badge_desc_US231=
 badge_desc_US232=
 badge_desc_US2=EyeToy: Play 2 Air Guitar (Guitar)
 badge_desc_US6=NBC Olympics Badge
@@ -10718,6 +10721,7 @@ badge_name_BBJ09=Rare Cordoroy Dungarees
 badge_name_BBJ10=Rare Harvesting Braid
 badge_name_BBJ11=Rare Bubblejuice Dispenser
 badge_name_BBJ12=Rare Atmospheric Fireplace
+badge_name_BBJ13=Black Friday Offer
 badge_name_BDC01=Notable Badge Designer
 badge_name_BDC02=Monumental Badge Maker
 badge_name_BE1=Official BETA tester
@@ -11969,6 +11973,7 @@ badge_name_ES733=Back to School with HabboShire
 badge_name_ES734=Expert Cosy Garden Merger
 badge_name_ES739=ES739
 badge_name_ES746=Oh Deer, another HFFM Christmas!
+badge_name_ES75K=Would you like to play a game with me?
 badge_name_ES770=New Years Resolutions with HabboQuests!
 badge_name_ES772=FlyHabbo 2nd Birthday
 badge_name_ES776=Christmas GIFt
@@ -16803,6 +16808,8 @@ badge_name_US226=HabboX Space Launch
 badge_name_US227=I'll cover you!
 badge_name_US228=This looks like acorny badge!
 badge_name_US229=The new age of Kumandra with HabboQuests & USDF!
+badge_name_US230=Red Light, Green Light!
+badge_name_US231=Player 001
 badge_name_US232=The four elements
 badge_name_US2=EyeToy: Play 2 Air Guitar (Guitar)
 badge_name_US6=NBC Olympics Badge
@@ -34114,6 +34121,8 @@ targeted.offer.nov19_teleport_tto_all.desc=<a href="event:habbopages/11teleptto1
 targeted.offer.nov19_teleport_tto_all.title=Teleport Collector Deal!
 targeted.offer.nov20_tko_gr1.desc=<a href="event:habbopages/11offer1tto20">This deal includes 60 bronze coins + Exclusive New Unicorn Hat 2.0 + Fruity Slush Dispenser +  HC 1 month + Badge
 targeted.offer.nov20_tko_gr2.desc=<a href="event:habbopages/11offer2tto20">This deal includes 70 bronze coins + 2x Exclusive New Unicorn Hat 2.0 + Fruity Slush Dispenser + Jack Frost's Lunch + Pompom Beanie + 2018 Christmas Mittens + Wooly Bear Scarf + HC 3 months + Badge
+targeted.offer.nov21_tko_gr1.desc=<a href="event:habbopages/11offer1tto20">This deal includes 70 bronze coins + Exclusive Cat Eared Beanie + Frozen Waterfall + Stone Arch + Woodland Shrine + Stone Cauldron + HC 1 month + Badge
+targeted.offer.nov21_tko_gr2.desc=<a href="event:habbopages/11offer2tto20">This deal includes 80 bronze coins + 3x exclusive Cat Eared Beanie + Frozen Waterfall + Stone Arch + 3x Frozen Stream + 4x Snow-covered Rocks + Snowy Rock Bridge + HC 3 months + Badge
 targeted.offer.ny16_tko_gr1.desc=Don't turn up to a New Years Eve party without this must-have party furni this year! Confetti, drinks, stars... Don't miss out! <br><br>Offer is limited to one per person and includes:<br>- 70 bronze coins (worth 70c)<br>- <a href="event:habbopages/habboclub">HC 1 month</a> (worth 25c)<br>- Rare Snazzy Star Decoration (worth 25c)<br>- Party Bar (worth 8c)<br>- Confetti Ball (worth 6c)<br>- Small Confetti Floor (worth 2c)<br>- Rare Badge (for free)
 targeted.offer.ny16_tko_gr1.title=Starry New Years Offer
 targeted.offer.ny16_tko_gr2.desc=Make sure your New Years Eve party is talked about for years to come with this SPECTACULAR deal! <br><br>Offer is limited to one per person and includes:<br>- Emerald Ring (worth 100c)<br>- <a href="event:habbopages/habboclub">HC 3 months</a> (worth 60c)<br>- Rare Snazzy Star Decoration (worth 25c)<br>- Party Bar (worth 8c)<br>- Confetti Ball (worth 6c)<br>- Large Confetti Floor x4 (worth 16c)<br>- Drinks tray (worth 3c)<br>- New Years Balloons (worth 3c)<br>- Rare Badge (for free)
