@@ -3252,7 +3252,7 @@
     <part id="2002" type="rc"/>
     <part id="2003" type="cc"/>
   </lib>
-  <lib id="shoes_U_bloodshoes" revision="64320">
+  <lib id="shoes_U_bloodshoes" revision="66894">
     <part id="3245" type="sh"/>
     <part id="3246" type="sh"/>
     <part id="3247" type="sh"/>
@@ -5255,7 +5255,7 @@
     <part id="4266" type="lc"/>
     <part id="4266" type="rc"/>
   </lib>
-  <lib id="shirt_F_conductorwaistcoat" revision="66797">
+  <lib id="shirt_F_conductorwaistcoat" revision="66866">
     <part id="4363" type="ch"/>
     <part id="4363" type="ls"/>
     <part id="4363" type="rs"/>
@@ -5265,7 +5265,7 @@
   <lib id="acc_face_U_conductortache" revision="66797">
     <part id="4359" type="fa"/>
   </lib>
-  <lib id="shirt_M_conductorwaistcoat" revision="66797">
+  <lib id="shirt_M_conductorwaistcoat" revision="66865">
     <part id="4366" type="ch"/>
     <part id="4366" type="ls"/>
     <part id="4366" type="rs"/>
@@ -5318,6 +5318,77 @@
     <part id="4384" type="ha"/>
     <part id="4385" type="ha"/>
     <part id="4386" type="ha"/>
+  </lib>
+  <lib id="shirt_U_cosydungarees" revision="66921">
+    <part id="4393" type="ch"/>
+    <part id="4393" type="ls"/>
+    <part id="4393" type="rs"/>
+    <part id="4394" type="ch"/>
+    <part id="4395" type="ch"/>
+  </lib>
+  <lib id="hat_U_conehat" revision="66888">
+    <part id="4387" type="ha"/>
+    <part id="4388" type="ha"/>
+    <part id="4389" type="ha"/>
+  </lib>
+  <lib id="hair_U_milkmaidbraid" revision="66853">
+    <part id="4391" type="hr"/>
+    <part id="4391" type="hrb"/>
+    <part id="4392" type="hr"/>
+  </lib>
+  <lib id="hat_U_limehead" revision="66853">
+    <part id="4390" type="ha"/>
+  </lib>
+  <lib id="hair_U_noble" revision="66884">
+    <part id="4322" type="hr"/>
+    <part id="4322" type="hrb"/>
+    <part id="4328" type="hr"/>
+  </lib>
+  <lib id="shirt_F_nobledress" revision="66884">
+    <part id="4330" type="ch"/>
+    <part id="4330" type="ls"/>
+    <part id="4330" type="rs"/>
+    <part id="4340" type="ch"/>
+    <part id="4396" type="ch"/>
+  </lib>
+  <lib id="hat_U_headmirror" revision="66884">
+    <part id="4401" type="ha"/>
+    <part id="4402" type="ha"/>
+    <part id="4403" type="ha"/>
+  </lib>
+  <lib id="acc_eye_U_doctorsglasses" revision="66884">
+    <part id="4404" type="ea"/>
+    <part id="4405" type="ea"/>
+    <part id="4406" type="ea"/>
+  </lib>
+  <lib id="acc_head_U_stethoscope" revision="66884">
+    <part id="4407" type="he"/>
+    <part id="4408" type="he"/>
+    <part id="4409" type="he"/>
+  </lib>
+  <lib id="jacket_U_warmoversizedcoat" revision="66884">
+    <part id="4398" type="cc"/>
+    <part id="4398" type="lc"/>
+    <part id="4398" type="rc"/>
+    <part id="4399" type="cc"/>
+    <part id="4400" type="cc"/>
+  </lib>
+  <lib id="shirt_M_nobledress" revision="66884">
+    <part id="4341" type="ch"/>
+    <part id="4341" type="ls"/>
+    <part id="4341" type="rs"/>
+    <part id="4342" type="ch"/>
+    <part id="4397" type="ch"/>
+  </lib>
+  <lib id="acc_chest_U_pearlnecklace" revision="66895">
+    <part id="4353" type="ca"/>
+    <part id="4356" type="ca"/>
+  </lib>
+  <lib id="jacket_U_train" revision="66907">
+    <part id="4357" type="cc"/>
+    <part id="4357" type="lc"/>
+    <part id="4357" type="rc"/>
+    <part id="4358" type="cc"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
