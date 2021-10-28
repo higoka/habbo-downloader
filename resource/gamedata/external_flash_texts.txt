@@ -27114,6 +27114,7 @@ navigator.filter.owner=Owner
 navigator.filter.room.name=Room Name
 navigator.filter.tag=Tag
 navigator.flatcategory.global.Agencies=Agencies
+navigator.flatcategory.global.BAW:BuildersatWork=BAW : Builders at Work
 navigator.flatcategory.global.BC=$navigator.flatcategory.global.BC$
 navigator.flatcategory.global.BC=Builders' Club
 navigator.flatcategory.global.BUILDING=Building and decoration
