@@ -14637,6 +14637,7 @@ badge_name_RAR04=The Great Golden
 badge_name_RB001=Pet Sanctuary Room Bundle
 badge_name_RBM01=RARE Shishi Odoishi
 badge_name_RBS02=RBI End of Season Commemorative Badge
+badge_name_RCB02=RARE Emerald Road Barrier
 badge_name_RCY01=Rare Rooster Balloon
 badge_name_RDJ01=Diner 2013
 badge_name_RDL02=Rare Blue Dragon Lamp
