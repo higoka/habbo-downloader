@@ -10742,6 +10742,7 @@ badge_name_BBJ14=The Bubblejuice Brewery is open for business!
 badge_name_BBJ15=Rare Bubblejuice Floor
 badge_name_BBJ16=Rare Bubblejuice Can
 badge_name_BBJ17=Rare Bubblejuice Floor
+badge_name_BBJ18=Completed the Bubblejuice Circuit!
 badge_name_BDC01=Notable Badge Designer
 badge_name_BDC02=Monumental Badge Maker
 badge_name_BE1=Official BETA tester
