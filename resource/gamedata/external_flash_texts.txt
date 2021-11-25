@@ -95,6 +95,9 @@
 21aug13.image=web_promo_small/spromo_helicoptergame.png
 21aug13.text=Time's Up!\n\nYou managed to catch up with Virginia right when she was trying to get in the helicopter to escape town.\n\nDon't let her escape or all your hard work will go to waste.\n\nHow to play:\n\n- Stand on the arrow plate and then move around the game are and turn all the lights red by stepping on the ringplates placed around the helicopter.\n- If Virginia manages to be faster than you and turns all the lights green she'll win and be on her way to plan her next big scam.\n- You only have 60 seconds to stop her so you better move fast.\n
 21aug13.title=Vaporwave Vibes
+21dec00.image=web_promo_small/spromo_startroomxmas21.png
+21dec00.text=A new game will open every day between December 1st until Christmas Day. To use the teleport just say tele01, tele02, etc
+21dec00.title=Welcome to the Habbo Express Train!
 21dec01.image=web_promo_small/spromo_trainxmasgame1.png
 21dec01.text=Habbo Express Railway Station\n\nYou're late for meeting the governor who has reserved a special assignment for you while you head back home for the holidays. Don't waste any time and head over to your gate, make sure you don't get left behind or let anyone take the last available seat.\n\nHow to play:\n\n- Race the bot for the last empty seat in the train.\n- Walk over the pillows and through the one way doors to reach the teleport that will take you inside the train.\n- If the bot reaches the train first you'll lose.
 21dec01.title=Habbo Express
