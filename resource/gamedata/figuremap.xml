@@ -5390,6 +5390,62 @@
     <part id="4357" type="rc"/>
     <part id="4358" type="cc"/>
   </lib>
+  <lib id="hat_U_gold9" revision="66941">
+    <part id="4428" type="ha"/>
+  </lib>
+  <lib id="hat_U_gold10" revision="66939">
+    <part id="4429" type="ha"/>
+  </lib>
+  <lib id="hat_U_gold11" revision="66939">
+    <part id="4430" type="ha"/>
+  </lib>
+  <lib id="hat_U_gold12" revision="66939">
+    <part id="4431" type="ha"/>
+  </lib>
+  <lib id="hat_U_gold13" revision="66939">
+    <part id="4432" type="ha"/>
+  </lib>
+  <lib id="hat_U_gold14" revision="66939">
+    <part id="4433" type="ha"/>
+  </lib>
+  <lib id="hat_U_gold15" revision="66939">
+    <part id="4434" type="ha"/>
+  </lib>
+  <lib id="hat_U_gold16" revision="66939">
+    <part id="4435" type="ha"/>
+  </lib>
+  <lib id="acc_head_U_cnytigerears" revision="66945">
+    <part id="4426" type="he"/>
+    <part id="4427" type="he"/>
+  </lib>
+  <lib id="acc_waist_U_cnytigertail" revision="66973">
+    <part id="0" type="wa"/>
+    <part id="1" type="wa"/>
+  </lib>
+  <lib id="hat_U_nystarhat1" revision="67019">
+    <part id="4422" type="ha"/>
+  </lib>
+  <lib id="hat_U_nystarhat2" revision="67019">
+    <part id="4423" type="ha"/>
+  </lib>
+  <lib id="hat_U_nystarhat3" revision="67019">
+    <part id="4436" type="ha"/>
+  </lib>
+  <lib id="hat_U_nystarhat4" revision="67019">
+    <part id="4437" type="ha"/>
+  </lib>
+  <lib id="hat_U_nystarhat5" revision="67019">
+    <part id="4438" type="ha"/>
+  </lib>
+  <lib id="hat_U_nystarhat6" revision="67019">
+    <part id="4439" type="ha"/>
+  </lib>
+  <lib id="hat_U_nystarhat7" revision="67019">
+    <part id="4440" type="ha"/>
+  </lib>
+  <lib id="hat_U_nystarhat8" revision="67019">
+    <part id="4441" type="ha"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
