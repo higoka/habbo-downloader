@@ -140,6 +140,9 @@
 21dec13.image=web_promo_small/spromo_outsidestationxmas21.png
 21dec13.text=Footsteps in the Snow\n\nYou lost sight of the conductor after he left the station, find his footsteps in the snow to see which way he went.\n\nHow to play:\n\n- There are 5 hidden switches in the room that will reveal the conductor's footsteps and the direction he went.\n- You have 1 minute and 30 seconds to find the 5 switches. When you're done step on the footsteps in front of the house to win the prize.
 21dec13.title=Habbo Express
+21dec14.image=web_promo_small/spromo_outsidestationxmas21.png
+21dec14.text=Noble Bird\n\nYou know the conductor is inside this building, all you need to do now is find the right door that will take you to where he is.\n\nYou have one minute to find it
+21dec14.title=Habbo Express
 21dec16.image=web_promo_small/spromo_game16xmas21.png
 21dec16.text=Winter Battered Plants\n\nIt's been a cold winter and its taking a toll on city's plants. Help bring the flowers back to life and prevent them from getting lost during this cold winter.\n\nHow to play:\n\n- Use the Winter Freeze Reprocessed Water that have been placed around the room.\n- Make sure the water hasn't frozen before you try watering the plants.\n- Once you've refilled the water walk over the plants to revive them. You have 1 minute to heal all plants.\n- When you're done, stand near the bandstand to get your prize.
 21dec16.title=Habbo Express
