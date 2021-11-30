@@ -19128,6 +19128,7 @@ extendedprofile.username=<b>%username%</b>
 facebook.create_link_in_web=Go to web
 facebook.link_creation_description=To sign up with Facebook, please go to our website https://www.facebook.com/Habbo/ and login with Facebook there. After you've done this once, you'll be able to login with Facebook from our app. 
 facebook.link_creation_title=Link account to Facebook
+featured.offer.21adsttb.title=Introducing: The Teletubbies!
 featured.offer.america17animal.title=RARE North American Animal
 featured.offer.america17blackp.title=RARE Black Giant Pillow
 featured.offer.america17braids.title=RARE Frontier Braids
@@ -21974,6 +21975,9 @@ keep.hidden.button=Keep hidden
 landing.boutiquefurni.body=Habbo Mall items are now under Boutique section in the Shop
 landing.boutiquefurni.button=To the Shop
 landing.boutiquefurni.title=Boutique Furni
+landing.view.21adsttb.body=Say eh-oh! Our collaboration with The Teletubbies is now available in Habbo! Be sure to check out the whole collection.
+landing.view.21adsttb.button=See the furni!
+landing.view.21adsttb.header=Introducing: The Teletubbies!
 landing.view.2x1offer.body=Have you been saving for a special piece of furni? Or dreaming of joining Habbo Club? Well now is the time to get more bang for your buck! To help you beat the back to school blues, we are offering DOUBLE CREDITS! Available for two weeks only.
 landing.view.2x1offer.button=Go to Credits Page
 landing.view.2x1offer.header=1 + 1 = 4? Double Credits for all!
