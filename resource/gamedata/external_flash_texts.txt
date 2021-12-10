@@ -143,6 +143,9 @@
 21dec14.image=web_promo_small/spromo_outsidestationxmas21.png
 21dec14.text=Noble Bird\n\nYou know the conductor is inside this building, all you need to do now is find the right door that will take you to where he is.\n\nYou have one minute to find it
 21dec14.title=Habbo Express
+21dec15.image=web_promo_small/spromo_noblebirdgame21.png
+21dec15.text=Noble Golden Bird\n\nNow that you've found the Noble Bird is time to place it in the town's square where it'll be displayed during the holiday season.\n\nHow to play:\n\n- Use the arrow tiles to guide the Noble Bird on the yellow cylinder block placed in the middle of the town square.\n- Find the right route and make sure to avoid all the obstacles placed around the room.\n- You have 65 seconds to complete the game. Good luck!
+21dec15.title=Habbo Express
 21dec16.image=web_promo_small/spromo_game16xmas21.png
 21dec16.text=Winter Battered Plants\n\nIt's been a cold winter and its taking a toll on city's plants. Help bring the flowers back to life and prevent them from getting lost during this cold winter.\n\nHow to play:\n\n- Use the Winter Freeze Reprocessed Water that have been placed around the room.\n- Make sure the water hasn't frozen before you try watering the plants.\n- Once you've refilled the water walk over the plants to revive them. You have 1 minute to heal all plants.\n- When you're done, stand near the bandstand to get your prize.
 21dec16.title=Habbo Express
