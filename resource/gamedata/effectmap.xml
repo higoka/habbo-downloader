@@ -204,10 +204,10 @@
   <effect id="198" lib="ZombieDuck" type="fx" revision="63413"/>
   <effect id="199" lib="Turtleride" type="fx" revision="64066"/>
   <effect id="200" lib="RollerSkatingSlide" type="fx" revision="66684"/>
-  <effect id="201" lib="NFTCoin1" type="fx" revision="67051"/>
-  <effect id="202" lib="NFTCoin2" type="fx" revision="67059"/>
-  <effect id="203" lib="NFTCoin3" type="fx" revision="67061"/>
-  <effect id="204" lib="NFTCoin4" type="fx" revision="67064"/>
-  <effect id="205" lib="NFTCoin5" type="fx" revision="67074"/>
-  <effect id="206" lib="NFTCoin6" type="fx" revision="67081"/>
+  <effect id="201" lib="NFTCoin1" type="fx" revision="67093"/>
+  <effect id="202" lib="NFTCoin2" type="fx" revision="67093"/>
+  <effect id="203" lib="NFTCoin3" type="fx" revision="67093"/>
+  <effect id="204" lib="NFTCoin4" type="fx" revision="67093"/>
+  <effect id="205" lib="NFTCoin5" type="fx" revision="67093"/>
+  <effect id="206" lib="NFTCoin6" type="fx" revision="67093"/>
 </map>
