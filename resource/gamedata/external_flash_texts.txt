@@ -173,6 +173,9 @@
 21dec24.image=web_promo_small/spromo_santadelivergame21.png
 21dec24.text=Santa's Gift Delivery\n\nSanta's job is not as easy as we may think. Besides running the risk of getting stuck in other people's chimneys, there's always a someone who tries to set up a trap to "catch" Santa and prove whether he's real or not.\n\nThis time he'll need your help making sure it's safe for him to deliver the gifts. There's no room for mistake, it's the night before Christmas and Santa needs to deliver all his gifts.\n\nHow to play:\n\n- To guide Santa to each house you'll need to walk through the one way doors and step on the tiles until they both have the same color. \n- Avoid getting hit by the snowballs that are moving around the one way doors, if they touch you'll lose and be teleported back to the queue.\n- When Santa has made it to the last house, enter a one way door again to turn one of the tiles green in order to receive your prize.\n- You have 1 minute to help Santa deliver the gifts to all 5 houses.
 21dec24.title=Habbo Express
+21dec25.image=web_promo_small/spromo_game21xmas.png
+21dec25.text=Happy Holidays!\n\nTourists have come from all over the world for the Christimas holidays. Be a good host and help them feel at home by wishing them a Merry Christmas in their own language.\n\nHow to play:\n\n- Walk up to each bot and wish them a Merry Christmas in their language.\n- Check out the sitckie notes for some help.\n- When you're done, pull the lever to collect your prize.
+21dec25.title=Habbo Express
 21feb00.image=web_promo_small/spromo_treasurehabbo.png
 21feb00.text=Your adventure starts here!\n The first thing you'll need is a map to guide to the treasure.\n Find the hidden badge before taking the teleport to the next room.\n
 21feb00.title=Habbo's Underwater Treasure!
