@@ -5832,6 +5832,75 @@
     <part id="4249" type="fc"/>
     <part id="4249" type="ey"/>
   </lib>
+  <lib id="acc_chest_U_net" revision="67147">
+    <part id="4466" type="ca"/>
+    <part id="4467" type="ca"/>
+    <part id="4468" type="ca"/>
+  </lib>
+  <lib id="acc_eye_U_bugeyes" revision="67147">
+    <part id="4463" type="ea"/>
+    <part id="4464" type="ea"/>
+    <part id="4465" type="ea"/>
+  </lib>
+  <lib id="hat_U_snailfriend" revision="67147">
+    <part id="4469" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_mothwings" revision="67147">
+    <part id="4461" type="ca"/>
+  </lib>
+  <lib id="hat_U_snailfriend2" revision="67147">
+    <part id="4470" type="ha"/>
+  </lib>
+  <lib id="acc_head_U_mothantennae" revision="67147">
+    <part id="4462" type="he"/>
+  </lib>
+  <lib id="shirt_M_beetshirt" revision="67153">
+    <part id="4449" type="ch"/>
+    <part id="4449" type="ls"/>
+    <part id="4449" type="rs"/>
+    <part id="4450" type="ch"/>
+    <part id="4451" type="ch"/>
+  </lib>
+  <lib id="shirt_F_beetshirt" revision="67153">
+    <part id="4452" type="ch"/>
+    <part id="4452" type="ls"/>
+    <part id="4452" type="rs"/>
+    <part id="4453" type="ch"/>
+    <part id="4454" type="ch"/>
+  </lib>
+  <lib id="hat_U_hellokittyhat" revision="67162">
+    <part id="4442" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_hellokittybpack" revision="67162">
+    <part id="4443" type="ca"/>
+    <part id="4444" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_ladybirdbag" revision="67175">
+    <part id="4446" type="ca"/>
+    <part id="4447" type="ca"/>
+    <part id="4448" type="ca"/>
+  </lib>
+  <lib id="shirt_F_explorershirt" revision="67189">
+    <part id="4456" type="ch"/>
+    <part id="4456" type="ls"/>
+    <part id="4456" type="rs"/>
+    <part id="4473" type="ch"/>
+  </lib>
+  <lib id="shirt_M_explorershirt" revision="67189">
+    <part id="4455" type="ch"/>
+    <part id="4455" type="ls"/>
+    <part id="4455" type="rs"/>
+    <part id="4472" type="ch"/>
+  </lib>
+  <lib id="trousers_U_explorershorts" revision="67189">
+    <part id="4457" type="lg"/>
+  </lib>
+  <lib id="hair_U_butterflyhair" revision="67190">
+    <part id="4459" type="hr"/>
+    <part id="4459" type="hrb"/>
+    <part id="4460" type="hr"/>
+    <part id="4471" type="hr"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
@@ -5871,7 +5940,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="66808">
+  <lib id="hh_human_item" revision="67161">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -6093,6 +6162,7 @@
     <part id="246" type="ri"/>
     <part id="247" type="ri"/>
     <part id="248" type="ri"/>
+    <part id="249" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
