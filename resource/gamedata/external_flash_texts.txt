@@ -10702,6 +10702,7 @@ badge_name_APC24=LTD4
 badge_name_APC25=Ring ring... who's there?
 badge_name_APC26=A good rest gives you new energy
 badge_name_APC27=Smelly places are the best hiding places - Habboween Secret
+badge_name_APE01=MAYC #18974
 badge_name_AQR01=Aquarium 1
 badge_name_AQR02=Aquarium 2
 badge_name_AQR03=Aquarium 3
