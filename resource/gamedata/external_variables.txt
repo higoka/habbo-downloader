@@ -5343,8 +5343,8 @@ zendesk.url=https://help.habbo.com/home
 zoom.enabled=1
 
 productdata.load.url=https://www.habbo.com/gamedata/productdata/c5e6dd65475723b70a64045994c12e5236e7dd81
-external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/873319114493561ad33d5ec69dbae204176fdf33
+external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/a737187324706e00ded46c2a39e0416d3db9a944
 flash.client.url=https://images.habbo.com/gordon/PRODUCTION-202112172207-831334981/
 furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/72d266a16d04bdd9df7254124af3ff3643593e96
-external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/873319114493561ad33d5ec69dbae204176fdf33
+external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/a737187324706e00ded46c2a39e0416d3db9a944
 external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/1c65b5415f053dc0cec92c9bf9324b64bc99c79f
