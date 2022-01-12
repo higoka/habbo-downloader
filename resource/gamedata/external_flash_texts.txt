@@ -14992,6 +14992,7 @@ badge_name_RUN10=Design Studio
 badge_name_RVL06=Sunset Cafe Bundle
 badge_name_RVL07=Paris Bundle
 badge_name_RVL08=Village Fair Bundle
+badge_name_RVL09=Valentines 2022 TKO
 badge_name_RVL10=Beach Lover Van fan
 badge_name_RVL11=Pretty Pastel Van fan
 badge_name_RVL12=Cozy Camper Van fan
@@ -34456,6 +34457,10 @@ targeted.offer.feb21_rm_val21_tto2a2.desc=This deal includes 90 bronze coins + 3
 targeted.offer.feb21_rm_val21_tto2a2.title=Valentines 2021 Offer
 targeted.offer.feb21_rm_val21_tto2a3.desc=This deal includes 90 bronze coins + 3x exclusive Ice Cream Narwal + Regal Swan + Japanese Gazebo + Floating water Lilies + Petals + HC 3 months + Badge
 targeted.offer.feb21_rm_val21_tto2a3.title=Valentines 2021 Offer
+targeted.offer.feb22_tko_gr1.desc=This deal includes 70 bronze coins + Exclusive Peacock Spider + HC 1 month + Badge
+targeted.offer.feb22_tko_gr1.title=Valentines 2022 Offer
+targeted.offer.feb22_tko_gr2.desc=This deal includes 80 bronze coins + Exclusive Peacock Spider (x2) + Romantic Petals + Chilled Bubblejuice + Bubblejuice Rack + HC 3 month + Badge
+targeted.offer.feb22_tko_gr2.title=Valentines 2022 Offer
 targeted.offer.h15_tko_gr1a.desc=It's amazing how much difference a rose or two makes, isn't it? There's no shortage of them in this deal - and also included is a lovely, ancient Romantique clock! (IF a bit musty smelling). <br><br>Offer is limited to one per person and includes:<br>- 70 bronze coins (worth 70c)<br>- <a href="event:habbopages/habboclub">HC 1 month</a> (worth 25c)<br>- Rare Romantique Clock (worth 25c)<br>- Romantique Dresser (worth 12c)<br>- Pink Coffee Table (worth 5c)<br>- Green Coffee Table (worth 5c)<br>- Rare Badge (for free)
 targeted.offer.h15_tko_gr1a.title=Rosy Romantique Deal
 targeted.offer.h15_tko_gr1b.desc=How CUTE is the Daruma Doll in this deal? With it, you also get an Irori and a Tetsubin Teapot - you could even start your own Japanese restaurant! <br><br>Offer is limited to one per person and includes:<br>- 70 bronze coins (worth 70c)<br>- <a href="event:habbopages/habboclub">HC 1 month</a> (worth 25c)<br>- Rare Aqua Oriental Screen (worth 25c)<br>- Daruma Doll (worth 8c)<br>- Tetsubin Teapot (worth 6c)<br>- Irori Table (worth 10c)<br>- Rare Badge (for free)
