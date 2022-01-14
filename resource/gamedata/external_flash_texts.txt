@@ -19626,6 +19626,7 @@ featured.offer.feb21r1.title=RARE Romantic Corset
 featured.offer.feb21r2.title=RARE Spring Fever Waves
 featured.offer.feb21r3.title=RARE Ornate Wire Grandfather Clock
 featured.offer.feb21r4.title=RARE Chilly Bunny
+featured.offer.feb22cf.title=RARE Giant Pearl Credit Furni
 featured.offer.feb22cloth.title=Van Life Clothing
 featured.offer.feb22r1.title=RARE Clumsily Tied Bun
 featured.offer.feb22r2.title=RARE Boho Print Shirt
