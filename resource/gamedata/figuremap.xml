@@ -4050,7 +4050,7 @@
     <part id="3015" type="fc"/>
     <part id="3016" type="ey"/>
   </lib>
-  <lib id="acc_face_U_wedveil" revision="63025">
+  <lib id="acc_face_U_wedveil" revision="67198">
     <part id="2948" type="fa"/>
     <part id="2949" type="fa"/>
     <part id="2950" type="fa"/>
@@ -5854,14 +5854,14 @@
   <lib id="acc_head_U_mothantennae" revision="67147">
     <part id="4462" type="he"/>
   </lib>
-  <lib id="shirt_M_beetshirt" revision="67153">
+  <lib id="shirt_M_beetshirt" revision="67228">
     <part id="4449" type="ch"/>
     <part id="4449" type="ls"/>
     <part id="4449" type="rs"/>
     <part id="4450" type="ch"/>
     <part id="4451" type="ch"/>
   </lib>
-  <lib id="shirt_F_beetshirt" revision="67153">
+  <lib id="shirt_F_beetshirt" revision="67228">
     <part id="4452" type="ch"/>
     <part id="4452" type="ls"/>
     <part id="4452" type="rs"/>
@@ -5875,7 +5875,7 @@
     <part id="4443" type="ca"/>
     <part id="4444" type="ca"/>
   </lib>
-  <lib id="acc_chest_U_ladybirdbag" revision="67175">
+  <lib id="acc_chest_U_ladybirdbag" revision="67199">
     <part id="4446" type="ca"/>
     <part id="4447" type="ca"/>
     <part id="4448" type="ca"/>
@@ -5900,6 +5900,44 @@
     <part id="4459" type="hrb"/>
     <part id="4460" type="hr"/>
     <part id="4471" type="hr"/>
+  </lib>
+  <lib id="acc_chest_U_beetlebackpack" revision="67197">
+    <part id="4458" type="ca"/>
+  </lib>
+  <lib id="hair_U_messierbun" revision="67211">
+    <part id="4476" type="hr"/>
+    <part id="4476" type="hrb"/>
+  </lib>
+  <lib id="hat_U_bigflowercrown" revision="67216">
+    <part id="4480" type="ha"/>
+    <part id="4481" type="ha"/>
+    <part id="4482" type="ha"/>
+  </lib>
+  <lib id="shirt_U_bouquetdress" revision="67216">
+    <part id="4477" type="ch"/>
+    <part id="4477" type="ls"/>
+    <part id="4477" type="rs"/>
+    <part id="4478" type="ch"/>
+    <part id="4479" type="ch"/>
+  </lib>
+  <lib id="hat_U_sunhat" revision="67230">
+    <part id="4483" type="ha"/>
+    <part id="4484" type="ha"/>
+  </lib>
+  <lib id="shirt_F_bohoshirt" revision="67318">
+    <part id="4475" type="ch"/>
+    <part id="4475" type="ls"/>
+    <part id="4475" type="rs"/>
+  </lib>
+  <lib id="shirt_M_bohoshirt" revision="67319">
+    <part id="4474" type="ch"/>
+    <part id="4474" type="ls"/>
+    <part id="4474" type="rs"/>
+  </lib>
+  <lib id="jacket_U_bohonecklace" revision="67292">
+    <part id="4485" type="cc"/>
+    <part id="4485" type="lc"/>
+    <part id="4485" type="rc"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
