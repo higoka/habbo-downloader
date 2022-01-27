@@ -13775,6 +13775,7 @@ badge_name_J2211=RARE Treasure Fish Tank
 badge_name_J2212=RARE Rococo Clock
 badge_name_J2213=Rare Car Boot Cabinet
 badge_name_J2214=Iridescent Crystalline Growth LTD
+badge_name_J2215=Crafting Items Mega Collector
 badge_name_JAD01=King of Jade
 badge_name_JCB01=Classic Star Lounge Bundle
 badge_name_JCB02=Classic Habburgers Bundle
