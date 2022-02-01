@@ -4461,6 +4461,7 @@ badge_desc_FR14C=
 badge_desc_FR15B=
 badge_desc_FR17A=Love yourself, love each other, we're all =
 badge_desc_FR189=You celebrated Summer Solstice with HabboTiles
+badge_desc_FR19D=In the Valentine’s Spirit this month with the Ambassadors!
 badge_desc_FR262=
 badge_desc_FR266=Congratulations on winning Clicky Business, this week´s Spotlight!
 badge_desc_FR270=...you'd better not go alone.
@@ -12473,6 +12474,7 @@ badge_name_FR14C=I always believed.
 badge_name_FR15B=Struck by HFFM's arrow!
 badge_name_FR17A=Be your true self - Amb June 2021
 badge_name_FR189=Summer Solstice 2014
+badge_name_FR19D=Be our Valentine’s? - Amb Feb 2022
 badge_name_FR262=Aid me with a pumpkin patch
 badge_name_FR266=Clicky Business Spotlight Winner
 badge_name_FR270=If you go into the spooky forest...
