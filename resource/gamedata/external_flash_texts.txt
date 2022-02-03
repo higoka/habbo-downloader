@@ -377,6 +377,9 @@
 22sid11.title=Safer Internet Day 2022!
 22sid12.text=Questions\n\n*1) GDPR fines are designed to sanction only for large businesses, there are other measures for smaller businesses.*\n\na) True nb) False\n*2) Less severe infringements could result in a fine of:*\n\na) €10 million, or 2% of the firm's worldwide annual revenue\nb) €20 million, or 4% of the firm's worldwide annual revenue\n*3) Which of these criterias are use to determine whether a fine is needed and the amount:*\n\na) Intention or gravity\nb) Preventive measures\nc) All of the above
 22sid12.title=Safer Internet Day 2022!
+22sid13.image=web_promo_small/spromo_sid22finalgame.png
+22sid13.text=This time it's your turn to protect other people's personal data from a security breach. Make sure none of the data is lost in order to win the game.\n\nHow to play:\n\n- Sit on the chair and pull the lever to start the game\n- Step on the books that will appear in the game area before the hackbot reaches them.\n- For every time you get to the books first you'll win 10 points. You'll need to score a total of 100 points to move on to the next part.\n- Walk across the color tiles and don't step on the black floor. When you reach the furnis, stand on the green tile and say * to collect the items.\n- Make it to other side of the room before the hackbot reaches the red tile and step on the ring plate to complete the game.\n- If you get stuck, stand on the arrow tile and say *:reset* (Note: don't translate *:reset*)
+22sid13.title=Safer Internet Day 2022!
 50S_badge_name=GreenRecordBadge
 70S_badge_name=PurpleDiscoBadge
 AC4_HHSG_badge_name=TheMightyEagle
