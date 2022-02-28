@@ -15150,6 +15150,7 @@ badge_name_RVR10=Sultan's Palace
 badge_name_RVR11=RARE Bouquet Dress
 badge_name_RVR12=RARE May Queen Crown
 badge_name_RVR13=RARE Tiered Royal Fountain
+badge_name_RVR14=RARE Topiary Animals
 badge_name_RVR15=Collectible Cyberpunk Visor
 badge_name_RVR16=Collectible Cyberpunk Sneakers
 badge_name_RVR17=Collectible Loc Buns
