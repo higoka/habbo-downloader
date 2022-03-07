@@ -19539,6 +19539,7 @@ featured.offer.bundle120.title=Vikings Fleet Bundle
 featured.offer.bundle121.title=Smuggler's Hideout Bundle
 featured.offer.bundle123.title=Superhero Smuggler's Bundle
 featured.offer.bundle126.title=Welcome Lounge Bundle
+featured.offer.bundle128.title=Abandoned Hut Bundle
 featured.offer.bundle129.title=Perilous Jungle Bundle
 featured.offer.bundle13.title=Boutique Shop Bundle
 featured.offer.bundle130.title=Tropical Lagoon Bundle
