@@ -177,7 +177,7 @@
     <part id="3662" type="ch"/>
     <part id="3663" type="ch"/>
   </lib>
-  <lib id="jacket_M_military" revision="61408">
+  <lib id="jacket_M_military" revision="67501">
     <part id="2712" type="cc"/>
     <part id="2712" type="lc"/>
     <part id="2712" type="rc"/>
@@ -5901,7 +5901,7 @@
     <part id="4460" type="hr"/>
     <part id="4471" type="hr"/>
   </lib>
-  <lib id="acc_chest_U_beetlebackpack" revision="67197">
+  <lib id="acc_chest_U_beetlebackpack" revision="67486">
     <part id="4458" type="ca"/>
   </lib>
   <lib id="hair_U_messierbun" revision="67211">
@@ -5913,7 +5913,7 @@
     <part id="4481" type="ha"/>
     <part id="4482" type="ha"/>
   </lib>
-  <lib id="shirt_U_bouquetdress" revision="67216">
+  <lib id="shirt_U_bouquetdress" revision="67490">
     <part id="4477" type="ch"/>
     <part id="4477" type="ls"/>
     <part id="4477" type="rs"/>
@@ -5944,6 +5944,113 @@
   </lib>
   <lib id="trousers_U_mymelodyskirt" revision="67369">
     <part id="4487" type="lg"/>
+  </lib>
+  <lib id="hat_U_gathat" revision="67417">
+    <part id="4513" type="ha"/>
+    <part id="4514" type="ha"/>
+  </lib>
+  <lib id="shirt_M_2layeredshirt" revision="67413">
+    <part id="4492" type="ch"/>
+    <part id="4492" type="ls"/>
+    <part id="4492" type="rs"/>
+    <part id="4493" type="ch"/>
+    <part id="4494" type="ch"/>
+  </lib>
+  <lib id="acc_chest_U_badtzbackpack" revision="67413">
+    <part id="4501" type="ca"/>
+  </lib>
+  <lib id="shirt_M_badtzshirt" revision="67420">
+    <part id="4502" type="ch"/>
+    <part id="4502" type="ls"/>
+    <part id="4502" type="rs"/>
+  </lib>
+  <lib id="trousers_U_cutepunkskirt" revision="67417">
+    <part id="4508" type="lg"/>
+    <part id="4509" type="lg"/>
+    <part id="4510" type="lg"/>
+  </lib>
+  <lib id="hair_U_prideshorthair" revision="67417">
+    <part id="4511" type="hr"/>
+    <part id="4511" type="hrb"/>
+    <part id="4512" type="hr"/>
+  </lib>
+  <lib id="shirt_M_glittertop" revision="67417">
+    <part id="4504" type="ch"/>
+    <part id="4504" type="ls"/>
+    <part id="4504" type="rs"/>
+    <part id="4505" type="ch"/>
+  </lib>
+  <lib id="acc_chest_U_gatbow" revision="67417">
+    <part id="4515" type="ca"/>
+    <part id="4516" type="ca"/>
+  </lib>
+  <lib id="shirt_F_badtzshirt" revision="67420">
+    <part id="4503" type="ch"/>
+    <part id="4503" type="ls"/>
+    <part id="4503" type="rs"/>
+  </lib>
+  <lib id="shirt_F_glittertop" revision="67417">
+    <part id="4506" type="ch"/>
+    <part id="4506" type="ls"/>
+    <part id="4506" type="rs"/>
+    <part id="4507" type="ch"/>
+  </lib>
+  <lib id="hair_U_idolhairshort" revision="67413">
+    <part id="4489" type="hr"/>
+    <part id="4489" type="hrb"/>
+    <part id="4490" type="hr"/>
+    <part id="4491" type="hr"/>
+  </lib>
+  <lib id="hair_U_idolhairlong" revision="67432">
+    <part id="4498" type="hr"/>
+    <part id="4498" type="hrb"/>
+    <part id="4499" type="hr"/>
+    <part id="4500" type="hr"/>
+  </lib>
+  <lib id="shirt_F_2layeredshirt" revision="67413">
+    <part id="4495" type="ch"/>
+    <part id="4495" type="ls"/>
+    <part id="4495" type="rs"/>
+    <part id="4496" type="ch"/>
+    <part id="4497" type="ch"/>
+  </lib>
+  <lib id="trousers_U_grungetrousers" revision="67487">
+    <part id="4517" type="lg"/>
+  </lib>
+  <lib id="trousers_u_modernhanbokskirt" revision="67489">
+    <part id="4519" type="lg"/>
+  </lib>
+  <lib id="jacket_F_techapron" revision="67505">
+    <part id="4520" type="cc"/>
+    <part id="4520" type="lc"/>
+    <part id="4520" type="rc"/>
+    <part id="4521" type="cc"/>
+    <part id="4522" type="cc"/>
+  </lib>
+  <lib id="acc_chest_U_magicstaff" revision="67505">
+    <part id="4526" type="ca"/>
+  </lib>
+  <lib id="jacket_M_techapron" revision="67505">
+    <part id="4523" type="cc"/>
+    <part id="4523" type="lc"/>
+    <part id="4523" type="rc"/>
+    <part id="4524" type="cc"/>
+    <part id="4525" type="cc"/>
+  </lib>
+  <lib id="acc_head_U_headbanddipsy" revision="67512">
+    <part id="4529" type="he"/>
+  </lib>
+  <lib id="hat_U_dipsyhat" revision="67512">
+    <part id="4518" type="ha"/>
+  </lib>
+  <lib id="acc_head_U_headbandpo" revision="67512">
+    <part id="4527" type="he"/>
+  </lib>
+  <lib id="acc_head_U_headbandtinkwinky" revision="67512">
+    <part id="4530" type="he"/>
+  </lib>
+  <lib id="acc_head_U_headbandlaalaa" revision="67512">
+    <part id="4528" type="he"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
@@ -5984,7 +6091,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="67161">
+  <lib id="hh_human_item" revision="67421">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -6207,6 +6314,9 @@
     <part id="247" type="ri"/>
     <part id="248" type="ri"/>
     <part id="249" type="ri"/>
+    <part id="250" type="ri"/>
+    <part id="251" type="ri"/>
+    <part id="252" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">

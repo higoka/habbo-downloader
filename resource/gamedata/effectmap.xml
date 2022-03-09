@@ -210,4 +210,7 @@
   <effect id="204" lib="NFTCoin4" type="fx" revision="67093"/>
   <effect id="205" lib="NFTCoin5" type="fx" revision="67093"/>
   <effect id="206" lib="NFTCoin6" type="fx" revision="67093"/>
+  <effect id="207" lib="LightstickBlue" type="fx" revision="67449"/>
+  <effect id="208" lib="LightstickRed" type="fx" revision="67453"/>
+  <effect id="209" lib="LightstickGreen" type="fx" revision="67453"/>
 </map>
