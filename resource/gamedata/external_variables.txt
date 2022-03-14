@@ -5422,4 +5422,4 @@ external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/5acec4bd7
 flash.client.url=https://images.habbo.com/gordon/PRODUCTION-202203112209-685651186/
 furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/55d339504fa8c21e6bc4f4708186f332cbb861a0
 external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/5acec4bd795c8a0ef76d37d86afd349d6583a4eb
-external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/cb958315cc245137bfb52952f253219daad023af
+external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/527768c6dfd296438dfc395ee8c07543d6ef5d1c
