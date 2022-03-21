@@ -20394,6 +20394,7 @@ friend.furniture.confirm.lock.button.confirm=Confirm
 friend.furniture.confirm.lock.caption=Friendship Furni
 friend.furniture.confirm.lock.other.locked=Your friend has confirmed, your turn.
 friend.furniture.confirm.lock.subtitle=Show off your friendship to the world!
+friend.offline=Your friend is offline.
 friend.remove.from.list=Are you sure you don't want to be friends with %username%?
 friend.requests.accept.all=Accept all friend requests and become friends with them?
 friend.requests.reject.all=Are you sure you don't want to become friends with anyone who sent you a friend request?
