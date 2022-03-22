@@ -6052,6 +6052,29 @@
   <lib id="acc_head_U_headbandlaalaa" revision="67512">
     <part id="4528" type="he"/>
   </lib>
+  <lib id="shirt_M_ukraine" revision="67551">
+    <part id="4534" type="ch"/>
+    <part id="4534" type="ls"/>
+    <part id="4534" type="rs"/>
+    <part id="4535" type="ch"/>
+  </lib>
+  <lib id="shirt_F_ukraine" revision="67551">
+    <part id="4536" type="ch"/>
+    <part id="4536" type="ls"/>
+    <part id="4536" type="rs"/>
+    <part id="4537" type="ch"/>
+  </lib>
+  <lib id="jacket_U_galaxycape" revision="67568">
+    <part id="4538" type="cc"/>
+    <part id="4538" type="lc"/>
+    <part id="4538" type="rc"/>
+    <part id="4539" type="cc"/>
+    <part id="4540" type="cc"/>
+  </lib>
+  <lib id="face_U_idolmakeup" revision="67570">
+    <part id="4532" type="fc"/>
+    <part id="4533" type="ey"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
