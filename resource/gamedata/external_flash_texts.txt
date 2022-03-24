@@ -8243,6 +8243,7 @@ badge_desc_UKP=ST Perfect
 badge_desc_UKP_HHUK=Winner of the St Trinians perfect prefect competition.
 badge_desc_UKQ=ST Head Boy
 badge_desc_UKQ_HHUK=Winner of St Trinians Head Boy competition.
+badge_desc_UKR01=Stand with Ukraine
 badge_desc_UKR=ST Head Girl
 badge_desc_UKR_HHUK=Winner of St Trinians Head Girl competition.
 badge_desc_UKS=Perfect
