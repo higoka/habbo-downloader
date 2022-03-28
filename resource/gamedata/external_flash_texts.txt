@@ -20264,6 +20264,7 @@ featured.offer.suncity19fountain.title=RARE Aqua Crystal Fountain
 featured.offer.suncity19ltd.title=Duck Sanctuary LTD
 featured.offer.suncity19new.title=Sunlight City
 featured.offer.suncity19old.title=Cityscape
+featured.offer.tbb_promo2.title=Happy Teletubbies Day!
 featured.offer.tokyo18back.title=RARE Kitty Backpack
 featured.offer.tokyo18carp.title=RARE Koi Carp Kites
 featured.offer.tokyo18clothing.title=Tokyo Clothing
