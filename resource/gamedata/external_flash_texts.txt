@@ -343,7 +343,7 @@
 22earth05.text=Oceania\n\nClimate change has been one of the main reasons for the increase of deadly fires around the globe in the recent years.\n\nThese wildfires have destroyed the homes of many animals, leaving them trapped with no way out. This time you'll need to help the animals make it out in time before the fire reaches them.\n\nHow to play:\n\n- Rescue the 4 animals that have been trapped by the fire by running through the wall of flame. You will need to run in and out of the fire as fast as you can or might find yourself trapped by the flames.\n- If you get stuck and can't find a way out just say *:reset* to start again.\n- Once all the animals are safe, walk on the white lines on the road before them time ends to receive your prize.
 22earth05.title=Earth Hour!
 22earth06.image=web_promo_small/spromo_oceaniaearthhour.png
-22earth06.text=Africa\n\nYour team has decided to head over to Africa, more precisely to a village located in the south of Kinshasa in the Democratic Republic of Congo.\n\n Your mission this time will be to plant 3 different types of flowers and trees and that will bring different benefits to the village and its people. Allan will guide you throughout the whole process, just make sure to listen carefully to what he says and follow his instructions.\n\nHow to play:\n\n- Walk over to the RIP monster plants and stand next to them and say *take a sample*\n- Stand in front of the Allan's desk and listen to the instructions he'll give you.\n- Find the correct fertilizer for each plant and say *pick up*\n- Walk back to the RIP monster plant and say *pour it*, last thing left to do is pull the lever to watch the flower grow.\n- Follow these steps to plant the 3 sprouts you need to complete the game.
+22earth06.text=Africa\n\nYour team has decided to head over to Africa, more precisely to a village located in the south of Kinshasa in the Democratic Republic of Congo.\n\n Your mission this time will be to plant 3 different types of flowers and trees and that will bring different benefits to the village and its people. Allan will guide you throughout the whole process, just make sure to listen carefully to what he says and follow his instructions.\n\nHow to play:\n\n- Walk over to the RIP monster plants and stand next to them and say **take a sample**\n- Stand in front of the Allan's desk and listen to the instructions he'll give you.\n- Find the correct fertilizer for each plant and say **pick up**\n- Walk back to the RIP monster plant and say **pour it**, last thing left to do is pull the lever to watch the flower grow.\n- Follow these steps to plant the 3 sprouts you need to complete the game.
 22earth06.title=Earth Hour!
 22feb01.image=web_promo_small/spromo_schoolofsamba22.png
 22feb01.text=Schools of Samba spend months preparing for the carnival parade, from designing the theme, building the floats to rehearsing the dance. Now the time has come for the schools to give their all in the performances they've prepared.\n\nGet to experience the spirit of community and dance your heart out representing your school.\n\nHow to play:\n\n- Dance out the choreography by stepping on the green tiles.\n- Each time you step on a green tile, you'll get 1 point. If you step on a red tile you will lose 1 point.\n- Score 20 points before the time ends in order to win.
@@ -21041,6 +21041,7 @@ generic.send=Send
 generic.shop=Shop
 generic.start.time=Start time:
 generic.submit=Submit
+generic.wait=Wait
 generic.year=Year
 generic.yes=Yes
 gift.buyasgift=Buy as gift to:
@@ -23974,7 +23975,7 @@ landing.view.easter21ltd.header=Disco Egg LTD!
 landing.view.easter21new.body=Online pixellated fashion is a huge part of Habbo. Like, maybe we even invented it? Anyway, go forth and build catwalks!
 landing.view.easter21new.button=See the furni
 landing.view.easter21new.header=NEW: Catwalk Furni!
-landing.view.easter22ba.body=Every adventure starts somewhere. Use this as a meeting point before heading off into the forest for your bug hunt.
+landing.view.easter22ba.body=Every adventure starts somewhere. Use this as a meeting point before heading off into the forest for your bug hunt. Room made by Frission (.COM)
 landing.view.easter22ba.button=See the bundle
 landing.view.easter22ba.header=NEW: Forest Walk Bundle!
 landing.view.easter22bb.body=WOW. Such a scenic place for a nature-packed break! Caught many bugs yet? Made by: =Naples.Devil= (IT)
