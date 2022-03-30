@@ -324,6 +324,9 @@
 22april04.image=web_promo_small/spromo_collecthoney.png
 22april04.text=Harvesting HoneyBees have produced more honey than they need and someone need to collect the excess honey that's been produced. Time to grab your bee suit and head over to the beehives! How to play:- Look in the plants for the hammer effect you'll need to break the beehives open.- In order to collect the honey you'll need to walk over the color tiles until they've turned green. - Watch for the blocks of honey that are moving around if you sit on them or collide against them, you'll be teleported back to the start and will need to find the hammer effect again in order to continue playing.- Make sure you get obtain the honey from the 4 beehives before the time ends. When you're done, use one of the
 22april04.title=Habbo's Bioworld
+22april05.image=web_promo_small/spromo_archeologygame.png
+22april05.text=Mothman Myth\n\nYou've travel all the way to West Virginia where more than 50 years ago locals said to have seen an strange man-like figure with 10-foot wings and red glowing eyes.\n\nYou'll head over to work in an archeology site in the area where the mothman has last been seen. Find out for yourself whether the myth is real or not.\n\nHow to play:\n\n- Grab a hammer effect and press the green button and follow the instructions you'll get.\n- For each fossil you find, you'll get a point. Once you've got 6 points, press the green button to see if you can get the mothman to appear.\n- Race towards the ringplate and step on it 2 times before the mothman in order to catch him.\n- Complete the game before the time ends to win the badge.
+22april05.title=Habbo's Bioworld
 22earth00.image=web_promo_small/spromo_startroomhour.png
 22earth00.text=Earth Hour!\n\nTo take one of the teleports that will take you to the different continents just say:\n\n- *:tele1* - South America (30/03)\n- *:tele2* - Oceania (31/03)\n - *:tele3* - Europe (01/04)\n- *:tele4* - Asia (02/04)\n- *:tele5* - Africa (03/04)\n- *:tele6* - Antarctica (04/04)
 22earth00.title=Earth Hour!
@@ -11079,6 +11082,7 @@ badge_name_BBJ17=Rare Bubblejuice Floor
 badge_name_BBJ18=Completed the Bubblejuice Circuit!
 badge_name_BDC01=Notable Badge Designer
 badge_name_BDC02=Monumental Badge Maker
+badge_name_BDW14=The Mothman Myth
 badge_name_BDW15=Welcome to the bug world!
 badge_name_BE1=Official BETA tester
 badge_name_BE1_HHUK=Official BETA tester
