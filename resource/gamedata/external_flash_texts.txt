@@ -11357,6 +11357,7 @@ badge_name_BWD11=Rare Caterpillar Sleeping Bag
 badge_name_BWD12=The Butterfly Dome LTD
 badge_name_BWD13=Harvesting Honey
 badge_name_BWD14=The Mothman Myth
+badge_name_BWD15=Welcome to the bug world!
 badge_name_BWD16=Ladybug Island
 badge_name_BWD17=Bugs, bugs, bugs!
 badge_name_BWD18=Buzz, Buzz, Bugs!
