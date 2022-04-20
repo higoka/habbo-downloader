@@ -20228,6 +20228,7 @@ featured.offer.may21r2.title=RARE Spidery Waves
 featured.offer.may21r3.title=RARE Silverback Gorilla
 featured.offer.may21r4.title=RARE Cabinet of Curiosities
 featured.offer.may22cloth.title=NEW: Magic Tech Apron
+featured.offer.may22painting.title=Diamond Paintings!
 featured.offer.mnstr_plnt_discount.title=20% OFF Monster Plant seeds/potions!
 featured.offer.nov19antlers.title=Reindeer Antlers
 featured.offer.nov19bonsai.title=RARE Maple Bonsai Tree
