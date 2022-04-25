@@ -6078,6 +6078,12 @@
     <part id="4542" type="cc"/>
     <part id="4543" type="cc"/>
   </lib>
+  <lib id="acc_chest_U_chococatbag" revision="67611">
+    <part id="4544" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_chococatscarf" revision="67618">
+    <part id="4545" type="ca"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
