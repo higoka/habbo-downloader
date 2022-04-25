@@ -19906,6 +19906,7 @@ featured.offer.bundle50.title=Japanese Love Garden Bundle
 featured.offer.bundle58.title=Santini BonBon Bundle
 featured.offer.bundle61.title=Floral Farm Bundle
 featured.offer.bundle63.title=Habbo Forces HQ Bundle
+featured.offer.bundle68.title=Mini Jurassic Bundle
 featured.offer.bundle82.title=Exchange in Paris Bundle
 featured.offer.bundle94.title=Habbocalypse Bundle
 featured.offer.bundle96.title=Posh Restaurant Bundle
