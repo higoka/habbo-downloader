@@ -23381,6 +23381,7 @@ landing.view.community.headline.easter2018=Community Challenge
 landing.view.community.headline.eurovision16=Community Challenge
 landing.view.community.headline.eurovision17=Community Challenge
 landing.view.community.headline.eurovision19=Community Challenge
+landing.view.community.headline.eurovision22=Community Challenge
 landing.view.community.headline.fastfood=ARE YOU FAST ENOUGH?
 landing.view.community.headline.festivalchallenge=Which festival will take over Habbo this summer?
 landing.view.community.headline.flashdance_val2016=Habbo Samba Community Challenge
