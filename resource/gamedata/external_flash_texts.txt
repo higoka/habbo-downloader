@@ -20295,6 +20295,7 @@ featured.offer.may21r2.title=RARE Spidery Waves
 featured.offer.may21r3.title=RARE Silverback Gorilla
 featured.offer.may21r4.title=RARE Cabinet of Curiosities
 featured.offer.may22cape.title=RARE Magic Galaxy Cape
+featured.offer.may22cf.title=RARE credit furni: Gem Snake
 featured.offer.may22cf=RARE credit furni: Gem Snake
 featured.offer.may22cloth.title=NEW: Magic Tech Apron
 featured.offer.may22hab.title=Baby Pet Bundles
