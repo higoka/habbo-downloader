@@ -19939,6 +19939,7 @@ featured.offer.bundle339.title=Forest Walk Bundle
 featured.offer.bundle340.title=The Great Outdoors Bundle
 featured.offer.bundle341.title=Magical Laboratory Bundle
 featured.offer.bundle342.title=Gallery Bundle XI
+featured.offer.bundle343.title=Gallery Bundle XII
 featured.offer.bundle348.title=Gallery Bundle XII
 featured.offer.bundle349.title=Korean Restaurant Bundle
 featured.offer.bundle35.title=Voodoo Bundle
