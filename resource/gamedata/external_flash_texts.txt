@@ -15371,6 +15371,7 @@ badge_name_RVR28=Knights of the Swords
 badge_name_RVR29=Long Live King Frank!
 badge_name_RVR30=The Long-Lost Map
 badge_name_RVR31=For participating in the Pixel Artist competition
+badge_name_RVR32=Earth Hour 2022
 badge_name_RVR33=Earth Hour 2022 - Antarctica Expedition
 badge_name_RVR34=Earth Hour 2022 - Floating village of Asia
 badge_name_RVR35=Earth Hour 2022 - Planted a tree in Africa!
