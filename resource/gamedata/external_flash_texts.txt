@@ -20126,6 +20126,7 @@ featured.offer.h20crackable.title=Rose Gold Balloons
 featured.offer.h20rarecrackable.title=Trimmed Rose Gold Balloons
 featured.offer.h20rewards.title=Classic Rose Gold Rares
 featured.offer.hairdos_discount.title=50% OFF Hairdos!
+featured.offer.hats_discount.title=50% OFF Hats!
 featured.offer.hb20cloth.title=20th Birthday Clothing
 featured.offer.hb20rain.title=Rainy Day Furni
 featured.offer.hb20rarecandle.title=RARE Ballroom Candles
