@@ -14250,6 +14250,7 @@ badge_name_KPP21=Habbo Recording Studio
 badge_name_KPP22=Whitepurple Lightsticks
 badge_name_KPP23=No paparazzis allowed!
 badge_name_KPP24=Whitepurple in Habbo!
+badge_name_KPP25=Welcome to K-Town!
 badge_name_KR1=100% Habbo
 badge_name_LAB01=Infected Laboratory Bundle
 badge_name_LAB02=Testing Facility Bundle
