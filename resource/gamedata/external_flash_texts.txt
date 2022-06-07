@@ -20245,6 +20245,7 @@ featured.offer.jul21r4.title=RARE Classy Rose Bench
 featured.offer.jul22craft.title=Excavation Table!
 featured.offer.jul22fossil.title=Fossil Rock
 featured.offer.jul22fossil2.title=Fossilised Bones
+featured.offer.jul22ltd.title=Earth's Core Lava Throne LTD
 featured.offer.jul22r1.title=RARE Dinosaur Backpack
 featured.offer.jul22r2.title=RARE Dinosaur Egg
 featured.offer.jul22r3.title=RARE Meteor Light Rock
