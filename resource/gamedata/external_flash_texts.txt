@@ -28798,7 +28798,6 @@ notification.campaign.credit.donation.message=Check your purse. You've been give
 notification.campaign.product.donation.message=Check your inventory in the Hotel or on your Habbo Home. You received a gift. Awesome!
 notification.cannot_enter_room=Cannot enter room.
 notification.casino.too_many_dice.message=You have exceeded the maximum number of randomizer elements for your room. Please remove some if you would like them to be functional as dice.
-notification.casino.too_many_dice.placement.message=Only 3 functional randomizer furni allowed per room. You can continue placimg these items as design elements, but they will no longer function as dice.
 notification.casino.too_many_dice.placement.message=Only 3 functional randomizer furni allowed per room. You can continue placing these items as design elements, but they will no longer function as dice.
 notification.casino.too_many_dice.placement.title=Alert!
 notification.casino.too_many_dice.title=Alert!
