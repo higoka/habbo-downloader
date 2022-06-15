@@ -6165,6 +6165,77 @@
   <lib id="hat_U_goldknitalien" revision="67779">
     <part id="4568" type="ha"/>
   </lib>
+  <lib id="jacket_M_nfthabbohoodie" revision="67858">
+    <part id="4572" type="cc"/>
+    <part id="4572" type="lc"/>
+    <part id="4572" type="rc"/>
+    <part id="4573" type="cc"/>
+  </lib>
+  <lib id="hat_U_nfthabbocap" revision="67858">
+    <part id="4569" type="ha"/>
+  </lib>
+  <lib id="shirt_F_nfthabboshirt" revision="67858">
+    <part id="4571" type="ch"/>
+    <part id="4571" type="ls"/>
+    <part id="4571" type="rs"/>
+  </lib>
+  <lib id="shirt_M_nfthabboshirt" revision="67858">
+    <part id="4570" type="ch"/>
+    <part id="4570" type="ls"/>
+    <part id="4570" type="rs"/>
+  </lib>
+  <lib id="jacket_F_nfthabbohoodie" revision="67858">
+    <part id="4574" type="cc"/>
+    <part id="4574" type="lc"/>
+    <part id="4574" type="rc"/>
+    <part id="4575" type="cc"/>
+  </lib>
+  <lib id="hat_U_keroppihat" revision="67823">
+    <part id="4577" type="ha"/>
+  </lib>
+  <lib id="jacket_U_keroppiapron" revision="67823">
+    <part id="4576" type="cc"/>
+    <part id="4576" type="lc"/>
+    <part id="4576" type="rc"/>
+  </lib>
+  <lib id="acc_chest_U_egg" revision="67872">
+    <part id="4585" type="ca"/>
+    <part id="4586" type="ca"/>
+  </lib>
+  <lib id="hat_U_egg" revision="67872">
+    <part id="4587" type="ha"/>
+    <part id="4588" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_dinobackpack" revision="67872">
+    <part id="4589" type="ca"/>
+    <part id="4590" type="ca"/>
+    <part id="4591" type="ca"/>
+  </lib>
+  <lib id="hat_U_ttbuckethat" revision="67867">
+    <part id="4582" type="ha"/>
+  </lib>
+  <lib id="shirt_F_ttlongtshirt" revision="67867">
+    <part id="4584" type="ch"/>
+    <part id="4584" type="ls"/>
+    <part id="4584" type="rs"/>
+  </lib>
+  <lib id="shirt_M_ttlongtshirt" revision="67867">
+    <part id="4583" type="ch"/>
+    <part id="4583" type="ls"/>
+    <part id="4583" type="rs"/>
+  </lib>
+  <lib id="acc_chest_U_ttslingbagdp" revision="67902">
+    <part id="4579" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_ttslingbagll" revision="67902">
+    <part id="4580" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_ttslingbagpo" revision="67902">
+    <part id="4581" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_ttslingbagtw" revision="67902">
+    <part id="4578" type="ca"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
