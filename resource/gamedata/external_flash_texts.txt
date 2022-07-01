@@ -20316,6 +20316,7 @@ featured.offer.jul22r1.title=RARE Dinosaur Backpack
 featured.offer.jul22r2.title=RARE Dinosaur Egg
 featured.offer.jul22r3.title=RARE Meteor Light Rock
 featured.offer.jul22r4.title=RARE Iridescent Ammonite Fossil
+featured.offer.jul22rollers.title=Extra Colours
 featured.offer.jun17centaur.title=RARE Gilded Centaur Statue
 featured.offer.jun17chest.title=RARE Ancient Relic Chests
 featured.offer.jun17chimera.title=RARE Gilded Chimera Statue
