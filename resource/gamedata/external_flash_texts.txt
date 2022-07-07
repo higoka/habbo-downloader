@@ -14319,6 +14319,7 @@ badge_name_KPP14=Chocolatier Shop Bundle
 badge_name_KPP15=Dessert Cafe Bundle
 badge_name_KPP16=Gallery XIII Bundle
 badge_name_KPP17=Summer Offer 2022
+badge_name_KPP18=Crafting Items Mega Collector
 badge_name_KPP19=Backstage Pass
 badge_name_KPP20=For participating in the K-Pop video competition
 badge_name_KPP21=Habbo Recording Studio
