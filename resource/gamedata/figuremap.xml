@@ -6273,6 +6273,42 @@
     <part id="4605" type="ls"/>
     <part id="4605" type="rs"/>
   </lib>
+  <lib id="acc_head_U_gothicflowerhorns" revision="68010">
+    <part id="4611" type="he"/>
+    <part id="4612" type="he"/>
+  </lib>
+  <lib id="acc_head_U_wingheadpiece" revision="68010">
+    <part id="4610" type="he"/>
+  </lib>
+  <lib id="hat_U_gothichat" revision="68072">
+    <part id="4617" type="ha"/>
+    <part id="4618" type="ha"/>
+    <part id="4619" type="ha"/>
+  </lib>
+  <lib id="jacket_U_gothiccoat" revision="68071">
+    <part id="4613" type="cc"/>
+    <part id="4613" type="lc"/>
+    <part id="4613" type="rc"/>
+    <part id="4614" type="cc"/>
+  </lib>
+  <lib id="shirt_F_gothicdress" revision="68070">
+    <part id="4608" type="ch"/>
+    <part id="4608" type="ls"/>
+    <part id="4608" type="rs"/>
+    <part id="4609" type="ch"/>
+  </lib>
+  <lib id="shirt_M_gothicdress" revision="68070">
+    <part id="4606" type="ch"/>
+    <part id="4606" type="ls"/>
+    <part id="4606" type="rs"/>
+    <part id="4607" type="ch"/>
+  </lib>
+  <lib id="jacket_U_darkangelwings" revision="68070">
+    <part id="4615" type="cc"/>
+    <part id="4615" type="lc"/>
+    <part id="4615" type="rc"/>
+    <part id="4616" type="cc"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
