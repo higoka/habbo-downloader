@@ -20123,6 +20123,7 @@ featured.offer.bundle50.title=Japanese Love Garden Bundle
 featured.offer.bundle58.title=Santini BonBon Bundle
 featured.offer.bundle61.title=Floral Farm Bundle
 featured.offer.bundle63.title=Habbo Forces HQ Bundle
+featured.offer.bundle66.title=Ancients Mystery Bundle
 featured.offer.bundle68.title=Mini Jurassic Bundle
 featured.offer.bundle69.title=Velociraptor Nursery
 featured.offer.bundle70.title=Pterodactyl Nesting Ground
