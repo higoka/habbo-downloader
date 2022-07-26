@@ -19734,6 +19734,7 @@ disconnect.duallogin=You were logged out because another you just logged in on a
 disconnect.funnybutton=Funny button
 disconnect.hotelclosed=Can't connect to server. You may count to 404 and try again.
 disconnect.maintenance.title=Maintenance break
+disconnect.maintenance=Frank is doing maintenance. We'll be back in less than 12 parsecs.
 disconnect.maintenancesoon=Hey, just letting you know that server is going down for maintenance in a while. See you soon again!
 disconnect.nointernet=Ah, the internet. Please check your connection and try again.
 disconnect.timeout.waiting=Tiny hiccup in your internet connection. Recovering... You may click the funny button while waiting.
