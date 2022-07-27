@@ -6236,7 +6236,7 @@
   <lib id="acc_chest_U_ttslingbagtw" revision="67902">
     <part id="4578" type="ca"/>
   </lib>
-  <lib id="hat_U_ckonghead" revision="67931">
+  <lib id="hat_U_ckonghead" revision="68123">
     <part id="4596" type="ha"/>
     <part id="4597" type="ha"/>
     <part id="4598" type="ha"/>
@@ -6277,7 +6277,7 @@
     <part id="4611" type="he"/>
     <part id="4612" type="he"/>
   </lib>
-  <lib id="acc_head_U_wingheadpiece" revision="68010">
+  <lib id="acc_head_U_wingheadpiece" revision="68111">
     <part id="4610" type="he"/>
   </lib>
   <lib id="hat_U_gothichat" revision="68072">
@@ -6291,7 +6291,7 @@
     <part id="4613" type="rc"/>
     <part id="4614" type="cc"/>
   </lib>
-  <lib id="shirt_F_gothicdress" revision="68070">
+  <lib id="shirt_F_gothicdress" revision="68117">
     <part id="4608" type="ch"/>
     <part id="4608" type="ls"/>
     <part id="4608" type="rs"/>
@@ -6308,6 +6308,38 @@
     <part id="4615" type="lc"/>
     <part id="4615" type="rc"/>
     <part id="4616" type="cc"/>
+  </lib>
+  <lib id="acc_eye_U_nftbluestarshades" revision="68090">
+    <part id="4624" type="ea"/>
+  </lib>
+  <lib id="shirt_F_nfttropical" revision="68126">
+    <part id="4621" type="ch"/>
+    <part id="4621" type="ls"/>
+    <part id="4621" type="rs"/>
+  </lib>
+  <lib id="shirt_M_nfttropical" revision="68126">
+    <part id="4620" type="ch"/>
+    <part id="4620" type="ls"/>
+    <part id="4620" type="rs"/>
+  </lib>
+  <lib id="acc_eye_U_nftpinkstarshades" revision="68090">
+    <part id="4626" type="ea"/>
+  </lib>
+  <lib id="shirt_M_nfttropicalcrop" revision="68126">
+    <part id="4623" type="ch"/>
+    <part id="4623" type="ls"/>
+    <part id="4623" type="rs"/>
+  </lib>
+  <lib id="acc_eye_U_nftblueheartshades" revision="68090">
+    <part id="4625" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_nftpinkheartshades" revision="68090">
+    <part id="4627" type="ea"/>
+  </lib>
+  <lib id="shirt_F_nfttropicalcrop" revision="68126">
+    <part id="4622" type="ch"/>
+    <part id="4622" type="ls"/>
+    <part id="4622" type="rs"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
