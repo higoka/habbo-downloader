@@ -19945,6 +19945,7 @@ featured.offer.aug22cloth.title=Fantasy Village Clothing!
 featured.offer.aug22craft.title=Crafting with the Village Blacksmith!
 featured.offer.aug22ltd.title=Fire-Breathing Dragon LTD
 featured.offer.aug22new.title=Fantasy Village Furni!
+featured.offer.aug22r1.title=RARE Royal Armour
 featured.offer.aug22r1=RARE Royal Armour
 featured.offer.aug22r2.title=RARE Villanous Horns!
 featured.offer.aug22r3.title=RARE Royal Steed
