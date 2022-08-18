@@ -1,6 +1,7 @@
 activity.point.display.enabled=true
 ads.domain=images.habbo.com
 akamai.debugging.enabled=false
+android.inappupdate.settings={"PriorityMappings":{"1":{"FlexibleUpdateDays":5,"ImmediateUpdateDays":-1},"2":{"FlexibleUpdateDays":5,"ImmediateUpdateDays":-1},"3":{"FlexibleUpdateDays":0,"ImmediateUpdateDays":14},"4":{"FlexibleUpdateDays":0,"ImmediateUpdateDays":7}}}
 app.review.triggers=purchase,respect
 app.review.url.android=
 app.review.url.ios=itms-apps://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=794866182
@@ -100,6 +101,7 @@ competition.xmasRoomComp.catalogPage=xmas_castles_2012
 connection.info.host.no=game-no.habbo.com
 connection.info.name.no=Norge
 connection.info.port.no=30000,993
+consent.settings={"Version":20220818,"ConsentItems":[{"Type":0,"Title":"consent.terms_of_service.title","Description":"consent.terms_of_service.description","Interactable":false,"IsOn":true},{"Type":1,"Title":"consent.marketing.title","Description":"consent.marketing.description","Interactable":true,"IsOn":false},{"Type":3,"Title":"consent.analytics.title","Description":"consent.analytics.description","Interactable":true,"IsOn":false},{"Type":4,"Title":"consent.personalized_ads.title","Description":"consent.personalized_ads.description","Interactable":true,"IsOn":false}]}
 crafting.enabled=true
 currencyiconstyle.big.101.combo=55
 currencyiconstyle.big.101=55
@@ -5738,9 +5740,9 @@ xmas2012.calendar.startdate=2012-12-02 00:00
 zendesk.url=https://help.habbo.com/home
 zoom.enabled=1
 
-productdata.load.url=https://www.habbo.com/gamedata/productdata/2f889636ee9930f9539365abce653535e9bbd9ef
-external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/b4f9ecf05e824740fa137b58c45a1e538cddc131
+productdata.load.url=https://www.habbo.com/gamedata/productdata/cd1d0744253b3d4653b0ee0f14ffd7aa24ab5730
+external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/f6f5c1b71050ebaf36bbeac28003bc7a9922bce4
 flash.client.url=https://images.habbo.com/gordon/PRODUCTION-202207262203-778247847/
-furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/db275bee81864a4553ea218fc51a80ed5b577a23
-external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/b4f9ecf05e824740fa137b58c45a1e538cddc131
+furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/c52c827a602642812c0be59e800ae6d3c1253e55
+external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/f6f5c1b71050ebaf36bbeac28003bc7a9922bce4
 external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/82b352deffb06c3c8fdc7863f09897810f8388cc
