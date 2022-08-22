@@ -6280,7 +6280,7 @@
   <lib id="acc_head_U_wingheadpiece" revision="68111">
     <part id="4610" type="he"/>
   </lib>
-  <lib id="hat_U_gothichat" revision="68072">
+  <lib id="hat_U_gothichat" revision="68136">
     <part id="4617" type="ha"/>
     <part id="4618" type="ha"/>
     <part id="4619" type="ha"/>
@@ -6341,6 +6341,55 @@
     <part id="4622" type="ls"/>
     <part id="4622" type="rs"/>
   </lib>
+  <lib id="shirt_F_kuromitshirt" revision="68152">
+    <part id="4630" type="ch"/>
+    <part id="4630" type="ls"/>
+    <part id="4630" type="rs"/>
+  </lib>
+  <lib id="shirt_M_kuromitshirt" revision="68152">
+    <part id="4629" type="ch"/>
+    <part id="4629" type="ls"/>
+    <part id="4629" type="rs"/>
+  </lib>
+  <lib id="hair_U_rosehair" revision="68180">
+    <part id="4637" type="hr"/>
+    <part id="4637" type="hrb"/>
+    <part id="4638" type="hr"/>
+  </lib>
+  <lib id="jacket_M_tuxedocape" revision="68180">
+    <part id="4639" type="cc"/>
+    <part id="4639" type="lc"/>
+    <part id="4639" type="rc"/>
+    <part id="4640" type="cc"/>
+    <part id="4641" type="cc"/>
+  </lib>
+  <lib id="jacket_F_tuxedocape" revision="68191">
+    <part id="4642" type="cc"/>
+    <part id="4642" type="lc"/>
+    <part id="4642" type="rc"/>
+    <part id="4643" type="cc"/>
+    <part id="4644" type="cc"/>
+  </lib>
+  <lib id="acc_waist_U_kuromitail" revision="68182">
+    <part id="4645" type="wa"/>
+  </lib>
+  <lib id="hat_U_kuromihead" revision="68182">
+    <part id="4646" type="ha"/>
+  </lib>
+  <lib id="shirt_M_schoolblazer" revision="68203">
+    <part id="4631" type="ch"/>
+    <part id="4631" type="ls"/>
+    <part id="4631" type="rs"/>
+    <part id="4632" type="ch"/>
+    <part id="4633" type="ch"/>
+  </lib>
+  <lib id="shirt_F_schoolblazer" revision="68203">
+    <part id="4634" type="ch"/>
+    <part id="4634" type="ls"/>
+    <part id="4634" type="rs"/>
+    <part id="4635" type="ch"/>
+    <part id="4636" type="ch"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
@@ -6380,7 +6429,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="67421">
+  <lib id="hh_human_item" revision="68165">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -6606,6 +6655,12 @@
     <part id="250" type="ri"/>
     <part id="251" type="ri"/>
     <part id="252" type="ri"/>
+    <part id="253" type="ri"/>
+    <part id="254" type="ri"/>
+    <part id="255" type="ri"/>
+    <part id="256" type="ri"/>
+    <part id="257" type="ri"/>
+    <part id="258" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
