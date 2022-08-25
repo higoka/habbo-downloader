@@ -20065,6 +20065,7 @@ featured.offer.bundle176.title=Hilltop Mausoleum Bundle
 featured.offer.bundle177.title=Modern Studio Bundle
 featured.offer.bundle178.title=Village Fair Bundle
 featured.offer.bundle179.title=Star Gazer's Bundle
+featured.offer.bundle18.title=Habbington Village Bundle
 featured.offer.bundle180.title=Seaside Watersports Bundle
 featured.offer.bundle181.title=Summer Festival Bundle
 featured.offer.bundle182.title=Bazaar Bundle
@@ -30303,7 +30304,6 @@ postit.delete=Delete
 postit.edit=Edit
 postit.save=Save
 predefined_room_description.aug22_wiredbundle1_internal=
-predefined_room_name.aug22_wiredbundle1_internal=%featured.offer.aug22wiredbundle.title=NEW Wired Attack Bundle!
 prereg.reward.confirmation.question=Would you want to redeem the pre-registration reward on this avatar? (You can only redeem the pre-registration reward once)
 prereg.reward.confirmation.title=Pre-registration reward
 prereg.reward.navigate=Have a look in your inventory!
