@@ -20029,6 +20029,7 @@ featured.offer.aug22treasure1a.title=Everyday Supply Chests!
 featured.offer.aug22treasure1b.title=Peculiar Supply Chests!
 featured.offer.aug22treasure2a.title=Peculiar Supply Chests!
 featured.offer.aug22treasure2b.title=Peculiar Supplies!
+featured.offer.aug22wired.bundle=NEW Wired in stock!
 featured.offer.aug22wired.title=NEW Wired in stock!
 featured.offer.aug22wiredbundle.title=NEW Wired Attack Bundle!
 featured.offer.bc_boxes_discount.title=10% OFF BC gift boxes!
