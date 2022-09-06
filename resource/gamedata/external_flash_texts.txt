@@ -20455,6 +20455,7 @@ featured.offer.house20nocrack.title=Pandora Chests!
 featured.offer.house20outfit.title=RARE Pumpkin Costume!
 featured.offer.house20paint.title=Rare Melting Work of Art
 featured.offer.house20rewards.title=Impossible House Rares!
+featured.offer.hu14oldfurni.title=Old Back to school furni is here!
 featured.offer.hygge18antlers.title=RARE Nordic Antlers
 featured.offer.hygge18diamond.title=Diamond Gift Boxes
 featured.offer.hygge18dungarees.title=RARE Logger's Dungarees
