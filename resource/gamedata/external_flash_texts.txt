@@ -13061,6 +13061,7 @@ badge_name_FVL16=Defeated the Greedy Goblin!
 badge_name_FVL17=Potion of Strength
 badge_name_FVL18=No gnolls left standing!
 badge_name_FVL19=Potion-Making Expert
+badge_name_FVL20=Wired Attack Bundle
 badge_name_FW1=Yuppie
 badge_name_FW2=Tattoo
 badge_name_Football_DE=Go Germany!
