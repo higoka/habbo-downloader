@@ -515,6 +515,15 @@
 22start00.image=web_promo_small/spromo_teamevnet22sep.png
 22start00.text=Start Room\n\n- To access this week's game, you must use your team badge in your profile and say :tele1 :tele2 :tele3 :tele4\n\n- From 07.09 - 14.09 the Top 10 Habbos that earn the most amount of points in the leaderboard will win an EXTRA badge.\n\n- Please note that if you have already won the top 10 badge once, and make it to the top 10 again in another game, either with the same account or a clone, both may be disqualified.
 22start00.title=War of the Seasons!
+22start01.image=web_promo_small/spromo_teamevnet22sep.png
+22start01.text=Start Room\n\n- To access this week's game, you must use your team badge in your profile and say :tele1 :tele2\n\n- From 14.09 - 21.09 the Top 10 Habbos that earn the most amount of points in the leaderboard will win an EXTRA badge\n\n- Please note that if you have already won the top 10 badge once, and make it to the top 10 again in another game, either with the same account or a clone, both may be disqualified.
+22start01.title=War of the Seasons
+22start02.image=web_promo_small/spromo_teamevnet22sep.png
+22start02.text=Start Room\n\n- To access this week's game, you must use your team badge in your profile and say :tele1 :tele2\n\n- From 21.09 - 28.09 the Top 10 Habbos that earn the most amount of points in the leaderboard will win an EXTRA badge\n\n- Please note that if you have already won the top 10 badge once, and make it to the top 10 again in another game, either with the same account or a clone, both may be disqualified.
+22start02.title=War of the Seasons
+22start03.image=web_promo_small/spromo_teamevnet22sep.png
+22start03.text=Start Room- To access this week's game, you must use your team badge in your profile and say :tele1 :tele2- From 28.09 - 05.10 the Top 10 Habbos that earn the most amount of points in the leaderboard will win an EXTRA badge- Please note that if you have already won the top 10 badge once, and make it to the top 10 again in another game, either with the same account or a clone, both may be disqualified.
+22start03.title=War of the Seasons
 22test06.image=web_promo_small/spromo_nfttrophy22.png
 22test06.text=Hey!\n\nYou've been picked to receive a Bronze Community Pillar NFT for your contributions to the Habbo community. To receive the NFT, you need to do three things:\n\n1) Sign up for MetaMask. Check this guide to see how to do this.\n\n[https://nft.habbo.com/info/#metamask|Click here] [https://nft.habbo.com/info/#metamask|Click here]\n\n2) Connect your MetaMask to IMX. [https://nft.habbo.com/info/#imx|Click here] to see a guide on how to do this: 3) Enter your MetaMask wallet address in the poll\n\n[https://nft.habbo.com/info/#tab2|Here's] a guide showing how to use NFT furni in Habbo\n\n
 22test06.title=Bronze Community Pillar NFT
