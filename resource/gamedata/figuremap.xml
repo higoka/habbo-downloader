@@ -6017,6 +6017,9 @@
   <lib id="trousers_U_grungetrousers" revision="67950">
     <part id="4517" type="lg"/>
   </lib>
+  <lib id="hat_u_cc" revision="68323">
+    <part id="4649" type="ha"/>
+  </lib>
   <lib id="jacket_F_techapron" revision="67588">
     <part id="4520" type="cc"/>
     <part id="4521" type="cc"/>
@@ -6056,6 +6059,14 @@
     <part id="4536" type="ls"/>
     <part id="4536" type="rs"/>
     <part id="4537" type="ch"/>
+  </lib>
+  <lib id="face_U_test" revision="68335">
+    <part id="4659" type="hd"/>
+    <part id="4659" type="fc"/>
+    <part id="4659" type="ey"/>
+    <part id="4659" type="bd"/>
+    <part id="4659" type="lh"/>
+    <part id="4659" type="rh"/>
   </lib>
   <lib id="face_U_idolmakeup" revision="67570">
     <part id="4532" type="fc"/>
@@ -6198,18 +6209,32 @@
     <part id="4576" type="lc"/>
     <part id="4576" type="rc"/>
   </lib>
+  <lib id="shirt_f_cc" revision="68313">
+    <part id="4651" type="ch"/>
+    <part id="4651" type="ls"/>
+    <part id="4651" type="rs"/>
+  </lib>
   <lib id="acc_chest_U_egg" revision="67872">
     <part id="4585" type="ca"/>
     <part id="4586" type="ca"/>
+  </lib>
+  <lib id="hat_u_nftpartyhat1" revision="68328">
+    <part id="4656" type="ha"/>
   </lib>
   <lib id="hat_U_egg" revision="67872">
     <part id="4587" type="ha"/>
     <part id="4588" type="ha"/>
   </lib>
+  <lib id="hat_u_nftpartyhat2" revision="68326">
+    <part id="4657" type="ha"/>
+  </lib>
   <lib id="acc_chest_U_dinobackpack" revision="67872">
     <part id="4589" type="ca"/>
     <part id="4590" type="ca"/>
     <part id="4591" type="ca"/>
+  </lib>
+  <lib id="hat_u_nftpartyhat3" revision="68326">
+    <part id="4658" type="ha"/>
   </lib>
   <lib id="hat_U_ttbuckethat" revision="67951">
     <part id="4582" type="ha"/>
@@ -6389,6 +6414,34 @@
     <part id="4634" type="rs"/>
     <part id="4635" type="ch"/>
     <part id="4636" type="ch"/>
+  </lib>
+  <lib id="acc_chest_U_ccheartbackpack" revision="68299">
+    <part id="4647" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_ccmilkbackpack" revision="68299">
+    <part id="4648" type="ca"/>
+  </lib>
+  <lib id="shirt_m_cc" revision="68327">
+    <part id="4652" type="ch"/>
+    <part id="4652" type="ls"/>
+    <part id="4652" type="rs"/>
+  </lib>
+  <lib id="hat_u_cctv" revision="68323">
+    <part id="4650" type="ha"/>
+  </lib>
+  <lib id="hair_U_baconv2" revision="68315">
+    <part id="4628" type="hr"/>
+    <part id="4628" type="hrb"/>
+    <part id="4629" type="hr"/>
+  </lib>
+  <lib id="acc_eye_U_nftpartyshades1" revision="68320">
+    <part id="4653" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_nftpartyshades2" revision="68320">
+    <part id="4654" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_nftpartyshades3" revision="68320">
+    <part id="4655" type="ea"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
