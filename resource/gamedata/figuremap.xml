@@ -6305,7 +6305,7 @@
   <lib id="acc_head_U_wingheadpiece" revision="68111">
     <part id="4610" type="he"/>
   </lib>
-  <lib id="hat_U_gothichat" revision="68136">
+  <lib id="hat_U_gothichat" revision="68341">
     <part id="4617" type="ha"/>
     <part id="4618" type="ha"/>
     <part id="4619" type="ha"/>
@@ -6442,6 +6442,42 @@
   </lib>
   <lib id="acc_eye_U_nftpartyshades3" revision="68320">
     <part id="4655" type="ea"/>
+  </lib>
+  <lib id="trousers_U_xmastreeskirt" revision="68349">
+    <part id="4675" type="lg"/>
+    <part id="4676" type="lg"/>
+    <part id="4677" type="lg"/>
+  </lib>
+  <lib id="acc_chest_U_penguinbackpack" revision="68353">
+    <part id="4664" type="ca"/>
+  </lib>
+  <lib id="hair_U_bowbraidhair" revision="68353">
+    <part id="4666" type="hr"/>
+    <part id="4666" type="hrb"/>
+    <part id="4667" type="hr"/>
+  </lib>
+  <lib id="shirt_U_xmastreeponcho" revision="68349">
+    <part id="4672" type="ch"/>
+    <part id="4672" type="ls"/>
+    <part id="4672" type="rs"/>
+    <part id="4673" type="ch"/>
+    <part id="4674" type="ch"/>
+  </lib>
+  <lib id="shoes_U_xmastreeshoes" revision="68349">
+    <part id="4678" type="sh"/>
+    <part id="4679" type="sh"/>
+  </lib>
+  <lib id="hat_U_xmastreehat" revision="68353">
+    <part id="4669" type="ha"/>
+    <part id="4670" type="ha"/>
+    <part id="4671" type="ha"/>
+  </lib>
+  <lib id="hair_U_fadehair" revision="68349">
+    <part id="4668" type="hr"/>
+    <part id="4668" type="hrb"/>
+  </lib>
+  <lib id="acc_chest_U_reindeerbackpack" revision="68353">
+    <part id="4665" type="ca"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
