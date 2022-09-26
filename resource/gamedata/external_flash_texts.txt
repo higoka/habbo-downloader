@@ -453,6 +453,15 @@
 22oct04.image=web_promo_small/spromo_hellgatehween22.png
 22oct04.text=A Night in the Cemetery\n\nThe gate leading to the underworld has been opened letting demons inside Habbo. Someone has to venture across the cemetery and take the daring journey of going to the underworld and finding the keys needed to lock the gates.\n\nHow to play:\n\n- The room is divided into 4 small games. Carefully read each of the message wireds instructions before you start.\n- Once you've completed the first 3 mini games, a brave Habbo will need to "sacrifice" themselves for the ritual to work by entering the Vampire Coffin. This sacrifice will either teleport the brave Habbo to the end of the game or back to the start.\n- When the last metal gate has been opened, you'll have 5 minutes to cross the other side by sitting on the moving coffins. Complete the game before the time ends to win the prizes.\n- After the 5 minutes have elapsed the metal gates will close again and everyone who didn't make it will need to complete the small games again. Good luck!
 22oct04.title=Fallen Angels
+22oct05.1.image=web_promo_small/spromo_Hellhoundgame1.png
+22oct05.1.text=Operation: Hell's Gate\n\nFind the right teleport that will take you to the room where Lucifer keeps the keys.
+22oct05.1.title=Fallen Angels
+22oct05.2.image=web_promo_small/spromo_gategame4.png
+22oct05.2.text=Operation: Hell's GateYou've found the room with the keys. Out of the 4 keys in the room only 2 of them will lock the gates, find the right ones before the timer ends.How to play:- Stand next to each key and say * to find the right ones.- Lucifer has set a few bobby traps to protect the keys: watch out for the fireballs, if you get hit by one of them you'll be teleported back to the start.- When you have found the keys, stand on the zombie hands to get your prizes.
+22oct05.2.title=Fallen Angels
+22oct05.image=web_promo_small/spromo_Hellhoundgame1.png
+22oct05.text=Operation: Hell's Gate\n\nIt's time to find the keys that will close the gates and prevent more demons from entering Habbo. It's a dangerous job, but someone has to do it.\n\nHow to play:\n\n- You have 1 minute to reach the occult teleport on the other side of the room.\n- Don't walk too close to the fire or you'll lose.\n- Make sure Lucifer's Hellhound doesn't see you or you'll be teleported back to the queue\n- When you're done, take the teleport to continue.
+22oct05.title=Fallen Angels
 22pride01.image=web_promo_small/spromo_bawcitypride.png
 22pride01.text=Habbo Pride City\n\nThe city is ready to celebrate its annual Pride parade. Help the city finalise the last details and put your knowledge about LGBTQIA+ culture to the test.\n\nHow to play:\n\n- Walk on the tiles until you've turned them into the same colors as the Pirde flag.\n- Pick up the small confetti from the ground by stepping on them.\n- For the last part, pull the lever and answer the question by typing the letter with the correct answer: **a*, **b* or **c*\n- You have 120 seconds to complete the game and win the badge.
 22pride01.title=Habbo Pride City
