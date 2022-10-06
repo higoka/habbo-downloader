@@ -6395,10 +6395,10 @@
     <part id="4643" type="cc"/>
     <part id="4644" type="cc"/>
   </lib>
-  <lib id="acc_waist_U_kuromitail" revision="68182">
-    <part id="4645" type="wa"/>
+  <lib id="acc_chest_U_kuromitail" revision="68469">
+    <part id="4645" type="ca"/>
   </lib>
-  <lib id="hat_U_kuromihead" revision="68182">
+  <lib id="hat_U_kuromihead" revision="68469">
     <part id="4646" type="ha"/>
   </lib>
   <lib id="shirt_M_schoolblazer" revision="68203">
@@ -6499,6 +6499,29 @@
     <part id="4662" type="ls"/>
     <part id="4662" type="rs"/>
     <part id="4663" type="ch"/>
+  </lib>
+  <lib id="acc_face_U_test" revision="68454">
+    <part id="4696" type="fa"/>
+    <part id="4696" type="fc"/>
+  </lib>
+  <lib id="shirt_F_hkdungarees" revision="68465">
+    <part id="4700" type="ch"/>
+    <part id="4700" type="ls"/>
+    <part id="4700" type="rs"/>
+    <part id="4701" type="ch"/>
+  </lib>
+  <lib id="shirt_M_hkdungarees" revision="68465">
+    <part id="4698" type="ch"/>
+    <part id="4698" type="ls"/>
+    <part id="4698" type="rs"/>
+    <part id="4699" type="ch"/>
+  </lib>
+  <lib id="face_U_placeholder" revision="68463">
+    <part id="4697" type="hd"/>
+    <part id="4697" type="bd"/>
+  </lib>
+  <lib id="acc_head_U_hkheadphones" revision="68459">
+    <part id="4695" type="he"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
