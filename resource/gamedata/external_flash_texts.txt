@@ -36658,6 +36658,7 @@ user.created.bundle.recall.success=Room bundle successfully recalled from sales.
 user.created.bundle.recall=Recall
 user.created.bundle.title=User created bundle
 user.ignore.fail=You can have up to 50 Habbos on your ignore list. To ignore an additional Habbo, please first remove an existing one from your ignore list.
+video.player.label=Video
 vip.benefits.caption=HC Benefits
 vip.benefits.description=<b><font size="24">Create</font></b><br/>Your own groups and awesome rooms!<br/><br/><b><font size="24">Show Off</font></b><br/>Your style with exclusive clothing and hairstyles!<br/><br/><b><font size="24">
 vip.benefits.details=<b>What You Get:</b> HC Badge, 2-colored clothing, extra hairstyles, additional room layouts, exclusive Furniture gifts,  ability to create your own Groups, more friends on your list and more!
