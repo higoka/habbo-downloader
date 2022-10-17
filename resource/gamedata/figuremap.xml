@@ -6366,12 +6366,12 @@
     <part id="4622" type="ls"/>
     <part id="4622" type="rs"/>
   </lib>
-  <lib id="shirt_F_kuromitshirt" revision="68152">
+  <lib id="shirt_F_kuromitshirt" revision="68487">
     <part id="4630" type="ch"/>
     <part id="4630" type="ls"/>
     <part id="4630" type="rs"/>
   </lib>
-  <lib id="shirt_M_kuromitshirt" revision="68152">
+  <lib id="shirt_M_kuromitshirt" revision="68487">
     <part id="4629" type="ch"/>
     <part id="4629" type="ls"/>
     <part id="4629" type="rs"/>
@@ -6398,7 +6398,7 @@
   <lib id="acc_chest_U_kuromitail" revision="68469">
     <part id="4645" type="ca"/>
   </lib>
-  <lib id="hat_U_kuromihead" revision="68469">
+  <lib id="hat_U_kuromihead" revision="68536">
     <part id="4646" type="ha"/>
   </lib>
   <lib id="shirt_M_schoolblazer" revision="68203">
@@ -6500,10 +6500,6 @@
     <part id="4662" type="rs"/>
     <part id="4663" type="ch"/>
   </lib>
-  <lib id="acc_face_U_test" revision="68454">
-    <part id="4696" type="fa"/>
-    <part id="4696" type="fc"/>
-  </lib>
   <lib id="shirt_F_hkdungarees" revision="68465">
     <part id="4700" type="ch"/>
     <part id="4700" type="ls"/>
@@ -6522,6 +6518,73 @@
   </lib>
   <lib id="acc_head_U_hkheadphones" revision="68459">
     <part id="4695" type="he"/>
+  </lib>
+  <lib id="acc_chest_U_samuraisword" revision="68472">
+    <part id="4686" type="ca"/>
+    <part id="4687" type="ca"/>
+    <part id="4688" type="ca"/>
+  </lib>
+  <lib id="shirt_F_yukata" revision="68486">
+    <part id="4692" type="ch"/>
+    <part id="4693" type="ch"/>
+    <part id="4694" type="ch"/>
+    <part id="4694" type="ls"/>
+    <part id="4694" type="rs"/>
+  </lib>
+  <lib id="shirt_M_yukata" revision="68486">
+    <part id="4689" type="ch"/>
+    <part id="4690" type="ch"/>
+    <part id="4691" type="ch"/>
+    <part id="4691" type="ls"/>
+    <part id="4691" type="rs"/>
+  </lib>
+  <lib id="hair_U_nftdollhair" revision="68494">
+    <part id="4705" type="hr"/>
+    <part id="4705" type="hrb"/>
+    <part id="4706" type="hr"/>
+  </lib>
+  <lib id="shirt_U_nftdolldress" revision="68497">
+    <part id="4704" type="ch"/>
+    <part id="4704" type="ls"/>
+    <part id="4704" type="rs"/>
+  </lib>
+  <lib id="face_U_nftpossesseddoll" revision="68497">
+    <part id="4714" type="fc"/>
+    <part id="4715" type="ey"/>
+    <part id="4715" type="hr"/>
+  </lib>
+  <lib id="acc_chest_U_nftpumpkinbag" revision="68494">
+    <part id="4716" type="ca"/>
+    <part id="4717" type="ca"/>
+    <part id="4718" type="ca"/>
+  </lib>
+  <lib id="shirt_M_nftdoll" revision="68497">
+    <part id="4702" type="ch"/>
+    <part id="4702" type="ls"/>
+    <part id="4702" type="rs"/>
+  </lib>
+  <lib id="shoes_U_nftdollshoes" revision="68494">
+    <part id="4696" type="sh"/>
+  </lib>
+  <lib id="shirt_F_nftdoll" revision="68497">
+    <part id="4703" type="ch"/>
+    <part id="4703" type="ls"/>
+    <part id="4703" type="rs"/>
+  </lib>
+  <lib id="hair_U_nftdollhair2" revision="68500">
+    <part id="4707" type="hr"/>
+    <part id="4707" type="hrb"/>
+    <part id="4708" type="hr"/>
+    <part id="4709" type="hr"/>
+  </lib>
+  <lib id="face_U_nftdollface" revision="68494">
+    <part id="4711" type="fc"/>
+    <part id="4712" type="ey"/>
+  </lib>
+  <lib id="hat_U_samuraihelmet" revision="68486">
+    <part id="4683" type="ha"/>
+    <part id="4684" type="ha"/>
+    <part id="4685" type="ha"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
@@ -6562,7 +6625,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="68165">
+  <lib id="hh_human_item" revision="68525">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -6794,6 +6857,9 @@
     <part id="256" type="ri"/>
     <part id="257" type="ri"/>
     <part id="258" type="ri"/>
+    <part id="259" type="ri"/>
+    <part id="260" type="ri"/>
+    <part id="261" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
