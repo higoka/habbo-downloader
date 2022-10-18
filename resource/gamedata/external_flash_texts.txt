@@ -35750,6 +35750,7 @@ shop.purchase.error.description=Purchasing failed.
 shop.purchase.error.furni.limit=Sorry, but this product is limited to BC members only.
 shop.purchase.error.inventory.full=Oh, your inventory is full, so we can't let you buy more items at the moment.
 shop.purchase.error.permanent.avatar.effect=Hey, you don't need to buy more time for this effect, as you already have it permanently available.
+shop.purchase.error.safety.lock=Your account is safety locked, you can't complete this action until it's unlocked.
 shop.purchase.error.title=Error
 shop.purchase.getmore=Get more
 shop.purchase.nom.coins.description=You don't have enough coins to buy that.
