@@ -1051,7 +1051,7 @@ landing.view.dynamic.slot.1.widget=bonusrare
 landing.view.dynamic.slot.2.conf=2022-09-05 11:00,cave17old;2022-10-03 06:00,hween22cal
 landing.view.dynamic.slot.2.layout=
 landing.view.dynamic.slot.2.widget=widgetcontainer
-landing.view.dynamic.slot.3.conf=2022-10-12 11:00,fallen22new1;2022-10-20 11:00,fallen22craft1;2022-10-28 11:00,fallen22ltd1
+landing.view.dynamic.slot.3.conf=2022-10-12 11:00,fallen22new1;2022-10-20 11:00,oct22_craft1_promo;2022-10-28 11:00,fallen22ltd1
 landing.view.dynamic.slot.3.layout=
 landing.view.dynamic.slot.3.widget=widgetcontainer
 landing.view.dynamic.slot.4.conf=2022-10-12 11:00,ghost16dressing;2022-10-18 11:00,fallen22cracka;2022-10-19 11:00,witch19bundlea;2022-10-21 11:00,fallen22r3;2022-10-24 11:00,easter18forest;2022-10-25 11:00,fallen22cracka;2022-10-26 11:00,hb14daydeadbun;2022-10-27 15:00,fallen22ltd;2022-10-28 11:00,fallen22r4
@@ -5881,7 +5881,7 @@ xmas2012.calendar.startdate=2012-12-02 00:00
 zendesk.url=https://help.habbo.com/home
 zoom.enabled=1
 
-productdata.load.url=https://www.habbo.com/gamedata/productdata/f21d92d27d9b7b9510aef0bba63d5c0487cbd0a5
+productdata.load.url=https://www.habbo.com/gamedata/productdata/8a60dc0913a8b247314d86de0f30eb437c06dad6
 external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/11d5caba580f1bd37f6e2f442de45cf6dadcd7f8
 flash.client.url=https://images.habbo.com/gordon/PRODUCTION-202210141203-222391456/
 furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/dde912176bd1e410b65786a1e2d8eaa25114aa91
