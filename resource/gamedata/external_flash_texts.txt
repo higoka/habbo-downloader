@@ -22436,6 +22436,7 @@ handitem1068=Manga
 handitem1069=Comic
 handitem106=Smoothie
 handitem1070=Yellow Book
+handitem1071=Gold HiPad Vendor
 handitem1072=Compass
 handitem1073=Dino Egg
 handitem1074=Green Allosaurus
