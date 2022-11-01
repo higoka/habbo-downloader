@@ -6310,19 +6310,19 @@
     <part id="4618" type="ha"/>
     <part id="4619" type="ha"/>
   </lib>
-  <lib id="jacket_U_gothiccoat" revision="68071">
+  <lib id="jacket_U_gothiccoat" revision="68567">
     <part id="4613" type="cc"/>
     <part id="4613" type="lc"/>
     <part id="4613" type="rc"/>
     <part id="4614" type="cc"/>
   </lib>
-  <lib id="shirt_F_gothicdress" revision="68117">
+  <lib id="shirt_F_gothicdress" revision="68568">
     <part id="4608" type="ch"/>
     <part id="4608" type="ls"/>
     <part id="4608" type="rs"/>
     <part id="4609" type="ch"/>
   </lib>
-  <lib id="shirt_M_gothicdress" revision="68070">
+  <lib id="shirt_M_gothicdress" revision="68568">
     <part id="4606" type="ch"/>
     <part id="4606" type="ls"/>
     <part id="4606" type="rs"/>
@@ -6586,6 +6586,33 @@
     <part id="4684" type="ha"/>
     <part id="4685" type="ha"/>
   </lib>
+  <lib id="hat_U_drsports" revision="68628">
+    <part id="4721" type="ha"/>
+  </lib>
+  <lib id="shirt_M_drsports" revision="68628">
+    <part id="4719" type="ch"/>
+    <part id="4719" type="ls"/>
+    <part id="4719" type="rs"/>
+  </lib>
+  <lib id="shirt_F_drsports" revision="68628">
+    <part id="4720" type="ch"/>
+    <part id="4720" type="ls"/>
+    <part id="4720" type="rs"/>
+  </lib>
+  <lib id="shirt_M_drsports2" revision="68628">
+    <part id="4722" type="ch"/>
+    <part id="4722" type="ls"/>
+    <part id="4722" type="rs"/>
+    <part id="4723" type="ch"/>
+    <part id="4724" type="ch"/>
+  </lib>
+  <lib id="shirt_F_drsports2" revision="68628">
+    <part id="4725" type="ch"/>
+    <part id="4725" type="ls"/>
+    <part id="4725" type="rs"/>
+    <part id="4726" type="ch"/>
+    <part id="4727" type="ch"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
@@ -6625,7 +6652,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="68525">
+  <lib id="hh_human_item" revision="68608">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
