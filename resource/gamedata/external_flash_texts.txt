@@ -22471,6 +22471,7 @@ handitem1100=Duck Recolour
 handitem1101=Football
 handitem1102=Bat
 handitem1103=Tennis ball
+handitem1104=H-Phone
 handitem111=crab
 handitem112=Red Chilli
 handitem113=Citrus Smoothie
