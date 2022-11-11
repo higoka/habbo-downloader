@@ -31121,7 +31121,7 @@ profile.last_login=Last login:
 profile.namechange.description02=Your name can contain lowercase and uppercase letters, numbers, and the characters _-=?!@:.
 profile.namechange.description03=4-15 characters
 profile.namechange.infotitle01=About Changing Your Habbo Name
-profile.namechange.infotitle02=Chose a new name
+profile.namechange.infotitle02=Choose a new name
 profile.namechange.infotitle03=Congratulations for your wonderful new name!
 profile.offline=offline
 profile.online=online now
