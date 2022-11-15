@@ -29990,6 +29990,9 @@ npc.santa.localization_4=Merry Christmas to all, and to all a goodnight!
 npc.wolf_guy.localization_1=Habbos are tasty
 npc.wolf_guy.trigger_furniture=hween_c16_cabinet
 npc.wolf_guy.trigger_phrase=Habbos are tasty
+npc.xmas_22.localization_1=Merry Christmas to all, and to all a goodnight!
+npc.xmas_22.localization_2=HO, HO, HO - Merry Christmas!
+npc.xmas_22.localization_3=HO, HO, HO Does anyone here want a present?
 nux.bot.bubble.duckets.1=Did you know, in Habbo we have a currency that you earn every visit!? They're called Duckets!
 nux.bot.bubble.duckets.2=You can use Duckets to buy furniture, decorations, and more pet food for your pet. Check out the <a href='event:catalog/open/ducket_info'>duckets section</a> in our shop!
 nux.bot.bubble.farewell.2=Enjoy your stay, %username%!
