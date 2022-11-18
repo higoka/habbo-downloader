@@ -36468,9 +36468,9 @@ targeted.offer.nov20_tko_gr2.desc=<a href="event:habbopages/11offer2tto20">This 
 targeted.offer.nov21_tko_gr1.desc=<a href="event:habbopages/11offer1tto20">This deal includes 70 bronze coins + Exclusive Cat Eared Beanie + Frozen Waterfall + Stone Arch + Woodland Shrine + Stone Cauldron + HC 1 month + Badge
 targeted.offer.nov21_tko_gr1.title=Black Friday MEGA Deal
 targeted.offer.nov21_tko_gr2.desc=<a href="event:habbopages/11offer2tto20">This deal includes 80 bronze coins + 3x exclusive Cat Eared Beanie + Frozen Waterfall + Stone Arch + 3x Frozen Stream + 4x Snow-covered Rocks + Snowy Rock Bridge + HC 3 months + Badge
-targeted.offer.nov22_tto_gr1.desc=<a href="event:habbopages/6summer1tto20">This deal includes 70 bronze coins + Exclusive Star Crown + Wooly Bear Hat + Santa Hat + Rudolph Jumper + HC 1 month + Badge
+targeted.offer.nov22_tto_gr1.desc=This deal includes 70 bronze coins + Exclusive Star Crown + Wooly Bear Hat + Santa Hat + Rudolph Jumper + HC 1 month + Badge
 targeted.offer.nov22_tto_gr1.title=Black Friday MEGA Deal
-targeted.offer.nov22_tto_gr2.desc=<a href="event:habbopages/6summer2tto20">This deal includes 80 bronze coins + 3x exclusive Star Crowns + Holly Hairpin + Bauble Earrings + Wooly Bear Set + Bearmuffs + Neck Scarf + Snowman Suit + Bobble Hat + HC 3 months + Badge
+targeted.offer.nov22_tto_gr2.desc=This deal includes 80 bronze coins + 3x exclusive Star Crowns + Holly Hairpin + Bauble Earrings + Wooly Bear Set + Bearmuffs + Neck Scarf + Snowman Sweater + Snowman Suit + Bobble Hat + HC 3 months + Badge
 targeted.offer.nov22_tto_gr2.title=Black Friday MEGA Deal
 targeted.offer.ny16_tko_gr1.desc=Don't turn up to a New Years Eve party without this must-have party furni this year! Confetti, drinks, stars... Don't miss out! <br><br>Offer is limited to one per person and includes:<br>- 70 bronze coins (worth 70c)<br>- <a href="event:habbopages/habboclub">HC 1 month</a> (worth 25c)<br>- Rare Snazzy Star Decoration (worth 25c)<br>- Party Bar (worth 8c)<br>- Confetti Ball (worth 6c)<br>- Small Confetti Floor (worth 2c)<br>- Rare Badge (for free)
 targeted.offer.ny16_tko_gr1.title=Starry New Years Offer
