@@ -1070,7 +1070,7 @@
     <part id="2478" type="ls"/>
     <part id="2478" type="rs"/>
   </lib>
-  <lib id="shirt_U_bedwrap" revision="65748">
+  <lib id="shirt_U_bedwrap" revision="68693">
     <part id="3722" type="ch"/>
     <part id="3722" type="ls"/>
     <part id="3722" type="rs"/>
@@ -6612,6 +6612,71 @@
     <part id="4725" type="rs"/>
     <part id="4726" type="ch"/>
     <part id="4727" type="ch"/>
+  </lib>
+  <lib id="shoes_U_nftxmasshoes" revision="68645">
+    <part id="4748" type="sh"/>
+  </lib>
+  <lib id="shirt_F_nftxmaspants" revision="68645">
+    <part id="4746" type="ch"/>
+    <part id="4746" type="ls"/>
+    <part id="4746" type="rs"/>
+  </lib>
+  <lib id="shirt_M_nftreindeer" revision="68645">
+    <part id="4753" type="ch"/>
+    <part id="4753" type="ls"/>
+    <part id="4753" type="rs"/>
+  </lib>
+  <lib id="shirt_M_nftxmaspants" revision="68645">
+    <part id="4745" type="ch"/>
+    <part id="4745" type="ls"/>
+    <part id="4745" type="rs"/>
+  </lib>
+  <lib id="shirt_M_nftpenguin" revision="68645">
+    <part id="4749" type="ch"/>
+    <part id="4749" type="ls"/>
+    <part id="4749" type="rs"/>
+  </lib>
+  <lib id="shirt_F_nftreindeer" revision="68649">
+    <part id="4754" type="ch"/>
+    <part id="4754" type="ls"/>
+    <part id="4754" type="rs"/>
+  </lib>
+  <lib id="shoes_U_nftpenguinslippers" revision="68649">
+    <part id="4752" type="sh"/>
+  </lib>
+  <lib id="shirt_F_nftpenguin" revision="68645">
+    <part id="4750" type="ch"/>
+    <part id="4750" type="ls"/>
+    <part id="4750" type="rs"/>
+  </lib>
+  <lib id="shoes_U_nftreindeerslippers" revision="68645">
+    <part id="4756" type="sh"/>
+  </lib>
+  <lib id="shirt_U_nftxmasdress" revision="68645">
+    <part id="4747" type="ch"/>
+    <part id="4747" type="ls"/>
+    <part id="4747" type="rs"/>
+  </lib>
+  <lib id="shirt_U_nftpenguindress" revision="68645">
+    <part id="4751" type="ch"/>
+    <part id="4751" type="ls"/>
+    <part id="4751" type="rs"/>
+  </lib>
+  <lib id="shirt_U_nftreindeerdress" revision="68645">
+    <part id="4755" type="ch"/>
+    <part id="4755" type="ls"/>
+    <part id="4755" type="rs"/>
+  </lib>
+  <lib id="acc_head_U_starcrownb" revision="68675">
+    <part id="4757" type="he"/>
+    <part id="4758" type="he"/>
+  </lib>
+  <lib id="acc_head_U_cnyrabbitears" revision="68702">
+    <part id="4729" type="he"/>
+    <part id="4730" type="he"/>
+  </lib>
+  <lib id="acc_chest_U_cnyrabbittail" revision="68702">
+    <part id="4728" type="ca"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
