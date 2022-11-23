@@ -35570,6 +35570,7 @@ room.queue.error.c=This room is for Habbo Club members only. In order to enter, 
 room.queue.error.e1=This room is currently available only to Habbos participating to the event.
 room.queue.error.generic=Sorry, but room entry failed. Usually this means that the room entry permissions were changed while you were in the queue.
 room.queue.error.na=Sorry, this room is currently locked. Please try again later.
+room.queue.error.queue full=Room queue is full, please try again later.
 room.queue.error.queue_full=Room queue is full, please try again later.
 room.queue.error.room_session=Failed to enter the room queue, please try again later.
 room.queue.error.spectator_mode_full=Too many spectators. Please return to the queue and try again.
