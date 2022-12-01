@@ -6678,6 +6678,136 @@
   <lib id="acc_chest_U_cnyrabbittail" revision="68702">
     <part id="4728" type="ca"/>
   </lib>
+  <lib id="acc_chest_U_kangarooharness" revision="68724">
+    <part id="4731" type="ca"/>
+    <part id="4732" type="ca"/>
+    <part id="4733" type="ca"/>
+  </lib>
+  <lib id="hat_U_goldcrown" revision="68749">
+    <part id="4766" type="ha"/>
+  </lib>
+  <lib id="hat_U_golddafthelmet" revision="68755">
+    <part id="4768" type="ha"/>
+  </lib>
+  <lib id="hat_U_goldbandana" revision="68755">
+    <part id="4772" type="ha"/>
+  </lib>
+  <lib id="hat_U_goldbobblehat" revision="68749">
+    <part id="4776" type="ha"/>
+  </lib>
+  <lib id="hat_U_goldbowler" revision="68755">
+    <part id="4767" type="ha"/>
+  </lib>
+  <lib id="hat_U_goldfurcap" revision="68755">
+    <part id="4770" type="ha"/>
+  </lib>
+  <lib id="hat_U_diaturban" revision="68732">
+    <part id="4773" type="ha"/>
+  </lib>
+  <lib id="acc_head_U_diahalo" revision="68765">
+    <part id="4775" type="he"/>
+  </lib>
+  <lib id="hat_U_goldwitch" revision="68755">
+    <part id="4771" type="ha"/>
+  </lib>
+  <lib id="hat_U_goldpanda" revision="68755">
+    <part id="4769" type="ha"/>
+  </lib>
+  <lib id="hat_U_tvhead" revision="68749">
+    <part id="4760" type="ha"/>
+    <part id="4761" type="ha"/>
+  </lib>
+  <lib id="acc_face_U_nypartyhorn1" revision="68732">
+    <part id="4735" type="fa"/>
+  </lib>
+  <lib id="acc_face_U_nypartyhorn2" revision="68732">
+    <part id="4736" type="fa"/>
+  </lib>
+  <lib id="acc_face_U_nypartyhorn3" revision="68732">
+    <part id="4737" type="fa"/>
+  </lib>
+  <lib id="acc_face_U_nypartyhorn4" revision="68732">
+    <part id="4738" type="fa"/>
+  </lib>
+  <lib id="acc_face_U_nypartyhorn5" revision="68732">
+    <part id="4739" type="fa"/>
+  </lib>
+  <lib id="acc_face_U_nypartyhorn6" revision="68732">
+    <part id="4740" type="fa"/>
+  </lib>
+  <lib id="acc_face_U_nypartyhorn7" revision="68732">
+    <part id="4741" type="fa"/>
+  </lib>
+  <lib id="acc_face_U_nypartyhorn8" revision="68732">
+    <part id="4742" type="fa"/>
+  </lib>
+  <lib id="hat_U_diafeathercrown" revision="68764">
+    <part id="4774" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_marianabobag" revision="68777">
+    <part id="4799" type="ca"/>
+    <part id="4800" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_marksixmabag" revision="68789">
+    <part id="4797" type="ca"/>
+    <part id="4798" type="ca"/>
+  </lib>
+  <lib id="hat_U_marksixma" revision="68777">
+    <part id="4795" type="ha"/>
+    <part id="4796" type="ha"/>
+  </lib>
+  <lib id="hat_U_marianabo" revision="68777">
+    <part id="4793" type="ha"/>
+    <part id="4794" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_mrblackbag" revision="68783">
+    <part id="4801" type="ca"/>
+    <part id="4802" type="ca"/>
+  </lib>
+  <lib id="shirt_M_tshirt_marksixma" revision="68777">
+    <part id="4778" type="ch"/>
+    <part id="4778" type="ls"/>
+    <part id="4778" type="rs"/>
+    <part id="4779" type="ch"/>
+  </lib>
+  <lib id="shirt_M_tshirt_marianabo" revision="68777">
+    <part id="4786" type="ch"/>
+    <part id="4786" type="ls"/>
+    <part id="4786" type="rs"/>
+    <part id="4787" type="ch"/>
+  </lib>
+  <lib id="shirt_F_tshirt_marksixma" revision="68777">
+    <part id="4780" type="ch"/>
+    <part id="4780" type="ls"/>
+    <part id="4780" type="rs"/>
+    <part id="4781" type="ch"/>
+  </lib>
+  <lib id="shirt_F_tshirt_marianabo" revision="68777">
+    <part id="4788" type="ch"/>
+    <part id="4788" type="ls"/>
+    <part id="4788" type="rs"/>
+    <part id="4789" type="ch"/>
+  </lib>
+  <lib id="shirt_F_tshirt_mrblack" revision="68777">
+    <part id="4784" type="ch"/>
+    <part id="4784" type="ls"/>
+    <part id="4784" type="rs"/>
+    <part id="4785" type="ch"/>
+  </lib>
+  <lib id="acc_head_U_ltsheadband" revision="68784">
+    <part id="4777" type="he"/>
+  </lib>
+  <lib id="hat_U_mrblack" revision="68789">
+    <part id="4790" type="ha"/>
+    <part id="4791" type="ha"/>
+    <part id="4792" type="ha"/>
+  </lib>
+  <lib id="shirt_M_tshirt_mrblack" revision="68777">
+    <part id="4782" type="ch"/>
+    <part id="4782" type="ls"/>
+    <part id="4782" type="rs"/>
+    <part id="4783" type="ch"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
