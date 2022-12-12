@@ -6641,7 +6641,7 @@
     <part id="4754" type="ls"/>
     <part id="4754" type="rs"/>
   </lib>
-  <lib id="shoes_U_nftpenguinslippers" revision="68649">
+  <lib id="shoes_U_nftpenguinslippers" revision="68797">
     <part id="4752" type="sh"/>
   </lib>
   <lib id="shirt_F_nftpenguin" revision="68645">
@@ -6649,7 +6649,7 @@
     <part id="4750" type="ls"/>
     <part id="4750" type="rs"/>
   </lib>
-  <lib id="shoes_U_nftreindeerslippers" revision="68645">
+  <lib id="shoes_U_nftreindeerslippers" revision="68797">
     <part id="4756" type="sh"/>
   </lib>
   <lib id="shirt_U_nftxmasdress" revision="68645">
@@ -6770,7 +6770,7 @@
     <part id="4778" type="rs"/>
     <part id="4779" type="ch"/>
   </lib>
-  <lib id="shirt_M_tshirt_marianabo" revision="68777">
+  <lib id="shirt_M_tshirt_marianabo" revision="68809">
     <part id="4786" type="ch"/>
     <part id="4786" type="ls"/>
     <part id="4786" type="rs"/>
@@ -6807,6 +6807,29 @@
     <part id="4782" type="ls"/>
     <part id="4782" type="rs"/>
     <part id="4783" type="ch"/>
+  </lib>
+  <lib id="acc_chest_U_ltsbackstar" revision="68804">
+    <part id="4743" type="ca"/>
+    <part id="4744" type="ca"/>
+  </lib>
+  <lib id="trousers_U_nft2023trousers" revision="68797">
+    <part id="4806" type="lg"/>
+  </lib>
+  <lib id="hat_U_nftrastasanta" revision="68799">
+    <part id="4803" type="ha"/>
+  </lib>
+  <lib id="jacket_F_nft2023tuxedo" revision="68797">
+    <part id="4804" type="cc"/>
+    <part id="4804" type="lc"/>
+    <part id="4804" type="rc"/>
+  </lib>
+  <lib id="trousers_U_nft2023skirt" revision="68797">
+    <part id="4807" type="lg"/>
+  </lib>
+  <lib id="jacket_M_nft2023tuxedo" revision="68797">
+    <part id="4805" type="cc"/>
+    <part id="4805" type="lc"/>
+    <part id="4805" type="rc"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
