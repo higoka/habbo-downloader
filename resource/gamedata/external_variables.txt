@@ -1081,7 +1081,7 @@ landing.view.dynamic.slot.4.layout=
 landing.view.dynamic.slot.4.separator=false
 landing.view.dynamic.slot.4.title=
 landing.view.dynamic.slot.4.widget=widgetcontainer
-landing.view.dynamic.slot.5.conf=2022-12-01 12:00,xmas22ba1;2022-12-04 12:00,xmas22angeloff;2022-12-06 16:00,xmas22bb1
+landing.view.dynamic.slot.5.conf=2022-12-06 16:00,xmas20bb1;2022-12-12 12:00,jan17bavarian1
 landing.view.dynamic.slot.5.ignore=
 landing.view.dynamic.slot.5.layout=
 landing.view.dynamic.slot.5.separator=false
@@ -5985,7 +5985,7 @@ xmas2012.calendar.startdate=2012-12-02 00:00
 zendesk.url=https://help.habbo.com/home
 zoom.enabled=1
 
-productdata.load.url=https://www.habbo.com/gamedata/productdata/bb10f3d0e6a597ae403f78714b6111a52a4f05fe
+productdata.load.url=https://www.habbo.com/gamedata/productdata/90334df602bbd854ab6c4a604d33577ec98119f0
 external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/e2e11edaf00c46f482f9ec40540905d9cee5c979
 flash.client.url=https://images.habbo.com/gordon/PRODUCTION-202212061329-970460421/
 furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/78dc628e661f3800dda2550cd8ebc8cb359c4a97
