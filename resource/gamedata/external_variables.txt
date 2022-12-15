@@ -5873,7 +5873,7 @@ questing.defaultCampaign=room_builder
 questing.showDetailsForNextQuest=false
 questing.startQuestDelayInSeconds=10
 recycler.number_of_slots=8
-register.allowed.characters=__-=?!@:.,
+register.allowed.characters=_-=?!@:.,
 register.allowed_unicode_blocks=Basic Latin
 register.allowed_unicode_scripts=Common,Latin
 register.check_illegal_character=true
@@ -5990,8 +5990,8 @@ zendesk.url=https://help.habbo.com/home
 zoom.enabled=1
 
 productdata.load.url=https://www.habbo.com/gamedata/productdata/90334df602bbd854ab6c4a604d33577ec98119f0
-external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/3037f6d81116a0e321c769724540e028e40c219c
+external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/ea4ffe8d02dce03aa37f104313434fcda02f92fb
 flash.client.url=https://images.habbo.com/gordon/PRODUCTION-202212142205-588876694/
-furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/cec2f9a6ba13bb2afa5f32fd22d879c9c4869b85
-external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/3037f6d81116a0e321c769724540e028e40c219c
+furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/408a7a81be84eae5e7c02e4f831f2ed4efd09874
+external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/ea4ffe8d02dce03aa37f104313434fcda02f92fb
 external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/1d9be9d7469b9067dd8d42e7974e3a60a597782b
