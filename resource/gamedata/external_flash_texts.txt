@@ -31358,6 +31358,7 @@ profile.namechange.banned=You are restricted from changing your name based on yo
 profile.namechange.description02=Your name can contain lowercase and uppercase letters, numbers, and the characters _-=?!@:.
 profile.namechange.description03=3-15 characters
 profile.namechange.description04=After changing your name, up to three of your old names will be reserved  in case you want to revert back to one of them. When you try to reserve a fourth one, the oldest name you've reserved will be freed up for someone else to use. You can select reserved names to free up individually.
+profile.namechange.description05=Your name will be updated everywhere automatically, so your friends will know your new name right away.
 profile.namechange.infotitle01=About Changing Your Habbo Name
 profile.namechange.infotitle02=Choose a new name
 profile.namechange.infotitle03=Congratulations for your wonderful new name!
@@ -31370,7 +31371,8 @@ profile.private_profile=This Habbo wishes to keep their profile private.
 profile.relationship.status=Relationship status:
 profile.requirements.requirement01=Active Habbo Club Membership
 profile.requirements.requirement02=At least 30 days from your previous name change / avatar creation. You have [X] days left.
-profile.requirements.requirement03=You must have less than 3 previous names, you now have %x%
+profile.requirements.requirement03=You need [X] credits and [Y] diamonds.
+profile.requirements.requirement04=You must have less than 3 previous names, You now have %x%
 profile.requirements.subtitle=What is required:
 profile.rooms=Rooms
 profile.send_friend_request=Send friend request
