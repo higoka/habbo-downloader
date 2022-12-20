@@ -6831,6 +6831,56 @@
     <part id="4805" type="lc"/>
     <part id="4805" type="rc"/>
   </lib>
+  <lib id="hat_U_solarpunkbunnyhelmet" revision="68845">
+    <part id="4826" type="ha"/>
+    <part id="4827" type="ha"/>
+    <part id="4828" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_bunnybackpack" revision="68830">
+    <part id="4808" type="ca"/>
+    <part id="4809" type="ca"/>
+    <part id="4810" type="ca"/>
+  </lib>
+  <lib id="trousers_U_solarpunkbunnypants" revision="68830">
+    <part id="4821" type="lg"/>
+    <part id="4822" type="lg"/>
+  </lib>
+  <lib id="hair_U_saladhair" revision="68830">
+    <part id="4811" type="hr"/>
+    <part id="4811" type="hrb"/>
+  </lib>
+  <lib id="jacket_U_solarpunkbunnyjacket" revision="68845">
+    <part id="4823" type="cc"/>
+    <part id="4823" type="lc"/>
+    <part id="4823" type="rc"/>
+    <part id="4824" type="cc"/>
+    <part id="4825" type="cc"/>
+  </lib>
+  <lib id="hat_U_floppybunnyhat" revision="68852">
+    <part id="4829" type="ha"/>
+    <part id="4830" type="ha"/>
+  </lib>
+  <lib id="shirt_M_bohoflower" revision="68852">
+    <part id="4834" type="ch"/>
+    <part id="4834" type="ls"/>
+    <part id="4834" type="rs"/>
+    <part id="4835" type="ch"/>
+    <part id="4836" type="ch"/>
+  </lib>
+  <lib id="shirt_F_bohoflower" revision="68852">
+    <part id="4831" type="ch"/>
+    <part id="4831" type="ls"/>
+    <part id="4831" type="rs"/>
+    <part id="4832" type="ch"/>
+    <part id="4833" type="ch"/>
+  </lib>
+  <lib id="trousers_U_bohoflower" revision="68852">
+    <part id="4837" type="ch"/>
+    <part id="4837" type="ls"/>
+    <part id="4837" type="rs"/>
+    <part id="4838" type="ch"/>
+    <part id="4839" type="ch"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
