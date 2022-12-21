@@ -19132,6 +19132,7 @@ badge_name_X2228=Penguin Maze: Easy Level - Completed
 badge_name_X2229=Team Penguin
 badge_name_X2230=Team Reindeer
 badge_name_X2231=Real Money Drinks Offer
+badge_name_X2232=Dining Hall Bundle
 badge_name_X518=Xmas Carols - Santa Claus
 badge_name_X519=Xmas Carols - Mrs. Claus
 badge_name_X520=Beautiful Christmas Tree - Santa Claus
