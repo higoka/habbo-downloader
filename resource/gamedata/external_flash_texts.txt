@@ -22854,6 +22854,7 @@ handitem83=Juicy Apple
 handitem84=Ginger Bread Man
 handitem85=Americano
 handitem86=Frappuccino
+handitem87=Water Cup
 handitem89=Cupcake
 handitem8=Coffee
 handitem91=Tea
