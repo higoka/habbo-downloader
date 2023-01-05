@@ -20980,6 +20980,7 @@ featured.offer.jan22cf.title=RARE credit furni: Premium Champagne!
 featured.offer.jan22cftitle=RARE credit furni: Premium Champagne!
 featured.offer.jan22clock.title=RARE Rococo Clock
 featured.offer.jan22ltd.title=Iridescent Crystalline Growth LTD
+featured.offer.jan23cf.title=RARE Golden King Chess Piece Credit Furni
 featured.offer.jan23cf=RARE Golden King Chess Piece Credit Furni
 featured.offer.jan23d3a.title=Diamond Gift Box 3.0
 featured.offer.jan23d3b.title=Diamond Accessories 3.0
@@ -36535,6 +36536,8 @@ targeted.offer.diamond_tto3.desc=Far, far beneath Habbo Hotel lies a bank vault 
 targeted.offer.diamond_tto3.title=Subterranean Vault Offer
 targeted.offer.diamond_tto4.desc=Near the top of the Hotel is a room VERY few have seen. It was previously owned by a mysterious Lordly Habbo, but now it's for sale! As well as a nice fat Big Ol' Diamond AND an Ornate Crown, included is an exclusive badge! <br><br>Offer is limited to 1 per person and includes:<br>- Lordly Jewels Bundle (worth 3.265c)<br>- Bundle Badge (for free)<br><br><b>PRICE: 3000 credits + 300 diamonds</b>
 targeted.offer.diamond_tto4.title=Lordly Jewels Offer
+targeted.offer.expires.days=Offer expires in %days% day(s)
+targeted.offer.expires.hours=Offer expires in %hours% hour(s)
 targeted.offer.extra20_animals_tto_all.desc=<a href="event:habbopages/8animalstto20">Click here</a> to see a list of all the items included in this deal
 targeted.offer.extra20_animals_tto_all.title=Animals Offer
 targeted.offer.extra20_lamps1_tto_all.desc=<a href="event:habbopages/11lamp1tto20">Click here</a> to see a list of all the items included in this deal
@@ -36771,6 +36774,7 @@ targeted.offer.may18_tto_all.desc=Pick up an exquisite, unreleased painting (exc
 targeted.offer.may18_tto_all.title=EXCLUSIVE Painting Deal!
 targeted.offer.minimized.timeleft=Time left: %timeleft%
 targeted.offer.not.enough.credits=You don't have enough credits or Diamonds yet!
+targeted.offer.not_enough.credits=You don't have enough credits or diamonds yet!
 targeted.offer.nov19_teleport_tto_all.desc=<a href="event:habbopages/11teleptto19">Click here</a> to see a list of all the teleports included in this deal
 targeted.offer.nov19_teleport_tto_all.title=Teleport Collector Deal!
 targeted.offer.nov20_tko_gr1.desc=<a href="event:habbopages/11offer1tto20">This deal includes 60 bronze coins + Exclusive New Unicorn Hat 2.0 + Fruity Slush Dispenser +  HC 1 month + Badge
