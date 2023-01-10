@@ -15108,6 +15108,7 @@ badge_name_NFT55=NFTmas - I won Blitzen Bingo!
 badge_name_NFT56=NFTmas - I won Christmas Carnival!
 badge_name_NFT57=NFTmas - I won Stack Attack!
 badge_name_NFT58=NFTmas - I helped Santa!
+badge_name_NFT60=NFT Club
 badge_name_NI5=Gold Rush - Mythology
 badge_name_NI5_HHUK=Mythology World
 badge_name_NIB01=Nature's path
