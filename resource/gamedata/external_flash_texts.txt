@@ -619,7 +619,7 @@
 23jan01.text=The Chinese lunar calendar dictates that this year is the year of the RABBIT! Help light up the red candles to complete the ritual that will help you attract good luck and prosperity for this new year.How to play:- You will have one and a half minutes to light the 7 red candles that are on the outskirts of the temple.- You'll need to stand next to them and type "*".- Watch out for the dragonflies! If they touch you, you'll be teleported back.- If you manage to complete the game before the time ends, you'll win the badge and a Ruby Baby Penguin.
 23jan01.title=Happy Chinese New Year 2023!
 23jan02.image=web_promo_small/spromo_chinesenewyear23.png
-23jan02.text=Put your knowledge on the Chinese New Year to the test with a quiz we've published on the inside of the temple.\n\n In order to access the temple you will first need to find the hidden lever that will give you the badge you'll need to wear to take the teleport.\n\n Once you've got the badge, stand on the chinese lantern and take the teleport to the inside of the temple.\n\nEveryone who answers *all* the questions in the poll correctly will receive an exclusive badge!
+23jan02.text=Put your knowledge of the Chinese New Year to the test with a quiz we've published  inside the temple.\n\n In order to access the temple you will first need to find the hidden lever that will give you the badge you'll need to wear to take the teleport.\n\n Once you've got the badge, stand on the Chinese lantern and take the teleport to the inside of the temple.\n\nEveryone who answers *all* the questions in the poll correctly will receive an exclusive badge!
 23jan02.title=Chinese New Year Quiz!
 50S_badge_name=GreenRecordBadge
 70S_badge_name=PurpleDiscoBadge
