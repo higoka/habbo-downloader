@@ -615,6 +615,9 @@
 22test06.image=web_promo_small/spromo_nfttrophy22.png
 22test06.text=Hey!\n\nYou've been picked to receive a Bronze Community Pillar NFT for your contributions to the Habbo community. To receive the NFT, you need to do three things:\n\n1) Sign up for MetaMask. Check this guide to see how to do this.\n\n[https://nft.habbo.com/info/#metamask|Click here] [https://nft.habbo.com/info/#metamask|Click here]\n\n2) Connect your MetaMask to IMX. [https://nft.habbo.com/info/#imx|Click here] to see a guide on how to do this: 3) Enter your MetaMask wallet address in the poll\n\n[https://nft.habbo.com/info/#tab2|Here's] a guide showing how to use NFT furni in Habbo\n\n
 22test06.title=Bronze Community Pillar NFT
+23feb01.image={image|url=web_promo_small/spromo_gamefeb23.png|align=right|hspace=10|vspace=0}
+23feb01.text=Piccolo has found himself in a pickle... He has downloaded a file attached to an email he received. He later remembered what Frank has always told him: "Do not open emails from untrusted sources"\n\nIt's been a couple of days since this happened and he has started to notice his computer acting up. To help him, this time you will need to get inside Piccolo's computer and help him recover the personal information that was stolen from him. When you've recovered his personal information you will then need to make sure his computer is safe from any future threats by installing two important security tools:\n\n   1) An **antivirus program** that will help detect, block and remove any malware from the system.\n   2) A **firewall**, that will help protect his computer or network from unauthorized access and hacking attempts.\n\n How to play:\n\n - Walk up to Piccolo and sit on the stool to listen to what he has to tell you.\n- Help him recover his personal information by stepping on the tiles until they've turned green.\n- Watch out for the floating angels that are moving around, they're viruses designed to exploit Piccolo's computer.\n- Once you've helped Piccolo recover all his sensitve information, you'll need to pull the levers that will appear in the room to install the security tools that will keep his computer from any future attacks.\n- You have 1:30 to help Piccolo. If you finish on time you'll win an exclusive badge AND a 2023 SID plushie.
+23feb01.title=SID 2023 - Together for a better internet
 23jan01.image=web_promo_small/spromo_cny23game.png
 23jan01.text=The Chinese lunar calendar dictates that this year is the year of the RABBIT! Help light up the red candles to complete the ritual that will help you attract good luck and prosperity for this new year.How to play:- You will have one and a half minutes to light the 7 red candles that are on the outskirts of the temple.- You'll need to stand next to them and type "*".- Watch out for the dragonflies! If they touch you, you'll be teleported back.- If you manage to complete the game before the time ends, you'll win the badge and a Ruby Baby Penguin.
 23jan01.title=Happy Chinese New Year 2023!
@@ -18383,6 +18386,7 @@ badge_name_V2311=Wheel-spinner machine
 badge_name_V2312=Arcade Pinball Machine
 badge_name_V2313=Quack Attack machine
 badge_name_V2315=RARE Arcade Waves
+badge_name_V2318=SID 2023 - Keep the virus away!
 badge_name_V2320=Rare Polar Sofa
 badge_name_VA010=HBH Cheaters
 badge_name_VA010_HHAU=Split Up Badge
