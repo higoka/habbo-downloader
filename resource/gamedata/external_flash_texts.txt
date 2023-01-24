@@ -618,6 +618,9 @@
 23feb01.image={image|url=web_promo_small/spromo_gamefeb23.png|align=right|hspace=10|vspace=0}
 23feb01.text=Piccolo has found himself in a pickle... He has downloaded a file attached to an email he received. He later remembered what Frank has always told him: "Do not open emails from untrusted sources"\n\nIt's been a couple of days since this happened and he has started to notice his computer acting up. To help him, this time you will need to get inside Piccolo's computer and help him recover the personal information that was stolen from him. When you've recovered his personal information you will then need to make sure his computer is safe from any future threats by installing two important security tools:\n\n   1) An **antivirus program** that will help detect, block and remove any malware from the system.\n   2) A **firewall**, that will help protect his computer or network from unauthorized access and hacking attempts.\n\n How to play:\n\n - Walk up to Piccolo and sit on the stool to listen to what he has to tell you.\n- Help him recover his personal information by stepping on the tiles until they've turned green.\n- Watch out for the floating angels that are moving around, they're viruses designed to exploit Piccolo's computer.\n- Once you've helped Piccolo recover all his sensitve information, you'll need to pull the levers that will appear in the room to install the security tools that will keep his computer from any future attacks.\n- You have 1:30 to help Piccolo. If you finish on time you'll win an exclusive badge AND a 2023 SID plushie.
 23feb01.title=SID 2023 - Together for a better internet
+23feb02.image={image|url=web_promo_small/spromo_gamefeb23.png|align=right|hspace=10|vspace=0}
+23feb02.text=Protect the Habbo galaxy from the underway invasion of thousands of RoboCat plushies that threaten to put the safety of the galaxy at risk. Do you have the skills needed to keep the invaders at bay?How to play:- Step on the arrow plates to move the plane sideways.- Once you've placed it in the correct position, use the lever to shoot the RoboCat plushies or stop the shot coming towards you.- If you let the  RoboCat plushies reach the green cables, you'll lose a life.- Some cats will manage to get away from the shot by moving at the right moment, when this happens you'll have to quickly shoot at it again.- At the end of the event the top 5 Habbos that manage to survive the longest will win an additional badge. Good luck!
+23feb02.title=Habbo Space Invaders{image|url=web_promo_small/spromo_febgame2.png|align=right|hspace=10|vspace=0}h1. Habbo Space InvadersProtect the Habbo galaxy from the underway invasion of thousands of RoboCat plushies that threaten to put the safety of the galaxy at risk. Do you have the skills needed to keep the invaders at bay?h2. How to play:- Step on the arrow plates to move the plane sideways.- Once you've placed it in the correct position, use the lever to shoot the RoboCat plushies or stop the shot coming towards you.- If you let the  RoboCat plushies reach the green cables, you'll lose a life.- Some cats will manage to get away from the shot by moving at the right moment, when this happens you'll have to quickly shoot at it again.- At the end of the event the top 5 Habbos that manage to survive the longest will win an additional badge. Good luck!
 23jan01.image=web_promo_small/spromo_cny23game.png
 23jan01.text=The Chinese lunar calendar dictates that this year is the year of the RABBIT! Help light up the red candles to complete the ritual that will help you attract good luck and prosperity for this new year.How to play:- You will have one and a half minutes to light the 7 red candles that are on the outskirts of the temple.- You'll need to stand next to them and type "*".- Watch out for the dragonflies! If they touch you, you'll be teleported back.- If you manage to complete the game before the time ends, you'll win the badge and a Ruby Baby Penguin.
 23jan01.title=Happy Chinese New Year 2023!
@@ -18374,6 +18377,7 @@ badge_name_V2113=Habbo's Terms and Conditions Expert! - SID 2021
 badge_name_V2115=Valentines 2021 TKO
 badge_name_V2116=The Islander
 badge_name_V2117=Mice on board!
+badge_name_V2301=RARE Arcade Waves
 badge_name_V2302=Rare Three Lives Only
 badge_name_V2303=RARE Glowing Bear Vendor
 badge_name_V2304=RARE Candy Floss Kangaroo
@@ -18385,9 +18389,10 @@ badge_name_V2310=CyberPunk Shootout machine
 badge_name_V2311=Wheel-spinner machine
 badge_name_V2312=Arcade Pinball Machine
 badge_name_V2313=Quack Attack machine
-badge_name_V2315=RARE Arcade Waves
+badge_name_V2315=Stopped the alien invasion!
 badge_name_V2318=SID 2023 - Keep the virus away!
 badge_name_V2320=Rare Polar Sofa
+badge_name_V2329=Habbo Space Defender
 badge_name_VA010=HBH Cheaters
 badge_name_VA010_HHAU=Split Up Badge
 badge_name_VA010_HHCA=Catching Cheaters
