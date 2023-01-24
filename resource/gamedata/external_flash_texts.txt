@@ -618,9 +618,9 @@
 23feb01.image={image|url=web_promo_small/spromo_gamefeb23.png|align=right|hspace=10|vspace=0}
 23feb01.text=Piccolo has found himself in a pickle... He has downloaded a file attached to an email he received. He later remembered what Frank has always told him: "Do not open emails from untrusted sources"\n\nIt's been a couple of days since this happened and he has started to notice his computer acting up. To help him, this time you will need to get inside Piccolo's computer and help him recover the personal information that was stolen from him. When you've recovered his personal information you will then need to make sure his computer is safe from any future threats by installing two important security tools:\n\n   1) An **antivirus program** that will help detect, block and remove any malware from the system.\n   2) A **firewall**, that will help protect his computer or network from unauthorized access and hacking attempts.\n\n How to play:\n\n - Walk up to Piccolo and sit on the stool to listen to what he has to tell you.\n- Help him recover his personal information by stepping on the tiles until they've turned green.\n- Watch out for the floating angels that are moving around, they're viruses designed to exploit Piccolo's computer.\n- Once you've helped Piccolo recover all his sensitve information, you'll need to pull the levers that will appear in the room to install the security tools that will keep his computer from any future attacks.\n- You have 1:30 to help Piccolo. If you finish on time you'll win an exclusive badge AND a 2023 SID plushie.
 23feb01.title=SID 2023 - Together for a better internet
-23feb02.image={image|url=web_promo_small/spromo_gamefeb23.png|align=right|hspace=10|vspace=0}
+23feb02.image={image|url=web_promo_small/spromo_febgame2.png|align=right|hspace=10|vspace=0}
 23feb02.text=Protect the Habbo galaxy from the underway invasion of thousands of RoboCat plushies that threaten to put the safety of the galaxy at risk. Do you have the skills needed to keep the invaders at bay?How to play:- Step on the arrow plates to move the plane sideways.- Once you've placed it in the correct position, use the lever to shoot the RoboCat plushies or stop the shot coming towards you.- If you let the  RoboCat plushies reach the green cables, you'll lose a life.- Some cats will manage to get away from the shot by moving at the right moment, when this happens you'll have to quickly shoot at it again.- At the end of the event the top 5 Habbos that manage to survive the longest will win an additional badge. Good luck!
-23feb02.title=Habbo Space Invaders{image|url=web_promo_small/spromo_febgame2.png|align=right|hspace=10|vspace=0}h1. Habbo Space InvadersProtect the Habbo galaxy from the underway invasion of thousands of RoboCat plushies that threaten to put the safety of the galaxy at risk. Do you have the skills needed to keep the invaders at bay?h2. How to play:- Step on the arrow plates to move the plane sideways.- Once you've placed it in the correct position, use the lever to shoot the RoboCat plushies or stop the shot coming towards you.- If you let the  RoboCat plushies reach the green cables, you'll lose a life.- Some cats will manage to get away from the shot by moving at the right moment, when this happens you'll have to quickly shoot at it again.- At the end of the event the top 5 Habbos that manage to survive the longest will win an additional badge. Good luck!
+23feb02.title=Habbo Space Invaders
 23jan01.image=web_promo_small/spromo_cny23game.png
 23jan01.text=The Chinese lunar calendar dictates that this year is the year of the RABBIT! Help light up the red candles to complete the ritual that will help you attract good luck and prosperity for this new year.How to play:- You will have one and a half minutes to light the 7 red candles that are on the outskirts of the temple.- You'll need to stand next to them and type "*".- Watch out for the dragonflies! If they touch you, you'll be teleported back.- If you manage to complete the game before the time ends, you'll win the badge and a Ruby Baby Penguin.
 23jan01.title=Happy Chinese New Year 2023!
@@ -26257,30 +26257,9 @@ landing.view.hween22cal.header=Open Your Gift Calendar!
 landing.view.hweenlocklock.body=Go and seek out that ultra-special someone and outright ETERNALISE your friendship with this special Day of the Dead votive.
 landing.view.hweenlocklock.button=Check it out
 landing.view.hweenlocklock.header=Day of the Dead Votive
-landing.view.hygge18antlers.body=Rare Antlers. It's Christmas soon. They're never, EVER to be sold again. Don't miss out, Habbos!
-landing.view.hygge18antlers.button=See the rare!
-landing.view.hygge18antlers.header=RARE Nordic Antlers!
 landing.view.hygge18diamond.body=Affordably priced, these gift boxes can contain one of a variety of items. If you're REALLY lucky, you might get a classic, diamond version of clothing!
 landing.view.hygge18diamond.button=See the boxes!
 landing.view.hygge18diamond.header=Diamond Gift Boxes!
-landing.view.hygge18dungarees.body=Who doesn't fancy wearing a pair of stylish dungarees once in a while? Rare and NEVER to be sold again!
-landing.view.hygge18dungarees.button=See the rare!
-landing.view.hygge18dungarees.header=RARE Logger's Dungarees!
-landing.view.hygge18forest.body=Get a bit closer to nature and explore a tiny corner of Denmark's forests with this bundle. Comes with exclusive badge!
-landing.view.hygge18forest.button=See the bundle!
-landing.view.hygge18forest.header=Danish Forest Bundle
-landing.view.hygge18fox.body=Awwwww. This cute little fox is rare and will NEVER be available again.
-landing.view.hygge18fox.button=See the rare!
-landing.view.hygge18fox.header=RARE Dozing Fox!
-landing.view.hygge18furni.body=In keeping with the Danish word 'Hygge', our designers have created a small selection of items for you to add that extra bit of comfort to your rooms.
-landing.view.hygge18furni.button=See the furni!
-landing.view.hygge18furni.header=Danish Hygge Furni!
-landing.view.hygge18hair.body=You need this in your avatar editor, people. It's superb, suave and above all Danish! This is a rare item and is never to be sold again.
-landing.view.hygge18hair.button=See the rare!
-landing.view.hygge18hair.header=RARE Nordic Fringe Hairstyle!
-landing.view.hygge18hygge.body=Walk through the door and sink into a warm pool of comfort and well-being with this bundle. Comes with exclusive badge!
-landing.view.hygge18hygge.button=See the bundle!
-landing.view.hygge18hygge.header=Hygge House Bundle
 landing.view.hygge18only.body=Classic items of Habbo clothing, fashioned from diamonds. The ultimate status symbol, available now!
 landing.view.hygge18only.button=See the items!
 landing.view.hygge18only.header=Diamond Clothing!
@@ -36735,6 +36714,7 @@ targeted.offer.feb22_tko_gr1.desc=This deal includes 70 bronze coins + Exclusive
 targeted.offer.feb22_tko_gr1.title=Valentines 2022 Offer
 targeted.offer.feb22_tko_gr2.desc=This deal includes 80 bronze coins + Exclusive Peacock Spider (x2) + Romantic Petals + Chilled Bubblejuice + Bubblejuice Rack + HC 3 month + Badge
 targeted.offer.feb22_tko_gr2.title=Valentines 2022 Offer
+targeted.offer.feb23_tto_gr2.title=$targeted.offer.feb23_tko_gr1.title$
 targeted.offer.h15_tko_gr1a.desc=It's amazing how much difference a rose or two makes, isn't it? There's no shortage of them in this deal - and also included is a lovely, ancient Romantique clock! (IF a bit musty smelling). <br><br>Offer is limited to one per person and includes:<br>- 70 bronze coins (worth 70c)<br>- <a href="event:habbopages/habboclub">HC 1 month</a> (worth 25c)<br>- Rare Romantique Clock (worth 25c)<br>- Romantique Dresser (worth 12c)<br>- Pink Coffee Table (worth 5c)<br>- Green Coffee Table (worth 5c)<br>- Rare Badge (for free)
 targeted.offer.h15_tko_gr1a.title=Rosy Romantique Deal
 targeted.offer.h15_tko_gr1b.desc=How CUTE is the Daruma Doll in this deal? With it, you also get an Irori and a Tetsubin Teapot - you could even start your own Japanese restaurant! <br><br>Offer is limited to one per person and includes:<br>- 70 bronze coins (worth 70c)<br>- <a href="event:habbopages/habboclub">HC 1 month</a> (worth 25c)<br>- Rare Aqua Oriental Screen (worth 25c)<br>- Daruma Doll (worth 8c)<br>- Tetsubin Teapot (worth 6c)<br>- Irori Table (worth 10c)<br>- Rare Badge (for free)

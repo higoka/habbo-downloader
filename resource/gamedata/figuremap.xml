@@ -6874,12 +6874,102 @@
     <part id="4832" type="ch"/>
     <part id="4833" type="ch"/>
   </lib>
-  <lib id="trousers_U_bohoflower" revision="68852">
-    <part id="4837" type="ch"/>
-    <part id="4837" type="ls"/>
-    <part id="4837" type="rs"/>
-    <part id="4838" type="ch"/>
-    <part id="4839" type="ch"/>
+  <lib id="trousers_U_bohoflower" revision="68866">
+    <part id="4837" type="lg"/>
+    <part id="4838" type="lg"/>
+    <part id="4839" type="lg"/>
+  </lib>
+  <lib id="hat_U_bunnytophat" revision="68876">
+    <part id="4818" type="ha"/>
+    <part id="4819" type="ha"/>
+    <part id="4820" type="ha"/>
+  </lib>
+  <lib id="shirt_M_trash" revision="68876">
+    <part id="4812" type="ch"/>
+    <part id="4812" type="ls"/>
+    <part id="4812" type="rs"/>
+    <part id="4813" type="ch"/>
+    <part id="4814" type="ch"/>
+  </lib>
+  <lib id="shirt_F_trash" revision="68876">
+    <part id="4815" type="ch"/>
+    <part id="4815" type="ls"/>
+    <part id="4815" type="rs"/>
+    <part id="4816" type="ch"/>
+    <part id="4817" type="ch"/>
+  </lib>
+  <lib id="hair_U_retrowave" revision="68916">
+    <part id="4840" type="hr"/>
+    <part id="4840" type="hrb"/>
+    <part id="4841" type="hr"/>
+    <part id="4842" type="hr"/>
+  </lib>
+  <lib id="acc_head_U_healthbar" revision="68919">
+    <part id="4843" type="he"/>
+    <part id="4844" type="he"/>
+  </lib>
+  <lib id="jacket_U_nftwintercoatwhite" revision="68929">
+    <part id="4854" type="cc"/>
+    <part id="4854" type="lc"/>
+    <part id="4854" type="rc"/>
+  </lib>
+  <lib id="hair_U_nftwinterbreeze" revision="68937">
+    <part id="4849" type="hr"/>
+    <part id="4849" type="hrb"/>
+    <part id="4850" type="hr"/>
+  </lib>
+  <lib id="hat_U_nftberetwhite" revision="68929">
+    <part id="4857" type="ha"/>
+  </lib>
+  <lib id="hat_U_nftwintercapwhite" revision="68929">
+    <part id="4860" type="ha"/>
+  </lib>
+  <lib id="jacket_U_nftwintercoatcheck" revision="68929">
+    <part id="4855" type="cc"/>
+    <part id="4855" type="lc"/>
+    <part id="4855" type="rc"/>
+  </lib>
+  <lib id="hair_U_nftwinterweaves" revision="68929">
+    <part id="4851" type="hr"/>
+    <part id="4851" type="hrb"/>
+    <part id="4852" type="hr"/>
+  </lib>
+  <lib id="hat_U_nftberetcheck" revision="68929">
+    <part id="4858" type="ha"/>
+  </lib>
+  <lib id="jacket_U_nftwintercoatbrown" revision="68939">
+    <part id="4853" type="cc"/>
+    <part id="4853" type="lc"/>
+    <part id="4853" type="rc"/>
+  </lib>
+  <lib id="acc_eye_U_nftbookworm" revision="68937">
+    <part id="4862" type="ea"/>
+  </lib>
+  <lib id="hat_U_nftberetbrown" revision="68929">
+    <part id="4856" type="ha"/>
+  </lib>
+  <lib id="hat_U_nftwintercapcheck" revision="68929">
+    <part id="4861" type="ha"/>
+  </lib>
+  <lib id="hat_U_nftwintercapbrown" revision="68929">
+    <part id="4859" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_nftduckpack" revision="68933">
+    <part id="4863" type="ca"/>
+  </lib>
+  <lib id="acc_face_U_kitsunemask" revision="68945">
+    <part id="4845" type="fa"/>
+    <part id="4846" type="fa"/>
+  </lib>
+  <lib id="acc_waist_U_kitsunetail" revision="68954">
+    <part id="4847" type="wa"/>
+    <part id="4848" type="wa"/>
+  </lib>
+  <lib id="acc_head_U_sakuraantlers" revision="68972">
+    <part id="4865" type="he"/>
+  </lib>
+  <lib id="hat_U_smiley" revision="68984">
+    <part id="4866" type="ha"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
@@ -6920,7 +7010,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="68608">
+  <lib id="hh_human_item" revision="68904">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -7155,6 +7245,8 @@
     <part id="259" type="ri"/>
     <part id="260" type="ri"/>
     <part id="261" type="ri"/>
+    <part id="262" type="ri"/>
+    <part id="263" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
