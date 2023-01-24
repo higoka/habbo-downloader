@@ -18381,6 +18381,7 @@ badge_name_V2301=RARE Arcade Waves
 badge_name_V2302=Rare Three Lives Only
 badge_name_V2303=RARE Glowing Bear Vendor
 badge_name_V2304=RARE Candy Floss Kangaroo
+badge_name_V2305=Valentines 2023 TKO
 badge_name_V2306=Space Invasions
 badge_name_V2307=VR Machine
 badge_name_V2308=VR Machine and platform
@@ -36714,6 +36715,9 @@ targeted.offer.feb22_tko_gr1.desc=This deal includes 70 bronze coins + Exclusive
 targeted.offer.feb22_tko_gr1.title=Valentines 2022 Offer
 targeted.offer.feb22_tko_gr2.desc=This deal includes 80 bronze coins + Exclusive Peacock Spider (x2) + Romantic Petals + Chilled Bubblejuice + Bubblejuice Rack + HC 3 month + Badge
 targeted.offer.feb22_tko_gr2.title=Valentines 2022 Offer
+targeted.offer.feb23_tto_gr1.desc=This deal includes 70 bronze coins + Exclusive Lovely Red Panda + HC 1 month + Badge
+targeted.offer.feb23_tto_gr1.title=Valentines 2023 Offer
+targeted.offer.feb23_tto_gr2.desc=This deal includes 80 bronze coins + Exclusive Lovely Red Panda (x2) + Romantic Awning +  Ornate Chest + HC 3 month + Badge
 targeted.offer.feb23_tto_gr2.title=$targeted.offer.feb23_tko_gr1.title$
 targeted.offer.h15_tko_gr1a.desc=It's amazing how much difference a rose or two makes, isn't it? There's no shortage of them in this deal - and also included is a lovely, ancient Romantique clock! (IF a bit musty smelling). <br><br>Offer is limited to one per person and includes:<br>- 70 bronze coins (worth 70c)<br>- <a href="event:habbopages/habboclub">HC 1 month</a> (worth 25c)<br>- Rare Romantique Clock (worth 25c)<br>- Romantique Dresser (worth 12c)<br>- Pink Coffee Table (worth 5c)<br>- Green Coffee Table (worth 5c)<br>- Rare Badge (for free)
 targeted.offer.h15_tko_gr1a.title=Rosy Romantique Deal
