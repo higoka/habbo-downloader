@@ -21414,6 +21414,7 @@ featured.offer.val20ornate.title=RARE Ornate Wardrobe
 featured.offer.val20pigtail.title=RARE Bicolour Pigtails
 featured.offer.val20tattoo.title=RARE Macho Tattoo
 featured.offer.val23bear.title=RARE Glowing Bear Vendor
+featured.offer.val23bopper.title=RARE Heart Bopper Headbands
 featured.offer.val23brick.title=RARE Golden Brick Wall credit furni
 featured.offer.val23coll1.title=Space Invasions machine
 featured.offer.val23coll2.title=VR Machine and platform
