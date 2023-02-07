@@ -6971,6 +6971,27 @@
   <lib id="hat_U_smiley" revision="68984">
     <part id="4866" type="ha"/>
   </lib>
+  <lib id="hat_U_smileyberet" revision="69005">
+    <part id="4759" type="ha"/>
+    <part id="4864" type="ha"/>
+  </lib>
+  <lib id="jacket_F_smileyjacket" revision="69026">
+    <part id="4764" type="cc"/>
+    <part id="4764" type="lc"/>
+    <part id="4764" type="rc"/>
+    <part id="4765" type="cc"/>
+  </lib>
+  <lib id="jacket_M_smileyjacket" revision="69026">
+    <part id="4762" type="cc"/>
+    <part id="4762" type="lc"/>
+    <part id="4762" type="rc"/>
+    <part id="4763" type="cc"/>
+  </lib>
+  <lib id="acc_head_U_heartbopper" revision="69013">
+    <part id="4867" type="he"/>
+    <part id="4868" type="he"/>
+    <part id="4869" type="he"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>

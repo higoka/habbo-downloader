@@ -6072,9 +6072,9 @@ xmas2012.calendar.startdate=2012-12-02 00:00
 zendesk.url=https://help.habbo.com/home
 zoom.enabled=1
 
-flash.client.url=https://images.habbo.com/gordon/PRODUCTION-202301262254-438470028/
+flash.client.url=https://images.habbo.com/gordon/PRODUCTION-202302071441-201560335/
 external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/8d104251a25972d3d82f08fb82ea6828b58b117c
-external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/59c6bed674f9c51bb35cc5d6558c66c03e54ac8e
+external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/4b82dadc11779e3f77945d89c8fba62d2620f7c9
 productdata.load.url=https://www.habbo.com/gamedata/productdata/8864cc9f9d2b35e80c57f335876eaa0bd29009f6
 furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/1c3aad3c28562ece816d8288824c63853221e367
 external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/8d104251a25972d3d82f08fb82ea6828b58b117c
