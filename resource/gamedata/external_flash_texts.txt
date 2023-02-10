@@ -21473,6 +21473,7 @@ featured.offer.val23coll6.title=Arcade Pinball Machine
 featured.offer.val23coll7.title=Quack Attack machine
 featured.offer.val23floor.title=NEW Arcade Dance Floor
 featured.offer.val23floss.title=RARE Candy Floss Kangaroo
+featured.offer.val23locks.title=BACK: Love Locks & L0V3 Machines
 featured.offer.val23waves.title=RARE Arcade Waves
 featured.offer.witch19cloth.title=Witches' Coven Clothing
 featured.offer.witch19familiar.title=RARE Witch Familiar
