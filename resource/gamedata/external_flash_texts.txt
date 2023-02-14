@@ -18454,6 +18454,7 @@ badge_name_V2311=Wheel-spinner machine
 badge_name_V2312=Arcade Pinball Machine
 badge_name_V2313=Quack Attack machine
 badge_name_V2315=Stopped the alien invasion!
+badge_name_V2317=SID 2023: Catfish Alert!
 badge_name_V2318=SID 2023 - Keep the virus away!
 badge_name_V2319=Rare Grey Ice Cream Machine
 badge_name_V2320=Rare Polar Sofa
