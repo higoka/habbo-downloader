@@ -18541,6 +18541,7 @@ badge_name_VA9_HHCA=Bolly-Heart
 badge_name_VAL14=Valentines 2013
 badge_name_VAU01=Vault Bundle
 badge_name_VAU02=Subterranean Vault Bundle
+badge_name_VCC23=Valentine's Community Challenge
 badge_name_VIK01=Battleshade Badge
 badge_name_VIK02=Steelscar  Badge
 badge_name_VIK03=Valknut Runestone
