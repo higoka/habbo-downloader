@@ -6992,6 +6992,127 @@
     <part id="4868" type="he"/>
     <part id="4869" type="he"/>
   </lib>
+  <lib id="hair_U_colourfulbraids" revision="69114">
+    <part id="4874" type="hr"/>
+    <part id="4874" type="hrb"/>
+    <part id="4875" type="hr"/>
+    <part id="4876" type="hr"/>
+  </lib>
+  <lib id="hat_U_graduationcap" revision="69114">
+    <part id="4872" type="ha"/>
+    <part id="4873" type="ha"/>
+  </lib>
+  <lib id="shirt_U_graduationgown" revision="69114">
+    <part id="4921" type="ch"/>
+    <part id="4921" type="ls"/>
+    <part id="4921" type="rs"/>
+    <part id="4922" type="ch"/>
+    <part id="4923" type="ch"/>
+  </lib>
+  <lib id="acc_chest_U_headphones_nft" revision="69106">
+    <part id="4881" type="ca"/>
+    <part id="4882" type="ca"/>
+  </lib>
+  <lib id="shirt_M_grid_nft" revision="69095">
+    <part id="4904" type="ch"/>
+    <part id="4904" type="ls"/>
+    <part id="4904" type="rs"/>
+    <part id="4905" type="ch"/>
+  </lib>
+  <lib id="shirt_F_grid_nft" revision="69095">
+    <part id="4906" type="ch"/>
+    <part id="4906" type="ls"/>
+    <part id="4906" type="rs"/>
+    <part id="4907" type="ch"/>
+  </lib>
+  <lib id="trousers_U_checkeredshorts_nft" revision="69097">
+    <part id="4895" type="lg"/>
+  </lib>
+  <lib id="face_U_tentacles_nft" revision="69103">
+    <part id="4877" type="hd"/>
+    <part id="4877" type="fc"/>
+    <part id="4877" type="ey"/>
+  </lib>
+  <lib id="acc_eye_U_blindfold_nft" revision="69095">
+    <part id="4901" type="ea"/>
+  </lib>
+  <lib id="acc_head_U_starshades_nft" revision="69104">
+    <part id="4885" type="he"/>
+  </lib>
+  <lib id="shirt_F_stripes_nft" revision="69102">
+    <part id="4910" type="ch"/>
+    <part id="4910" type="ls"/>
+    <part id="4910" type="rs"/>
+    <part id="4911" type="ch"/>
+  </lib>
+  <lib id="shoes_U_mismatched_nft" revision="69104">
+    <part id="4892" type="sh"/>
+    <part id="4893" type="sh"/>
+    <part id="4894" type="sh"/>
+  </lib>
+  <lib id="face_U_mummy_nft" revision="69102">
+    <part id="4898" type="hd"/>
+    <part id="4898" type="fc"/>
+    <part id="4898" type="ey"/>
+  </lib>
+  <lib id="acc_eye_U_lasereyes_nft" revision="69106">
+    <part id="4883" type="ea"/>
+    <part id="4884" type="ea"/>
+  </lib>
+  <lib id="hat_U_piratehat_nft" revision="69097">
+    <part id="4887" type="ha"/>
+    <part id="4888" type="ha"/>
+    <part id="4889" type="ha"/>
+  </lib>
+  <lib id="jacket_U_piratecoat_nft" revision="69107">
+    <part id="4890" type="cc"/>
+    <part id="4890" type="lc"/>
+    <part id="4890" type="rc"/>
+    <part id="4891" type="cc"/>
+  </lib>
+  <lib id="trousers_U_widejeans_nft" revision="69095">
+    <part id="4912" type="lg"/>
+    <part id="4913" type="lg"/>
+  </lib>
+  <lib id="hat_U_propellerhat_nft" revision="69105">
+    <part id="4900" type="ha"/>
+  </lib>
+  <lib id="face_U_wukong_nft" revision="69103">
+    <part id="4896" type="hd"/>
+    <part id="4896" type="fc"/>
+    <part id="4896" type="ey"/>
+  </lib>
+  <lib id="shoes_U_clown_nft" revision="69105">
+    <part id="4914" type="sh"/>
+    <part id="4915" type="sh"/>
+  </lib>
+  <lib id="shirt_M_stripes_nft" revision="69102">
+    <part id="4908" type="ch"/>
+    <part id="4908" type="ls"/>
+    <part id="4908" type="rs"/>
+    <part id="4909" type="ch"/>
+  </lib>
+  <lib id="jacket_U_barrel_nft" revision="69096">
+    <part id="4879" type="cc"/>
+    <part id="4879" type="lc"/>
+    <part id="4879" type="rc"/>
+    <part id="4880" type="cc"/>
+  </lib>
+  <lib id="acc_face_U_handlebar_nft" revision="69095">
+    <part id="4902" type="fa"/>
+  </lib>
+  <lib id="acc_eye_U_pirateskullpatch_nft" revision="69097">
+    <part id="4886" type="ea"/>
+  </lib>
+  <lib id="acc_face_U_phantom_nft" revision="69112">
+    <part id="4903" type="fa"/>
+  </lib>
+  <lib id="shirt_U_graduationgown" revision="69114">
+    <part id="4870" type="ch"/>
+    <part id="4870" type="ls"/>
+    <part id="4870" type="rs"/>
+    <part id="4871" type="ch"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
