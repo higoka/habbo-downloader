@@ -22991,6 +22991,7 @@ handitem151=Circle Shape Dalgona
 handitem152=Square Shape Dalgona
 handitem153=Hello Kitty Toast
 handitem154=Kryptomon Pink Syrup
+handitem155=Bear Soda
 handitem15=hot chocolate
 handitem16=cappuccino
 handitem17=java
