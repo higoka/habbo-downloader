@@ -37656,6 +37656,7 @@ widget.dimmer.button.off=Turn off
 widget.dimmer.button.on=Turn on
 widget.dimmer.info.off=Room dimmer is currently turned off. Turn it on to adjust the lighting of your room.
 widget.dimmer.info=Room dimmer effect is previewed in your room. Apply the effect to the room to make other users see it too.
+widget.dimmer.lights.checkbox=Affects lights
 widget.dimmer.tab.1=Preset 1
 widget.dimmer.tab.2=Preset 2
 widget.dimmer.tab.3=Preset 3
