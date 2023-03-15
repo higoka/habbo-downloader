@@ -21182,6 +21182,7 @@ featured.offer.h20rarecrackable.title=Trimmed Rose Gold Balloons
 featured.offer.h20rewards.title=Classic Rose Gold Rares
 featured.offer.hairdos_discount.title=50% OFF Hairdos!
 featured.offer.hanami23antlers.title=RARE Sakura Antlers
+featured.offer.hanami23cf.title=RARE Golden Brick Floor
 featured.offer.hanami23cf=RARE Golden Brick Floor
 featured.offer.hanami23dragon.title=RARE Hanami Festival Dragon
 featured.offer.hanami23outfit.title=RARE Kitsune Set
