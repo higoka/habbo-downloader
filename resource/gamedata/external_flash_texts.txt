@@ -15296,6 +15296,7 @@ badge_name_NFT73=NFT - loves me
 badge_name_NFT74=NFT - loves me not
 badge_name_NFT75=International Women's Day 2023
 badge_name_NFT76=Furni App - Dangerzone Survivor
+badge_name_NFT77=I survived the NFT Forge Furni
 badge_name_NI5=Gold Rush - Mythology
 badge_name_NI5_HHUK=Mythology World
 badge_name_NIB01=Nature's path
