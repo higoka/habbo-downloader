@@ -7172,9 +7172,8 @@
     <part id="4962" type="cc"/>
     <part id="4963" type="cc"/>
   </lib>
-  <lib id="shirt_U_custom" revision="69196">
+  <lib id="shirt_U_custom" revision="69281">
     <part id="4987" type="ch"/>
-    <part id="4988" type="ha"/>
   </lib>
   <lib id="trousers_U_colourfuloutfit" revision="69187">
     <part id="4916" type="lg"/>
@@ -7263,6 +7262,61 @@
     <part id="4977" type="cc"/>
     <part id="4978" type="cc"/>
   </lib>
+  <lib id="shirt_M_smurfshirt" revision="69286">
+    <part id="4994" type="ch"/>
+    <part id="4994" type="ls"/>
+    <part id="4994" type="rs"/>
+    <part id="4995" type="ch"/>
+  </lib>
+  <lib id="hat_U_custom" revision="69290">
+    <part id="4988" type="ha"/>
+  </lib>
+  <lib id="hat_U_custom2" revision="69290">
+    <part id="4989" type="ha"/>
+  </lib>
+  <lib id="shirt_F_smurfshirt" revision="69286">
+    <part id="4992" type="ch"/>
+    <part id="4992" type="ls"/>
+    <part id="4992" type="rs"/>
+    <part id="4993" type="ch"/>
+  </lib>
+  <lib id="shirt_M_catwaitressdress" revision="69305">
+    <part id="4921" type="ch"/>
+    <part id="4921" type="ls"/>
+    <part id="4921" type="rs"/>
+    <part id="4922" type="ch"/>
+    <part id="4923" type="ch"/>
+  </lib>
+  <lib id="shirt_F_catwaitressdress" revision="69303">
+    <part id="4996" type="ch"/>
+    <part id="4996" type="ls"/>
+    <part id="4996" type="rs"/>
+    <part id="4997" type="ch"/>
+    <part id="4998" type="ch"/>
+  </lib>
+  <lib id="acc_head_U_smurfdaisy" revision="69280">
+    <part id="4991" type="he"/>
+  </lib>
+  <lib id="hat_U_smurfs" revision="69281">
+    <part id="4990" type="ha"/>
+  </lib>
+  <lib id="shirt_F_icecreamoutfit" revision="69338">
+    <part id="5004" type="ch"/>
+    <part id="5004" type="ls"/>
+    <part id="5004" type="rs"/>
+    <part id="5005" type="ch"/>
+  </lib>
+  <lib id="hat_U_icecreamoutfit" revision="69338">
+    <part id="4999" type="ha"/>
+    <part id="5000" type="ha"/>
+    <part id="5001" type="ha"/>
+  </lib>
+  <lib id="shirt_M_icecreamoutfit" revision="69338">
+    <part id="5002" type="ch"/>
+    <part id="5002" type="ls"/>
+    <part id="5002" type="rs"/>
+    <part id="5003" type="ch"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
@@ -7302,7 +7356,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="68904">
+  <lib id="hh_human_item" revision="69276">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -7539,6 +7593,7 @@
     <part id="261" type="ri"/>
     <part id="262" type="ri"/>
     <part id="263" type="ri"/>
+    <part id="264" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
