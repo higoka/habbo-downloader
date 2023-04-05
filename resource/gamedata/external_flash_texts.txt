@@ -21205,6 +21205,7 @@ featured.offer.easter23craft2.title=Bunny Craft Bot
 featured.offer.easter23ltd1.title=Solarpunk Bunny Outfit LTD
 featured.offer.easter23ltd2.title=Steampunk Habberge Egg LTD
 featured.offer.easter23new.title=Solarpunk Furni!
+featured.offer.easter23r1.title=RARE Floppy Bunny Hat
 featured.offer.easter23r1=RARE Floppy Bunny Hat
 featured.offer.easter23r2.title=RARE Bunny Eared Top Hat
 featured.offer.easter23r3.title=RARE Mecha Bunny
