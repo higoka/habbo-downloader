@@ -1964,6 +1964,7 @@ abtest.motd=
 account.already.linked.description=That Habbo account is already linked to another identity. To access the account, please log in with the other identification.
 account.already.linked.title=Account already linked
 account.change=Select avatar
+accountdata.data.available.button=Download data
 accountdata.data.available.description=Your account data is available. You can download it now or access it later via settings.
 accountdata.data.available.later=Later
 accountdata.data.available.now=Now
