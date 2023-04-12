@@ -15377,6 +15377,7 @@ badge_name_NFT78=Kanels farewell fashion show
 badge_name_NFT79=Last Coffee with Kanel
 badge_name_NFT80=NFT Trippy Elephant Trouble
 badge_name_NFT81=NFT Bunny Run
+badge_name_NFT82=I found the NFT Eco-bot!
 badge_name_NI5=Gold Rush - Mythology
 badge_name_NI5_HHUK=Mythology World
 badge_name_NIB01=Nature's path
