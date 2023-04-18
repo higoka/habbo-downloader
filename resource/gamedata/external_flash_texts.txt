@@ -11630,6 +11630,7 @@ badge_name_BEW21=Coral Kingdom Collector Deal
 badge_name_BEW22=Bensalem Collector Deal
 badge_name_BEW23=Tiki Collector Deal
 badge_name_BEW24=Earth Day Collector Deal
+badge_name_BEW25=Purple Area Collector Deal
 badge_name_BFR16=Black Friday MEGA Deal
 badge_name_BFR19=Black Friday MEGA Deal
 badge_name_BGW2=Sunscreen Level 1
