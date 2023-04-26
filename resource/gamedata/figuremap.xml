@@ -7390,7 +7390,7 @@
     <part id="5011" type="hr"/>
     <part id="5012" type="hr"/>
   </lib>
-  <lib id="shirt_M_aftv2" revision="69404">
+  <lib id="shirt_M_aftv2" revision="69440">
     <part id="5035" type="ch"/>
     <part id="5035" type="ls"/>
     <part id="5035" type="rs"/>
@@ -7426,7 +7426,7 @@
     <part id="5013" type="fa"/>
     <part id="5014" type="fa"/>
   </lib>
-  <lib id="hat_U_aftv" revision="69405">
+  <lib id="hat_U_aftv" revision="69443">
     <part id="5031" type="ha"/>
   </lib>
   <lib id="acc_chest_U_aftvscarf1" revision="69400">
