@@ -15410,6 +15410,7 @@ badge_name_NFT84=Robo Raiderz
 badge_name_NFT85=Corpse Corp
 badge_name_NFT86=Galactic Gliders
 badge_name_NFT87=Streets of NFT
+badge_name_NFT88=One year with Hajautus
 badge_name_NI5=Gold Rush - Mythology
 badge_name_NI5_HHUK=Mythology World
 badge_name_NIB01=Nature's path
