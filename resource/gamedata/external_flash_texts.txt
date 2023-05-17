@@ -15430,6 +15430,7 @@ badge_name_NFT87=Streets of NFT
 badge_name_NFT88=One year with Hajautus
 badge_name_NFT89=I completed the NFT shooting range with Lieutenant Frank!
 badge_name_NFT90=I got promoted at the Ceremonial Parade with Habbo NFT
+badge_name_NFT91=Battle Ballin' with Habbo3
 badge_name_NI5=Gold Rush - Mythology
 badge_name_NI5_HHUK=Mythology World
 badge_name_NIB01=Nature's path
