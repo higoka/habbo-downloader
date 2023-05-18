@@ -1083,10 +1083,10 @@ landing.view.doublecredits.layout=bitmap.uri,${image.library.url}reception/promo
 landing.view.doublecredits.widget=generic
 landing.view.drivingLicenseCommunityGoal.widget=communitygoalvsmodevote
 landing.view.dynamic.slot.1.widget=bonusrare
-landing.view.dynamic.slot.2.conf=2023-05-15 08:00,may23coll4;2023-05-18 11:00,may23coll5
+landing.view.dynamic.slot.2.conf=2023-05-18 11:00,may23coll5
 landing.view.dynamic.slot.2.layout=
 landing.view.dynamic.slot.2.widget=widgetcontainer
-landing.view.dynamic.slot.3.conf=2023-05-13 11:00,may23rm1
+landing.view.dynamic.slot.3.conf=2023-05-18 11:00,nov21ba1
 landing.view.dynamic.slot.3.layout=
 landing.view.dynamic.slot.3.widget=widgetcontainer
 landing.view.dynamic.slot.4.conf=2023-05-03 11:00,23catchallenge2CommunityGoal;2023-05-17 13:00,23catchallenge3CommunityGoal
@@ -1094,7 +1094,7 @@ landing.view.dynamic.slot.4.layout=
 landing.view.dynamic.slot.4.separator=false
 landing.view.dynamic.slot.4.title=
 landing.view.dynamic.slot.4.widget=widgetcontainer
-landing.view.dynamic.slot.5.conf=2023-05-17 11:00,nov21ba1
+landing.view.dynamic.slot.5.conf=2023-05-18 11:00,feb18credits
 landing.view.dynamic.slot.5.ignore=
 landing.view.dynamic.slot.5.layout=
 landing.view.dynamic.slot.5.separator=false
@@ -3850,6 +3850,12 @@ landing.view.may23coll31.widget=generic
 landing.view.may23coll4.conf=caption,landing.view.may23coll4.header;bodytext,landing.view.may23coll4.body;catalogbutton,landing.view.may23coll4.button,may23coll4
 landing.view.may23coll4.layout=bitmap.uri,${image.library.url}web_promo_small/spromo_JelloCat_May23.png;bitmap.x,50;bitmap.y,0;container.height,250
 landing.view.may23coll4.widget=generic
+landing.view.may23coll5.conf=caption,landing.view.may23coll5.header;bodytext,landing.view.may23coll5.body;catalogbutton,landing.view.may23coll5.button,may23coll5
+landing.view.may23coll5.layout=bitmap.uri,${image.library.url}web_promo_small/spromo_LoafCat_May23.png;bitmap.x,50;bitmap.y,0;container.height,250
+landing.view.may23coll5.widget=generic
+landing.view.may23coll51.conf=caption,landing.view.may23coll5.header;bodytext,landing.view.may23coll5.body;catalogbutton,landing.view.may23coll5.button,may23coll5
+landing.view.may23coll51.layout=
+landing.view.may23coll51.widget=generic
 landing.view.may23dress.conf=caption,landing.view.may23dress.header;bodytext,landing.view.may23dress.body;catalogbutton,landing.view.may23dress.button,may23dress
 landing.view.may23dress.layout=bitmap.uri,${image.library.url}web_promo_small/spromo_WaitressDress_May23.png;bitmap.x,50;bitmap.y,0;container.height,250
 landing.view.may23dress.widget=generic
@@ -6062,8 +6068,6 @@ logout.concurrent.url=${url.prefix}/account/disconnected
 logout.disconnect.url=${url.prefix}/account/disconnected?reason=logout
 logout.disconnect.url=${url.prefix}/account/disconnected?reason=logout&origin=%origin%
 logout.url=${url.prefix}/account/disconnected?reason=%reason%&origin=%origin%
-may23coll51=landing.view.may23coll51.conf=caption,landing.view.may23coll5.header;bodytext,landing.view.may23coll5.body;catalogbutton,landing.view.may23coll5.button,may23coll5landing.view.may23coll51.layout=landing.view.may23coll51.widget=generic
-may23coll5=landing.view.may23coll5.conf=caption,landing.view.may23coll5.header;bodytext,landing.view.may23coll5.body;catalogbutton,landing.view.may23coll5.button,may23coll5landing.view.may23coll5.layout=bitmap.uri,${image.library.url}web_promo_small/spromo_LoafCat_May23.png;bitmap.x,50;bitmap.y,0;container.height,250landing.view.may23coll5.widget=generic
 memenu.effects.widget.disabled=true
 menu.avatar.enabled=true
 menu.bot.enabled=false
@@ -6308,5 +6312,5 @@ flash.client.url=https://images.habbo.com/gordon/PRODUCTION-202305172218-6621524
 external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/968cdcc842722ab2be66117257e0f10f88803870
 external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/acd9f3faa76b64df7046c272ec5960f944a6ce7e
 productdata.load.url=https://www.habbo.com/gamedata/productdata/affe7ec4ca715fda2f707109727a687e1a7f2f2c
-furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/f2f31373a1bbc2315a38825102d4751dc63bcd50
+furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/416f3a3346a3d91ae1f3fcd5b73e4806187e1323
 external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/968cdcc842722ab2be66117257e0f10f88803870
