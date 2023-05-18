@@ -1618,7 +1618,7 @@
     <part id="2439" type="hr"/>
     <part id="2439" type="hrb"/>
   </lib>
-  <lib id="hat_U_pantshat" revision="69152">
+  <lib id="hat_U_pantshat" revision="69454">
     <part id="4924" type="ha"/>
     <part id="4925" type="ha"/>
   </lib>
@@ -4433,7 +4433,7 @@
     <part id="4583" type="ls"/>
     <part id="4583" type="rs"/>
   </lib>
-  <lib id="shirt_M_bohoflower" revision="68852">
+  <lib id="shirt_M_bohoflower" revision="69544">
     <part id="4834" type="ch"/>
     <part id="4834" type="ls"/>
     <part id="4834" type="rs"/>
@@ -7160,7 +7160,7 @@
   <lib id="hat_U_nftmechahelmet" revision="69190">
     <part id="4986" type="ha"/>
   </lib>
-  <lib id="shirt_F_colourfuloutfit" revision="69187">
+  <lib id="shirt_F_colourfuloutfit" revision="69454">
     <part id="4920" type="ch"/>
     <part id="4920" type="ls"/>
     <part id="4920" type="rs"/>
@@ -7222,7 +7222,7 @@
     <part id="4944" type="cc"/>
     <part id="4945" type="cc"/>
   </lib>
-  <lib id="shirt_M_colourfuloutfit" revision="69187">
+  <lib id="shirt_M_colourfuloutfit" revision="69454">
     <part id="4919" type="ch"/>
     <part id="4919" type="ls"/>
     <part id="4919" type="rs"/>
@@ -7466,6 +7466,28 @@
     <part id="5032" type="rs"/>
     <part id="5033" type="ch"/>
     <part id="5034" type="ch"/>
+  </lib>
+  <lib id="acc_chest_U_dslr" revision="69487">
+    <part id="5058" type="ca"/>
+    <part id="5059" type="ca"/>
+  </lib>
+  <lib id="shirt_M_hipoutfit" revision="69547">
+    <part id="5073" type="ch"/>
+    <part id="5073" type="ls"/>
+    <part id="5073" type="rs"/>
+  </lib>
+  <lib id="shirt_F_hipoutfit" revision="69558">
+    <part id="5072" type="ch"/>
+    <part id="5072" type="ls"/>
+    <part id="5072" type="rs"/>
+  </lib>
+  <lib id="trousers_U_hipoutfitshorts" revision="69558">
+    <part id="5068" type="lg"/>
+    <part id="5069" type="lg"/>
+  </lib>
+  <lib id="acc_head_U_hipoutfitheadphones" revision="69558">
+    <part id="5070" type="he"/>
+    <part id="5071" type="he"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
