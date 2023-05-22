@@ -21212,6 +21212,7 @@ featured.offer.bundle37.title=Twisted Castle Bundle
 featured.offer.bundle370.title=Eco House Bundle
 featured.offer.bundle371.title=Eco Garden Bundle
 featured.offer.bundle372.title=Cat Cafe Bundle
+featured.offer.bundle373.title=Baby Pet Bundles
 featured.offer.bundle378.title=Gallery XIV Bundle
 featured.offer.bundle379.title=NEW Artist Uni Bedroom Bundle
 featured.offer.bundle38.title=Freaky Fairground Bundle
