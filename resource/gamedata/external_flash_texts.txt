@@ -12062,6 +12062,7 @@ badge_name_CCF32=Team Wall Cat Winnie
 badge_name_CCF33=Habbo on TikTok
 badge_name_CCF34=Sea Monster Hunter
 badge_name_CCF35=Sea Monster Champion
+badge_name_CCF36=WIRED Add-On: Carry Users
 badge_name_CCF37=Elevator Bundle
 badge_name_CCF37_name=Elevator Bundle
 badge_name_CCF38=Flip Flops and Socks

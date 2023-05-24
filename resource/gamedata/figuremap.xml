@@ -3449,7 +3449,7 @@
     <part id="4218" type="rc"/>
     <part id="4219" type="cc"/>
   </lib>
-  <lib id="hair_U_colourfulbraids" revision="69202">
+  <lib id="hair_U_colourfulbraids" revision="69625">
     <part id="4874" type="hr"/>
     <part id="4874" type="hrb"/>
     <part id="4875" type="hr"/>
@@ -7165,7 +7165,7 @@
     <part id="4920" type="ls"/>
     <part id="4920" type="rs"/>
   </lib>
-  <lib id="jacket_F_unijacket" revision="69197">
+  <lib id="jacket_F_unijacket" revision="69597">
     <part id="4961" type="cc"/>
     <part id="4961" type="lc"/>
     <part id="4961" type="rc"/>
@@ -7180,14 +7180,14 @@
     <part id="4917" type="lg"/>
     <part id="4918" type="lg"/>
   </lib>
-  <lib id="jacket_M_unijacket1" revision="69197">
+  <lib id="jacket_M_unijacket1" revision="69597">
     <part id="4946" type="cc"/>
     <part id="4946" type="lc"/>
     <part id="4946" type="rc"/>
     <part id="4947" type="cc"/>
     <part id="4948" type="cc"/>
   </lib>
-  <lib id="jacket_M_unijacket2" revision="69203">
+  <lib id="jacket_M_unijacket2" revision="69597">
     <part id="4949" type="cc"/>
     <part id="4949" type="lc"/>
     <part id="4949" type="rc"/>
@@ -7201,21 +7201,21 @@
     <part id="4953" type="cc"/>
     <part id="4954" type="cc"/>
   </lib>
-  <lib id="jacket_M_unijacket4" revision="69197">
+  <lib id="jacket_M_unijacket4" revision="69597">
     <part id="4955" type="cc"/>
     <part id="4955" type="lc"/>
     <part id="4955" type="rc"/>
     <part id="4956" type="cc"/>
     <part id="4957" type="cc"/>
   </lib>
-  <lib id="jacket_M_unijacket5" revision="69203">
+  <lib id="jacket_M_unijacket5" revision="69597">
     <part id="4958" type="cc"/>
     <part id="4958" type="lc"/>
     <part id="4958" type="rc"/>
     <part id="4959" type="cc"/>
     <part id="4960" type="cc"/>
   </lib>
-  <lib id="jacket_M_unijacket" revision="69197">
+  <lib id="jacket_M_unijacket" revision="69597">
     <part id="4943" type="cc"/>
     <part id="4943" type="lc"/>
     <part id="4943" type="rc"/>
@@ -7227,14 +7227,14 @@
     <part id="4919" type="ls"/>
     <part id="4919" type="rs"/>
   </lib>
-  <lib id="jacket_F_unijacket1" revision="69197">
+  <lib id="jacket_F_unijacket1" revision="69597">
     <part id="4964" type="cc"/>
     <part id="4964" type="lc"/>
     <part id="4964" type="rc"/>
     <part id="4965" type="cc"/>
     <part id="4966" type="cc"/>
   </lib>
-  <lib id="jacket_F_unijacket2" revision="69203">
+  <lib id="jacket_F_unijacket2" revision="69597">
     <part id="4967" type="cc"/>
     <part id="4967" type="lc"/>
     <part id="4967" type="rc"/>
@@ -7248,14 +7248,14 @@
     <part id="4971" type="cc"/>
     <part id="4972" type="cc"/>
   </lib>
-  <lib id="jacket_F_unijacket4" revision="69197">
+  <lib id="jacket_F_unijacket4" revision="69597">
     <part id="4973" type="cc"/>
     <part id="4973" type="lc"/>
     <part id="4973" type="rc"/>
     <part id="4974" type="cc"/>
     <part id="4975" type="cc"/>
   </lib>
-  <lib id="jacket_F_unijacket5" revision="69203">
+  <lib id="jacket_F_unijacket5" revision="69597">
     <part id="4976" type="cc"/>
     <part id="4976" type="lc"/>
     <part id="4976" type="rc"/>
@@ -7488,6 +7488,10 @@
   <lib id="acc_head_U_hipoutfitheadphones" revision="69558">
     <part id="5070" type="he"/>
     <part id="5071" type="he"/>
+  </lib>
+  <lib id="shoes_U_summerflipflopsocks" revision="69635">
+    <part id="5074" type="sh"/>
+    <part id="5075" type="sh"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
