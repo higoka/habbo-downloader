@@ -21737,6 +21737,7 @@ featured.offer.may23coll8.title=Collectible: Wall Cat Winnie
 featured.offer.may23dress.title=Rare Cat Cafe Wait Staff
 featured.offer.may23hab.title=Baby Pet Bundles
 featured.offer.may23ice.title=RARE Ice Cream Outfit
+featured.offer.may23ltd.title=Flip Flops and Socks LTD
 featured.offer.may23paint.title=NEW: Diamond Paintings
 featured.offer.may23robot.title=RARE Robo Cat
 featured.offer.may23waiter.title=RARE: Cat Waiter
