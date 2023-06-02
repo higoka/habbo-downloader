@@ -18289,6 +18289,7 @@ badge_name_UNB21=RARE Witch's Familiar
 badge_name_UNB22=RARE Plushie Pile
 badge_name_UNB23=Fire Overlord Outfit LTD
 badge_name_UNB24=Investment Gold Fountain LTD
+badge_name_UNB25=Summer Offer 2023
 badge_name_UNB28=The Sports Society
 badge_name_UNB29=The Expressionists
 badge_name_UNB30=Synthetic coat
@@ -21906,6 +21907,7 @@ featured.offer.uni23genius.title=NEW: Genius Furni!
 featured.offer.uni23goth.title=NEW: Goth Furni!
 featured.offer.uni23ltd1.title=Fire Overlord Outfit LTD
 featured.offer.uni23ltd2.title=Investment Gold Fountain LTD
+featured.offer.uni23r1.title=RARE Cutesy Artist Outfit
 featured.offer.uni23r1=RARE Cutesy Artist Outfit
 featured.offer.uni23r2.title=RARE Mad Professor Hair
 featured.offer.uni23r3.title=RARE Witch's Familiar
@@ -37718,6 +37720,10 @@ targeted.offer.jun22_tko_gr1.desc=<a href="event:habbopages/6summer1tto21">This 
 targeted.offer.jun22_tko_gr1.title=Summer Deal
 targeted.offer.jun22_tko_gr2.desc=<a href="event:habbopages/6summer2tto21">This deal includes 80 bronze coins + Exclusive Rare (clothing_r22_spikedshorthair) (x2) + clothing_sunhat  (x2) + HC 3 months + Badge
 targeted.offer.jun22_tko_gr2.title=Summer Deal
+targeted.offer.jun23_tko_gr1.desc=<a href="event:habbopages/6summer1tto21">This deal includes 70 bronze coins + Exclusive Rare (Water Floatable) + HC 1 month + Badge
+targeted.offer.jun23_tko_gr1.title=Humungous Crafting Deal!
+targeted.offer.jun23_tko_gr2 .title=Summer Deal
+targeted.offer.jun23_tko_gr2.desc=<a href="event:habbopages/6summer2tto21">This deal includes 80 bronze coins + Exclusive Rare (Water Floatable) (x2) + clothing_flippers + clothing_sailortop  + clothing_bohobag + HC 3 months + Badge
 targeted.offer.jurassic15_tko_gr1.desc=This deal is packed full of ferocious jurassic goodies, sure to help you set the scary scene in your jurassic jungle rooms. Watch out for the grumpy Dilophosaurus though.. He has a nasty temper and a particularly poisonous method of attack! Don't miss out on this devilish deal. <br><br>Offer is limited to one per person and includes:<br>- 60 bronze coins (worth 60c)<br>- Dilophosaurus (worth 15c)<br>- 3 Monkey Puzzle Trees (worth 45c)<br>- Rare Ammonoidea Fossil (worth 25c)<br>- Fossil Hammer Effect (worth 3c)<br>- Rare Badge (for free)
 targeted.offer.jurassic15_tko_gr1.title=Dazzling Dino Deal
 targeted.offer.jurassic15_tko_gr2.desc=Dinosaurs, diamonds, and venus fly traps... these are the things Habbos love! All of your favourite jurassic Habbo goodies packing into this AWESOME offer, plus a BADGE! What more could you ask for?! Don't miss out on this dazzling deal... <br><br>Offer is limited to one per person and includes:<br>- Emerald Ring (worth 100c)<br>- 3 Ginkgos Trees (worth 45c)<br>- Dino onesie (worth 14c)<br>- Cave Dweller Outfit (worth 10c)<br> - Rare Ammonoidea Fossil (worth 25c)<br> - 3 Venus Fly Traps (worth 24c)<br>- Dilophosaurus (worth 15c)<br>- Fossil Hammer Effect (worth 3c)<br> - Rare Badge (for free)
