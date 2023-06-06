@@ -12691,6 +12691,7 @@ badge_name_DRA03=Dragoneer
 badge_name_DRA04=A fond farewell to the Dragon
 badge_name_DRA05=Silver Dragon Lamp MegaRare
 badge_name_DRS01=Pre-match live event with Don Robbie & Daps!
+badge_name_DRS02=UEFA Champions League Final Pre-match live event with Don Robbie!
 badge_name_DRS03=Premier League 23 - Manchester City is through!
 badge_name_DS0=Academy
 badge_name_DS0_HHAU=Academy of Space
