@@ -218,4 +218,9 @@
   <effect id="212" lib="Metakey" type="fx" revision="67970"/>
   <effect id="213" lib="Skiing" type="fx" revision="68401"/>
   <effect id="214" lib="CoolCats" type="fx" revision="68332"/>
+  <effect id="215" lib="FFScooter1" type="fx" revision="69903"/>
+  <effect id="216" lib="FFScooter2" type="fx" revision="69903"/>
+  <effect id="217" lib="FFScooter3" type="fx" revision="69903"/>
+  <effect id="218" lib="Freeze" type="fx" revision="69848"/>
+  <effect id="219" lib="Hide" type="fx" revision="69903"/>
 </map>
