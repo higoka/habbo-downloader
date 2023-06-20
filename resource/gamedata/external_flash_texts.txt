@@ -18327,6 +18327,7 @@ badge_name_UNB22=RARE Plushie Pile
 badge_name_UNB23=Fire Overlord Outfit LTD
 badge_name_UNB24=Investment Gold Fountain LTD
 badge_name_UNB25=Summer Offer 2023
+badge_name_UNB27=RARE Diamond Elephant Statue
 badge_name_UNB28=The Sports Society
 badge_name_UNB29=The Expressionists
 badge_name_UNB30=Synthetic coat
@@ -37845,7 +37846,7 @@ targeted.offer.jun23_rm_dbl_tto166.title=50 per cent Off 220 Credits
 targeted.offer.jun23_rm_dbl_tto167.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
 targeted.offer.jun23_rm_dbl_tto167.title=50 per cent Off 50 Credits
 targeted.offer.jun23_tko_gr1.desc=<a href="event:habbopages/6summer1tto21">This deal includes 70 bronze coins + Exclusive Rare (Water Floatable) + HC 1 month + Badge
-targeted.offer.jun23_tko_gr1.title=Humungous Crafting Deal!
+targeted.offer.jun23_tko_gr1.title=Summer Deal
 targeted.offer.jun23_tko_gr2 .title=Summer Deal
 targeted.offer.jun23_tko_gr2.desc=<a href="event:habbopages/6summer2tto21">This deal includes 80 bronze coins + Exclusive Rare (Water Floatable) (x2) + Flippers + Sailor Sweater + Bohemian Handbag +  HC 3 months + Badge
 targeted.offer.jurassic15_tko_gr1.desc=This deal is packed full of ferocious jurassic goodies, sure to help you set the scary scene in your jurassic jungle rooms. Watch out for the grumpy Dilophosaurus though.. He has a nasty temper and a particularly poisonous method of attack! Don't miss out on this devilish deal. <br><br>Offer is limited to one per person and includes:<br>- 60 bronze coins (worth 60c)<br>- Dilophosaurus (worth 15c)<br>- 3 Monkey Puzzle Trees (worth 45c)<br>- Rare Ammonoidea Fossil (worth 25c)<br>- Fossil Hammer Effect (worth 3c)<br>- Rare Badge (for free)
