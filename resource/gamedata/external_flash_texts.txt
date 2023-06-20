@@ -6017,6 +6017,7 @@ badge_desc_ITE22=
 badge_desc_ITE37=
 badge_desc_ITE45=
 badge_desc_ITE63=
+badge_desc_ITE82=
 badge_desc_ITF61=
 badge_desc_ITF63=
 badge_desc_ITF66=
@@ -14814,6 +14815,7 @@ badge_name_ITE22=HabboQuests wishes you a stu-panda-ous day!
 badge_name_ITE37=Bite me HabboBites!
 badge_name_ITE45=Thank GOURD you made it!
 badge_name_ITE63=Nostalgic movies with HFFM!
+badge_name_ITE82=Up, down, left, right
 badge_name_ITF61=All Knight long
 badge_name_ITF63=Show time, got a dragon on my back
 badge_name_ITF66=I am MORGANA!
@@ -37845,7 +37847,7 @@ targeted.offer.jun23_rm_dbl_tto167.title=50 per cent Off 50 Credits
 targeted.offer.jun23_tko_gr1.desc=<a href="event:habbopages/6summer1tto21">This deal includes 70 bronze coins + Exclusive Rare (Water Floatable) + HC 1 month + Badge
 targeted.offer.jun23_tko_gr1.title=Humungous Crafting Deal!
 targeted.offer.jun23_tko_gr2 .title=Summer Deal
-targeted.offer.jun23_tko_gr2.desc=<a href="event:habbopages/6summer2tto21">This deal includes 80 bronze coins + Exclusive Rare (Water Floatable) (x2) + clothing_flippers + clothing_sailortop  + clothing_bohobag + HC 3 months + Badge
+targeted.offer.jun23_tko_gr2.desc=<a href="event:habbopages/6summer2tto21">This deal includes 80 bronze coins + Exclusive Rare (Water Floatable) (x2) + Flippers + Sailor Sweater + Bohemian Handbag +  HC 3 months + Badge
 targeted.offer.jurassic15_tko_gr1.desc=This deal is packed full of ferocious jurassic goodies, sure to help you set the scary scene in your jurassic jungle rooms. Watch out for the grumpy Dilophosaurus though.. He has a nasty temper and a particularly poisonous method of attack! Don't miss out on this devilish deal. <br><br>Offer is limited to one per person and includes:<br>- 60 bronze coins (worth 60c)<br>- Dilophosaurus (worth 15c)<br>- 3 Monkey Puzzle Trees (worth 45c)<br>- Rare Ammonoidea Fossil (worth 25c)<br>- Fossil Hammer Effect (worth 3c)<br>- Rare Badge (for free)
 targeted.offer.jurassic15_tko_gr1.title=Dazzling Dino Deal
 targeted.offer.jurassic15_tko_gr2.desc=Dinosaurs, diamonds, and venus fly traps... these are the things Habbos love! All of your favourite jurassic Habbo goodies packing into this AWESOME offer, plus a BADGE! What more could you ask for?! Don't miss out on this dazzling deal... <br><br>Offer is limited to one per person and includes:<br>- Emerald Ring (worth 100c)<br>- 3 Ginkgos Trees (worth 45c)<br>- Dino onesie (worth 14c)<br>- Cave Dweller Outfit (worth 10c)<br> - Rare Ammonoidea Fossil (worth 25c)<br> - 3 Venus Fly Traps (worth 24c)<br>- Dilophosaurus (worth 15c)<br>- Fossil Hammer Effect (worth 3c)<br> - Rare Badge (for free)
