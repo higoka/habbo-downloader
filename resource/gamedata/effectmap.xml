@@ -223,4 +223,5 @@
   <effect id="217" lib="FFScooter3" type="fx" revision="69903"/>
   <effect id="218" lib="Freeze" type="fx" revision="69848"/>
   <effect id="219" lib="Hide" type="fx" revision="69903"/>
+  <effect id="220" lib="NFTCoin7" type="fx" revision="69950"/>
 </map>

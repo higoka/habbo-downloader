@@ -700,7 +700,7 @@
     <part id="4226" type="rs"/>
     <part id="4227" type="ch"/>
   </lib>
-  <lib id="acc_chest_U_nftduckpack" revision="68933">
+  <lib id="acc_chest_U_nftduckpack" revision="69941">
     <part id="4863" type="ca"/>
   </lib>
   <lib id="acc_eye_U_cuteglasses" revision="64150">
@@ -5411,7 +5411,7 @@
     <part id="4304" type="ls"/>
     <part id="4304" type="rs"/>
   </lib>
-  <lib id="trousers_U_grungetrousers" revision="69383">
+  <lib id="trousers_U_grungetrousers" revision="69942">
     <part id="4517" type="lg"/>
   </lib>
   <lib id="acc_head_U_surprised" revision="62833">
@@ -7576,6 +7576,22 @@
     <part id="4984" type="ch"/>
     <part id="4984" type="ls"/>
     <part id="4984" type="rs"/>
+  </lib>
+  <lib id="shirt_F_f1" revision="69939">
+    <part id="5101" type="ch"/>
+    <part id="5101" type="ls"/>
+    <part id="5101" type="rs"/>
+    <part id="5102" type="ch"/>
+  </lib>
+  <lib id="hat_U_f1helmet" revision="69939">
+    <part id="5103" type="ha"/>
+    <part id="5104" type="ha"/>
+  </lib>
+  <lib id="shirt_M_f1" revision="69939">
+    <part id="5099" type="ch"/>
+    <part id="5099" type="ls"/>
+    <part id="5099" type="rs"/>
+    <part id="5100" type="ch"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
