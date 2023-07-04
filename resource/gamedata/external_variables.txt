@@ -6291,6 +6291,7 @@ menu.bot.enabled=false
 menu.own_avatar.enabled=1
 messenger.new.skin=true
 minimail.landing_view.enabled=false
+minimal.level.for.trading=15
 moderatoractionlog.url=https://theallseeingeye.sulake.com/ase/habbo/us/housekeeping/extra/hobba/moderator_activity.action?searchCriteria.habboName=
 monitor.garbage.collection=false
 monsterplants.composting.enabled=true
@@ -6526,10 +6527,10 @@ xmas2012.calendar.startdate=2012-12-02 00:00
 zendesk.url=https://help.habbo.com/home
 zoom.enabled=1
 
-flash.client.url=https://images.habbo.com/gordon/PRODUCTION-202306232215-597983798/
+flash.client.url=https://images.habbo.com/gordon/PRODUCTION-202307031217-13835365/
 new.user.flow.roomTypes=10,11,12
-external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/31e0d18f272da47164e70ea375ab9610c6f76168
-external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/9fb6b88d61dda8296380517c6fd428538121acdc
-productdata.load.url=https://www.habbo.com/gamedata/productdata/fb56e71e38321a3bafeb16b3fd39dc05619eeb5a
-furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/8b4413941cd00d85ec12cf660c95eb97ca2e8ff2
-external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/31e0d18f272da47164e70ea375ab9610c6f76168
+external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/7da8171151a795358653150f489f6a97ac8e8c7e
+external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/21f4b9698c522c297b17400146d0271db7f80ea2
+productdata.load.url=https://www.habbo.com/gamedata/productdata/85c63271c788914607d819d0c1708094b1c7020a
+furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/4c7bc041f21472f663ebaaa3cd4f07a5bbb13f76
+external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/7da8171151a795358653150f489f6a97ac8e8c7e

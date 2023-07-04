@@ -7593,7 +7593,7 @@
     <part id="5099" type="rs"/>
     <part id="5100" type="ch"/>
   </lib>
-  <lib id="shirt_M_80sretro" revision="69965">
+  <lib id="shirt_M_80sretro" revision="69994">
     <part id="5060" type="ch"/>
     <part id="5060" type="ls"/>
     <part id="5060" type="rs"/>
@@ -7612,6 +7612,30 @@
   <lib id="hat_U_80sretro" revision="69965">
     <part id="5064" type="ha"/>
     <part id="5065" type="ha"/>
+  </lib>
+  <lib id="hair_U_sportsponytail" revision="70000">
+    <part id="5107" type="hr"/>
+    <part id="5107" type="hrb"/>
+    <part id="5108" type="hr"/>
+  </lib>
+  <lib id="acc_head_U_footballboppers" revision="70000">
+    <part id="5105" type="he"/>
+    <part id="5106" type="he"/>
+  </lib>
+  <lib id="hat_U_pyramidhead" revision="70048">
+    <part id="5109" type="ha"/>
+    <part id="5110" type="ha"/>
+    <part id="5111" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_pyramidnecklace" revision="70048">
+    <part id="5112" type="ca"/>
+    <part id="5113" type="ca"/>
+    <part id="5124" type="ca"/>
+  </lib>
+  <lib id="shoes_U_heeledboots" revision="70034">
+    <part id="5115" type="sh"/>
+    <part id="5116" type="sh"/>
+    <part id="5117" type="sh"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
