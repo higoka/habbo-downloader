@@ -7637,6 +7637,36 @@
     <part id="5116" type="sh"/>
     <part id="5117" type="sh"/>
   </lib>
+  <lib id="acc_face_U_catmask" revision="70101">
+    <part id="5128" type="fa"/>
+    <part id="5129" type="fa"/>
+  </lib>
+  <lib id="acc_chest_U_snakepet" revision="70125">
+    <part id="5125" type="ca"/>
+    <part id="5126" type="ca"/>
+  </lib>
+  <lib id="hat_U_pharoah" revision="70101">
+    <part id="5130" type="ha"/>
+    <part id="5131" type="ha"/>
+  </lib>
+  <lib id="acc_head_U_ankh" revision="70101">
+    <part id="5127" type="he"/>
+  </lib>
+  <lib id="hair_U_herohair" revision="70111">
+    <part id="5118" type="hr"/>
+    <part id="5118" type="hrb"/>
+  </lib>
+  <lib id="hat_U_candlehat" revision="70111">
+    <part id="5120" type="ha"/>
+    <part id="5121" type="ha"/>
+  </lib>
+  <lib id="hat_U_egyptianheadband" revision="70118">
+    <part id="0" type="ha"/>
+  </lib>
+  <lib id="acc_chest_anubisbackpack" revision="70118">
+    <part id="5132" type="ca"/>
+    <part id="5133" type="ca"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
