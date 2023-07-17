@@ -7660,12 +7660,18 @@
     <part id="5120" type="ha"/>
     <part id="5121" type="ha"/>
   </lib>
-  <lib id="hat_U_egyptianheadband" revision="70118">
-    <part id="0" type="ha"/>
+  <lib id="hat_U_egyptianheadband" revision="70138">
+    <part id="5136" type="ha"/>
   </lib>
-  <lib id="acc_chest_anubisbackpack" revision="70118">
+  <lib id="acc_chest_anubisbackpack" revision="70141">
     <part id="5132" type="ca"/>
     <part id="5133" type="ca"/>
+  </lib>
+  <lib id="jacket_U_wingarms" revision="70145">
+    <part id="5134" type="cc"/>
+    <part id="5134" type="lc"/>
+    <part id="5134" type="rc"/>
+    <part id="5135" type="cc"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
