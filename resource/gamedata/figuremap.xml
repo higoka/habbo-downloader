@@ -7471,12 +7471,12 @@
     <part id="5058" type="ca"/>
     <part id="5059" type="ca"/>
   </lib>
-  <lib id="shirt_M_hipoutfit" revision="69547">
+  <lib id="shirt_M_hipoutfit" revision="70166">
     <part id="5073" type="ch"/>
     <part id="5073" type="ls"/>
     <part id="5073" type="rs"/>
   </lib>
-  <lib id="shirt_F_hipoutfit" revision="69982">
+  <lib id="shirt_F_hipoutfit" revision="70166">
     <part id="5072" type="ch"/>
     <part id="5072" type="ls"/>
     <part id="5072" type="rs"/>
@@ -7673,6 +7673,72 @@
     <part id="5134" type="rc"/>
     <part id="5135" type="cc"/>
   </lib>
+  <lib id="hat_U_nftfroghoodie" revision="70164">
+    <part id="5145" type="ha"/>
+  </lib>
+  <lib id="shoes_U_nftunicornslippers" revision="70161">
+    <part id="5150" type="sh"/>
+  </lib>
+  <lib id="hat_U_nftunicornhoodie" revision="70161">
+    <part id="5147" type="ha"/>
+  </lib>
+  <lib id="jacket_F_nftfroghoodie" revision="70161">
+    <part id="5140" type="cc"/>
+    <part id="5140" type="lc"/>
+    <part id="5140" type="rc"/>
+  </lib>
+  <lib id="jacket_M_nftfroghoodie" revision="70161">
+    <part id="5139" type="cc"/>
+    <part id="5139" type="lc"/>
+    <part id="5139" type="rc"/>
+  </lib>
+  <lib id="shoes_U_nftfrogslippers" revision="70161">
+    <part id="5148" type="sh"/>
+  </lib>
+  <lib id="jacket_M_nftunicornhoodie" revision="70161">
+    <part id="5143" type="cc"/>
+    <part id="5143" type="lc"/>
+    <part id="5143" type="rc"/>
+  </lib>
+  <lib id="jacket_F_nftunicornhoodie" revision="70161">
+    <part id="5144" type="cc"/>
+    <part id="5144" type="lc"/>
+    <part id="5144" type="rc"/>
+  </lib>
+  <lib id="hat_U_nftdinohoodie" revision="70161">
+    <part id="5146" type="ha"/>
+  </lib>
+  <lib id="shoes_U_nftdinoslippers" revision="70161">
+    <part id="5149" type="sh"/>
+  </lib>
+  <lib id="jacket_F_nftdinohoodie" revision="70161">
+    <part id="5142" type="cc"/>
+    <part id="5142" type="lc"/>
+    <part id="5142" type="rc"/>
+  </lib>
+  <lib id="jacket_M_nftdinohoodie" revision="70161">
+    <part id="5141" type="cc"/>
+    <part id="5141" type="lc"/>
+    <part id="5141" type="rc"/>
+  </lib>
+  <lib id="acc_chest_U_toastbackpack" revision="70169">
+    <part id="5154" type="ca"/>
+    <part id="5155" type="ca"/>
+  </lib>
+  <lib id="shirt_F_pinaforedress" revision="70173">
+    <part id="5157" type="ch"/>
+    <part id="5157" type="ls"/>
+    <part id="5157" type="rs"/>
+    <part id="5158" type="ch"/>
+    <part id="5159" type="ch"/>
+  </lib>
+  <lib id="shirt_M_pinaforedress" revision="70173">
+    <part id="5160" type="ch"/>
+    <part id="5160" type="ls"/>
+    <part id="5160" type="rs"/>
+    <part id="5161" type="ch"/>
+    <part id="5162" type="ch"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
@@ -7712,7 +7778,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="69963">
+  <lib id="hh_human_item" revision="70154">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
