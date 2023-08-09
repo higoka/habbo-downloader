@@ -6445,7 +6445,7 @@ minimal.level.for.trading=15
 moderatoractionlog.url=https://theallseeingeye.sulake.com/ase/habbo/us/housekeeping/extra/hobba/moderator_activity.action?searchCriteria.habboName=
 monitor.garbage.collection=false
 monsterplants.composting.enabled=true
-monsterplants.enabled=true
+monsterplants.enabled=false
 monsterplants.game.enabled=false
 multi.item.trading.enabled=true
 mystery_box_toolbar_extension_minimised=false
