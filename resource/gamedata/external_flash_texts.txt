@@ -20429,6 +20429,7 @@ camera.warning.disclaimer=If photo does not follow the Habbo Way it may be hidde
 camera.zoom.missing.body=The room has been zoomed, please return to normal state before taking picture.
 camera.zoom.missing.header=Camera only works on normal zoom level.
 campaign.calendar.aug21.title=Gift Calendar
+campaign.calendar.aug23.title=Gift Calendar
 campaign.calendar.easter20.title=Gift Calendar
 campaign.calendar.easter21.title=Gift Calendar
 campaign.calendar.easter22.title=Gift Calendar
@@ -24773,6 +24774,9 @@ landing.view.aug22wired.header=NEW Wired in stock!
 landing.view.aug22wiredbundle.body=Featuring a variety of new and old wireds, this new wired bundle will give you a glimpse of all the possibilities and gameplay available using our new Wired add-ons. Badge included!  (Made by:IAmReallyBored .COM)
 landing.view.aug22wiredbundle.button=See the bundle
 landing.view.aug22wiredbundle.header=NEW Wired Attack Bundle!
+landing.view.aug23.body=Between the 14th and 18th of August get free potions and seeds from the gift calendar! Open yours now!
+landing.view.aug23.button=Open it!
+landing.view.aug23.header=Open Your Gift Calendar!
 landing.view.aug23cup.body=GOAL! The UEFA is such a nail-biter. Show your football spirit in Habbo with these BRAND NEW items. Score!
 landing.view.aug23cup.button=See the items
 landing.view.aug23cup.header=UEFA Super Cup
@@ -37897,6 +37901,10 @@ targeted.offer.aug17_dyepack_tto.title=Green + Purple Dye Offer!
 targeted.offer.aug21_craft_tto_gr1.desc=<a href="event:habbopages/8crafting1tto21">Click here</a> to see a list of all the items included in this deal
 targeted.offer.aug21_craft_tto_gr1.title=Humungous Crafting Deal!
 targeted.offer.aug21_craft_tto_gr2.desc=Click <a href="event:habbopages/8crafting2tto21">here</a> and <a href="event:habbopages/8crafting2btto21">here</a> to see a list of all the items included in this deal
+targeted.offer.aug23_rm_dbl_tto176.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.aug23_rm_dbl_tto176.title=50 per cent Off 220 Credits
+targeted.offer.aug23_rm_dbl_tto177.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
+targeted.offer.aug23_rm_dbl_tto177.title=50 per cent Off 50 Credits
 targeted.offer.bbroboraretr_tto.desc=Bright lights and big robots, thats what Banzai is about. This Robo Rare is the biggest, baddest and brightest in the whole wide Habboverse, and sure to set your Banzai  arena above the rest. <br><br>Offer is limited to 3 per person and includes: <br>- Banzai Robo Rare (worth 25c) <br>- Banzai Robo Badge (for free)
 targeted.offer.bbroboraretr_tto.title=Banzai Robo Rare
 targeted.offer.bf16_tko_gr1.desc=Save 20% on 1x (EXCLUSIVE) Oversized Scarf, 70 bronze coins, <a href="event:habbopages/habboclub">1 month HC</a>, badge, 1x Snowy Roof, 1x Building, 1x Building Bottom, Snack and Milk & Cookies!
@@ -38127,6 +38135,10 @@ targeted.offer.jul23_rm_dbl_tto174.desc=Get 220 credits and diamonds for the pri
 targeted.offer.jul23_rm_dbl_tto174.title=50 per cent Off 220 Credits
 targeted.offer.jul23_rm_dbl_tto175.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
 targeted.offer.jul23_rm_dbl_tto175.title=50 per cent Off 50 Credits
+targeted.offer.jul23_rm_dbl_tto176.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.jul23_rm_dbl_tto176.title=50 per cent Off 220 Credits
+targeted.offer.jul23_rm_dbl_tto177.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
+targeted.offer.jul23_rm_dbl_tto177.title=50 per cent Off 50 Credits
 targeted.offer.jun16_supersaver.desc=We are discontinuing Super Saver subscriptions. Your subscription has been cancelled and you will no longer be charged for it, and any remaining gift points have been converted into diamonds. <br><br>Stuck for things to buy? Take a look at the <a href="http://images.habbo.com/c_images/web_promo_small/Puppy_Paradise_Habitat_Bundle.png" target="_blank">Puppy's Paradise Habitat Bundle</a> offered with a 25% discount!
 targeted.offer.jun16_supersaver.title=Super Saver Subscriptions
 targeted.offer.jun16_ufo_hc14d.desc=Get a HUGE 50% discount on 14 days HC membership
