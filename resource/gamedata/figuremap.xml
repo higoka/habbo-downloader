@@ -7739,6 +7739,43 @@
     <part id="5161" type="ch"/>
     <part id="5162" type="ch"/>
   </lib>
+  <lib id="hat_U_knittedbunnybeanie" revision="70200">
+    <part id="5152" type="ha"/>
+    <part id="5153" type="ha"/>
+  </lib>
+  <lib id="hair_U_drillhair" revision="70177">
+    <part id="5151" type="hr"/>
+    <part id="5151" type="hrb"/>
+  </lib>
+  <lib id="hat_U_fluffybearhat" revision="70200">
+    <part id="5156" type="ha"/>
+  </lib>
+  <lib id="hat_U_floralheadscarf" revision="70181">
+    <part id="5163" type="ha"/>
+    <part id="5164" type="ha"/>
+    <part id="5165" type="ha"/>
+  </lib>
+  <lib id="hat_U_habbobeanie" revision="70200">
+    <part id="5166" type="ha"/>
+    <part id="5167" type="ha"/>
+    <part id="5168" type="ha"/>
+  </lib>
+  <lib id="hair_U_sportshair2" revision="70198">
+    <part id="5137" type="hr"/>
+    <part id="5137" type="hrb"/>
+    <part id="5138" type="hr"/>
+  </lib>
+  <lib id="hair_U_twotonehair" revision="70202">
+    <part id="5169" type="hr"/>
+    <part id="5169" type="hrb"/>
+    <part id="5170" type="hr"/>
+  </lib>
+  <lib id="jacket_U_fluffyjacket" revision="70217">
+    <part id="5171" type="cc"/>
+    <part id="5171" type="lc"/>
+    <part id="5171" type="rc"/>
+    <part id="5172" type="cc"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
@@ -7778,7 +7815,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="70154">
+  <lib id="hh_human_item" revision="70216">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -8023,6 +8060,8 @@
     <part id="269" type="ri"/>
     <part id="270" type="ri"/>
     <part id="271" type="ri"/>
+    <part id="272" type="ri"/>
+    <part id="273" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
