@@ -28383,6 +28383,7 @@ landing.view.moderationpromo.wrongdoers.info=Activities that are terrible, reall
 landing.view.monkey.body=Clap your hands…Put on your beret… Grab a banana… Get ready to play! This funky monkey is new in the hotel and ready for fun!
 landing.view.monkey.button=See the Monkeys
 landing.view.monkey.header=Monkey madness  in Habbo!
+landing.view.monster_plants_sale.button=Monster Plants
 landing.view.monsterplantscreditpromo.caption=Free Seeds When You Buy Credits!
 landing.view.monsterplantscreditpromo.getcredits=Get Credits
 landing.view.monsterplantscreditpromo.info=Limited time offer! When you buy Credits you'll receive seeds and other bonus items for your plants!
