@@ -21516,6 +21516,7 @@ featured.offer.bundle390.title=New York City Streets Bundle
 featured.offer.bundle391.title=New York Movie Shoot Bundle
 featured.offer.bundle392.title=NEW: New York Little Italy
 featured.offer.bundle393.title=Bonnie Blonde's Malibu House Bundle
+featured.offer.bundle394.title=New Greenhouse Bundle
 featured.offer.bundle43.title=Habbo Island Resort
 featured.offer.bundle48.title=Fireside Chalet Bundle
 featured.offer.bundle49.title=Forgotten Attic Bundle
