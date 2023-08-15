@@ -7776,6 +7776,15 @@
     <part id="5171" type="rc"/>
     <part id="5172" type="cc"/>
   </lib>
+  <lib id="hat_U_cathead" revision="70249">
+    <part id="5122" type="ha"/>
+    <part id="5123" type="ha"/>
+    <part id="5124" type="ha"/>
+  </lib>
+  <lib id="shoes_U_docfranks" revision="70249">
+    <part id="5173" type="sh"/>
+    <part id="5174" type="sh"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
