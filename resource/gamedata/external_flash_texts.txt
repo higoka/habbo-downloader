@@ -31035,6 +31035,7 @@ navigator.favouritedeleted=Favorite %room_name% deleted!
 navigator.favouritesfull.body=Your favorite list is full. You must remove some of your favorite rooms before adding more.
 navigator.favouritesfull.title=Cannot add favorite
 navigator.filter.anything=Anything
+navigator.filter.description=Filter type
 navigator.filter.group=Group
 navigator.filter.input.placeholder=filter rooms by...
 navigator.filter.owner=Owner
