@@ -22049,6 +22049,7 @@ featured.offer.nov22r1.title=RARE Ancient Samurai Gear
 featured.offer.nov22r2.title=RARE Onsen Resort Yukata
 featured.offer.nov22r3.title=RARE Ancestral Dragon Fountain
 featured.offer.nov22r4.title=RARE Private Hot Spring
+featured.offer.nov23cf.title=Bubblejuice Classy Glass
 featured.offer.nov23cf=Bubblejuice Classy Glass
 featured.offer.nov23ltd.title=Hibernating Autumn Bear LTD
 featured.offer.nov23luxpicnic2a.title=Deluxe Autumn Picnic Basket!
