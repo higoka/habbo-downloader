@@ -13403,6 +13403,7 @@ badge_name_FFS03=RARE Drill Curled Hair
 badge_name_FFS04=RARE Emotional Support Toast
 badge_name_FFS05=Hibernating Autumn Bear LTD
 badge_name_FFS06=Teleport Collector Deal!
+badge_name_FFS07=Crafting items Collector
 badge_name_FFS08=Autumn Days Bundle
 badge_name_FFS10=Chess Set Bundle
 badge_name_FFS11=Rainy Day Bundle
