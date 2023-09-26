@@ -7852,7 +7852,7 @@
     <part id="5211" type="lc"/>
     <part id="5211" type="rc"/>
   </lib>
-  <lib id="shirt_M_misssantatop" revision="70325">
+  <lib id="shirt_M_misssantatop" revision="70447">
     <part id="5181" type="ch"/>
     <part id="5181" type="ls"/>
     <part id="5181" type="rs"/>
@@ -7867,7 +7867,7 @@
     <part id="5186" type="ca"/>
     <part id="5187" type="ca"/>
   </lib>
-  <lib id="shirt_F_misssantatop" revision="70325">
+  <lib id="shirt_F_misssantatop" revision="70446">
     <part id="5178" type="ch"/>
     <part id="5178" type="ls"/>
     <part id="5178" type="rs"/>
@@ -7930,7 +7930,7 @@
     <part id="5263" type="rs"/>
     <part id="5264" type="ch"/>
   </lib>
-  <lib id="jacket_F_chocolateapron" revision="70410">
+  <lib id="jacket_F_chocolateapron" revision="70473">
     <part id="5258" type="cc"/>
     <part id="5258" type="lc"/>
     <part id="5258" type="rc"/>
@@ -7940,7 +7940,7 @@
   <lib id="hat_U_goldtreepartyhat" revision="70410">
     <part id="5252" type="ha"/>
   </lib>
-  <lib id="jacket_M_chocolateapron" revision="70410">
+  <lib id="jacket_M_chocolateapron" revision="70473">
     <part id="5255" type="cc"/>
     <part id="5255" type="lc"/>
     <part id="5255" type="rc"/>
@@ -7966,48 +7966,14 @@
     <part id="5249" type="rs"/>
     <part id="5250" type="ch"/>
   </lib>
-  <lib id="acc_head_U_wingshairjewellery" revision="70435">
+  <lib id="acc_head_U_wingshairjewellery" revision="70471">
     <part id="5243" type="he"/>
-  </lib>
-  <lib id="shirt_F_obbahwobbahoutfit" revision="70421">
-    <part id="5281" type="ch"/>
-    <part id="5281" type="ls"/>
-    <part id="5281" type="rs"/>
-    <part id="5282" type="ch"/>
-    <part id="5283" type="ch"/>
-  </lib>
-  <lib id="jacket_M_whackyjacket" revision="70433">
-    <part id="5237" type="cc"/>
-    <part id="5237" type="lc"/>
-    <part id="5237" type="rc"/>
-    <part id="5238" type="cc"/>
-    <part id="5239" type="cc"/>
   </lib>
   <lib id="shirt_F_ribbondress" revision="70433">
     <part id="5245" type="ch"/>
     <part id="5245" type="ls"/>
     <part id="5245" type="rs"/>
     <part id="5246" type="ch"/>
-  </lib>
-  <lib id="jacket_U_chunkyknitscarf" revision="70421">
-    <part id="5273" type="cc"/>
-    <part id="5273" type="lc"/>
-    <part id="5273" type="rc"/>
-    <part id="5274" type="cc"/>
-  </lib>
-  <lib id="shirt_M_obbahwobbahoutfit" revision="70421">
-    <part id="5278" type="ch"/>
-    <part id="5278" type="ls"/>
-    <part id="5278" type="rs"/>
-    <part id="5279" type="ch"/>
-    <part id="5280" type="ch"/>
-  </lib>
-  <lib id="jacket_F_whackyjacket" revision="70436">
-    <part id="5240" type="cc"/>
-    <part id="5240" type="lc"/>
-    <part id="5240" type="rc"/>
-    <part id="5241" type="cc"/>
-    <part id="5242" type="cc"/>
   </lib>
   <lib id="shirt_M_ribbondress" revision="70433">
     <part id="5247" type="ch"/>
@@ -8022,6 +7988,45 @@
   </lib>
   <lib id="hat_U_ltdcrown" revision="70421">
     <part id="5272" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_chunkyknitscarf" revision="70484">
+    <part id="5273" type="ca"/>
+    <part id="5274" type="ca"/>
+  </lib>
+  <lib id="shirt_F_whackyjacket" revision="70442">
+    <part id="5240" type="ch"/>
+    <part id="5240" type="ls"/>
+    <part id="5240" type="rs"/>
+    <part id="5241" type="ch"/>
+    <part id="5242" type="ch"/>
+  </lib>
+  <lib id="shirt_M_whackyjacket" revision="70442">
+    <part id="5237" type="ch"/>
+    <part id="5237" type="ls"/>
+    <part id="5237" type="rs"/>
+    <part id="5238" type="ch"/>
+    <part id="5239" type="ch"/>
+  </lib>
+  <lib id="shoes_U_goldcladyshoes" revision="70468">
+    <part id="5254" type="sh"/>
+  </lib>
+  <lib id="hair_U_obbahwobbahhair" revision="70473">
+    <part id="5265" type="hr"/>
+    <part id="5265" type="hrb"/>
+  </lib>
+  <lib id="shirt_F_obbahwobbahoutfit" revision="70477">
+    <part id="5281" type="ch"/>
+    <part id="5281" type="ls"/>
+    <part id="5281" type="rs"/>
+    <part id="5282" type="ch"/>
+    <part id="5283" type="ch"/>
+  </lib>
+  <lib id="shirt_M_obbahwobbahoutfit" revision="70477">
+    <part id="5278" type="ch"/>
+    <part id="5278" type="ls"/>
+    <part id="5278" type="rs"/>
+    <part id="5279" type="ch"/>
+    <part id="5280" type="ch"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
