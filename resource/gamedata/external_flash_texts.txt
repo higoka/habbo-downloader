@@ -21879,6 +21879,7 @@ featured.offer.house20rewards.title=Impossible House Rares!
 featured.offer.hu14oldfurni.title=Old Back to school furni is here!
 featured.offer.hween23effect.title=Back: CLASSIC Habboween effects!
 featured.offer.hween23new.title=New: TOMBS OF EGYPT furni!
+featured.offer.hween23oasis.title=Oasis Bundle
 featured.offer.hween23old.title=Back: CLASSIC Habboween furni!
 featured.offer.hygge18antlers.title=RARE Nordic Antlers
 featured.offer.hygge18diamond.title=Diamond Gift Boxes
