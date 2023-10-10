@@ -82,7 +82,7 @@ async function fetchMany (all, replace = false) {
   )
 }
 
-async function fetchUntil (opt, i = 1, failed = 0) {
+async function fetchUntil (opt, maxRetries = 3, i = 1, failed = 0) {
   try {
     console.log(
       await fetchOne(
@@ -95,8 +95,8 @@ async function fetchUntil (opt, i = 1, failed = 0) {
     console.log(err.message)
     failed++
   } finally {
-    if (failed < 3) {
-      return fetchUntil(opt, ++i, failed)
+    if (failed < maxRetries) {
+      return fetchUntil(opt, maxRetries, ++i, failed)
     }
   }
 }
