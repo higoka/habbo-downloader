@@ -8067,7 +8067,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="70258">
+  <lib id="hh_human_item" revision="70511">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -8314,6 +8314,7 @@
     <part id="271" type="ri"/>
     <part id="272" type="ri"/>
     <part id="273" type="ri"/>
+    <part id="274" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
