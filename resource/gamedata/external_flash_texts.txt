@@ -21903,6 +21903,7 @@ featured.offer.hu14oldfurni.title=Old Back to school furni is here!
 featured.offer.hween23cloth.title=NEW: Habboween Clothing!
 featured.offer.hween23crafting.title=Craft Ancient Egyptian Treasures!
 featured.offer.hween23effect.title=Back: CLASSIC Habboween effects!
+featured.offer.hween23ltd1.title=LTD Clothing: All-Powerful Pyramid Deity!
 featured.offer.hween23ltd2.title=LTD Furni: Perfect Oasis!
 featured.offer.hween23mummy.title=RARE Mummification Table!
 featured.offer.hween23new.title=New: TOMBS OF EGYPT furni!
