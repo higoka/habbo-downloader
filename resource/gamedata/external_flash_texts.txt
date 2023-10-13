@@ -39473,6 +39473,7 @@ wiredfurni.params.grouptype.0=Current group
 wiredfurni.params.grouptype.1=Select from list
 wiredfurni.params.handitem=Hand Item
 wiredfurni.params.length.minutes=Length: %minutes% minutes
+wiredfurni.params.level_selection=Set level: %level%
 wiredfurni.params.message=Message:
 wiredfurni.params.movefurni.0=No movement
 wiredfurni.params.movefurni.1=Move randomly
