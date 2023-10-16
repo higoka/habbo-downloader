@@ -21910,6 +21910,7 @@ featured.offer.house20rewards.title=Impossible House Rares!
 featured.offer.hu14oldfurni.title=Old Back to school furni is here!
 featured.offer.hween23cloth.title=NEW: Habboween Clothing!
 featured.offer.hween23crafting.title=Craft Ancient Egyptian Treasures!
+featured.offer.hween23dead.title=New Day of the Dead Revamped Bundle
 featured.offer.hween23effect.title=Back: CLASSIC Habboween effects!
 featured.offer.hween23lovelock.title=2023 Habboween Lovelock
 featured.offer.hween23ltd1.title=LTD Clothing: All-Powerful Pyramid Deity!
