@@ -25997,7 +25997,7 @@ landing.view.doomsdayny1.button=Get my Badge
 landing.view.doomsdayny1.header=Is today the end of the world?
 landing.view.doublecredits23.body=Get Habbo Credits!
 landing.view.doublecredits23.button=Go to Credits Page
-landing.view.doublecredits23.header=1 + 1 = 4? Double Credits for all!
+landing.view.doublecredits23.header=May the credits be ever in your favor!
 landing.view.doublediamond.bodytext=For this weekend only, get Double Diamonds! That's one Diamond for every Credit! You can use Diamonds to purchase exclusive items or convert them into Credits.
 landing.view.doublediamond.header=DOUBLE DIAMONDS!
 landing.view.dragon.body=The Rare Eastern Dragon appears but once a decade on the final days of the Chinese Lunar Year of the Dragon. Buy yours from the shop, while it sticks around.
