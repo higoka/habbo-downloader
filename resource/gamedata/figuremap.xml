@@ -8028,6 +8028,142 @@
     <part id="5279" type="ch"/>
     <part id="5280" type="ch"/>
   </lib>
+  <lib id="hat_U_23test1" revision="70526">
+    <part id="5298" type="ha"/>
+    <part id="5299" type="ha"/>
+  </lib>
+  <lib id="hat_U_23test2" revision="70532">
+    <part id="5300" type="ha"/>
+    <part id="5301" type="ha"/>
+  </lib>
+  <lib id="hat_U_lionmask" revision="70548">
+    <part id="5306" type="ha"/>
+    <part id="5307" type="ha"/>
+    <part id="5308" type="ha"/>
+  </lib>
+  <lib id="hat_U_arcadecap" revision="70555">
+    <part id="5304" type="ha"/>
+    <part id="5305" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_astralnecklace" revision="70556">
+    <part id="5311" type="ca"/>
+    <part id="5312" type="ca"/>
+  </lib>
+  <lib id="shirt_F_starryshirt" revision="70554">
+    <part id="5295" type="ch"/>
+    <part id="5295" type="ls"/>
+    <part id="5295" type="rs"/>
+    <part id="5296" type="ch"/>
+    <part id="5297" type="ch"/>
+  </lib>
+  <lib id="hat_U_dragonmask" revision="70547">
+    <part id="5287" type="ha"/>
+    <part id="5288" type="ha"/>
+    <part id="5289" type="ha"/>
+  </lib>
+  <lib id="acc_head_U_ltdgemhorns" revision="70548">
+    <part id="5309" type="he"/>
+    <part id="5310" type="he"/>
+  </lib>
+  <lib id="shirt_M_starryshirt" revision="70554">
+    <part id="5292" type="ch"/>
+    <part id="5292" type="ls"/>
+    <part id="5292" type="rs"/>
+    <part id="5293" type="ch"/>
+    <part id="5294" type="ch"/>
+  </lib>
+  <lib id="acc_waist_U_starcompanion" revision="70541">
+    <part id="5286" type="wa"/>
+  </lib>
+  <lib id="hair_U_galaxyhair" revision="70544">
+    <part id="5290" type="hr"/>
+    <part id="5290" type="hrb"/>
+    <part id="5291" type="hr"/>
+  </lib>
+  <lib id="hat_U_starwitchhat" revision="70555">
+    <part id="5302" type="ha"/>
+    <part id="5303" type="ha"/>
+  </lib>
+  <lib id="jacket_U_spacecape" revision="70567">
+    <part id="5313" type="cc"/>
+    <part id="5313" type="lc"/>
+    <part id="5313" type="rc"/>
+    <part id="5314" type="cc"/>
+  </lib>
+  <lib id="hair_U_starbraidhair" revision="70578">
+    <part id="5315" type="hr"/>
+    <part id="5315" type="hrb"/>
+    <part id="5316" type="hr"/>
+    <part id="5317" type="hr"/>
+  </lib>
+  <lib id="shirt_M_nftskullsnroses1" revision="70591">
+    <part id="5332" type="ch"/>
+    <part id="5332" type="ls"/>
+    <part id="5332" type="rs"/>
+  </lib>
+  <lib id="shirt_M_nftskullsnroses2" revision="70591">
+    <part id="5334" type="ch"/>
+    <part id="5334" type="ls"/>
+    <part id="5334" type="rs"/>
+  </lib>
+  <lib id="trousers_U_nftrippedjeans" revision="70591">
+    <part id="5336" type="lg"/>
+  </lib>
+  <lib id="shirt_F_nftskullsnroses1" revision="70591">
+    <part id="5333" type="ch"/>
+    <part id="5333" type="ls"/>
+    <part id="5333" type="rs"/>
+  </lib>
+  <lib id="shirt_F_nftskullsnroses2" revision="70591">
+    <part id="5335" type="ch"/>
+    <part id="5335" type="ls"/>
+    <part id="5335" type="rs"/>
+  </lib>
+  <lib id="acc_head_U_nftearring1" revision="70591">
+    <part id="5331" type="he"/>
+  </lib>
+  <lib id="hair_U_nftrock1" revision="70584">
+    <part id="5322" type="hr"/>
+    <part id="5322" type="hrb"/>
+    <part id="5323" type="hr"/>
+  </lib>
+  <lib id="hair_U_nftrock2" revision="70584">
+    <part id="5324" type="hr"/>
+    <part id="5324" type="hrb"/>
+    <part id="5325" type="hr"/>
+  </lib>
+  <lib id="hair_U_nftrock3" revision="70593">
+    <part id="5326" type="hr"/>
+    <part id="5326" type="hrb"/>
+    <part id="5327" type="hr"/>
+    <part id="5328" type="hr"/>
+  </lib>
+  <lib id="acc_face_U_nftpiercing1" revision="70591">
+    <part id="5329" type="fa"/>
+  </lib>
+  <lib id="jacket_U_nftbobbajacket" revision="70594">
+    <part id="5338" type="cc"/>
+    <part id="5338" type="lc"/>
+    <part id="5338" type="rc"/>
+  </lib>
+  <lib id="trousers_U_nftrippedshorts" revision="70591">
+    <part id="5337" type="lg"/>
+  </lib>
+  <lib id="acc_eye_U_nftpiercing2" revision="70591">
+    <part id="5330" type="ea"/>
+  </lib>
+  <lib id="acc_face_U_nftrock1" revision="70584">
+    <part id="5318" type="fa"/>
+  </lib>
+  <lib id="acc_face_U_nftrock2" revision="70593">
+    <part id="5319" type="fa"/>
+  </lib>
+  <lib id="acc_face_U_nftrock3" revision="70593">
+    <part id="5320" type="fa"/>
+  </lib>
+  <lib id="acc_face_U_nftrock4" revision="70593">
+    <part id="5321" type="fa"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
@@ -8067,7 +8203,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="70511">
+  <lib id="hh_human_item" revision="70557">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -8315,6 +8451,7 @@
     <part id="272" type="ri"/>
     <part id="273" type="ri"/>
     <part id="274" type="ri"/>
+    <part id="275" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">

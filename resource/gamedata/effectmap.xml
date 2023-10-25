@@ -225,5 +225,6 @@
   <effect id="219" lib="Hide" type="fx" revision="69903"/>
   <effect id="220" lib="NFTCoin7" type="fx" revision="69950"/>
   <effect id="221" lib="Cat" type="fx" revision="69976"/>
-  <effect id="222" lib="TrippyHalo" type="fx" revision="70385"/>
+  <effect id="222" lib="TrippyHalo" type="fx" revision="70588"/>
+  <effect id="223" lib="WiredTeamRed" type="fx" revision="70581"/>
 </map>
