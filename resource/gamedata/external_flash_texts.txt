@@ -28959,7 +28959,7 @@ landing.view.nov23fnah.header=NEW: Sinister Arcade Bundle
 landing.view.nov23icecream.body=OMG new Ice Cream Maker in LILAC! It's GORGEOUS. You'll need this in your collection xo
 landing.view.nov23icecream.button=See the rare!
 landing.view.nov23icecream.header=RARE Lilac Ice Cream Maker
-landing.view.nov23itanniversary.body=We're celebrating the 10th anniversary of the Italian hotel opening! Crazy how time flies. Get your celebratory bundle today! Made by: =Naples.Devil= (IT)
+landing.view.nov23itanniversary.body=We're celebrating the 20th anniversary of the Italian hotel opening! Crazy how time flies. Get your celebratory bundle today! Made by: =Naples.Devil= (IT)
 landing.view.nov23itanniversary.button=See the bundle!
 landing.view.nov23itanniversary.header=IT Anniversary Bundle
 landing.view.nov23ltd.body=It's bedtime for this bear. Goodnight sleepy bear!
