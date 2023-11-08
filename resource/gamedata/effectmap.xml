@@ -227,4 +227,5 @@
   <effect id="221" lib="Cat" type="fx" revision="69976"/>
   <effect id="222" lib="TrippyHalo" type="fx" revision="70588"/>
   <effect id="223" lib="WiredTeamRed" type="fx" revision="70581"/>
+  <effect id="227" lib="Chocolate1" type="fx" revision="70612"/>
 </map>

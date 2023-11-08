@@ -8164,6 +8164,14 @@
   <lib id="acc_face_U_nftrock4" revision="70593">
     <part id="5321" type="fa"/>
   </lib>
+  <lib id="hat_U_23test3" revision="70623">
+    <part id="5339" type="ha"/>
+    <part id="5340" type="ha"/>
+  </lib>
+  <lib id="hat_U_23test4" revision="70646">
+    <part id="5341" type="ha"/>
+    <part id="5342" type="ha"/>
+  </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
     <part id="2" type="wa"/>
