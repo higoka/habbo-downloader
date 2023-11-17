@@ -226,6 +226,9 @@
   <effect id="220" lib="NFTCoin7" type="fx" revision="69950"/>
   <effect id="221" lib="Cat" type="fx" revision="69976"/>
   <effect id="222" lib="TrippyHalo" type="fx" revision="70588"/>
-  <effect id="223" lib="WiredTeamRed" type="fx" revision="70581"/>
-  <effect id="227" lib="Chocolate1" type="fx" revision="70612"/>
+  <effect id="223" lib="WiredTeamRed" type="fx" revision="70688"/>
+  <effect id="224" lib="WiredTeamBlue" type="fx" revision="70689"/>
+  <effect id="225" lib="WiredTeamYellow" type="fx" revision="70690"/>
+  <effect id="226" lib="WiredTeamGreen" type="fx" revision="70689"/>
+  <effect id="227" lib="Chocolate1" type="fx" revision="70675"/>
 </map>

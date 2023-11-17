@@ -7989,7 +7989,7 @@
   <lib id="hat_U_ltdcrown" revision="70421">
     <part id="5272" type="ha"/>
   </lib>
-  <lib id="acc_chest_U_chunkyknitscarf" revision="70484">
+  <lib id="acc_chest_U_chunkyknitscarf" revision="70686">
     <part id="5273" type="ca"/>
     <part id="5274" type="ca"/>
   </lib>
@@ -8106,7 +8106,7 @@
     <part id="5334" type="ls"/>
     <part id="5334" type="rs"/>
   </lib>
-  <lib id="trousers_U_nftrippedjeans" revision="70591">
+  <lib id="trousers_U_nftrippedjeans" revision="70736">
     <part id="5336" type="lg"/>
   </lib>
   <lib id="shirt_F_nftskullsnroses1" revision="70591">
@@ -8138,10 +8138,10 @@
     <part id="5327" type="hr"/>
     <part id="5328" type="hr"/>
   </lib>
-  <lib id="acc_face_U_nftpiercing1" revision="70591">
+  <lib id="acc_face_U_nftpiercing1" revision="70717">
     <part id="5329" type="fa"/>
   </lib>
-  <lib id="jacket_U_nftbobbajacket" revision="70594">
+  <lib id="jacket_U_nftbobbajacket" revision="70700">
     <part id="5338" type="cc"/>
     <part id="5338" type="lc"/>
     <part id="5338" type="rc"/>
@@ -8171,6 +8171,25 @@
   <lib id="hat_U_23test4" revision="70646">
     <part id="5341" type="ha"/>
     <part id="5342" type="ha"/>
+  </lib>
+  <lib id="hat_U_nftcollectiblescap" revision="70702">
+    <part id="5371" type="ha"/>
+  </lib>
+  <lib id="trousers_U_gingerbreadoutfit" revision="70697">
+    <part id="5270" type="lg"/>
+    <part id="5271" type="lg"/>
+  </lib>
+  <lib id="shirt_M_gingerbreadoutfit" revision="70723">
+    <part id="5266" type="ch"/>
+    <part id="5266" type="ls"/>
+    <part id="5266" type="rs"/>
+    <part id="5267" type="ch"/>
+  </lib>
+  <lib id="shirt_F_gingerbreadoutfit" revision="70723">
+    <part id="5268" type="ch"/>
+    <part id="5268" type="ls"/>
+    <part id="5268" type="rs"/>
+    <part id="5269" type="ch"/>
   </lib>
   <lib id="hh_human_acc_waist" revision="50491">
     <part id="1" type="wa"/>
