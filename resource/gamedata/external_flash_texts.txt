@@ -24486,6 +24486,7 @@ infostand.button.revive=Revive
 infostand.button.revive_monsterplant=Revive
 infostand.button.rotate=Rotate
 infostand.button.saddleoff=Remove Saddle
+infostand.button.savebranding=Save changes
 infostand.button.toggle_breeding_permission=Breedable
 infostand.button.toggle_riding_permission=Anyone can ride
 infostand.button.trade.tooltip.rights=You don't have trading enabled!
