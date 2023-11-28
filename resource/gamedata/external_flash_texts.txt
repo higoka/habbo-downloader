@@ -21302,8 +21302,6 @@ crafting.btn.notowner=You can only craft items using your own crafting table.
 crafting.craft=Craft
 crafting.current_recipe=Current recipe:
 crafting.failed.alert.body=Uh oh, that didn't work! Try something else.
-crafting.info
-.start=Thanks for using the Lucky Cat Crafting Table! Select existing designs to craft on the left.
 crafting.info.mixer.empty=Click ingredients on the left to discover new recipes.
 crafting.info.mixer.hit.plus.others=This one is available! You can also try %number% others.
 crafting.info.mixer.hit=Congratulations! You've found a secret recipe.
