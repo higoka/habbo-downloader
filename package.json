@@ -50,8 +50,8 @@
   "dependencies": {
     "compare-versions": "^3.6.0",
     "fast-xml-parser": "^3.17.4",
-    "minimist": "^1.2.5",
-    "node-fetch": "^2.6.1"
+    "minimist": "^1.2.8",
+    "node-fetch": "^2.7.0"
   },
   "engines": {
     "node": ">=15.0"
