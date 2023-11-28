@@ -137,7 +137,7 @@ async function initConfig (argv) {
     config.format = 'gif'
   }
 
-  config.prod = (await fetchText(`https://www.habbo.${config.domain}/gamedata/external_variables/0`)).match(/(?<=flash\.client\.url).*(PRODUCTION-[^\/]+)/mi)[1]
+  config.prod = (await fetchText(`https://www.habbo.${config.domain}/gamedata/external_variables/0`)).match(/flash\.client\.url=.+(flash-assets-[^/]+)/mi)[1]
 }
 
 module.exports = { fetchText, fetchJson, fetchOne, fetchMany, fetchUntil, parseXml, checkUpdate, initConfig, config }
