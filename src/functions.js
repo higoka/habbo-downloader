@@ -1,11 +1,11 @@
 const compareVersions = require('compare-versions')
 const package = require('../package.json')
-const parser = require('fast-xml-parser')
 const fetch = require('node-fetch')
 const https = require('https')
 const path = require('path')
 const fs = require('fs')
 const { pipeline } = require('stream/promises')
+const { XMLParser } = require('fast-xml-parser')
 
 const config = {
   sockets: 100,
@@ -24,6 +24,12 @@ const opt = {
     scheduling: 'fifo',
   })
 }
+
+const parser = new XMLParser({
+  ignoreAttributes: false,
+  parseAttributeValue: false,
+  parseNodeValue: false,
+})
 
 async function fileExists (file) {
   try {
@@ -102,15 +108,7 @@ async function fetchUntil (opt, maxRetries = 3, i = 1, failed = 0) {
 }
 
 async function parseXml (txt) {
-  if (parser.validate(txt) !== true) {
-    throw new Error('invalid xml')
-  }
-
-  return parser.parse(txt, {
-    ignoreAttributes: false,
-    parseAttributeValue: false,
-    parseNodeValue: false,
-  })
+  return parser.parse(txt)
 }
 
 async function checkUpdate () {
@@ -121,12 +119,12 @@ async function checkUpdate () {
 }
 
 async function initConfig (argv) {
-  const c = argv.c || argv.command
+  const c = argv.c || argv.command
   const d = argv.d || argv.domain
   const s = argv.s || argv.sockets
-  const f = argv.f || argv.format
-  const r = argv.r || argv.revision
-  const o = argv.o || argv.output
+  const f = argv.f || argv.format
+  const r = argv.r || argv.revision
+  const o = argv.o || argv.output
 
   if (d) config.domain = d
   if (s) config.sockets = s
