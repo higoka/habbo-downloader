@@ -37665,6 +37665,7 @@ quests.xmas23time.1700582025632.hint=Scratch any pet by clicking on them and cho
 quests.xmas23time.1700582025632.name=Cuddle Pets
 quests.xmas23time.1700582144302.completed=Good work!
 quests.xmas23time.1700582144302.desc=Now that you made friends what about ice skating today?
+quests.xmas23time.1700582144302.hint=Visit 3 rooms with a ice skating rink and and ice skate with 3 Habbos each time.
 quests.xmas23time.1700582144302.name=Habbo On Ice
 quests.xmas23time.1700582144302hint=Visit 3 rooms with a ice skating rink and and ice skate with 3 Habbos each time.
 quests.xmas23time.1700582243987.completed=We said prepare it, not eat it!
