@@ -33407,6 +33407,8 @@ profile.namechange.infotitle02=Choose a new name
 profile.namechange.infotitle03=Congratulations for your wonderful new name!
 profile.namechange.namelisttitle=This user has also played as:
 profile.namechange.nopreviousnames=No previous names for this user
+profile.namechange.notification.banned=You are banned from changing your name
+profile.namechange.notification.unbanned=Your name change ban has now been removed
 profile.notification.freeupname=Are you sure you want to free up this name for other Habbos to use?
 profile.offline=offline
 profile.online=online now
@@ -38829,6 +38831,14 @@ targeted.offer.dec19_hc_tto_grhc.desc=<a href="event:habbopages/12hctto19">Click
 targeted.offer.dec19_hc_tto_grhc.title=HC Members Super Offer!
 targeted.offer.dec19_music_tto_all.desc=<a href="event:habbopages/12musictto19">Click here</a> to see a list of all the items included in this deal
 targeted.offer.dec19_music_tto_all.title=All Night Party Offer!
+targeted.offer.dec23_rm_dbl_tto196.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.dec23_rm_dbl_tto196.title=50 per cent Off 220 Credits
+targeted.offer.dec23_rm_dbl_tto197.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
+targeted.offer.dec23_rm_dbl_tto197.title=50 per cent Off 50 Credits
+targeted.offer.dec23_rm_dbl_tto198.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.dec23_rm_dbl_tto198.title=50 per cent Off 220 Credits
+targeted.offer.dec23_rm_dbl_tto199.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
+targeted.offer.dec23_rm_dbl_tto199.title=50 per cent Off 50 Credits
 targeted.offer.diamond_tto1.desc=Ever wanted to own your own vault in Habbo? Well, now you can grab a HUGE chunk of gold (and silver!) as well as a super-smart and SECURE area to hoard your wealth! <br><br>Offer is limited to 1 per person and includes:<br>- Vault Bundle (worth 2.132c)<br>- Bundle Badge (for free)<br><br><b>PRICE: 2000 credits + 200 diamonds</b>
 targeted.offer.diamond_tto1.title=Habbo Vault Offer
 targeted.offer.diamond_tto2.desc=How much Habbo-wealth can you pack into one room? A lot, it seems! Bag this offer and not only do you get the Habbo Crown Jewels, you also get an exclusive badge and a bunch of AWESOME castle-themed furni! <br><br>Offer is limited to 1 per person and includes:<br>- Habbo Crown Jewels Bundle (worth 4.644c)<br>- Bundle Badge (for free)<br><br><b>PRICE: 4350 credits + 435 diamonds</b>
