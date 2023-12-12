@@ -8223,7 +8223,7 @@
     <part id="5345" type="ha"/>
     <part id="5346" type="ha"/>
   </lib>
-  <lib id="acc_chest_U_nftcandycane" revision="70817">
+  <lib id="acc_chest_U_nftcandycane" revision="70918">
     <part id="5392" type="ca"/>
   </lib>
   <lib id="acc_print_U_nftcocoaprint" revision="70829">
@@ -8278,6 +8278,61 @@
     <part id="5398" type="hr"/>
     <part id="5398" type="hrb"/>
     <part id="5399" type="hr"/>
+  </lib>
+  <lib id="shirt_M_nfthabboshirt23" revision="70870">
+    <part id="5424" type="ch"/>
+    <part id="5424" type="ls"/>
+    <part id="5424" type="rs"/>
+  </lib>
+  <lib id="hat_U_nfthabbocap23" revision="70883">
+    <part id="5426" type="ha"/>
+  </lib>
+  <lib id="shirt_F_nfthabboshirt23" revision="70870">
+    <part id="5425" type="ch"/>
+    <part id="5425" type="ls"/>
+    <part id="5425" type="rs"/>
+  </lib>
+  <lib id="jacket_M_nfthabbohoodie23" revision="70870">
+    <part id="5422" type="cc"/>
+    <part id="5422" type="lc"/>
+    <part id="5422" type="rc"/>
+  </lib>
+  <lib id="jacket_F_nfthabbohoodie23" revision="70870">
+    <part id="5423" type="cc"/>
+    <part id="5423" type="lc"/>
+    <part id="5423" type="rc"/>
+  </lib>
+  <lib id="acc_chest_U_nytie1" revision="70895">
+    <part id="5355" type="ca"/>
+    <part id="5356" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nytie2" revision="70895">
+    <part id="5357" type="ca"/>
+    <part id="5358" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nytie3" revision="70895">
+    <part id="5359" type="ca"/>
+    <part id="5360" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nytie4" revision="70895">
+    <part id="5361" type="ca"/>
+    <part id="5362" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nytie5" revision="70895">
+    <part id="5363" type="ca"/>
+    <part id="5364" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nytie6" revision="70895">
+    <part id="5365" type="ca"/>
+    <part id="5366" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nytie7" revision="70895">
+    <part id="5367" type="ca"/>
+    <part id="5368" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nytie8" revision="70895">
+    <part id="5369" type="ca"/>
+    <part id="5370" type="ca"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
