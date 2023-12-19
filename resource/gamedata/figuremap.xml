@@ -8334,6 +8334,25 @@
     <part id="5369" type="ca"/>
     <part id="5370" type="ca"/>
   </lib>
+  <lib id="acc_chest_U_koalaharness" revision="70939">
+    <part id="5377" type="ca"/>
+    <part id="5378" type="ca"/>
+    <part id="5379" type="ca"/>
+  </lib>
+  <lib id="hair_U_fademanbun" revision="70934">
+    <part id="5353" type="hr"/>
+    <part id="5353" type="hrb"/>
+    <part id="5354" type="hr"/>
+  </lib>
+  <lib id="acc_waist_U_dragontail" revision="70951">
+    <part id="5374" type="wa"/>
+    <part id="5375" type="wa"/>
+    <part id="5376" type="wa"/>
+  </lib>
+  <lib id="acc_head_U_cnydragonhorns" revision="70951">
+    <part id="5372" type="he"/>
+    <part id="5373" type="he"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
