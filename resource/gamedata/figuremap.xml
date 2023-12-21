@@ -8172,7 +8172,7 @@
     <part id="5341" type="ha"/>
     <part id="5342" type="ha"/>
   </lib>
-  <lib id="hat_U_nftcollectiblescap" revision="70702">
+  <lib id="hat_U_nftcollectiblescap" revision="70986">
     <part id="5371" type="ha"/>
   </lib>
   <lib id="trousers_U_gingerbreadoutfit" revision="70697">
@@ -8352,6 +8352,9 @@
   <lib id="acc_head_U_cnydragonhorns" revision="70951">
     <part id="5372" type="he"/>
     <part id="5373" type="he"/>
+  </lib>
+  <lib id="acc_print_U_nft2024" revision="70969">
+    <part id="5454" type="cp"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
