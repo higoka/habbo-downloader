@@ -22650,6 +22650,7 @@ featured.offer.xmas23baking1b.title=Simple Baking Ingredients
 featured.offer.xmas23baking2.title=Expert Baking Set
 featured.offer.xmas23baking2b.title=Expert Baking Ingredients
 featured.offer.xmas23chocobundle.title=NEW: Magic Chocolate Emporium Bundle
+featured.offer.xmas23clothltd.title=24K Gold Crown LTD
 featured.offer.xmas23clothltd=24K Gold Crown LTD
 featured.offer.xmas23cocoabundle.title=NEW: Cocoa Wonderland Collection Bundle
 featured.offer.xmas23craft.title=Chocolate Crafting Table
