@@ -771,6 +771,9 @@
 23may01.image=web_promo_small/spromo_seamonster.png
 23may01.text=Race against the strange creatures that live in the deepest parts of the ocean and win some exclusive badges while you're at it!How to play: - Race towards the green tiles and step on them to win points.- Every time you pull one of the levers you will let one of the sea monsters out which will make the game harder since they will come after you, but at the same time you'll get more points for each time that you step on the green tile.    0 animals in the field: 1 point per green tile    1 animal in the field: 2 points per green tile    2 animals in the field: 3 points per green tile    3 animals in the field: 5 points per green tile    4(all) animals in the field: 8 points per green tile- For every sea monster that you dare to release into the game; you'll get an extra 3 points. Releasing all 4 will get you 12 points.Prizes:- If you manage to get 150 points you'll get a Sea Monster Hunter badge.- But if you manage to get 250 points you'll win a Sea Monster Champion badge and a Jasper Baby Penguin.Good luck!
 23may01.title=Sea Beasts!
+24chess1.image=web_promo_small/spromo_chessgame.png
+24chess1.text=Where strategy meets virtual fun! Challenge your friends while sharpening your chess skills. Move your pieces strategically in order to eat your opponent's King within the 10 min timeframe.Outsmart your opponents for a chance to win an exclusive badge!
+24chess1.title=Habbo's Chess Game
 50S_badge_name=GreenRecordBadge
 70S_badge_name=PurpleDiscoBadge
 AC4_HHSG_badge_name=TheMightyEagle
