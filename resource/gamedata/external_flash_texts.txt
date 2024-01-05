@@ -27941,6 +27941,7 @@ landing.view.jan24r4.body=Everyone loves a new hairstyle. Particularly ones that
 landing.view.jan24r4.button=See the rare
 landing.view.jan24r4.header=RARE Faded Bun
 landing.view.jan24r5.body=RARE credit furni, never to be sold again. What a way to store your wealth, hey?
+landing.view.jan24r5.button=$landing.view.jan24r5.button$
 landing.view.jan24r5.header=RARE Golden Shower Credit Furni
 landing.view.jan24statue.body=Two different statues for sale here, Habbos. Happy Lunar New Year!
 landing.view.jan24statue.button=See the items
