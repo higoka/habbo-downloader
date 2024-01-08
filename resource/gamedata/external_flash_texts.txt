@@ -22126,6 +22126,7 @@ featured.offer.jan23r3.title=RARE Jellyfish Tank
 featured.offer.jan23r4.title=RARE Glass Flower
 featured.offer.jan24outfit.title=NEW: Year of the Dragon Outfit!
 featured.offer.jan24r1.title=RARE H-Tuber Chair
+featured.offer.jan24r11.title=RARE H-Tuber Chair
 featured.offer.jan24r2.title=RARE Koala Carrier
 featured.offer.jan24r3.title=RARE Whippet Statue
 featured.offer.jan24r4.title=RARE Faded Bun
