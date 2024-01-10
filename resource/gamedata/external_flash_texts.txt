@@ -23651,6 +23651,7 @@ group.members.since=Joined %date%
 group.members.title=%groupName% Members
 group.memberscandecorate=Group members can decorate the homeroom of this Group
 group.membershippending=Membership requested
+group.not.found=Group not found
 group.owner=Owner
 group.owngroups.title=Your Habbo Groups
 group.pendingmembercount=Pending: %amount%
