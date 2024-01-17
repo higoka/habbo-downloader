@@ -39359,8 +39359,12 @@ targeted.offer.jan20_drinks_tto_all.desc=<a href="event:habbopages/1drinkstto20"
 targeted.offer.jan20_drinks_tto_all.title=Beverage Collector Deal
 targeted.offer.jan24_rm_dbl_tto200.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
 targeted.offer.jan24_rm_dbl_tto200.title=50 per cent Off 220 Credits
+targeted.offer.jan24_rm_dbl_tto200a.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.jan24_rm_dbl_tto200a.title=50 per cent Off 220 Credits
 targeted.offer.jan24_rm_dbl_tto201.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
 targeted.offer.jan24_rm_dbl_tto201.title=50 per cent Off 50 Credits
+targeted.offer.jan24_rm_dbl_tto201a.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
+targeted.offer.jan24_rm_dbl_tto201a.title=50 per cent Off 50 Credits
 targeted.offer.jan24_rm_dbl_tto202.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
 targeted.offer.jan24_rm_dbl_tto202.title=50 per cent Off 220 Credits
 targeted.offer.jan24_rm_dbl_tto203.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
