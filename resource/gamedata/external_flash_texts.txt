@@ -21285,6 +21285,7 @@ collectibles.claim=Claim reward
 collectibles.claiming.failed=Claiming failed, try again.
 collectibles.claiming.success=Reward claimed!
 collectibles.collections.title=Collection
+collectibles.collector.wallet=Collector Wallet
 collectibles.high_score=All-time highest XP:
 collectibles.info.description=The Collectors Guild is a hub that collectors can use to view and manage their Collector XP, collectibles and Relics. For more information about the features contained within the guild, <a href="https://help.habbo.com/hc/en-us/sections/15690953049362-Habbo-Collectibles">check this page</a>.
 collectibles.info.title=Info
@@ -21310,6 +21311,7 @@ collectibles.set.animal_clothes_23=Animal Clothes 2023
 collectibles.set.autumn_23=Autumn 2023
 collectibles.set.badges_23=Badges 2023
 collectibles.set.collector_rewards_22_23=Collector Rewards 2022-2023
+collectibles.set.collectors_guild=Collectors Guild
 collectibles.set.community_rewards_22=Community Rewards 2022
 collectibles.set.community_rewards_23=Community Rewards 2023
 collectibles.set.cpu_parts=CPU Parts
