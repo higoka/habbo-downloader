@@ -8356,6 +8356,63 @@
   <lib id="acc_print_U_nft2024" revision="70997">
     <part id="5454" type="cp"/>
   </lib>
+  <lib id="hat_U_heartberet" revision="71045">
+    <part id="5472" type="ha"/>
+    <part id="5473" type="ha"/>
+    <part id="5474" type="ha"/>
+  </lib>
+  <lib id="hat_U_dogbeanie" revision="71045">
+    <part id="5469" type="ha"/>
+    <part id="5470" type="ha"/>
+    <part id="5471" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_snowmanbackpack" revision="71045">
+    <part id="5475" type="ca"/>
+    <part id="5476" type="ca"/>
+    <part id="5477" type="ca"/>
+  </lib>
+  <lib id="hat_U_bearbeanie" revision="71045">
+    <part id="5466" type="ha"/>
+    <part id="5467" type="ha"/>
+    <part id="5468" type="ha"/>
+  </lib>
+  <lib id="shoes_U_cozysocks" revision="71061">
+    <part id="5458" type="sh"/>
+    <part id="5459" type="sh"/>
+  </lib>
+  <lib id="hair_U_hoodhair" revision="71063">
+    <part id="5460" type="hr"/>
+    <part id="5460" type="hrb"/>
+    <part id="5461" type="hr"/>
+  </lib>
+  <lib id="acc_face_U_frostyblush" revision="71061">
+    <part id="5463" type="fa"/>
+  </lib>
+  <lib id="acc_head_U_snowpile" revision="71061">
+    <part id="5462" type="he"/>
+  </lib>
+  <lib id="hat_U_wintercatbeanie" revision="71064">
+    <part id="5464" type="ha"/>
+    <part id="5465" type="ha"/>
+  </lib>
+  <lib id="hat_U_sealbeanie" revision="71067">
+    <part id="5483" type="ha"/>
+    <part id="5484" type="ha"/>
+  </lib>
+  <lib id="hat_U_owlbeanie" revision="71066">
+    <part id="5504" type="ha"/>
+    <part id="5505" type="ha"/>
+  </lib>
+  <lib id="hat_U_raccoonbeanie" revision="71067">
+    <part id="5485" type="ha"/>
+    <part id="5486" type="ha"/>
+    <part id="5487" type="ha"/>
+  </lib>
+  <lib id="hat_U_fishbeanie" revision="71087">
+    <part id="5501" type="ha"/>
+    <part id="5502" type="ha"/>
+    <part id="5503" type="ha"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
