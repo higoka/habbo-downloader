@@ -8413,6 +8413,13 @@
     <part id="5502" type="ha"/>
     <part id="5503" type="ha"/>
   </lib>
+  <lib id="jacket_U_pufferjacket" revision="71103">
+    <part id="5506" type="cc"/>
+    <part id="5506" type="lc"/>
+    <part id="5506" type="rc"/>
+    <part id="5507" type="cc"/>
+    <part id="5508" type="cc"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
