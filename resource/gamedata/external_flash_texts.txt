@@ -22275,6 +22275,7 @@ featured.offer.jan23r2.title=RARE Three Lives Only
 featured.offer.jan23r3.title=RARE Jellyfish Tank
 featured.offer.jan23r4.title=RARE Glass Flower
 featured.offer.jan24b2.title=Steampunk Bundle: Revamped!
+featured.offer.jan24b4.title=Lunar New Year Bundle
 featured.offer.jan24outfit.title=NEW: Year of the Dragon Outfit!
 featured.offer.jan24r1.title=RARE H-Tuber Chair
 featured.offer.jan24r11.title=RARE H-Tuber Chair
