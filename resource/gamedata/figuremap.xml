@@ -8420,6 +8420,18 @@
     <part id="5507" type="cc"/>
     <part id="5508" type="cc"/>
   </lib>
+  <lib id="acc_print_U_nftdragonyearmark1" revision="71127">
+    <part id="5524" type="cp"/>
+  </lib>
+  <lib id="acc_print_U_nftdragonyearmark2" revision="71127">
+    <part id="5525" type="cp"/>
+  </lib>
+  <lib id="acc_print_U_nftdragonyearmark3" revision="71128">
+    <part id="5526" type="cp"/>
+  </lib>
+  <lib id="acc_print_U_nftdragonyearmark4" revision="71128">
+    <part id="5527" type="cp"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
