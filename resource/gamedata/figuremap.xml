@@ -8376,7 +8376,7 @@
     <part id="5467" type="ha"/>
     <part id="5468" type="ha"/>
   </lib>
-  <lib id="shoes_U_cozysocks" revision="71061">
+  <lib id="shoes_U_cozysocks" revision="71160">
     <part id="5458" type="sh"/>
     <part id="5459" type="sh"/>
   </lib>
@@ -8399,7 +8399,7 @@
     <part id="5483" type="ha"/>
     <part id="5484" type="ha"/>
   </lib>
-  <lib id="hat_U_owlbeanie" revision="71066">
+  <lib id="hat_U_owlbeanie" revision="71160">
     <part id="5504" type="ha"/>
     <part id="5505" type="ha"/>
   </lib>
@@ -8408,7 +8408,7 @@
     <part id="5486" type="ha"/>
     <part id="5487" type="ha"/>
   </lib>
-  <lib id="hat_U_fishbeanie" revision="71087">
+  <lib id="hat_U_fishbeanie" revision="71160">
     <part id="5501" type="ha"/>
     <part id="5502" type="ha"/>
     <part id="5503" type="ha"/>
@@ -8431,6 +8431,21 @@
   </lib>
   <lib id="acc_print_U_nftdragonyearmark4" revision="71128">
     <part id="5527" type="cp"/>
+  </lib>
+  <lib id="shirt_F_revealingswimsuit" revision="71151">
+    <part id="5512" type="ch"/>
+    <part id="5512" type="ls"/>
+    <part id="5512" type="rs"/>
+  </lib>
+  <lib id="hat_U_carnavalheadpiece" revision="71152">
+    <part id="5509" type="ha"/>
+    <part id="5510" type="ha"/>
+    <part id="5511" type="ha"/>
+  </lib>
+  <lib id="shirt_M_revealingswimsuit" revision="71151">
+    <part id="5513" type="ch"/>
+    <part id="5513" type="ls"/>
+    <part id="5513" type="rs"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>

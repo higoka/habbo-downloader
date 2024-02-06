@@ -233,7 +233,7 @@
   <effect id="227" lib="Chocolate1" type="fx" revision="70826"/>
   <effect id="228" lib="Chocolate2" type="fx" revision="70826"/>
   <effect id="229" lib="Holo" type="fx" revision="70973"/>
-  <effect id="230" lib="RedDragonSpirit" type="fx" revision="71146"/>
-  <effect id="231" lib="BlueDragonSpirit" type="fx" revision="71147"/>
-  <effect id="232" lib="GreenDragonSpirit" type="fx" revision="71147"/>
+  <effect id="230" lib="RedDragonSpirit" type="fx" revision="71157"/>
+  <effect id="231" lib="BlueDragonSpirit" type="fx" revision="71157"/>
+  <effect id="232" lib="GreenDragonSpirit" type="fx" revision="71157"/>
 </map>
