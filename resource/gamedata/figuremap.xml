@@ -8461,15 +8461,15 @@
   <lib id="hat_U_nftblackbeanie" revision="71190">
     <part id="5542" type="ha"/>
   </lib>
-  <lib id="hat_U_nftwhitebeanie" revision="71182">
+  <lib id="hat_U_nftwhitebeanie" revision="71194">
     <part id="5540" type="ha"/>
   </lib>
-  <lib id="jacket_F_nftwinterblack" revision="71190">
+  <lib id="jacket_F_nftwinterblack" revision="71194">
     <part id="5537" type="cc"/>
     <part id="5537" type="lc"/>
     <part id="5537" type="rc"/>
   </lib>
-  <lib id="jacket_M_nftwinterblack" revision="71190">
+  <lib id="jacket_M_nftwinterblack" revision="71194">
     <part id="5536" type="cc"/>
     <part id="5536" type="lc"/>
     <part id="5536" type="rc"/>
