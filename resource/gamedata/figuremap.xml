@@ -7554,7 +7554,7 @@
     <part id="4832" type="ch"/>
     <part id="4833" type="ch"/>
   </lib>
-  <lib id="hair_U_drillhair" revision="70177">
+  <lib id="hair_U_drillhair" revision="71206">
     <part id="5151" type="hr"/>
     <part id="5151" type="hrb"/>
   </lib>
@@ -7674,7 +7674,7 @@
     <part id="5041" type="ls"/>
     <part id="5041" type="rs"/>
   </lib>
-  <lib id="hair_U_tentaclehair" revision="69719">
+  <lib id="hair_U_tentaclehair" revision="71205">
     <part id="5076" type="hr"/>
     <part id="5076" type="hrb"/>
     <part id="5077" type="hr"/>
@@ -8056,7 +8056,7 @@
   <lib id="trousers_U_nftrippedjeans" revision="70736">
     <part id="5336" type="lg"/>
   </lib>
-  <lib id="hair_U_galaxyhair" revision="70544">
+  <lib id="hair_U_galaxyhair" revision="71204">
     <part id="5290" type="hr"/>
     <part id="5290" type="hrb"/>
     <part id="5291" type="hr"/>
@@ -8112,7 +8112,7 @@
   <lib id="acc_face_U_nftrock4" revision="70593">
     <part id="5321" type="fa"/>
   </lib>
-  <lib id="hair_U_starbraidhair" revision="70578">
+  <lib id="hair_U_starbraidhair" revision="71205">
     <part id="5315" type="hr"/>
     <part id="5315" type="hrb"/>
     <part id="5316" type="hr"/>
@@ -8339,7 +8339,7 @@
     <part id="5378" type="ca"/>
     <part id="5379" type="ca"/>
   </lib>
-  <lib id="hair_U_fademanbun" revision="70934">
+  <lib id="hair_U_fademanbun" revision="71205">
     <part id="5353" type="hr"/>
     <part id="5353" type="hrb"/>
     <part id="5354" type="hr"/>
@@ -8380,7 +8380,7 @@
     <part id="5458" type="sh"/>
     <part id="5459" type="sh"/>
   </lib>
-  <lib id="hair_U_hoodhair" revision="71063">
+  <lib id="hair_U_hoodhair" revision="71205">
     <part id="5460" type="hr"/>
     <part id="5460" type="hrb"/>
     <part id="5461" type="hr"/>
