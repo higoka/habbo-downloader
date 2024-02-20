@@ -4552,7 +4552,7 @@
     <part id="4453" type="ch"/>
     <part id="4454" type="ch"/>
   </lib>
-  <lib id="hair_U_longlonghair" revision="65183">
+  <lib id="hair_U_longlonghair" revision="71223">
     <part id="3491" type="hr"/>
     <part id="3491" type="hrb"/>
   </lib>
@@ -6096,7 +6096,7 @@
     <part id="2903" type="rc"/>
     <part id="2904" type="cc"/>
   </lib>
-  <lib id="hair_U_himehair" revision="66698">
+  <lib id="hair_U_himehair" revision="71225">
     <part id="4221" type="hr"/>
     <part id="4221" type="hrb"/>
     <part id="4222" type="hr"/>
@@ -8453,7 +8453,7 @@
   <lib id="acc_eye_U_nfthearteyes" revision="71181">
     <part id="5517" type="ea"/>
   </lib>
-  <lib id="jacket_M_nftwintergreen" revision="71190">
+  <lib id="jacket_M_nftwintergreen" revision="71224">
     <part id="5534" type="cc"/>
     <part id="5534" type="lc"/>
     <part id="5534" type="rc"/>
@@ -8464,27 +8464,27 @@
   <lib id="hat_U_nftwhitebeanie" revision="71194">
     <part id="5540" type="ha"/>
   </lib>
-  <lib id="jacket_F_nftwinterblack" revision="71194">
+  <lib id="jacket_F_nftwinterblack" revision="71224">
     <part id="5537" type="cc"/>
     <part id="5537" type="lc"/>
     <part id="5537" type="rc"/>
   </lib>
-  <lib id="jacket_M_nftwinterblack" revision="71194">
+  <lib id="jacket_M_nftwinterblack" revision="71224">
     <part id="5536" type="cc"/>
     <part id="5536" type="lc"/>
     <part id="5536" type="rc"/>
   </lib>
-  <lib id="jacket_F_nftwinterpink" revision="71190">
+  <lib id="jacket_F_nftwinterpink" revision="71224">
     <part id="5539" type="cc"/>
     <part id="5539" type="lc"/>
     <part id="5539" type="rc"/>
   </lib>
-  <lib id="jacket_M_nftwinterpink" revision="71190">
+  <lib id="jacket_M_nftwinterpink" revision="71224">
     <part id="5538" type="cc"/>
     <part id="5538" type="lc"/>
     <part id="5538" type="rc"/>
   </lib>
-  <lib id="jacket_F_nftwintergreen" revision="71190">
+  <lib id="jacket_F_nftwintergreen" revision="71224">
     <part id="5535" type="cc"/>
     <part id="5535" type="lc"/>
     <part id="5535" type="rc"/>
