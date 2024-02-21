@@ -22253,6 +22253,7 @@ featured.offer.feb22r4.title=RARE Enchanting Butterfly
 featured.offer.feb22van1.title=Rusty Van
 featured.offer.feb22van2.title=Van Life Furni
 featured.offer.feb24carnivaltto.title=NEW: Revealing Swimsuit!
+featured.offer.feb24cf.title=Gold Isometric Cube Credit Furni
 featured.offer.feb24cf=Gold Isometric Cube Credit Furni
 featured.offer.feb24clothing.title=Snow Day Clothing!
 featured.offer.feb24hatseries.title=Hat Series!
