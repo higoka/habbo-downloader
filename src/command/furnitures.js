@@ -144,7 +144,6 @@ async function applyAliases(items) {
     const furniture = items.find(x => x.classname == defaultItem)
 
     if (furniture) {
-      console.log("Added alias", {revision: furniture.revision, name: furniture.name, classname: hiddenItem});
       parsed.push({revision: furniture.revision, name: furniture.name, classname: hiddenItem});
     }
   })
