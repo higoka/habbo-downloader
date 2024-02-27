@@ -104,7 +104,7 @@
     <part id="3289" type="hr"/>
     <part id="3289" type="hrb"/>
   </lib>
-  <lib id="Shirt_M_Tshirt_Plain" revision="26636">
+  <lib id="Shirt_M_Tshirt_Plain" revision="71244">
     <part id="2050" type="ch"/>
     <part id="2050" type="ls"/>
     <part id="2050" type="rs"/>
@@ -191,7 +191,7 @@
     <part id="2609" type="lc"/>
     <part id="2609" type="rc"/>
   </lib>
-  <lib id="shirt_F_kimono2" revision="56797">
+  <lib id="shirt_F_kimono2" revision="71250">
     <part id="2631" type="ch"/>
     <part id="2631" type="ls"/>
     <part id="2631" type="rs"/>
@@ -345,7 +345,7 @@
     <part id="2625" type="ch"/>
     <part id="2626" type="ch"/>
   </lib>
-  <lib id="shirt_M_waistcoat" revision="69383">
+  <lib id="shirt_M_waistcoat" revision="71242">
     <part id="3338" type="ch"/>
     <part id="3338" type="ls"/>
     <part id="3338" type="rs"/>
@@ -358,7 +358,7 @@
     <part id="2479" type="rc"/>
     <part id="2480" type="cc"/>
   </lib>
-  <lib id="jacket_F_cjumper" revision="57644">
+  <lib id="jacket_F_cjumper" revision="71252">
     <part id="2694" type="cc"/>
     <part id="2694" type="lc"/>
     <part id="2694" type="rc"/>
@@ -2296,7 +2296,7 @@
     <part id="4405" type="ea"/>
     <part id="4406" type="ea"/>
   </lib>
-  <lib id="shirt_M_thaitop" revision="66452">
+  <lib id="shirt_M_thaitop" revision="71238">
     <part id="4136" type="ch"/>
     <part id="4136" type="ls"/>
     <part id="4136" type="rs"/>
@@ -2968,7 +2968,7 @@
     <part id="3073" type="lg"/>
     <part id="3074" type="lg"/>
   </lib>
-  <lib id="shirt_F_waistcoat" revision="64678">
+  <lib id="shirt_F_waistcoat" revision="71242">
     <part id="3341" type="ch"/>
     <part id="3341" type="ls"/>
     <part id="3341" type="rs"/>
@@ -3026,7 +3026,7 @@
     <part id="3493" type="ch"/>
     <part id="3494" type="ch"/>
   </lib>
-  <lib id="shirt_F_queenish" revision="37950">
+  <lib id="shirt_F_queenish" revision="71244">
     <part id="2420" type="ch"/>
     <part id="2420" type="ls"/>
     <part id="2420" type="rs"/>
@@ -3113,7 +3113,7 @@
     <part id="4504" type="rs"/>
     <part id="4505" type="ch"/>
   </lib>
-  <lib id="shirt_F_thaitop" revision="66453">
+  <lib id="shirt_F_thaitop" revision="71238">
     <part id="4134" type="ch"/>
     <part id="4134" type="ls"/>
     <part id="4134" type="rs"/>
@@ -4988,7 +4988,7 @@
     <part id="4054" type="cc"/>
     <part id="4055" type="cc"/>
   </lib>
-  <lib id="shirt_F_tshirt_rolled" revision="56282">
+  <lib id="shirt_F_tshirt_rolled" revision="71244">
     <part id="2595" type="ch"/>
     <part id="2595" type="ls"/>
     <part id="2595" type="rs"/>
@@ -5176,7 +5176,7 @@
     <part id="2828" type="ch"/>
     <part id="2829" type="ch"/>
   </lib>
-  <lib id="shirt_M_tshirt_rolled" revision="56282">
+  <lib id="shirt_M_tshirt_rolled" revision="71244">
     <part id="2543" type="ch"/>
     <part id="2543" type="ls"/>
     <part id="2543" type="rs"/>
@@ -5974,7 +5974,7 @@
   <lib id="acc_eye_U_eyestrawberry" revision="65640">
     <part id="3691" type="ea"/>
   </lib>
-  <lib id="shirt_M_kimono2" revision="56797">
+  <lib id="shirt_M_kimono2" revision="71250">
     <part id="2633" type="ch"/>
     <part id="2633" type="ls"/>
     <part id="2633" type="rs"/>
@@ -7847,7 +7847,7 @@
   <lib id="hat_U_smiley" revision="68984">
     <part id="4866" type="ha"/>
   </lib>
-  <lib id="shoes_U_docfranks" revision="70276">
+  <lib id="shoes_U_docfranks" revision="71292">
     <part id="5173" type="sh"/>
     <part id="5174" type="sh"/>
   </lib>
@@ -8488,6 +8488,151 @@
     <part id="5535" type="cc"/>
     <part id="5535" type="lc"/>
     <part id="5535" type="rc"/>
+  </lib>
+  <lib id="jacket_F_bunnyhoodie" revision="71265">
+    <part id="5406" type="cc"/>
+    <part id="5406" type="lc"/>
+    <part id="5406" type="rc"/>
+    <part id="5407" type="cc"/>
+    <part id="5408" type="cc"/>
+  </lib>
+  <lib id="acc_head_U_sharpbunnyears" revision="71233">
+    <part id="5412" type="he"/>
+    <part id="5413" type="he"/>
+  </lib>
+  <lib id="jacket_U_bunnyplushie" revision="71241">
+    <part id="5450" type="lc"/>
+    <part id="5450" type="rc"/>
+    <part id="5451" type="lc"/>
+    <part id="5452" type="lc"/>
+  </lib>
+  <lib id="hair_U_etherealhair" revision="71243">
+    <part id="5419" type="hr"/>
+    <part id="5419" type="hrb"/>
+    <part id="5420" type="hr"/>
+    <part id="5421" type="hr"/>
+  </lib>
+  <lib id="hat_U_farmstrawhat" revision="71235">
+    <part id="5448" type="ha"/>
+    <part id="5449" type="ha"/>
+  </lib>
+  <lib id="jacket_M_bunnyhoodie" revision="71265">
+    <part id="5409" type="cc"/>
+    <part id="5409" type="lc"/>
+    <part id="5409" type="rc"/>
+    <part id="5410" type="cc"/>
+    <part id="5411" type="cc"/>
+  </lib>
+  <lib id="hat_U_nfttangeberet" revision="71233">
+    <part id="5414" type="ha"/>
+  </lib>
+  <lib id="acc_face_U_carrotbite" revision="71235">
+    <part id="5440" type="fa"/>
+    <part id="5441" type="fa"/>
+  </lib>
+  <lib id="acc_chest_U_nftbabychickbackpack" revision="71264">
+    <part id="5455" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_leafstrap" revision="71235">
+    <part id="5436" type="ca"/>
+    <part id="5437" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_pocketchick" revision="71237">
+    <part id="5438" type="ca"/>
+    <part id="5439" type="ca"/>
+    <part id="5453" type="ca"/>
+  </lib>
+  <lib id="acc_waist_U_bunnypurse" revision="71235">
+    <part id="5446" type="ca"/>
+    <part id="5447" type="ca"/>
+  </lib>
+  <lib id="acc_head_U_leafheadband" revision="71235">
+    <part id="5444" type="he"/>
+    <part id="5445" type="he"/>
+  </lib>
+  <lib id="acc_chest_U_butterflyfairywings" revision="71233">
+    <part id="5416" type="ca"/>
+    <part id="5417" type="ca"/>
+    <part id="5418" type="ca"/>
+  </lib>
+  <lib id="acc_head_U_daisy" revision="71235">
+    <part id="5442" type="he"/>
+    <part id="5443" type="he"/>
+  </lib>
+  <lib id="hat_U_bunnyflowerheadband" revision="71233">
+    <part id="5427" type="ha"/>
+    <part id="5428" type="ha"/>
+    <part id="5429" type="ha"/>
+  </lib>
+  <lib id="shirt_M_nftraspberryshirt" revision="71261">
+    <part id="5578" type="ch"/>
+    <part id="5578" type="ls"/>
+    <part id="5578" type="rs"/>
+  </lib>
+  <lib id="shirt_F_nftstrawberryshirt" revision="71261">
+    <part id="5583" type="ch"/>
+    <part id="5583" type="ls"/>
+    <part id="5583" type="rs"/>
+  </lib>
+  <lib id="shirt_F_bunnyoveralls" revision="71267">
+    <part id="5433" type="ch"/>
+    <part id="5433" type="ls"/>
+    <part id="5433" type="rs"/>
+    <part id="5434" type="ch"/>
+    <part id="5435" type="ch"/>
+  </lib>
+  <lib id="hat_U_nftdragoncrown" revision="71261">
+    <part id="5584" type="ha"/>
+    <part id="5585" type="ha"/>
+  </lib>
+  <lib id="shirt_M_bunnyoveralls" revision="71267">
+    <part id="5430" type="ch"/>
+    <part id="5430" type="ls"/>
+    <part id="5430" type="rs"/>
+    <part id="5431" type="ch"/>
+    <part id="5432" type="ch"/>
+  </lib>
+  <lib id="face_U_nftsleepless2" revision="71261">
+    <part id="5576" type="ey"/>
+    <part id="5577" type="fc"/>
+  </lib>
+  <lib id="shirt_F_nftblueberryshirt" revision="71261">
+    <part id="5582" type="ch"/>
+    <part id="5582" type="ls"/>
+    <part id="5582" type="rs"/>
+  </lib>
+  <lib id="shirt_F_nftraspberryshirt" revision="71261">
+    <part id="5581" type="ch"/>
+    <part id="5581" type="ls"/>
+    <part id="5581" type="rs"/>
+  </lib>
+  <lib id="shirt_M_nftstrawberryshirt" revision="71261">
+    <part id="5580" type="ch"/>
+    <part id="5580" type="ls"/>
+    <part id="5580" type="rs"/>
+  </lib>
+  <lib id="shirt_M_nftblueberryshirt" revision="71261">
+    <part id="5579" type="ch"/>
+    <part id="5579" type="ls"/>
+    <part id="5579" type="rs"/>
+  </lib>
+  <lib id="face_U_nftsleepless" revision="71261">
+    <part id="5573" type="ey"/>
+    <part id="5574" type="fc"/>
+  </lib>
+  <lib id="acc_chest_U_giantbunnytail" revision="71285">
+    <part id="5586" type="ca"/>
+    <part id="5587" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_giantbunnytailgold" revision="71285">
+    <part id="5587" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nftgiantbunnytail" revision="71285">
+    <part id="5532" type="ca"/>
+  </lib>
+  <lib id="hair_U_nftlongflowyhair" revision="71286">
+    <part id="5533" type="hr"/>
+    <part id="5533" type="hrb"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
