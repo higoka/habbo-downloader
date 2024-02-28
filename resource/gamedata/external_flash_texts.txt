@@ -21878,6 +21878,7 @@ featured.offer.bcaddons_promo.title=20% OFF BC Furni Limits
 featured.offer.bundle104.title=Bavarian Christmas Bundle
 featured.offer.bundle107.title=Alpine Snowboarding Bundle
 featured.offer.bundle11.title=Psychedelic Restaurant Bundle
+featured.offer.bundle110.title=$featured.offer.ny16skate.title$
 featured.offer.bundle119.title=Runway Bundles
 featured.offer.bundle12.title=Photographer's Studio
 featured.offer.bundle120.title=Vikings Fleet Bundle
