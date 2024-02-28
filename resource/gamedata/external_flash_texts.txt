@@ -15525,6 +15525,7 @@ badge_name_LIC29=Freeze Battle Bundle
 badge_name_LIC30=Valentines 2024 Offer
 badge_name_LIC31=Winter Look Competition
 badge_name_LIC32=I’ve closed a lovelock on Valentine’s Day
+badge_name_LIC33=I enabled 2FA!
 badge_name_LIC34=RARE Revealing Swimsuit
 badge_name_LIC36=Happy Chinese New Year 2024
 badge_name_LMP01=Lamps Offer 1
