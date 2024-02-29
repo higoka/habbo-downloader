@@ -40424,6 +40424,7 @@ widget.furni.present.open_gift=Open this gift
 widget.furni.present.place_in_room=Place in my room
 widget.furni.present.put_in_inventory=Put it in my inventory
 widget.furni.present.send_return_gift=Send a return gift
+widget.furni.present.send_return_no_name=Send a return gift
 widget.furni.present.sender.profile_tooltip=View profile
 widget.furni.present.spaces.message_opened=You open the gift and find a %product%! You can find it under "My Stuff" now.
 widget.furni.present.title=Special gift!
