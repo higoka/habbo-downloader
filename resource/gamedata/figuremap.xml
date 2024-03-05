@@ -8630,7 +8630,7 @@
   <lib id="acc_chest_U_nftgiantbunnytail" revision="71285">
     <part id="5532" type="ca"/>
   </lib>
-  <lib id="hair_U_nftlongflowyhair" revision="71286">
+  <lib id="hair_U_nftlongflowyhair" revision="71297">
     <part id="5533" type="hr"/>
     <part id="5533" type="hrb"/>
   </lib>
@@ -9035,7 +9035,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="70557">
+  <lib id="hh_human_item" revision="71299">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -9284,6 +9284,7 @@
     <part id="273" type="ri"/>
     <part id="274" type="ri"/>
     <part id="275" type="ri"/>
+    <part id="276" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
