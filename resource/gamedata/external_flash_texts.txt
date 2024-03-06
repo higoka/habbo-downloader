@@ -777,6 +777,12 @@
 24chess1.image=web_promo_small/spromo_chessgame.png
 24chess1.text=Where strategy meets virtual fun! Challenge your friends while sharpening your chess skills. Move your pieces strategically in order to eat your opponent's King within the 10 min timeframe.Outsmart your opponents for a chance to win an exclusive badge!
 24chess1.title=Habbo's Chess Game
+24easter01.image=web_promo_small/spromo_witchcottage1.png
+24easter01.text=Embark on this adventure with Petal, a young botanist on a mission to find long-forgotten existence of magical creatures. Petal has started to research on her own by asking the town's wise elder, Ned, to help her find the ingredients she needs for her quest.\n\nUnfortunately, Ned doesn't know where the ingredients can be found but has pointed towards someone who does: the enigmatic witch, Hecate.\n\nYour first task will be venture into the depths of the forest to find the witch's hidden cottage and get the help you need from her.\n\nHow to play:\n\n - Walk towards Darius and see if he can help you meet the witch Hecate.\n - Find all the roses in the room and step on them to collect them.\n - When you're done, stand in front of the basket and say **create bouquet**\n
+24easter01.title=Fae Farmstead
+24easter02.image=web_promo_small/spromo_witchcottage2.png
+24easter02.text=Well done! You've managed to gain access to Hecate's cottage! Now, it's time to complete your mission and get the location of the ingredients Petal needs for her quest.\n\nHow to play:\n\n - There are a total of 3 crystals that can be found in the room.\n - Stand on the tile in front of the crystals and click on them to put them in the safe.\n - When you're done, stand in front of the witch so she can tell you what you need to do next.\n
+24easter02.title=Hecate's Cottage
 50S_badge_name=GreenRecordBadge
 70S_badge_name=PurpleDiscoBadge
 AC4_HHSG_badge_name=TheMightyEagle
