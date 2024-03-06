@@ -8624,15 +8624,51 @@
     <part id="5586" type="ca"/>
     <part id="5587" type="ca"/>
   </lib>
-  <lib id="acc_chest_U_giantbunnytailgold" revision="71285">
-    <part id="5587" type="ca"/>
-  </lib>
   <lib id="acc_chest_U_nftgiantbunnytail" revision="71285">
     <part id="5532" type="ca"/>
   </lib>
   <lib id="hair_U_nftlongflowyhair" revision="71297">
     <part id="5533" type="hr"/>
     <part id="5533" type="hrb"/>
+  </lib>
+  <lib id="trousers_U_nftblueberryshorts" revision="71305">
+    <part id="5605" type="lg"/>
+  </lib>
+  <lib id="acc_chest_U_nftstrawberrybag" revision="71311">
+    <part id="5594" type="ca"/>
+  </lib>
+  <lib id="shoes_U_nftblueberryshoes" revision="71303">
+    <part id="5596" type="sh"/>
+  </lib>
+  <lib id="hat_U_nftraspberrycap" revision="71303">
+    <part id="5589" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_nftblueberrybag" revision="71310">
+    <part id="5593" type="ca"/>
+  </lib>
+  <lib id="shoes_U_nftraspberryshoes" revision="71303">
+    <part id="5595" type="sh"/>
+  </lib>
+  <lib id="trousers_U_nftraspberryshorts" revision="71305">
+    <part id="5604" type="lg"/>
+  </lib>
+  <lib id="hat_U_nftblueberrycap" revision="71303">
+    <part id="5590" type="ha"/>
+  </lib>
+  <lib id="shoes_U_nftstrawberryshoes" revision="71303">
+    <part id="5597" type="sh"/>
+  </lib>
+  <lib id="acc_chest_U_nftraspberrybag" revision="71303">
+    <part id="5592" type="ca"/>
+  </lib>
+  <lib id="hat_U_nftstrawberrycap" revision="71303">
+    <part id="5591" type="ha"/>
+  </lib>
+  <lib id="trousers_U_nftstrawberryshorts" revision="71305">
+    <part id="5606" type="lg"/>
+  </lib>
+  <lib id="acc_chest_U_giantbunnytailgold" revision="71309">
+    <part id="5588" type="ca"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
