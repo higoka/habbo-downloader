@@ -36460,6 +36460,7 @@ quests.list.accept=Activate quest
 quests.list.caption=Quests
 quests.list.completed=You have completed all the quests in this category.
 quests.list.nextquestavailable=Your next daily quest will be available in
+quests.list.no_quests=No quests available at this time, check back later!
 quests.list.opencatalog=Open the Shop!
 quests.list.opennavigator=Search for rooms!
 quests.list.questdelayed=Next quest countdown
