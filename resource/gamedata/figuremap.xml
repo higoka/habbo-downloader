@@ -156,7 +156,7 @@
   <lib id="acc_head_U_headbandtinkwinky" revision="67512">
     <part id="4530" type="he"/>
   </lib>
-  <lib id="hair_U_butterflyhair" revision="67190">
+  <lib id="hair_U_butterflyhair" revision="71355">
     <part id="4459" type="hr"/>
     <part id="4459" type="hrb"/>
     <part id="4460" type="hr"/>
@@ -390,7 +390,7 @@
   <lib id="acc_chest_U_necktie" revision="59227">
     <part id="2771" type="ca"/>
   </lib>
-  <lib id="hair_U_rosehair" revision="68180">
+  <lib id="hair_U_rosehair" revision="71355">
     <part id="4637" type="hr"/>
     <part id="4637" type="hrb"/>
     <part id="4638" type="hr"/>
@@ -2509,7 +2509,7 @@
     <part id="4702" type="ls"/>
     <part id="4702" type="rs"/>
   </lib>
-  <lib id="hair_U_beachywaves" revision="66654">
+  <lib id="hair_U_beachywaves" revision="71355">
     <part id="4212" type="hr"/>
     <part id="4212" type="hrb"/>
     <part id="4213" type="hr"/>
@@ -2530,7 +2530,7 @@
     <part id="2025" type="lg"/>
     <part id="2026" type="lg"/>
   </lib>
-  <lib id="hair_U_volumehair" revision="66552">
+  <lib id="hair_U_volumehair" revision="71355">
     <part id="4171" type="hr"/>
     <part id="4171" type="hrb"/>
   </lib>
@@ -2596,7 +2596,7 @@
   <lib id="acc_face_U_camopaint" revision="50272">
     <part id="2505" type="fa"/>
   </lib>
-  <lib id="hair_U_bowbraidhair" revision="68353">
+  <lib id="hair_U_bowbraidhair" revision="71355">
     <part id="4666" type="hr"/>
     <part id="4666" type="hrb"/>
     <part id="4667" type="hr"/>
@@ -3227,7 +3227,7 @@
     <part id="2136" type="he"/>
     <part id="2137" type="he"/>
   </lib>
-  <lib id="hair_U_idolhairlong" revision="67432">
+  <lib id="hair_U_idolhairlong" revision="71359">
     <part id="4498" type="hr"/>
     <part id="4498" type="hrb"/>
     <part id="4499" type="hr"/>
@@ -5776,7 +5776,7 @@
     <part id="2359" type="ls"/>
     <part id="2359" type="rs"/>
   </lib>
-  <lib id="hair_U_braidedwavyhair" revision="65996">
+  <lib id="hair_U_braidedwavyhair" revision="71355">
     <part id="3935" type="hr"/>
     <part id="3935" type="hrb"/>
     <part id="3936" type="hr"/>
@@ -6746,7 +6746,7 @@
     <part id="5118" type="hr"/>
     <part id="5118" type="hrb"/>
   </lib>
-  <lib id="hair_U_retrowave" revision="68916">
+  <lib id="hair_U_retrowave" revision="71355">
     <part id="4840" type="hr"/>
     <part id="4840" type="hrb"/>
     <part id="4841" type="hr"/>
@@ -7411,7 +7411,7 @@
     <part id="5060" type="rs"/>
     <part id="5061" type="ch"/>
   </lib>
-  <lib id="hair_U_saladhair" revision="68830">
+  <lib id="hair_U_saladhair" revision="71355">
     <part id="4811" type="hr"/>
     <part id="4811" type="hrb"/>
   </lib>
@@ -8627,10 +8627,6 @@
   <lib id="acc_chest_U_nftgiantbunnytail" revision="71285">
     <part id="5532" type="ca"/>
   </lib>
-  <lib id="hair_U_nftlongflowyhair" revision="71297">
-    <part id="5533" type="hr"/>
-    <part id="5533" type="hrb"/>
-  </lib>
   <lib id="trousers_U_nftblueberryshorts" revision="71305">
     <part id="5605" type="lg"/>
   </lib>
@@ -8669,6 +8665,10 @@
   </lib>
   <lib id="acc_chest_U_giantbunnytailgold" revision="71309">
     <part id="5588" type="ca"/>
+  </lib>
+  <lib id="hair_U_nftlongflowyhair" revision="71327">
+    <part id="5533" type="hr"/>
+    <part id="5533" type="hrb"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
