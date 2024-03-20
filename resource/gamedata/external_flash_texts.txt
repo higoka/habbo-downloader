@@ -21041,6 +21041,7 @@ catalog.alert.notenough.activitypoints.description.2=Oops. It seems you don't ha
 catalog.alert.notenough.activitypoints.description.3=Oops. It seems you don't have enough Gift Points. Subscribe or wait for your monthly gift point to arrive.
 catalog.alert.notenough.activitypoints.description.4=Oops. It seems you don't have enough Shells. Complete quests to earn more Shells and try again.
 catalog.alert.notenough.activitypoints.description.5=Oops. It seems you don't have enough Diamonds! To find out how to earn Diamonds see the information page.
+catalog.alert.notenough.activitypoints.description=Oops. It seems you don't have enough %currencyname%!
 catalog.alert.notenough.activitypoints.title.0=Not Enough Duckets!
 catalog.alert.notenough.activitypoints.title.101=Not Enough Seashells!
 catalog.alert.notenough.activitypoints.title.102=Not enough Nuts!
@@ -21052,6 +21053,7 @@ catalog.alert.notenough.activitypoints.title.2=Not enough Hearts!
 catalog.alert.notenough.activitypoints.title.3=Not Enough Gift Points!
 catalog.alert.notenough.activitypoints.title.4=Not Enough Shells!
 catalog.alert.notenough.activitypoints.title.5=Not enough Diamonds!
+catalog.alert.notenough.activitypoints.title=Not enough %currencyname%
 catalog.alert.notenough.credits.description=You don´t have enough Credits for this. Click 'ok' to see different ways of getting Credits.
 catalog.alert.notenough.creditsandpixels.description=You don't have enough Credits and Pixels. Click 'ok' to see different ways of getting Credits.
 catalog.alert.notenough.title=Not enough Credits
@@ -21412,6 +21414,7 @@ catalog.purchase.youractivitypoints.2=Hearts: %activitypoints%
 catalog.purchase.youractivitypoints.3=Gift points: %activitypoints%
 catalog.purchase.youractivitypoints.4=Shells: %activitypoints%
 catalog.purchase.youractivitypoints.5=Your Diamonds: %activitypoints%
+catalog.purchase.youractivitypoints=catalog.purchase.youractivitypoints
 catalog.purchase_confirmation.buy.with=Buy with:
 catalog.purchase_confirmation.buy=Buy
 catalog.purchase_confirmation.cancel=Cancel
@@ -23148,6 +23151,7 @@ floorplaneditor.walls.normal=Normal walls
 floorplaneditor.walls.thick=Thick walls
 floorplaneditor.walls.thin=Thin wall
 floorplaneditor.walls.thinnest=Thinnest walls
+flowers.currency.name=Flowers
 friend.bar.find.button=Go get friends
 friend.bar.find.text=Looking for a new friend? Search for Habbos.
 friend.bar.find.title=Find new friends
@@ -35219,6 +35223,7 @@ quests.completed.cataloglink.101=Go shopping with Horseshoes
 quests.completed.cataloglink.103=Go shopping with Stars
 quests.completed.cataloglink.1=Go shopping with Snowflakes
 quests.completed.cataloglink.4=Go shopping with Shells
+quests.completed.cataloglink=Go shopping with %currencyname%
 quests.completed.congrats=Congratulations!
 quests.completed.next=Activate Next Quest
 quests.completed.quest.caption=Well done!
@@ -35229,6 +35234,7 @@ quests.completed.reward.103=You have been rewarded <b><font size="30" color="#7a
 quests.completed.reward.1=You've earned <b><font size="30" color="#7adde9">%amount%</font></b> Snowflake(s)
 quests.completed.reward.2=You have been rewarded <b><font size="30" color="#7adde9">%amount%</font></b> Heart
 quests.completed.reward.4=You have been rewarded <b><font size="30" color="#7adde9">%amount%</font></b> Shells
+quests.completed.reward=You have been rewarded <b><font size="30" color="#7adde9">%amount%</font></b> %currencyname%
 quests.crafting_hween23_5.1695031319471.chaincaption=The Great Crafter
 quests.crafting_hween23_5.1695031564585.completed=Congrats! Keep crafting to complete all the quests and win a prize!
 quests.crafting_hween23_5.1695031564585.desc=Craft, craft and craft some more!
@@ -37525,6 +37531,7 @@ quests.tooltest12.1327044088951.searchtag=
 quests.tooltest12.name=Dragon's Year 
 quests.tooltest12.searchtag=
 quests.tracker.caption=%quest_name%
+quests.tracker.lessinfo=Close hint
 quests.tracker.moreinfo=Details
 quests.tracker.progress=Progress: %progress%%
 quests.trading.name=Trading pass
