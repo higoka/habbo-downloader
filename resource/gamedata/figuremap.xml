@@ -449,7 +449,7 @@
   <lib id="acc_waist_U_puppytail" revision="65254">
     <part id="3535" type="wa"/>
   </lib>
-  <lib id="hair_U_habloompa" revision="57644">
+  <lib id="hair_U_habloompa" revision="71377">
     <part id="2693" type="hr"/>
     <part id="2693" type="hrb"/>
   </lib>
@@ -1785,7 +1785,7 @@
     <part id="3145" type="hr"/>
     <part id="3145" type="hrb"/>
   </lib>
-  <lib id="hair_U_wavy3" revision="65254">
+  <lib id="hair_U_wavy3" revision="71377">
     <part id="3533" type="hr"/>
     <part id="3533" type="hrb"/>
   </lib>
@@ -1882,7 +1882,7 @@
     <part id="3685" type="hr"/>
     <part id="3686" type="hr"/>
   </lib>
-  <lib id="hair_U_possessedhair" revision="65959">
+  <lib id="hair_U_possessedhair" revision="71377">
     <part id="3819" type="hr"/>
     <part id="3819" type="hrb"/>
     <part id="3820" type="hr"/>
@@ -2307,7 +2307,7 @@
     <part id="4623" type="ls"/>
     <part id="4623" type="rs"/>
   </lib>
-  <lib id="hair_U_cypunk" revision="57762">
+  <lib id="hair_U_cypunk" revision="71397">
     <part id="2644" type="hr"/>
     <part id="2644" type="hrb"/>
     <part id="2645" type="hr"/>
@@ -2551,7 +2551,7 @@
   <lib id="acc_eye_U_gold4" revision="62979">
     <part id="2977" type="ea"/>
   </lib>
-  <lib id="hair_U_medusa" revision="64887">
+  <lib id="hair_U_medusa" revision="71377">
     <part id="3430" type="hr"/>
     <part id="3430" type="hrb"/>
     <part id="3431" type="hr"/>
@@ -2718,7 +2718,7 @@
     <part id="3240" type="cc"/>
     <part id="3241" type="cc"/>
   </lib>
-  <lib id="hair_U_rainbowhair" revision="64846">
+  <lib id="hair_U_rainbowhair" revision="71377">
     <part id="3413" type="hr"/>
     <part id="3413" type="hrb"/>
   </lib>
@@ -3411,7 +3411,7 @@
     <part id="4275" type="rs"/>
     <part id="4276" type="ch"/>
   </lib>
-  <lib id="hair_U_elegantponytail" revision="63951">
+  <lib id="hair_U_elegantponytail" revision="71405">
     <part id="3146" type="hr"/>
     <part id="3146" type="hrb"/>
     <part id="3147" type="hr"/>
@@ -3419,7 +3419,7 @@
   <lib id="hat_U_limehead" revision="66853">
     <part id="4390" type="ha"/>
   </lib>
-  <lib id="hair_U_disco" revision="61459">
+  <lib id="hair_U_disco" revision="71399">
     <part id="2907" type="hr"/>
     <part id="2907" type="hrb"/>
   </lib>
@@ -3924,7 +3924,7 @@
     <part id="2684" type="ha"/>
     <part id="2685" type="ha"/>
   </lib>
-  <lib id="hair_U_grandetail" revision="64846">
+  <lib id="hair_U_grandetail" revision="71377">
     <part id="3411" type="hr"/>
     <part id="3411" type="hrb"/>
     <part id="3412" type="hr"/>
@@ -4795,7 +4795,7 @@
   <lib id="acc_face_U_mutton1" revision="56282">
     <part id="2586" type="fa"/>
   </lib>
-  <lib id="hair_U_tiedwavylocks" revision="64253">
+  <lib id="hair_U_tiedwavylocks" revision="71385">
     <part id="3217" type="hr"/>
     <part id="3217" type="hrb"/>
     <part id="3218" type="hr"/>
@@ -7612,7 +7612,7 @@
   <lib id="acc_chest_U_goldbookbag" revision="70410">
     <part id="5253" type="ca"/>
   </lib>
-  <lib id="hair_U_animalearshair" revision="70344">
+  <lib id="hair_U_animalearshair" revision="71398">
     <part id="5220" type="hr"/>
     <part id="5220" type="hrb"/>
     <part id="5221" type="hr"/>
@@ -7796,7 +7796,7 @@
   <lib id="trousers_U_nft2023skirt" revision="68797">
     <part id="4807" type="lg"/>
   </lib>
-  <lib id="hair_U_colourfulbraids" revision="69625">
+  <lib id="hair_U_colourfulbraids" revision="71377">
     <part id="4874" type="hr"/>
     <part id="4874" type="hrb"/>
     <part id="4875" type="hr"/>
@@ -8112,7 +8112,7 @@
   <lib id="acc_face_U_nftrock4" revision="70593">
     <part id="5321" type="fa"/>
   </lib>
-  <lib id="hair_U_starbraidhair" revision="71205">
+  <lib id="hair_U_starbraidhair" revision="71377">
     <part id="5315" type="hr"/>
     <part id="5315" type="hrb"/>
     <part id="5316" type="hr"/>
@@ -8669,6 +8669,72 @@
   <lib id="hair_U_nftlongflowyhair" revision="71327">
     <part id="5533" type="hr"/>
     <part id="5533" type="hrb"/>
+  </lib>
+  <lib id="hat_U_habbozillahead" revision="71377">
+    <part id="5514" type="ha"/>
+    <part id="5515" type="ha"/>
+    <part id="5516" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_bigzipper" revision="71377">
+    <part id="5481" type="ca"/>
+    <part id="5482" type="ca"/>
+  </lib>
+  <lib id="hair_U_pencilhair" revision="71377">
+    <part id="5497" type="hr"/>
+    <part id="5497" type="hrb"/>
+    <part id="5498" type="hr"/>
+    <part id="5499" type="hr"/>
+  </lib>
+  <lib id="hat_U_rosehat" revision="71377">
+    <part id="5478" type="ha"/>
+    <part id="5479" type="ha"/>
+    <part id="5480" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_bigbutton" revision="71377">
+    <part id="5493" type="ca"/>
+    <part id="5494" type="ca"/>
+    <part id="5495" type="ca"/>
+  </lib>
+  <lib id="acc_head_U_keychain" revision="71384">
+    <part id="5500" type="he"/>
+  </lib>
+  <lib id="hair_U_yarnhair" revision="71392">
+    <part id="5641" type="hr"/>
+    <part id="5641" type="hrb"/>
+  </lib>
+  <lib id="acc_chest_U_windupkey" revision="71387">
+    <part id="5496" type="ca"/>
+  </lib>
+  <lib id="shoes_U_nftmarshmallowsocks" revision="71391">
+    <part id="5611" type="sh"/>
+  </lib>
+  <lib id="acc_chest_U_nftmarshmallowbag" revision="71391">
+    <part id="5610" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_inkbackpack" revision="71383">
+    <part id="5488" type="ca"/>
+    <part id="5489" type="ca"/>
+    <part id="5490" type="ca"/>
+  </lib>
+  <lib id="acc_waist_U_quill" revision="71383">
+    <part id="5491" type="wa"/>
+    <part id="5492" type="wa"/>
+  </lib>
+  <lib id="acc_head_U_nftunicornhorn" revision="71388">
+    <part id="5614" type="he"/>
+  </lib>
+  <lib id="hair_U_nftmarshmallowhair" revision="71411">
+    <part id="5638" type="hr"/>
+    <part id="5638" type="hrb"/>
+    <part id="5639" type="hr"/>
+    <part id="5640" type="hr"/>
+  </lib>
+  <lib id="hat_U_tinyhat" revision="71402">
+    <part id="5522" type="ha"/>
+    <part id="5523" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_nftfloraradiance" revision="71401">
+    <part id="5569" type="ca"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
