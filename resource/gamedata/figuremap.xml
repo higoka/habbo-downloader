@@ -8666,7 +8666,7 @@
   <lib id="acc_chest_U_giantbunnytailgold" revision="71309">
     <part id="5588" type="ca"/>
   </lib>
-  <lib id="hair_U_nftlongflowyhair" revision="71327">
+  <lib id="hair_U_nftlongflowyhair" revision="71421">
     <part id="5533" type="hr"/>
     <part id="5533" type="hrb"/>
   </lib>
@@ -8729,7 +8729,7 @@
     <part id="5639" type="hr"/>
     <part id="5640" type="hr"/>
   </lib>
-  <lib id="hat_U_tinyhat" revision="71402">
+  <lib id="hat_U_tinyhat" revision="71419">
     <part id="5522" type="ha"/>
     <part id="5523" type="ha"/>
   </lib>
