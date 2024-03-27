@@ -22366,6 +22366,7 @@ featured.offer.easter24crackb.title=NEW: Elemental Plants
 featured.offer.easter24crafting.title=Potting Crafting Table
 featured.offer.easter24furni.title=NEW: Dragonfly Farmstead
 featured.offer.easter24ltdbunny.title=LTD Furni: Flemish Bunny Ride
+featured.offer.easter24ltdethereal.title=LTD Clothing: Ethereal Hair
 featured.offer.easter24ltdethereal=LTD Clothing: Ethereal Hair
 featured.offer.easter24oompah.title=Obbah Wobbah Outfit
 featured.offer.easter24r1.title=RARE Flower Wagon
