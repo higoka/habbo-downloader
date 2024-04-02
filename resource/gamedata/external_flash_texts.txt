@@ -23130,6 +23130,7 @@ featured.offer.xmas23r2.title=RARE Unwrap Me Ribbon
 featured.offer.xmas23r3.title=RARE Aerial Seat
 featured.offer.xmas23r4.title=RARE Mythical Head Wings
 featured.offer.xmas23rmcloth.title=Xmas Clothing Offer
+featured.offer.xmas23rmthrone.title=Cake Throne
 featured.offer.xmas23rmthrone=Cake Throne
 featured.offer.xmas23santa.title=NEW: Spicy Santa Clothing
 featured.offer.xmas23workshopbundle.title=NEW: Santa's Modern Workshop
