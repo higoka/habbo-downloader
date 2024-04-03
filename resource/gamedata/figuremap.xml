@@ -8767,10 +8767,10 @@
     <part id="5648" type="ea"/>
     <part id="5649" type="ea"/>
   </lib>
-  <lib id="hat_U_nftspacesuit" revision="71452">
+  <lib id="hat_U_nftspacesuit" revision="71455">
     <part id="5634" type="ha"/>
   </lib>
-  <lib id="shirt_U_nftspacesuit" revision="71453">
+  <lib id="shirt_U_nftspacesuit" revision="71455">
     <part id="5633" type="ch"/>
     <part id="5633" type="ls"/>
     <part id="5633" type="rs"/>
