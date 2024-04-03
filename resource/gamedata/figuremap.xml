@@ -8736,6 +8736,45 @@
   <lib id="acc_chest_U_nftfloraradiance" revision="71401">
     <part id="5569" type="ca"/>
   </lib>
+  <lib id="jacket_M_sb_rangerjacket" revision="71442">
+    <part id="5652" type="cc"/>
+    <part id="5652" type="lc"/>
+    <part id="5652" type="rc"/>
+    <part id="5653" type="cc"/>
+  </lib>
+  <lib id="jacket_U_sb_raygun" revision="71442">
+    <part id="5644" type="rc"/>
+    <part id="5644" type="lc"/>
+    <part id="5645" type="rc"/>
+    <part id="5646" type="rc"/>
+  </lib>
+  <lib id="jacket_F_sb_rangerjacket" revision="71449">
+    <part id="5654" type="cc"/>
+    <part id="5654" type="lc"/>
+    <part id="5654" type="rc"/>
+    <part id="5655" type="cc"/>
+  </lib>
+  <lib id="shoes_U_sb_boosters" revision="71442">
+    <part id="5642" type="sh"/>
+    <part id="5643" type="sh"/>
+  </lib>
+  <lib id="acc_chest_U_sb_rocketpack" revision="71442">
+    <part id="5650" type="ca"/>
+    <part id="5651" type="ca"/>
+  </lib>
+  <lib id="acc_eye_U_sb_visor" revision="71442">
+    <part id="5647" type="ea"/>
+    <part id="5648" type="ea"/>
+    <part id="5649" type="ea"/>
+  </lib>
+  <lib id="hat_U_nftspacesuit" revision="71452">
+    <part id="5634" type="ha"/>
+  </lib>
+  <lib id="shirt_U_nftspacesuit" revision="71453">
+    <part id="5633" type="ch"/>
+    <part id="5633" type="ls"/>
+    <part id="5633" type="rs"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
