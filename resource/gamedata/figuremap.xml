@@ -8775,6 +8775,10 @@
     <part id="5633" type="ls"/>
     <part id="5633" type="rs"/>
   </lib>
+  <lib id="acc_chest_U_nftsnowboard" revision="71471">
+    <part id="5656" type="ca"/>
+    <part id="5657" type="ca"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
