@@ -3168,7 +3168,7 @@
     <part id="3379" type="ch"/>
     <part id="3380" type="ch"/>
   </lib>
-  <lib id="hair_U_ghosthair" revision="66713">
+  <lib id="hair_U_ghosthair" revision="71589">
     <part id="4233" type="hr"/>
     <part id="4233" type="hrb"/>
     <part id="4234" type="hr"/>
@@ -6181,7 +6181,7 @@
     <part id="2698" type="cc"/>
     <part id="2699" type="cc"/>
   </lib>
-  <lib id="hair_U_grownoutroots" revision="66196">
+  <lib id="hair_U_grownoutroots" revision="71588">
     <part id="4082" type="hr"/>
     <part id="4082" type="hrb"/>
     <part id="4083" type="hr"/>
@@ -8738,7 +8738,7 @@
   <lib id="acc_head_U_nftunicornhorn" revision="71388">
     <part id="5614" type="he"/>
   </lib>
-  <lib id="hair_U_nftmarshmallowhair" revision="71411">
+  <lib id="hair_U_nftmarshmallowhair" revision="71586">
     <part id="5638" type="hr"/>
     <part id="5638" type="hrb"/>
     <part id="5639" type="hr"/>
