@@ -107,6 +107,20 @@ async function fetchUntil (opt, maxRetries = 3, i = 1, failed = 0) {
   }
 }
 
+async function collectAllTexts () {
+  const domain = [
+    'com.br', 'com.tr', 'com',
+    'de', 'es', 'fi',
+    'fr', 'it', 'nl'
+  ]
+
+  const all = await Promise.allSettled(
+    domain.map((d) => fetchText(`https://www.habbo.${d}/gamedata/external_flash_texts/0`))
+  )
+
+  return all.map((txt) => txt.value).join()
+}
+
 async function parseXml (txt) {
   return parser.parse(txt)
 }
@@ -138,4 +152,4 @@ async function initConfig (argv) {
   config.prod = (await fetchText(`https://www.habbo.${config.domain}/gamedata/external_variables/0`)).match(/flash\.client\.url=.+(flash-assets-[^/]+)/mi)[1]
 }
 
-module.exports = { fetchText, fetchJson, fetchOne, fetchMany, fetchUntil, parseXml, checkUpdate, initConfig, config }
+module.exports = { fetchText, fetchJson, fetchOne, fetchMany, fetchUntil, collectAllTexts, parseXml, checkUpdate, initConfig, config }

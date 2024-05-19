@@ -1,28 +1,14 @@
-const { fetchMany, fetchJson, config, fetchText } = require('../functions')
+const { fetchMany, fetchJson, config, collectAllTexts } = require('../functions')
 
-async function collectText() {
-  const domain = [
-    'com.br', 'com.tr', 'com',
-    'de', 'es', 'fi',
-    'fr', 'it', 'nl'
-  ]
-
-  const all = await Promise.allSettled(
-    domain.map((d) => fetchText(`https://www.habbo.${d}/gamedata/external_flash_texts/0`))
-  )
-
-  return all.map((txt) => txt.value).join()
-}
-
-async function getPosters() {
-  const txt = await collectText()
+async function getPosters () {
+  const txt = await collectAllTexts()
   const regex = /(poster_\d+)_(?:name|desc)=/gmi
   const posters = new Set([...txt.matchAll(regex)].map((match) => match[1].trim()))
 
   return [...posters].map((poster) => ({ name: 'poster', alias: poster }))
 }
 
-async function parse(json) {
+async function parse (json) {
   const aliases = [
     ...await getPosters(),
     { name: 'footylamp', alias: 'footylamp_campaign_ing' },
@@ -101,7 +87,7 @@ async function parse(json) {
   return new Set(map)
 }
 
-async function handle() {
+async function handle () {
   const json = await fetchJson(`https://www.habbo.${config.domain}/gamedata/furnidata_json/0`)
   const all = await parse(json)
 
