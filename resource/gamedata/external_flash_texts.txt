@@ -40183,6 +40183,7 @@ soundmachine.notification.playing=Now playing %songname% by %songauthor%
 spaces.confirmation=Wallpapers, floor patterns and landscapes are special items that will become part of the room when placed, and can't be picked up. Placing one pattern will replace the previous one of the same type. Landscapes can be seen only through window furni. Continue?
 spectate.queue.exit=Close spectator view 
 spectate.queue.position=Your position in the queue: 
+spectate.queue.room.entered=You finished waiting in the queue!
 spectator.view.label=Spectator view
 speech.bubble.settings.title=Speech bubble settings
 speech.bubble.size.title=Bubble size
