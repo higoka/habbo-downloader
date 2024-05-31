@@ -9019,11 +9019,6 @@
     <part id="5711" type="hr"/>
     <part id="5711" type="hrb"/>
   </lib>
-  <lib id="acc_waist_U_emobelt" revision="71674">
-    <part id="5706" type="wa"/>
-    <part id="5707" type="wa"/>
-    <part id="5708" type="wa"/>
-  </lib>
   <lib id="acc_face_U_cheekbandage" revision="71671">
     <part id="5709" type="fa"/>
   </lib>
@@ -9045,6 +9040,11 @@
     <part id="5738" type="hrb"/>
     <part id="5739" type="hr"/>
     <part id="5740" type="hr"/>
+  </lib>
+  <lib id="acc_waist_U_emobelt" revision="71703">
+    <part id="5706" type="wa"/>
+    <part id="5707" type="wa"/>
+    <part id="5708" type="wa"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
