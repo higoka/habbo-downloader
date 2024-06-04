@@ -40130,6 +40130,7 @@ settings.identification.title=Identification
 settings.identification.verification_code=Verification code:
 settings.identification.verification_code_info=Verification code sent to: %email%
 settings.identification.verified.emails.info=Please choose one of your verified email addresses for communication and security within Habbo
+settings.identification.verified.emails.title=Verified email addresses
 settings.identification.verify=Verify
 settings.identification_not_allowed=For your account security, accessing identification settings is allowed only for a limited time after login. Note that automatic login on a device that remembers you doesn't count, but you need to log in with your credentials.
 settings.language.preference_description=All nine of the languages listed here are moderated in Habbo. You can find the Habbo community rules on our website.
