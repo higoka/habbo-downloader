@@ -22747,6 +22747,7 @@ featured.offer.hhe24crack2b.title=Habbo History Furni
 featured.offer.hhe24crafting.title=Donnie’s Crafting Table
 featured.offer.hhe24ingredients.title=Donnie’s Crafting Ingredients
 featured.offer.hhe24norjaline.title=NEW: Norja Furni!
+featured.offer.hhe24plastoline.title=NEW: Plasto Furni!
 featured.offer.history_crackable.title=Classic Rares Available!
 featured.offer.house20box.title=Pandora Chests
 featured.offer.house20cloth.title=Impossible House Clothing
