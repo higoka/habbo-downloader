@@ -79,3 +79,10 @@ jobs:
         with:
           default_author: github_actions
           add: resource
+
+      # upload artifact
+      - name: Upload Habbo Files Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: habbo-files
+          path: resource
