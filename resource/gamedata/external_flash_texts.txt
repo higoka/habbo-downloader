@@ -41144,6 +41144,14 @@ targeted.offer.jul23_rm_dbl_tto176.desc=Get 220 credits and diamonds for the pri
 targeted.offer.jul23_rm_dbl_tto176.title=50 per cent Off 220 Credits
 targeted.offer.jul23_rm_dbl_tto177.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
 targeted.offer.jul23_rm_dbl_tto177.title=50 per cent Off 50 Credits
+targeted.offer.july24_rm_dbl_tto224.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.july24_rm_dbl_tto224.title=50 per cent Off 220 Credits
+targeted.offer.july24_rm_dbl_tto225.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
+targeted.offer.july24_rm_dbl_tto225.title=50 per cent Off 50 Credits
+targeted.offer.july24_rm_dbl_tto226.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.july24_rm_dbl_tto226.title=50 per cent Off 220 Credits
+targeted.offer.july24_rm_dbl_tto227.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
+targeted.offer.july24_rm_dbl_tto227.title=50 per cent Off 50 Credits
 targeted.offer.jun16_supersaver.desc=We are discontinuing Super Saver subscriptions. Your subscription has been cancelled and you will no longer be charged for it, and any remaining gift points have been converted into diamonds. <br><br>Stuck for things to buy? Take a look at the <a href="http://images.habbo.com/c_images/web_promo_small/Puppy_Paradise_Habitat_Bundle.png" target="_blank">Puppy's Paradise Habitat Bundle</a> offered with a 25% discount!
 targeted.offer.jun16_supersaver.title=Super Saver Subscriptions
 targeted.offer.jun16_ufo_hc14d.desc=Get a HUGE 50% discount on 14 days HC membership
