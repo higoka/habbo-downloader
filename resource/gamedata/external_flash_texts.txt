@@ -21827,6 +21827,8 @@ collectibles.set.animal_clothes_23=Animal Clothes 2023
 collectibles.set.autumn_23=Autumn 2023
 collectibles.set.badges_23=Badges 2023
 collectibles.set.bee_nice=Bee Nice 
+collectibles.set.cirque_du_games=Cirque Du Games
+collectibles.set.cirque_du_pixels=Cirque Du Pixels
 collectibles.set.collector_rewards_22_23=Collector Rewards 2022-2023
 collectibles.set.collectors_guild=Collectors Guild
 collectibles.set.community_rewards_22=Community Rewards 2022
@@ -35906,6 +35908,7 @@ quests.clearasil.1381991508630.desc=Too bad, the day is over, but what a day it 
 quests.clearasil.1381991508630.hint=Get your pixels on the minivan and head toward home.
 quests.clearasil.1381991508630.name=It's time to go!
 quests.clearasil.name=Clearasil Summer
+quests.collectibles.name=Collectibles 
 quests.completed.campaign.caption=Congratulations!
 quests.completed.campaign.title=%category% Quests Completed
 quests.completed.caption=Quest Completed
@@ -35925,6 +35928,8 @@ quests.completed.reward.1=You've earned <b><font size="30" color="#7adde9">%amou
 quests.completed.reward.2=You have been rewarded <b><font size="30" color="#7adde9">%amount%</font></b> Heart
 quests.completed.reward.4=You have been rewarded <b><font size="30" color="#7adde9">%amount%</font></b> Shells
 quests.completed.reward=You have been rewarded <b><font size="30" color="#7adde9">%amount%</font></b> %currencyname%
+quests.crackables.name=Crackables 
+quests.crafting.name=Crafting 
 quests.crafting_hween23_5.1695031319471.chaincaption=The Great Crafter
 quests.crafting_hween23_5.1695031564585.completed=Congrats! Keep crafting to complete all the quests and win a prize!
 quests.crafting_hween23_5.1695031564585.desc=Craft, craft and craft some more!

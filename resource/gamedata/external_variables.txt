@@ -7829,6 +7829,7 @@ web.settings.wallet.relativeUrl=/settings/wallet
 web.shop.relativeUrl=/shop
 web.shop.subscription.relativeUrl=/shop/subscriptions
 web.terms_of_service.link=${terms_of_service.link}
+web3trade.enabled=true
 welcome.gift.feature.enabled=false
 welcome.screen.enabled=0
 wired.enabled.air=1
