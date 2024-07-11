@@ -9019,6 +9019,9 @@
     <part id="5711" type="hr"/>
     <part id="5711" type="hrb"/>
   </lib>
+  <lib id="shoes_U_bratzboots" revision="71933">
+    <part id="5852" type="sh"/>
+  </lib>
   <lib id="acc_face_U_cheekbandage" revision="71671">
     <part id="5709" type="fa"/>
   </lib>
@@ -9338,6 +9341,64 @@
   <lib id="acc_chest_U_popcornbox" revision="71880">
     <part id="5570" type="ca"/>
     <part id="5571" type="ca"/>
+  </lib>
+  <lib id="hair_U_bratzjadehair" revision="71933">
+    <part id="5822" type="hr"/>
+    <part id="5822" type="hrb"/>
+    <part id="5823" type="hr"/>
+    <part id="5824" type="hr"/>
+  </lib>
+  <lib id="shoes_U_bratzheels" revision="71933">
+    <part id="5853" type="sh"/>
+  </lib>
+  <lib id="face_U_bratzjadeface" revision="71933">
+    <part id="5833" type="fc"/>
+    <part id="5834" type="fc"/>
+    <part id="5835" type="ey"/>
+  </lib>
+  <lib id="hat_U_bratzyasminscarf" revision="71935">
+    <part id="5867" type="ha"/>
+    <part id="5868" type="ha"/>
+  </lib>
+  <lib id="hair_U_bratzsashahair" revision="71933">
+    <part id="5825" type="hr"/>
+    <part id="5825" type="hrb"/>
+    <part id="5826" type="hr"/>
+  </lib>
+  <lib id="hair_U_bratzyasminhair" revision="71933">
+    <part id="5827" type="hr"/>
+    <part id="5827" type="hrb"/>
+    <part id="5828" type="hr"/>
+    <part id="5829" type="hr"/>
+  </lib>
+  <lib id="hat_U_bratzsashabeanie" revision="71933">
+    <part id="5820" type="ha"/>
+  </lib>
+  <lib id="face_U_bratzsashaface" revision="71933">
+    <part id="5836" type="fc"/>
+    <part id="5837" type="fc"/>
+    <part id="5838" type="ey"/>
+  </lib>
+  <lib id="hat_U_bratzchloeheadband" revision="71933">
+    <part id="5743" type="ha"/>
+  </lib>
+  <lib id="hair_U_bratzchloehair" revision="71933">
+    <part id="5742" type="hr"/>
+    <part id="5742" type="hrb"/>
+  </lib>
+  <lib id="face_U_bratzchloeface" revision="71933">
+    <part id="5830" type="fc"/>
+    <part id="5831" type="fc"/>
+    <part id="5832" type="ey"/>
+  </lib>
+  <lib id="hat_U_bratzjadebeanie" revision="71935">
+    <part id="5865" type="ha"/>
+    <part id="5866" type="ha"/>
+  </lib>
+  <lib id="face_U_bratzyasminface" revision="71933">
+    <part id="5839" type="fc"/>
+    <part id="5840" type="fc"/>
+    <part id="5841" type="ey"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
