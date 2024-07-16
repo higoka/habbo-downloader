@@ -9107,10 +9107,10 @@
   <lib id="shoes_U_nftsummeranklet2" revision="71812">
     <part id="5812" type="sh"/>
   </lib>
-  <lib id="shoes_U_nftsummeranklet3" revision="71812">
+  <lib id="shoes_U_nftsummeranklet3" revision="71970">
     <part id="5813" type="sh"/>
   </lib>
-  <lib id="shoes_U_nftsummeranklet4" revision="71812">
+  <lib id="shoes_U_nftsummeranklet4" revision="71970">
     <part id="5814" type="sh"/>
   </lib>
   <lib id="shirt_F_nftsummertop1" revision="71821">
@@ -9143,7 +9143,7 @@
     <part id="5804" type="ls"/>
     <part id="5804" type="rs"/>
   </lib>
-  <lib id="shirt_M_nftsummertop3" revision="71812">
+  <lib id="shirt_M_nftsummertop3" revision="71966">
     <part id="5805" type="ch"/>
     <part id="5805" type="ls"/>
     <part id="5805" type="rs"/>
@@ -9356,6 +9356,11 @@
     <part id="5834" type="fc"/>
     <part id="5835" type="ey"/>
   </lib>
+  <lib id="shirt_M_nfttoga" revision="71972">
+    <part id="6036" type="ch"/>
+    <part id="6036" type="ls"/>
+    <part id="6036" type="rs"/>
+  </lib>
   <lib id="hat_U_bratzyasminscarf" revision="71935">
     <part id="5867" type="ha"/>
     <part id="5868" type="ha"/>
@@ -9399,6 +9404,33 @@
     <part id="5839" type="fc"/>
     <part id="5840" type="fc"/>
     <part id="5841" type="ey"/>
+  </lib>
+  <lib id="hair_U_nftgreek1" revision="71965">
+    <part id="6028" type="hr"/>
+    <part id="6028" type="hrb"/>
+    <part id="6029" type="hr"/>
+  </lib>
+  <lib id="hair_U_nftgreek2" revision="71965">
+    <part id="6030" type="hr"/>
+    <part id="6030" type="hrb"/>
+    <part id="6031" type="hr"/>
+  </lib>
+  <lib id="shirt_F_nftchiton" revision="71969">
+    <part id="6034" type="ch"/>
+    <part id="6034" type="ls"/>
+    <part id="6034" type="rs"/>
+    <part id="6035" type="ch"/>
+  </lib>
+  <lib id="shirt_F_nfttoga" revision="71972">
+    <part id="6037" type="ch"/>
+    <part id="6037" type="ls"/>
+    <part id="6037" type="rs"/>
+  </lib>
+  <lib id="shirt_M_nftchiton" revision="71965">
+    <part id="6032" type="ch"/>
+    <part id="6032" type="ls"/>
+    <part id="6032" type="rs"/>
+    <part id="6033" type="ch"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
