@@ -35014,6 +35014,7 @@ quests.BATTLE24.1720431039849.hint=Double-click the base of a scoreboard to comp
 quests.BATTLE24.1720431039849.name=Find Banzai Scoreboard
 quests.BATTLE24.1720431149805..desc=Walk through a Battle Banzai Gate to join a team.
 quests.BATTLE24.1720431149805.completed=You did it! You can switch teams by walking through another gate at any time.
+quests.BATTLE24.1720431149805.desc=Walk through a Battle Banzai Gate to join a team.
 quests.BATTLE24.1720431149805.hint=Now you're ready to start playing. Join the game by walking through one of the Battle Banzai gates.
 quests.BATTLE24.1720431149805.name=Join a Banzai game
 quests.BATTLE24.1720431403209.completed=Cool! Each locked tile increases your team score by one point. When the game ends, the team with most points wins!
