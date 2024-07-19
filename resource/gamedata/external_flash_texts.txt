@@ -41337,9 +41337,9 @@ targeted.offer.ktchn15_tko_gr1.desc=With this offer there's no excuse to not kee
 targeted.offer.ktchn15_tko_gr1.title=Spotless Kitchen Offer
 targeted.offer.ktchn15_tko_gr2.desc=As well as bagging an EXCLUSIVE Chopping Board, included in this offer are all the culinary essentials you could need! <br><br>Offer is limited to one per person and includes:<br>- Emerald Ring (worth 100c)<br>- <a href="event:habbopages/habboclub">HC 3 months</a> (worth 60c)<br>- Rare Antique Crockery Cupboard (worth 25c)<br>- Exclusive Chopping Board (worth 4c)<br>- Stainless Steel Oven (worth 12c)<br>- Chilled Drinks (worth 6c)<br>- Blue Kitchen Lamp (worth 6c)<br>- Blue Kitchen Table (worth 6c)<br>- Blue Cushioned Chair (worth 4c)<br>- Rare Badge (for free)
 targeted.offer.ktchn15_tko_gr2.title=Sparkling Chinaware Offer
-targeted.offer.mar18_tto_gr1.desc=Craft these ingredients in conjunction with ingredients from new Habbos to make BRAND NEW clothing items!
+targeted.offer.mar18_tto_gr1.desc=Craft these ingredients in conjunction with ingredients from new Habbos to make clothing items!
 targeted.offer.mar18_tto_gr1.title=Friendship Fusion Crafting Ingredients
-targeted.offer.mar18_tto_gr2.desc=Craft these ingredients in conjunction with ingredients from older Habbos to make BRAND NEW clothing items!
+targeted.offer.mar18_tto_gr2.desc=Craft these ingredients in conjunction with ingredients from older Habbos to make clothing items!
 targeted.offer.mar18_tto_gr2.title=Friendship Fusion Crafting Ingredients
 targeted.offer.march24_rm_dbl_tto208.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
 targeted.offer.march24_rm_dbl_tto208.title=50 per cent Off 220 Credits
