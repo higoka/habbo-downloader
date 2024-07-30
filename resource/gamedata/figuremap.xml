@@ -5264,7 +5264,7 @@
   <lib id="acc_print_U_nanduck" revision="56505">
     <part id="2614" type="cp"/>
   </lib>
-  <lib id="acc_waist_U_championsbelt" revision="26251">
+  <lib id="acc_waist_U_championsbelt" revision="71980">
     <part id="2133" type="wa"/>
     <part id="2134" type="wa"/>
   </lib>
@@ -9431,6 +9431,34 @@
     <part id="6032" type="ls"/>
     <part id="6032" type="rs"/>
     <part id="6033" type="ch"/>
+  </lib>
+  <lib id="face_U_nftdummy1" revision="71992">
+    <part id="6041" type="fc"/>
+    <part id="6042" type="fc"/>
+    <part id="6043" type="ey"/>
+  </lib>
+  <lib id="face_U_nftdummy2" revision="72015">
+    <part id="6044" type="fc"/>
+    <part id="6045" type="fc"/>
+    <part id="6046" type="ey"/>
+  </lib>
+  <lib id="hat_U_nftsummer24cap1" revision="72021">
+    <part id="5854" type="ha"/>
+  </lib>
+  <lib id="hat_U_nftsummer24cap2" revision="72020">
+    <part id="5855" type="ha"/>
+  </lib>
+  <lib id="hat_U_nftsummer24cap3" revision="72020">
+    <part id="5856" type="ha"/>
+  </lib>
+  <lib id="hat_U_nftsummer24cap4" revision="72021">
+    <part id="5857" type="ha"/>
+  </lib>
+  <lib id="hat_U_nftsummer24cap5" revision="72020">
+    <part id="5858" type="ha"/>
+  </lib>
+  <lib id="hat_U_nftsummer24cap6" revision="72021">
+    <part id="5859" type="ha"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
