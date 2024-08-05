@@ -35747,12 +35747,12 @@ quests.PLAYFREEZE24.1715082216749.hint=Freeze 13 players from opposing teams to 
 quests.PLAYFREEZE24.1715082216749.name=Freeze Blaster V
 quests.PLAYFREEZE24.name=Play Freeze!
 quests.StardustQuest1.1722245937468.completed=Keep on chatting :) You might make a new friend!
-quests.StardustQuest1.1722245937468.desc=Chat 5 times in Habbo. To visit Starbase <a href="https://base.starnet.io">Click here!</a>
+quests.StardustQuest1.1722245937468.desc=Chat 5 times in Habbo.
 quests.StardustQuest1.1722245937468.hint=Go find another player and start chatting!
 quests.StardustQuest1.1722245937468.name=Let's Chat!
 quests.StardustQuest1.name=Starbase Quest
 quests.StardustQuest2.1722497181694.completed=Well done!
-quests.StardustQuest2.1722497181694.desc=Visit other Habbos' rooms! To visit Starbase <a href="https://base.starnet.io">Click here!</a>
+quests.StardustQuest2.1722497181694.desc=Visit other Habbos' rooms!
 quests.StardustQuest2.1722497181694.hint=Explore Habbo! Visit at least 20 rooms.
 quests.StardustQuest2.1722497181694.name=Explorer!
 quests.StardustQuest2.name=Starbase Quest
