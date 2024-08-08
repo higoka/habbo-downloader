@@ -21874,6 +21874,7 @@ collectibles.collector.wallet=Collector Wallet
 collectibles.high_score=All-time highest XP:
 collectibles.info.description=The Collectors Guild is a hub that collectors can use to view and manage their Collector XP, collectibles and Relics. For more information about the features contained within the guild, <a href="https://help.habbo.com/hc/en-us/sections/15690953049362-Habbo-Collectibles">check this page</a>.
 collectibles.info.title=Info
+collectibles.info.trading=If you want to trade the Collectibles in your MetaMask wallet inside Habbo, you need to move them to your Collector Wallet. Copy your Collector Wallet address from the <a href="%link%">wallet settings</a> menu, then open your inventory on the <a href="https://collectibles.habbo.com/shop/?tab=inventory ">Collectibles website</a> and use the transfer function there to send them to your Collector Wallet.
 collectibles.item.rarity=Rarity
 collectibles.item.type=Type
 collectibles.item.xp=XP
@@ -35988,6 +35989,7 @@ quests.augustcrafting24.1720610669541.hint=Craft the Master Unicyclist to finish
 quests.augustcrafting24.1720610669541.name=Cirque Du Pixels!
 quests.augustcrafting24.1720610877141.completed=Congrats! Keep crafting to complete all the quests and win an exclusive badge and some seasonal currency!
 quests.augustcrafting24.1720610877141.desc=Let's bring the circus to life!
+quests.augustcrafting24.1720610877141.hint=Craft the Master Acrobatic Performer to finish this quest!
 quests.augustcrafting24.1720610877141.name=Cirque Du Pixels!
 quests.augustcrafting24.1720610877141XX.hint=Craft the Master Acrobatic Performer to finish this quest!
 quests.augustcrafting24.1720610953609.completed=Congrats! Keep crafting to complete all the quests and win an exclusive badge and some seasonal currency!
