@@ -9270,7 +9270,7 @@
     <part id="6000" type="ch"/>
     <part id="6001" type="ch"/>
   </lib>
-  <lib id="jacket_U_python" revision="71866">
+  <lib id="jacket_U_python" revision="72084">
     <part id="5557" type="cc"/>
     <part id="5557" type="lc"/>
     <part id="5557" type="rc"/>
@@ -9459,6 +9459,84 @@
   </lib>
   <lib id="hat_U_nftsummer24cap6" revision="72021">
     <part id="5859" type="ha"/>
+  </lib>
+  <lib id="jacket_U_nftsummerbird" revision="72045">
+    <part id="6047" type="cc"/>
+    <part id="6047" type="lc"/>
+    <part id="6047" type="rc"/>
+    <part id="6048" type="cc"/>
+  </lib>
+  <lib id="acc_eye_U_nftbonusshades" revision="72045">
+    <part id="6049" type="ea"/>
+  </lib>
+  <lib id="acc_chest_U_skullguitar" revision="72081">
+    <part id="6025" type="ca"/>
+  </lib>
+  <lib id="acc_face_U_roseinmouth" revision="72081">
+    <part id="5747" type="fa"/>
+    <part id="5748" type="fa"/>
+  </lib>
+  <lib id="acc_face_mexmoustache" revision="72076">
+    <part id="5775" type="fa"/>
+  </lib>
+  <lib id="hat_U_sombrerose" revision="72081">
+    <part id="5849" type="ha"/>
+    <part id="5850" type="ha"/>
+    <part id="5851" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_charmnecklace" revision="72076">
+    <part id="5772" type="ca"/>
+    <part id="5773" type="ca"/>
+    <part id="5774" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_prizedguitar" revision="72081">
+    <part id="6027" type="ca"/>
+  </lib>
+  <lib id="acc_head_U_fluffyearrings" revision="72081">
+    <part id="5741" type="he"/>
+  </lib>
+  <lib id="acc_chest_U_acousticguitar" revision="72081">
+    <part id="6038" type="ca"/>
+    <part id="6039" type="ca"/>
+    <part id="6040" type="ca"/>
+  </lib>
+  <lib id="shirt_M_traditionaldress" revision="72076">
+    <part id="5770" type="ch"/>
+    <part id="5770" type="ls"/>
+    <part id="5770" type="rs"/>
+    <part id="5771" type="ch"/>
+  </lib>
+  <lib id="shirt_F_traditionaldress" revision="72076">
+    <part id="5768" type="ch"/>
+    <part id="5768" type="ls"/>
+    <part id="5768" type="rs"/>
+    <part id="5769" type="ch"/>
+  </lib>
+  <lib id="acc_chest_U_floralguitar" revision="72081">
+    <part id="6024" type="ca"/>
+  </lib>
+  <lib id="hair_U_beautifulbraid" revision="72076">
+    <part id="5843" type="hr"/>
+    <part id="5843" type="hrb"/>
+    <part id="5844" type="hr"/>
+    <part id="5845" type="hr"/>
+  </lib>
+  <lib id="acc_head_U_beautifulflowercrown" revision="72076">
+    <part id="5846" type="he"/>
+    <part id="5847" type="he"/>
+    <part id="5848" type="he"/>
+  </lib>
+  <lib id="acc_chest_U_vibrantguitar" revision="72081">
+    <part id="6026" type="ca"/>
+  </lib>
+  <lib id="trousers_U_mariachipants" revision="72085">
+    <part id="6053" type="lg"/>
+    <part id="6054" type="lg"/>
+  </lib>
+  <lib id="hat_U_classicsombrero" revision="72085">
+    <part id="6050" type="ha"/>
+    <part id="6051" type="ha"/>
+    <part id="6052" type="ha"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>

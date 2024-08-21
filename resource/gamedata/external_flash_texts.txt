@@ -36150,6 +36150,7 @@ quests.aug24_runnawaywcircus.1722257443614.completed=Looking good!
 quests.aug24_runnawaywcircus.1722257443614.desc=You're the ringmaster now. It's time to get dressed.
 quests.aug24_runnawaywcircus.1722257443614.hint=Show everyone that you are the Circus Ringmaster by dressing accordingly.
 quests.aug24_runnawaywcircus.1722257443614.name=Dress the part
+quests.aug24_runnawaywcircus.name=Circus Life
 quests.aug24_runnawaywcircus=Welcome to the circus!
 quests.augustcrafting24.1720610658321.chaincaption=Cirque Du Pixels!
 quests.augustcrafting24.1720610658321.chaininfo=Let's bring the circus to life!
