@@ -9460,7 +9460,7 @@
   <lib id="hat_U_nftsummer24cap6" revision="72021">
     <part id="5859" type="ha"/>
   </lib>
-  <lib id="jacket_U_nftsummerbird" revision="72045">
+  <lib id="jacket_U_nftsummerbird" revision="72118">
     <part id="6047" type="cc"/>
     <part id="6047" type="lc"/>
     <part id="6047" type="rc"/>
@@ -9537,6 +9537,23 @@
     <part id="6050" type="ha"/>
     <part id="6051" type="ha"/>
     <part id="6052" type="ha"/>
+  </lib>
+  <lib id="jacket_M_mariachijacket" revision="72110">
+    <part id="6055" type="cc"/>
+    <part id="6055" type="lc"/>
+    <part id="6055" type="rc"/>
+    <part id="6056" type="cc"/>
+    <part id="6057" type="cc"/>
+  </lib>
+  <lib id="jacket_F_mariachijacket" revision="72110">
+    <part id="6058" type="cc"/>
+    <part id="6058" type="lc"/>
+    <part id="6058" type="rc"/>
+    <part id="6059" type="cc"/>
+    <part id="6060" type="cc"/>
+  </lib>
+  <lib id="acc_face_U_beardday" revision="72111">
+    <part id="5869" type="fa"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
