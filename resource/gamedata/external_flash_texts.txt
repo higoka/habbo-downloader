@@ -28342,6 +28342,7 @@ landing.view.habbo15school.body=So, it's the end of the summer and the beginning
 landing.view.habbo15school.button=See the furni
 landing.view.habbo15school.header=Beat the Back to School Blues
 landing.view.habbo15schoolbundle.body=We know it's a painful time of year when you have to go back to the daily grind of school, but now you can brighten up your day with this Back to School bundle! Includes a locker teleport + exclusive badge.
+landing.view.habbo15schoolbundle.button=See the bundle
 landing.view.habbo15schoolbundle.header=Back to School Bundle
 landing.view.habbo15steampunk.body=Walk through your BLING new office, wave to the window cleaner, stroll underneath the Bling Chandelier and get up the stairs to your gleaming, polished-bronze Steampunk bedroom. In this particular bundle, we've added several new furni onto the Steampunk, Bling and Executive lines. We're please to say that we've also included an EXCLUSIVE Steampunk Bed too.Don't forget about the badge, which is also ONLY available inside the Steampunk Bunk Bundle!
 landing.view.habbo15steampunk.button=See the bundle!
