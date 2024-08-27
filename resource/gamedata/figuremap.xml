@@ -2956,7 +2956,7 @@
     <part id="4509" type="lg"/>
     <part id="4510" type="lg"/>
   </lib>
-  <lib id="acc_print_U_rainbow" revision="56277">
+  <lib id="acc_print_U_rainbow" revision="72123">
     <part id="2529" type="cp"/>
   </lib>
   <lib id="hair_F_scarfbun" revision="69407">
@@ -9432,12 +9432,12 @@
     <part id="6032" type="rs"/>
     <part id="6033" type="ch"/>
   </lib>
-  <lib id="face_U_nftdummy1" revision="71992">
+  <lib id="face_U_nftdummy1" revision="72127">
     <part id="6041" type="fc"/>
     <part id="6042" type="fc"/>
     <part id="6043" type="ey"/>
   </lib>
-  <lib id="face_U_nftdummy2" revision="72015">
+  <lib id="face_U_nftdummy2" revision="72127">
     <part id="6044" type="fc"/>
     <part id="6045" type="fc"/>
     <part id="6046" type="ey"/>
@@ -9554,6 +9554,22 @@
   </lib>
   <lib id="acc_face_U_beardday" revision="72111">
     <part id="5869" type="fa"/>
+  </lib>
+  <lib id="hat_U_nftgiftbox" revision="72128">
+    <part id="5529" type="ha"/>
+  </lib>
+  <lib id="jacket_U_nftgiftbox" revision="72128">
+    <part id="5528" type="cc"/>
+    <part id="5528" type="lc"/>
+    <part id="5528" type="rc"/>
+  </lib>
+  <lib id="hat_U_nftgiftbox2" revision="72128">
+    <part id="5531" type="ha"/>
+  </lib>
+  <lib id="jacket_U_nftgiftbox2" revision="72128">
+    <part id="5530" type="cc"/>
+    <part id="5530" type="lc"/>
+    <part id="5530" type="rc"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
