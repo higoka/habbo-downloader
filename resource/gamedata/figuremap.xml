@@ -9571,6 +9571,29 @@
     <part id="5530" type="lc"/>
     <part id="5530" type="rc"/>
   </lib>
+  <lib id="acc_face_U_nftnacho" revision="72129">
+    <part id="6068" type="fa"/>
+  </lib>
+  <lib id="hair_U_nftcurlybun" revision="72130">
+    <part id="6072" type="hr"/>
+    <part id="6072" type="hrb"/>
+    <part id="6073" type="hr"/>
+  </lib>
+  <lib id="acc_face_U_nftchili1" revision="72129">
+    <part id="6069" type="fa"/>
+  </lib>
+  <lib id="acc_face_U_nftchili2" revision="72129">
+    <part id="6070" type="fa"/>
+  </lib>
+  <lib id="acc_face_U_nftchili3" revision="72129">
+    <part id="6071" type="fa"/>
+  </lib>
+  <lib id="hair_U_nftbroccolicut" revision="72130">
+    <part id="6074" type="hr"/>
+    <part id="6074" type="hrb"/>
+    <part id="6075" type="hr"/>
+    <part id="6076" type="hr"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
