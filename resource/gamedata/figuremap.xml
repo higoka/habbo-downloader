@@ -8782,10 +8782,10 @@
     <part id="5648" type="ea"/>
     <part id="5649" type="ea"/>
   </lib>
-  <lib id="hat_U_nftspacesuit" revision="71530">
+  <lib id="hat_U_nftspacesuit" revision="72172">
     <part id="5634" type="ha"/>
   </lib>
-  <lib id="shirt_U_nftspacesuit" revision="71530">
+  <lib id="shirt_U_nftspacesuit" revision="72172">
     <part id="5633" type="ch"/>
     <part id="5633" type="ls"/>
     <part id="5633" type="rs"/>
@@ -9593,6 +9593,115 @@
     <part id="6074" type="hrb"/>
     <part id="6075" type="hr"/>
     <part id="6076" type="hr"/>
+  </lib>
+  <lib id="acc_head_U_neonpartyacc" revision="72146">
+    <part id="6066" type="he"/>
+    <part id="6067" type="he"/>
+  </lib>
+  <lib id="jacket_F_bloodypromtux" revision="72145">
+    <part id="5875" type="cc"/>
+    <part id="5875" type="lc"/>
+    <part id="5875" type="rc"/>
+    <part id="5876" type="cc"/>
+    <part id="5877" type="cc"/>
+  </lib>
+  <lib id="jacket_M_bloodypromtux" revision="72145">
+    <part id="5872" type="cc"/>
+    <part id="5872" type="lc"/>
+    <part id="5872" type="rc"/>
+    <part id="5873" type="cc"/>
+    <part id="5874" type="cc"/>
+  </lib>
+  <lib id="acc_chest_U_leatherbackpack" revision="72159">
+    <part id="5884" type="ca"/>
+    <part id="5885" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nftdragonwings" revision="72152">
+    <part id="6105" type="ca"/>
+    <part id="6106" type="ca"/>
+    <part id="6107" type="ca"/>
+  </lib>
+  <lib id="shirt_M_bloodypromdress" revision="72141">
+    <part id="5881" type="ch"/>
+    <part id="5881" type="ls"/>
+    <part id="5881" type="rs"/>
+    <part id="5882" type="ch"/>
+    <part id="5883" type="ch"/>
+  </lib>
+  <lib id="acc_face_U_neondevilmaskgreen" revision="72147">
+    <part id="6021" type="fa"/>
+    <part id="6022" type="fa"/>
+  </lib>
+  <lib id="shirt_F_bloodypromdress" revision="72141">
+    <part id="5878" type="ch"/>
+    <part id="5878" type="ls"/>
+    <part id="5878" type="rs"/>
+    <part id="5879" type="ch"/>
+    <part id="5880" type="ch"/>
+  </lib>
+  <lib id="acc_eye_U_neonpartyacc" revision="72146">
+    <part id="6064" type="ea"/>
+    <part id="6065" type="ea"/>
+  </lib>
+  <lib id="shirt_F_catwoman" revision="72146">
+    <part id="6012" type="ch"/>
+    <part id="6012" type="ls"/>
+    <part id="6012" type="rs"/>
+    <part id="6013" type="ch"/>
+  </lib>
+  <lib id="jacket_U_ghostfriend" revision="72159">
+    <part id="5888" type="cc"/>
+    <part id="5888" type="lc"/>
+    <part id="5888" type="rc"/>
+    <part id="5889" type="cc"/>
+  </lib>
+  <lib id="acc_chest_U_neonpartyacc" revision="72146">
+    <part id="6061" type="ca"/>
+    <part id="6062" type="ca"/>
+    <part id="6063" type="ca"/>
+  </lib>
+  <lib id="acc_head_U_catwoman" revision="72146">
+    <part id="6009" type="he"/>
+    <part id="6010" type="he"/>
+    <part id="6011" type="he"/>
+  </lib>
+  <lib id="hat_U_neonpartyhat" revision="72143">
+    <part id="5863" type="ha"/>
+    <part id="5864" type="ha"/>
+  </lib>
+  <lib id="hat_U_bloodycrown" revision="72147">
+    <part id="6023" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_ghostbackpack" revision="72133">
+    <part id="5886" type="ca"/>
+    <part id="5887" type="ca"/>
+  </lib>
+  <lib id="shoes_U_batboots" revision="72143">
+    <part id="5860" type="sh"/>
+    <part id="5861" type="sh"/>
+    <part id="5862" type="sh"/>
+  </lib>
+  <lib id="acc_head_U_nfteyebow" revision="72146">
+    <part id="6079" type="he"/>
+  </lib>
+  <lib id="acc_chest_U_jamtoastbackpack" revision="72156">
+    <part id="6103" type="ca"/>
+    <part id="6104" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_spiderbackpack" revision="72147">
+    <part id="6018" type="ca"/>
+    <part id="6019" type="ca"/>
+    <part id="6020" type="ca"/>
+  </lib>
+  <lib id="shirt_M_catwoman" revision="72155">
+    <part id="6014" type="ch"/>
+    <part id="6014" type="ls"/>
+    <part id="6014" type="rs"/>
+    <part id="6015" type="ch"/>
+  </lib>
+  <lib id="trousers_U_bloodypromtrousers" revision="72133">
+    <part id="5870" type="lg"/>
+    <part id="5871" type="lg"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
