@@ -17634,6 +17634,7 @@ badge_name_SPD13=Blue Angels
 badge_name_SPD14=Red Devils
 badge_name_SPD15=Red Devils for the win!
 badge_name_SPD16=Habbovision 2020
+badge_name_SPD17=Work from home looks competition!
 badge_name_SPD18=Executive Drinks Cabinet
 badge_name_SPV01=Architect Vote
 badge_name_SPV02=Artisan Vote
