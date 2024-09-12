@@ -22738,6 +22738,7 @@ featured.offer.bundle68.title=Mini Jurassic Bundle
 featured.offer.bundle69.title=Velociraptor Nursery
 featured.offer.bundle70.title=Pterodactyl Nesting Ground
 featured.offer.bundle82.title=Exchange in Paris Bundle
+featured.offer.bundle83.title=Back to School Bundle
 featured.offer.bundle9.title=Updated Winter-lympix Room Bundle
 featured.offer.bundle94.title=Habbocalypse Bundle
 featured.offer.bundle96.title=Posh Restaurant Bundle
