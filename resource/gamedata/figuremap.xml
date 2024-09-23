@@ -9703,6 +9703,73 @@
     <part id="5870" type="lg"/>
     <part id="5871" type="lg"/>
   </lib>
+  <lib id="acc_head_U_nftminimaude2" revision="72215">
+    <part id="6128" type="he"/>
+  </lib>
+  <lib id="acc_chest_U_nftminihank" revision="72215">
+    <part id="6126" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nftminimuumio" revision="72215">
+    <part id="6124" type="ca"/>
+  </lib>
+  <lib id="acc_waist_U_nftminifrank" revision="72220">
+    <part id="5817" type="wa"/>
+  </lib>
+  <lib id="acc_chest_U_nftminimaude" revision="72215">
+    <part id="6118" type="ca"/>
+  </lib>
+  <lib id="acc_waist_U_nftminimyrtle" revision="72218">
+    <part id="6121" type="wa"/>
+  </lib>
+  <lib id="acc_chest_U_nftminiduck" revision="72215">
+    <part id="5821" type="ca"/>
+  </lib>
+  <lib id="acc_waist_U_nftminibonnie" revision="72218">
+    <part id="6115" type="wa"/>
+  </lib>
+  <lib id="acc_waist_U_nftminidonnie" revision="72218">
+    <part id="6119" type="wa"/>
+  </lib>
+  <lib id="acc_chest_U_nftminifrank" revision="72215">
+    <part id="5818" type="ca"/>
+  </lib>
+  <lib id="acc_head_U_nftminidonnie2" revision="72215">
+    <part id="6129" type="he"/>
+  </lib>
+  <lib id="acc_chest_U_nftmininoob" revision="72216">
+    <part id="5816" type="ca"/>
+  </lib>
+  <lib id="acc_waist_U_nftminihank" revision="72218">
+    <part id="6125" type="wa"/>
+  </lib>
+  <lib id="acc_waist_U_nftminimuumio" revision="72218">
+    <part id="6123" type="wa"/>
+  </lib>
+  <lib id="acc_head_U_nftminifrank2" revision="72215">
+    <part id="6127" type="he"/>
+  </lib>
+  <lib id="acc_waist_U_nftminiduck" revision="72218">
+    <part id="5819" type="wa"/>
+  </lib>
+  <lib id="acc_chest_U_nftminimyrtle" revision="72215">
+    <part id="6122" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nftminibonnie" revision="72215">
+    <part id="6116" type="ca"/>
+  </lib>
+  <lib id="acc_waist_U_nftmininoob" revision="72218">
+    <part id="5815" type="wa"/>
+  </lib>
+  <lib id="acc_waist_U_nftminimaude" revision="72218">
+    <part id="6117" type="wa"/>
+  </lib>
+  <lib id="acc_chest_U_nftminidonnie" revision="72215">
+    <part id="6120" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nftskullpendant" revision="72221">
+    <part id="6077" type="ca"/>
+    <part id="6078" type="ca"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
