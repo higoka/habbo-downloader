@@ -41992,6 +41992,14 @@ targeted.offer.nov23_tto_gr1.desc=<a href="event:habbopages/tko_blackfriday23_1"
 targeted.offer.nov23_tto_gr1.title=Black Friday MEGA Deal
 targeted.offer.nov23_tto_gr2.desc=<a href="event:habbopages/tko_blackfriday23_2">This deal includes 80 bronze coins + 3x Exclusive Golden H-Station + 60x Exclusive Galaxy Sea  + HC 3 months + Badge
 targeted.offer.nov23_tto_gr2.title=Black Friday MEGA Deal
+targeted.offer.nov24_rm_dbl_tto240.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.nov24_rm_dbl_tto240.title=50 per cent Off 220 Credits
+targeted.offer.nov24_rm_dbl_tto241.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
+targeted.offer.nov24_rm_dbl_tto241.title=50 per cent Off 50 Credits
+targeted.offer.nov24_rm_dbl_tto242.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.nov24_rm_dbl_tto242.title=50 per cent Off 220 Credits
+targeted.offer.nov24_rm_dbl_tto243.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
+targeted.offer.nov24_rm_dbl_tto243.title=50 per cent Off 50 Credits
 targeted.offer.ny16_tko_gr1.desc=Don't turn up to a New Years Eve party without this must-have party furni this year! Confetti, drinks, stars... Don't miss out! <br><br>Offer is limited to one per person and includes:<br>- 70 bronze coins (worth 70c)<br>- <a href="event:habbopages/habboclub">HC 1 month</a> (worth 25c)<br>- Rare Snazzy Star Decoration (worth 25c)<br>- Party Bar (worth 8c)<br>- Confetti Ball (worth 6c)<br>- Small Confetti Floor (worth 2c)<br>- Rare Badge (for free)
 targeted.offer.ny16_tko_gr1.title=Starry New Years Offer
 targeted.offer.ny16_tko_gr2.desc=Make sure your New Years Eve party is talked about for years to come with this SPECTACULAR deal! <br><br>Offer is limited to one per person and includes:<br>- Emerald Ring (worth 100c)<br>- <a href="event:habbopages/habboclub">HC 3 months</a> (worth 60c)<br>- Rare Snazzy Star Decoration (worth 25c)<br>- Party Bar (worth 8c)<br>- Confetti Ball (worth 6c)<br>- Large Confetti Floor x4 (worth 16c)<br>- Drinks tray (worth 3c)<br>- New Years Balloons (worth 3c)<br>- Rare Badge (for free)
@@ -42028,6 +42036,14 @@ targeted.offer.oct23_rm_dbl_tto190.desc=Get 220 credits and diamonds for the pri
 targeted.offer.oct23_rm_dbl_tto190.title=50 per cent Off 220 Credits
 targeted.offer.oct23_rm_dbl_tto191.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
 targeted.offer.oct23_rm_dbl_tto191.title=50 per cent Off 50 Credits
+targeted.offer.oct24_rm_dbl_tto236.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.oct24_rm_dbl_tto236.title=50 per cent Off 200 Credits
+targeted.offer.oct24_rm_dbl_tto237.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
+targeted.offer.oct24_rm_dbl_tto237.title=50 per cent Off 50 Credits
+targeted.offer.oct24_rm_dbl_tto238.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.oct24_rm_dbl_tto238.title=50 per cent Off 200 Credits
+targeted.offer.oct24_rm_dbl_tto239.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
+targeted.offer.oct24_rm_dbl_tto239.title=50 per cent Off 50 Credits
 targeted.offer.open.habbomall=Open the Shop
 targeted.offer.palooza_tko_gr1.desc=The time has come to look for the best spot to pitch your tent! With this pack you can ensure you have access to the BEST clothes and hairstyles in the Hotel with HC membership, plus grab a shiny new badge AND a bunch of sweet-looking furni… come to Habbo 15 prepared; don't miss out! <br><br>Offer is limited to one per person and includes:<br>- 65 Bronze coins (worth 65c)<br>- <a href="event:habbopages/habboclub">HC 1 month</a> (worth 25c)<br>- Hoopla Tent (worth 20c)<br>- Hook-a-Duck (worth 15c)<br>- Red Plane Landing Pad (worth 8c)<br>- Blue Plane Landing Pad (worth 8c)<br>- Badge (for free)
 targeted.offer.palooza_tko_gr1.title=Habbo 15 Festival Pack

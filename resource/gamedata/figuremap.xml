@@ -9469,7 +9469,7 @@
   <lib id="acc_eye_U_nftbonusshades" revision="72045">
     <part id="6049" type="ea"/>
   </lib>
-  <lib id="acc_chest_U_skullguitar" revision="72081">
+  <lib id="acc_chest_U_skullguitar" revision="72239">
     <part id="6025" type="ca"/>
   </lib>
   <lib id="acc_face_U_roseinmouth" revision="72081">
@@ -9489,13 +9489,13 @@
     <part id="5773" type="ca"/>
     <part id="5774" type="ca"/>
   </lib>
-  <lib id="acc_chest_U_prizedguitar" revision="72081">
+  <lib id="acc_chest_U_prizedguitar" revision="72239">
     <part id="6027" type="ca"/>
   </lib>
   <lib id="acc_head_U_fluffyearrings" revision="72081">
     <part id="5741" type="he"/>
   </lib>
-  <lib id="acc_chest_U_acousticguitar" revision="72081">
+  <lib id="acc_chest_U_acousticguitar" revision="72239">
     <part id="6038" type="ca"/>
     <part id="6039" type="ca"/>
     <part id="6040" type="ca"/>
@@ -9512,7 +9512,7 @@
     <part id="5768" type="rs"/>
     <part id="5769" type="ch"/>
   </lib>
-  <lib id="acc_chest_U_floralguitar" revision="72081">
+  <lib id="acc_chest_U_floralguitar" revision="72239">
     <part id="6024" type="ca"/>
   </lib>
   <lib id="hair_U_beautifulbraid" revision="72076">
@@ -9526,7 +9526,7 @@
     <part id="5847" type="he"/>
     <part id="5848" type="he"/>
   </lib>
-  <lib id="acc_chest_U_vibrantguitar" revision="72081">
+  <lib id="acc_chest_U_vibrantguitar" revision="72239">
     <part id="6026" type="ca"/>
   </lib>
   <lib id="trousers_U_mariachipants" revision="72085">
