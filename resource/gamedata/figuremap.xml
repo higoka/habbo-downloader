@@ -9770,6 +9770,14 @@
     <part id="6077" type="ca"/>
     <part id="6078" type="ca"/>
   </lib>
+  <lib id="hat_U_nftrobotikcrown" revision="72241">
+    <part id="6140" type="ha"/>
+  </lib>
+  <lib id="jacket_U_nftsuitcase" revision="72241">
+    <part id="6139" type="cc"/>
+    <part id="6139" type="lc"/>
+    <part id="6139" type="rc"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
