@@ -35216,6 +35216,7 @@ promotedroomcategory.tradingRoom=Trade and Giveaways
 promotedroomcategory.vipParties1=Yacht Parties
 promotedroomcategory.vipParties2=Movie Premieres
 promotedroomcategory.vipParties3=Vault Parties
+pumpkins.currency.name=Pumpkins
 purchase.confirmation.dialog.buying=You're buying
 purchase.confirmation.dialog.confirm=Confirm purchase
 purchase.confirmation.dialog.dont.ask=Don't ask again during this session.
