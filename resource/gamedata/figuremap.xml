@@ -9778,6 +9778,14 @@
     <part id="6139" type="lc"/>
     <part id="6139" type="rc"/>
   </lib>
+  <lib id="face_U_nftblood1" revision="72244">
+    <part id="6141" type="fc"/>
+    <part id="6142" type="ey"/>
+  </lib>
+  <lib id="face_U_nftblood2" revision="72244">
+    <part id="6143" type="fc"/>
+    <part id="6144" type="ey"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
@@ -10179,7 +10187,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="71867">
+  <lib id="hh_human_item" revision="72284">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -10433,6 +10441,7 @@
     <part id="278" type="ri"/>
     <part id="279" type="ri"/>
     <part id="280" type="ri"/>
+    <part id="281" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
