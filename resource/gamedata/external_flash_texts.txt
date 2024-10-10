@@ -25839,6 +25839,7 @@ inventory.buildersclub.borrowed.items=Borrowed items:
 inventory.buildersclub.membership.left=Membership left:
 inventory.buildersclub.search.notfound=We couldn't find anything like that. Try searching for something else or use a different search term!
 inventory.buildersclub.title=Builders' Club
+inventory.collectibles=Collectibles 
 inventory.create_own_card=Make your own
 inventory.effects.active=This effect is activated. Time left %timeleft%/%duration%. You have %itemcount% of these.
 inventory.effects.defaultdescription=You have no badges yet. When you get them this is where you can choose which ones to wear.

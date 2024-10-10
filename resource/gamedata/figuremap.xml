@@ -533,7 +533,7 @@
     <part id="3770" type="ch"/>
     <part id="3771" type="ch"/>
   </lib>
-  <lib id="hair_U_warlocks" revision="65118">
+  <lib id="hair_U_warlocks" revision="72309">
     <part id="3490" type="hr"/>
     <part id="3490" type="hrb"/>
   </lib>
@@ -926,7 +926,7 @@
     <part id="4539" type="cc"/>
     <part id="4540" type="cc"/>
   </lib>
-  <lib id="hair_U_tousledwaves" revision="66509">
+  <lib id="hair_U_tousledwaves" revision="72309">
     <part id="4143" type="hr"/>
     <part id="4143" type="hrb"/>
   </lib>
@@ -1344,7 +1344,7 @@
   <lib id="acc_head_U_earring_ring" revision="26175">
     <part id="2115" type="he"/>
   </lib>
-  <lib id="hair_F_showy" revision="69407">
+  <lib id="hair_F_showy" revision="72309">
     <part id="2422" type="hr"/>
     <part id="2422" type="hrb"/>
     <part id="2423" type="hr"/>
@@ -1653,7 +1653,7 @@
     <part id="4443" type="ca"/>
     <part id="4444" type="ca"/>
   </lib>
-  <lib id="hair_U_ponytailcap" revision="65430">
+  <lib id="hair_U_ponytailcap" revision="72309">
     <part id="3606" type="hr"/>
     <part id="3606" type="hrb"/>
     <part id="3607" type="hr"/>
@@ -3603,7 +3603,7 @@
   <lib id="hat_U_rooster_nft" revision="67138">
     <part id="4255" type="ha"/>
   </lib>
-  <lib id="hair_U_sportshair" revision="65462">
+  <lib id="hair_U_sportshair" revision="72309">
     <part id="3622" type="hr"/>
     <part id="3622" type="hrb"/>
     <part id="3623" type="hr"/>
@@ -3940,7 +3940,7 @@
     <part id="4515" type="ca"/>
     <part id="4516" type="ca"/>
   </lib>
-  <lib id="hair_U_harajukuhair" revision="64184">
+  <lib id="hair_U_harajukuhair" revision="72309">
     <part id="3212" type="hr"/>
     <part id="3212" type="hrb"/>
     <part id="3213" type="hr"/>
@@ -4439,7 +4439,7 @@
     <part id="2313" type="lg"/>
     <part id="2314" type="lg"/>
   </lib>
-  <lib id="hair_U_bloodponytail" revision="64304">
+  <lib id="hair_U_bloodponytail" revision="72309">
     <part id="3229" type="hr"/>
     <part id="3229" type="hrb"/>
     <part id="3230" type="hr"/>
@@ -5529,7 +5529,7 @@
   <lib id="hat_U_spiritfire" revision="66694">
     <part id="4232" type="ha"/>
   </lib>
-  <lib id="hair_U_bohobraids" revision="63895">
+  <lib id="hair_U_bohobraids" revision="72309">
     <part id="3136" type="hr"/>
     <part id="3136" type="hrb"/>
   </lib>
@@ -5738,7 +5738,7 @@
   <lib id="acc_head_U_pins" revision="36952">
     <part id="2395" type="he"/>
   </lib>
-  <lib id="hair_U_topknot" revision="56797">
+  <lib id="hair_U_topknot" revision="72309">
     <part id="2629" type="hr"/>
     <part id="2629" type="hrb"/>
     <part id="2630" type="hr"/>
@@ -6582,7 +6582,7 @@
     <part id="4640" type="cc"/>
     <part id="4641" type="cc"/>
   </lib>
-  <lib id="hair_U_bedhead" revision="65748">
+  <lib id="hair_U_bedhead" revision="72309">
     <part id="3719" type="hr"/>
     <part id="3719" type="hrb"/>
   </lib>
@@ -7240,7 +7240,7 @@
   <lib id="hat_U_nftwintercapbrown" revision="68929">
     <part id="4859" type="ha"/>
   </lib>
-  <lib id="hair_U_twotonehair" revision="70202">
+  <lib id="hair_U_twotonehair" revision="72309">
     <part id="5169" type="hr"/>
     <part id="5169" type="hrb"/>
     <part id="5170" type="hr"/>
@@ -7536,7 +7536,7 @@
   <lib id="hat_U_smurfs" revision="69281">
     <part id="4990" type="ha"/>
   </lib>
-  <lib id="hair_U_sportshair2" revision="70198">
+  <lib id="hair_U_sportshair2" revision="72309">
     <part id="5137" type="hr"/>
     <part id="5137" type="hrb"/>
     <part id="5138" type="hr"/>
