@@ -236,4 +236,5 @@
   <effect id="230" lib="RedDragonSpirit" type="fx" revision="71157"/>
   <effect id="231" lib="BlueDragonSpirit" type="fx" revision="71157"/>
   <effect id="232" lib="GreenDragonSpirit" type="fx" revision="71157"/>
+  <effect id="233" lib="Feathers" type="fx" revision="72382"/>
 </map>

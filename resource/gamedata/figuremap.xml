@@ -9688,7 +9688,7 @@
     <part id="6103" type="ca"/>
     <part id="6104" type="ca"/>
   </lib>
-  <lib id="acc_chest_U_spiderbackpack" revision="72147">
+  <lib id="acc_chest_U_spiderbackpack" revision="72325">
     <part id="6018" type="ca"/>
     <part id="6019" type="ca"/>
     <part id="6020" type="ca"/>
@@ -9785,6 +9785,170 @@
   <lib id="face_U_nftblood2" revision="72244">
     <part id="6143" type="fc"/>
     <part id="6144" type="ey"/>
+  </lib>
+  <lib id="jacket_U_CCtest" revision="72334">
+    <part id="6168" type="cc"/>
+    <part id="6168" type="lc"/>
+    <part id="6168" type="rc"/>
+  </lib>
+  <lib id="hair_U_dreamerhair" revision="72344">
+    <part id="6138" type="hr"/>
+    <part id="6138" type="hrb"/>
+  </lib>
+  <lib id="acc_head_U_dreambubble" revision="72345">
+    <part id="6153" type="he"/>
+  </lib>
+  <lib id="hair_U_jellyfishhair" revision="72345">
+    <part id="6147" type="hr"/>
+    <part id="6147" type="hrb"/>
+    <part id="6148" type="hr"/>
+    <part id="6149" type="hr"/>
+  </lib>
+  <lib id="acc_head_U_dreamsparkles" revision="72379">
+    <part id="6161" type="he"/>
+    <part id="6162" type="he"/>
+  </lib>
+  <lib id="shoes_U_cloudslippers" revision="72345">
+    <part id="6152" type="sh"/>
+  </lib>
+  <lib id="hat_U_gladiatorhelmet" revision="72356">
+    <part id="6163" type="ha"/>
+    <part id="6164" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_dreamerbackpack" revision="72344">
+    <part id="6136" type="ca"/>
+    <part id="6137" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_moonback" revision="72356">
+    <part id="6158" type="ca"/>
+    <part id="6159" type="ca"/>
+    <part id="6160" type="ca"/>
+  </lib>
+  <lib id="acc_head_U_cloudphones" revision="72345">
+    <part id="6150" type="he"/>
+    <part id="6151" type="he"/>
+  </lib>
+  <lib id="acc_head_U_nftgoodvsevil" revision="72355">
+    <part id="6169" type="he"/>
+  </lib>
+  <lib id="jacket_U_dreamscarf" revision="72375">
+    <part id="6145" type="cc"/>
+    <part id="6145" type="lc"/>
+    <part id="6145" type="rc"/>
+    <part id="6146" type="cc"/>
+  </lib>
+  <lib id="acc_chest_U_verticalnecklace" revision="72368">
+    <part id="6101" type="ca"/>
+    <part id="6102" type="ca"/>
+  </lib>
+  <lib id="shirt_F_longwinterdress" revision="72373">
+    <part id="6085" type="ch"/>
+    <part id="6085" type="ls"/>
+    <part id="6085" type="rs"/>
+    <part id="6086" type="ch"/>
+  </lib>
+  <lib id="acc_head_U_chainedearrings" revision="72368">
+    <part id="6089" type="he"/>
+  </lib>
+  <lib id="acc_face_U_nftfrozenface" revision="72368">
+    <part id="6081" type="fa"/>
+  </lib>
+  <lib id="acc_head_U_frozenelfears" revision="72368">
+    <part id="6090" type="he"/>
+    <part id="6091" type="he"/>
+  </lib>
+  <lib id="shirt_F_dressinggown" revision="72376">
+    <part id="6156" type="ch"/>
+    <part id="6156" type="ls"/>
+    <part id="6156" type="rs"/>
+    <part id="6157" type="ch"/>
+  </lib>
+  <lib id="acc_head_U_reindeerheadband" revision="72368">
+    <part id="6095" type="he"/>
+    <part id="6096" type="he"/>
+    <part id="6097" type="he"/>
+  </lib>
+  <lib id="shirt_M_dressinggown" revision="72376">
+    <part id="6154" type="ch"/>
+    <part id="6154" type="ls"/>
+    <part id="6154" type="rs"/>
+    <part id="6155" type="ch"/>
+  </lib>
+  <lib id="acc_head_U_sparklyhalo" revision="72368">
+    <part id="6092" type="he"/>
+    <part id="6093" type="he"/>
+    <part id="6094" type="he"/>
+  </lib>
+  <lib id="hat_U_flippedxmashat" revision="72368">
+    <part id="6112" type="ha"/>
+    <part id="6113" type="ha"/>
+    <part id="6114" type="ha"/>
+  </lib>
+  <lib id="shirt_M_hollydress" revision="72376">
+    <part id="6134" type="ch"/>
+    <part id="6134" type="ls"/>
+    <part id="6134" type="rs"/>
+    <part id="6135" type="ch"/>
+  </lib>
+  <lib id="hair_U_longwaveshair" revision="72387">
+    <part id="6111" type="hr"/>
+    <part id="6111" type="hrb"/>
+  </lib>
+  <lib id="hair_U_tousledwave" revision="72377">
+    <part id="6130" type="hr"/>
+    <part id="6130" type="hrb"/>
+    <part id="6131" type="hr"/>
+  </lib>
+  <lib id="jacket_U_offshouldercardigan" revision="72369">
+    <part id="6082" type="cc"/>
+    <part id="6082" type="lc"/>
+    <part id="6082" type="rc"/>
+    <part id="6083" type="cc"/>
+    <part id="6084" type="cc"/>
+  </lib>
+  <lib id="hair_U_clippedupdo" revision="72387">
+    <part id="6108" type="hr"/>
+    <part id="6108" type="hrb"/>
+    <part id="6109" type="hr"/>
+    <part id="6110" type="hr"/>
+  </lib>
+  <lib id="shirt_F_hollydress" revision="72376">
+    <part id="6132" type="ch"/>
+    <part id="6132" type="ls"/>
+    <part id="6132" type="rs"/>
+    <part id="6133" type="ch"/>
+  </lib>
+  <lib id="acc_chest_U_nftfrozenscarf" revision="72368">
+    <part id="6080" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_screwednecklace" revision="72382">
+    <part id="6098" type="ca"/>
+    <part id="6099" type="ca"/>
+    <part id="6100" type="ca"/>
+  </lib>
+  <lib id="shirt_M_longwinterdress" revision="72373">
+    <part id="6087" type="ch"/>
+    <part id="6087" type="ls"/>
+    <part id="6087" type="rs"/>
+    <part id="6088" type="ch"/>
+  </lib>
+  <lib id="acc_face_U_bigbushybeard" revision="72381">
+    <part id="6167" type="fa"/>
+  </lib>
+  <lib id="jacket_U_dreamerpillow" revision="72386">
+    <part id="6165" type="cc"/>
+    <part id="6165" type="lc"/>
+    <part id="6165" type="rc"/>
+    <part id="6166" type="cc"/>
+  </lib>
+  <lib id="hat_U_littlesnowman" revision="72391">
+    <part id="6172" type="ha"/>
+    <part id="6173" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_xmastreebackpack" revision="72391">
+    <part id="6174" type="ca"/>
+    <part id="6175" type="ca"/>
+    <part id="6176" type="ca"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
@@ -10187,7 +10351,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="72284">
+  <lib id="hh_human_item" revision="72367">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -10442,6 +10606,7 @@
     <part id="279" type="ri"/>
     <part id="280" type="ri"/>
     <part id="281" type="ri"/>
+    <part id="282" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
