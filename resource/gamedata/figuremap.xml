@@ -9950,6 +9950,10 @@
     <part id="6175" type="ca"/>
     <part id="6176" type="ca"/>
   </lib>
+  <lib id="acc_chest_U_silverjamtoastbackpack" revision="72421">
+    <part id="6193" type="ca"/>
+    <part id="6194" type="ca"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
