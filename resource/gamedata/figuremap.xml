@@ -1866,7 +1866,7 @@
     <part id="2031" type="hrb"/>
     <part id="2032" type="hr"/>
   </lib>
-  <lib id="jacket_U_nordicscarf" revision="65239">
+  <lib id="jacket_U_nordicscarf" revision="72481">
     <part id="3527" type="cc"/>
     <part id="3527" type="lc"/>
     <part id="3527" type="rc"/>
@@ -4527,7 +4527,7 @@
     <part id="2546" type="he"/>
     <part id="2547" type="he"/>
   </lib>
-  <lib id="jacket_U_grandexoticcape" revision="65586">
+  <lib id="jacket_U_grandexoticcape" revision="72483">
     <part id="3656" type="cc"/>
     <part id="3656" type="lc"/>
     <part id="3656" type="rc"/>
@@ -5635,7 +5635,7 @@
     <part id="2333" type="lg"/>
     <part id="2334" type="lg"/>
   </lib>
-  <lib id="jacket_U_longscarf" revision="65389">
+  <lib id="jacket_U_longscarf" revision="72481">
     <part id="2935" type="cc"/>
     <part id="2935" type="lc"/>
     <part id="2935" type="rc"/>
@@ -9954,6 +9954,11 @@
     <part id="6193" type="ca"/>
     <part id="6194" type="ca"/>
   </lib>
+  <lib id="jacket_U_nftspdemon" revision="72444">
+    <part id="6195" type="cc"/>
+    <part id="6195" type="lc"/>
+    <part id="6195" type="rc"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
@@ -10355,7 +10360,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="72367">
+  <lib id="hh_human_item" revision="72454">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -10611,6 +10616,7 @@
     <part id="280" type="ri"/>
     <part id="281" type="ri"/>
     <part id="282" type="ri"/>
+    <part id="283" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
