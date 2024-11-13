@@ -39538,6 +39538,7 @@ quests.nov24_gladiator.1731332659011.completed=Yummy!
 quests.nov24_gladiator.1731332659011.desc=Let's find some snacks
 quests.nov24_gladiator.1731332659011.hint=Find some food to take care of your hunger.
 quests.nov24_gladiator.1731332659011.name=Emperors also eat
+quests.nov24_gladiator.name=The Rise of Glatiadors
 quests.nov24_gladiator=The Rise of Glatiadors
 quests.nov24crafting.1728379354198.completed=Your Dream Kingdom furni is ready! Let the magic begin!
 quests.nov24crafting.1728379354198.desc=Craft Dream Kingdom furni and bring your dreams to life!
