@@ -9828,8 +9828,10 @@
     <part id="6150" type="he"/>
     <part id="6151" type="he"/>
   </lib>
-  <lib id="acc_head_U_nftgoodvsevil" revision="72355">
+  <lib id="acc_head_U_nftgoodvsevil" revision="72550">
     <part id="6169" type="he"/>
+    <part id="6170" type="he"/>
+    <part id="6171" type="he"/>
   </lib>
   <lib id="jacket_U_dreamscarf" revision="72375">
     <part id="6145" type="cc"/>
@@ -9958,6 +9960,26 @@
     <part id="6195" type="cc"/>
     <part id="6195" type="lc"/>
     <part id="6195" type="rc"/>
+  </lib>
+  <lib id="jacket_U_CCtest2" revision="72548">
+    <part id="6250" type="cc"/>
+    <part id="6250" type="lc"/>
+    <part id="6250" type="rc"/>
+    <part id="6251" type="cc"/>
+  </lib>
+  <lib id="jacket_U_nftbiglollipop" revision="72550">
+    <part id="6202" type="cc"/>
+    <part id="6202" type="lc"/>
+    <part id="6202" type="rc"/>
+    <part id="6203" type="cc"/>
+  </lib>
+  <lib id="acc_head_U_nftgoodvsevil2" revision="72550">
+    <part id="6198" type="he"/>
+    <part id="6199" type="he"/>
+    <part id="6200" type="he"/>
+  </lib>
+  <lib id="acc_head_U_nftgoodvsevil3" revision="72550">
+    <part id="6201" type="he"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
