@@ -9804,6 +9804,9 @@
     <part id="6148" type="hr"/>
     <part id="6149" type="hr"/>
   </lib>
+  <lib id="hat_U_gold25" revision="72567">
+    <part id="6242" type="ha"/>
+  </lib>
   <lib id="acc_head_U_dreamsparkles" revision="72379">
     <part id="6161" type="he"/>
     <part id="6162" type="he"/>
@@ -9828,7 +9831,7 @@
     <part id="6150" type="he"/>
     <part id="6151" type="he"/>
   </lib>
-  <lib id="acc_head_U_nftgoodvsevil" revision="72550">
+  <lib id="acc_head_U_nftgoodvsevil" revision="72566">
     <part id="6169" type="he"/>
     <part id="6170" type="he"/>
     <part id="6171" type="he"/>
@@ -9980,6 +9983,69 @@
   </lib>
   <lib id="acc_head_U_nftgoodvsevil3" revision="72550">
     <part id="6201" type="he"/>
+  </lib>
+  <lib id="face_U_nftfreckles2" revision="72564">
+    <part id="6228" type="ey"/>
+    <part id="6229" type="fc"/>
+  </lib>
+  <lib id="face_U_nftfrecklesb" revision="72566">
+    <part id="6225" type="ey"/>
+    <part id="6226" type="fc"/>
+  </lib>
+  <lib id="face_U_nftfreckles2b" revision="72569">
+    <part id="6231" type="ey"/>
+    <part id="6232" type="fc"/>
+  </lib>
+  <lib id="jacket_U_nftbabysnowman" revision="72559">
+    <part id="6236" type="cc"/>
+    <part id="6236" type="lc"/>
+    <part id="6236" type="rc"/>
+    <part id="6237" type="cc"/>
+    <part id="6238" type="cc"/>
+  </lib>
+  <lib id="jacket_U_nftbabyrudolf" revision="72559">
+    <part id="6235" type="cc"/>
+    <part id="6235" type="lc"/>
+    <part id="6235" type="rc"/>
+  </lib>
+  <lib id="face_U_nftfreckles" revision="72562">
+    <part id="6222" type="ey"/>
+    <part id="6223" type="fc"/>
+  </lib>
+  <lib id="hair_U_nftmessycut" revision="72559">
+    <part id="6233" type="hr"/>
+    <part id="6233" type="hrb"/>
+    <part id="6234" type="hr"/>
+  </lib>
+  <lib id="hat_U_gold26" revision="72567">
+    <part id="6243" type="ha"/>
+  </lib>
+  <lib id="hat_U_gold27" revision="72567">
+    <part id="6244" type="ha"/>
+  </lib>
+  <lib id="hat_U_gold28" revision="72567">
+    <part id="6245" type="ha"/>
+  </lib>
+  <lib id="hat_U_gold29" revision="72567">
+    <part id="6246" type="ha"/>
+  </lib>
+  <lib id="hat_U_gold30" revision="72567">
+    <part id="6247" type="ha"/>
+  </lib>
+  <lib id="hat_U_gold31" revision="72567">
+    <part id="6248" type="ha"/>
+  </lib>
+  <lib id="hat_U_gold32" revision="72567">
+    <part id="6249" type="ha"/>
+  </lib>
+  <lib id="acc_head_U_diastar" revision="72567">
+    <part id="6240" type="he"/>
+  </lib>
+  <lib id="hat_U_diasparkleparty" revision="72567">
+    <part id="6241" type="ha"/>
+  </lib>
+  <lib id="acc_head_U_diaplume" revision="72567">
+    <part id="6239" type="he"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
