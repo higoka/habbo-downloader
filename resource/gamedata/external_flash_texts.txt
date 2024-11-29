@@ -42886,10 +42886,14 @@ targeted.offer.nov24_rm_dbl_tto242.desc=Get 220 credits and diamonds for the pri
 targeted.offer.nov24_rm_dbl_tto242.title=50 per cent Off 220 Credits
 targeted.offer.nov24_rm_dbl_tto243.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
 targeted.offer.nov24_rm_dbl_tto243.title=50 per cent Off 50 Credits
-targeted.offer.nov24_tto1.desc=This deal includes 70 bronze coins + Exclusive Cover-up Scarf (clothing_dreamlongscarf) + BC 1 month membership + 500 Silver + Badge
+targeted.offer.nov24_tto1.desc=This deal includes 70 bronze coins + Exclusive Cover-up Scarf  + BC 1 month membership + 500 Silver + Badge
 targeted.offer.nov24_tto1.title=Black Friday 2024 Offer
-targeted.offer.nov24_tto2.desc=This deal includes 80 bronze coins + 2x Exclusive Cover-up Scarf (clothing_dreamlongscarf)  + BC 3 months membership + 500 Silver + Badge
+targeted.offer.nov24_tto2.desc=This deal includes 80 bronze coins + 2x Exclusive Cover-up Scarf   + BC 3 months membership + 500 Silver + Badge
 targeted.offer.nov24_tto2.title=Black Friday 2024 Offer
+targeted.offer.nov24_tto_gr1.desc=This deal includes 70 bronze coins + Exclusive Cover-up Scarf  + BC 1 month membership + 500 Silver + Badge
+targeted.offer.nov24_tto_gr1.title=Black Friday 2024 Offer
+targeted.offer.nov24_tto_gr2.desc=This deal includes 80 bronze coins + 2x Exclusive Cover-up Scarf   + BC 3 months membership + 500 Silver + Badge
+targeted.offer.nov24_tto_gr2.title=Black Friday 2024 Offer
 targeted.offer.nov24blackfriday.desc=Exclusive to Black Friday! Come and get your brand new long scarf for a much needed winter cover-up.
 targeted.offer.nov24blackfriday.title=Cover-up Scarf
 targeted.offer.ny16_tko_gr1.desc=Don't turn up to a New Years Eve party without this must-have party furni this year! Confetti, drinks, stars... Don't miss out! <br><br>Offer is limited to one per person and includes:<br>- 70 bronze coins (worth 70c)<br>- <a href="event:habbopages/habboclub">HC 1 month</a> (worth 25c)<br>- Rare Snazzy Star Decoration (worth 25c)<br>- Party Bar (worth 8c)<br>- Confetti Ball (worth 6c)<br>- Small Confetti Floor (worth 2c)<br>- Rare Badge (for free)
