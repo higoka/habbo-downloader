@@ -23903,6 +23903,7 @@ featured.offer.xmas24fest.title=BACK: Festive Clothing
 featured.offer.xmas24furni.title=NEW: Cosy Christmas Furni
 featured.offer.xmas24r3.title=RARE Sparkling Halo
 featured.offer.xmas24sc.title=NEW: Seasonal Currency Collectibles!
+featured.xmas24crack1.title=Red Present
 figure.error=Figure change error!
 figure.ok=Figure change ok!
 floor.editor.wall.height=Wall Height

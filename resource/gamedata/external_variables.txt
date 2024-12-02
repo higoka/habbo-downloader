@@ -8348,8 +8348,8 @@ zoom.enabled=1
 
 flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202411291615-766047143/
 new.user.flow.roomTypes=10,11,12
-external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/a4fac150f6ddc8d014e8dd4c116779880ab369c4
-external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/a27505e65bd0b2819f1fd773b583f3f82510dbd3
+external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/c0d02c56d3ff3f3bac260fb3885a31ac52851841
+external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/66ff9a01fade105fef5355a880968e5159341782
 productdata.load.url=https://www.habbo.com/gamedata/productdata/daae0f5962abad0b700ccbb74eb3a432d0636f5d
 furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/fdc91157c6bacadbe18fc2dc0960031532add48c
-external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/a4fac150f6ddc8d014e8dd4c116779880ab369c4
+external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/c0d02c56d3ff3f3bac260fb3885a31ac52851841
