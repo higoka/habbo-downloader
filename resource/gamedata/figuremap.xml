@@ -9836,7 +9836,7 @@
     <part id="6170" type="he"/>
     <part id="6171" type="he"/>
   </lib>
-  <lib id="jacket_U_dreamscarf" revision="72375">
+  <lib id="jacket_U_dreamscarf" revision="72572">
     <part id="6145" type="cc"/>
     <part id="6145" type="lc"/>
     <part id="6145" type="rc"/>
@@ -10046,6 +10046,38 @@
   </lib>
   <lib id="acc_head_U_diaplume" revision="72567">
     <part id="6239" type="he"/>
+  </lib>
+  <lib id="acc_head_U_starboppers1" revision="72571">
+    <part id="6177" type="he"/>
+    <part id="6178" type="he"/>
+  </lib>
+  <lib id="acc_head_U_starboppers2" revision="72571">
+    <part id="6179" type="he"/>
+    <part id="6180" type="he"/>
+  </lib>
+  <lib id="acc_head_U_starboppers3" revision="72571">
+    <part id="6181" type="he"/>
+    <part id="6182" type="he"/>
+  </lib>
+  <lib id="acc_head_U_starboppers4" revision="72571">
+    <part id="6183" type="he"/>
+    <part id="6184" type="he"/>
+  </lib>
+  <lib id="acc_head_U_starboppers5" revision="72571">
+    <part id="6185" type="he"/>
+    <part id="6186" type="he"/>
+  </lib>
+  <lib id="acc_head_U_starboppers6" revision="72571">
+    <part id="6187" type="he"/>
+    <part id="6188" type="he"/>
+  </lib>
+  <lib id="acc_head_U_starboppers7" revision="72571">
+    <part id="6189" type="he"/>
+    <part id="6190" type="he"/>
+  </lib>
+  <lib id="acc_head_U_starboppers8" revision="72571">
+    <part id="6191" type="he"/>
+    <part id="6192" type="he"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
