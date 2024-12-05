@@ -10079,6 +10079,29 @@
     <part id="6191" type="he"/>
     <part id="6192" type="he"/>
   </lib>
+  <lib id="acc_chest_U_nftbaubles1" revision="72588">
+    <part id="6310" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nftbaubles2" revision="72588">
+    <part id="6311" type="ca"/>
+  </lib>
+  <lib id="jacket_M_nftrastasantajacket" revision="72588">
+    <part id="6308" type="cc"/>
+    <part id="6308" type="lc"/>
+    <part id="6308" type="rc"/>
+  </lib>
+  <lib id="shoes_U_nftxmassocks" revision="72588">
+    <part id="6313" type="sh"/>
+  </lib>
+  <lib id="jacket_U_nftsack" revision="72588">
+    <part id="6312" type="lc"/>
+    <part id="6312" type="rc"/>
+  </lib>
+  <lib id="jacket_F_nftrastasantajacket" revision="72588">
+    <part id="6309" type="cc"/>
+    <part id="6309" type="lc"/>
+    <part id="6309" type="rc"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
