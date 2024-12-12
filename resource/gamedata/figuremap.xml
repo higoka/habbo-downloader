@@ -10102,6 +10102,35 @@
     <part id="6309" type="lc"/>
     <part id="6309" type="rc"/>
   </lib>
+  <lib id="acc_waist_U_cnysnaketail" revision="72619">
+    <part id="6218" type="wa"/>
+    <part id="6219" type="wa"/>
+    <part id="6220" type="wa"/>
+  </lib>
+  <lib id="shirt_F_poshwaistcoat" revision="72619">
+    <part id="6213" type="ch"/>
+    <part id="6213" type="ls"/>
+    <part id="6213" type="rs"/>
+    <part id="6214" type="ch"/>
+    <part id="6215" type="ch"/>
+  </lib>
+  <lib id="shirt_M_poshwaistcoat" revision="72619">
+    <part id="6210" type="ch"/>
+    <part id="6210" type="ls"/>
+    <part id="6210" type="rs"/>
+    <part id="6211" type="ch"/>
+    <part id="6212" type="ch"/>
+  </lib>
+  <lib id="acc_face_U_cnysnaketongue" revision="72619">
+    <part id="6216" type="fa"/>
+    <part id="6217" type="fa"/>
+  </lib>
+  <lib id="jacket_U_goosefriend" revision="72622">
+    <part id="6196" type="cc"/>
+    <part id="6196" type="lc"/>
+    <part id="6196" type="rc"/>
+    <part id="6197" type="cc"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
