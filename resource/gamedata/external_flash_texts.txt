@@ -42857,6 +42857,14 @@ targeted.offer.jan24_rm_dbl_tto202.title=50 per cent Off 220 Credits
 targeted.offer.jan24_rm_dbl_tto203.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
 targeted.offer.jan24_rm_dbl_tto203.title=50 per cent Off 50 Credits
 targeted.offer.jan24_thailand.title=20% Off Tropical Thailand Offer
+targeted.offer.jan25_rm_dbl_tto248.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.jan25_rm_dbl_tto248.title=50 per cent Off 220 Credits
+targeted.offer.jan25_rm_dbl_tto249.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
+targeted.offer.jan25_rm_dbl_tto249.title=50 per cent Off 50 Credits
+targeted.offer.jan25_rm_dbl_tto250.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.jan25_rm_dbl_tto250.title=50 per cent Off 220 Credits
+targeted.offer.jan25_rm_dbl_tto251.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
+targeted.offer.jan25_rm_dbl_tto251.title=50 per cent Off 50 Credits
 targeted.offer.journey2_tto_np_gr1.desc=Get serious about building with this Package and get access to the totally HUGE amount of furni contained within the Builders' Club Warehouse! This is a one-time and EXCLUSIVE offer. <br><br>Offer is limited to one per person and includes:<br>- Kitten's Cosy Kitchen Bundle (worth 30c + 30d)<br>- <a href="event:habbopages/builders-club/info">BC 7 days</a> (worth 30c + 30d)
 targeted.offer.journey2_tto_np_gr1.title=Pro-Builder Package
 targeted.offer.journey2_tto_np_gr2.desc=Do you LOVE to party, and thrive when you're organising? Make sure you're able to host the Habbo party of the century with this one-time, EXCLUSIVE offer! <br><br>Offer is limited to one per person and includes:<br>- 4 Party items (worth 15c)<br>- <a href="event:habbopages/habboclub">HC 1 month</a> (worth 50c + 50d)<br>- 10 credits
