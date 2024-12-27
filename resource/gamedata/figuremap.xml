@@ -10131,6 +10131,25 @@
     <part id="6196" type="rc"/>
     <part id="6197" type="cc"/>
   </lib>
+  <lib id="acc_chest_M_nftartistapron" revision="72640">
+    <part id="6417" type="ca"/>
+    <part id="6418" type="ca"/>
+  </lib>
+  <lib id="acc_print_U_nft2025" revision="72640">
+    <part id="6412" type="cp"/>
+  </lib>
+  <lib id="acc_chest_F_nftartistapron" revision="72640">
+    <part id="6419" type="ca"/>
+    <part id="6420" type="ca"/>
+  </lib>
+  <lib id="acc_face_U_nftartistpencil" revision="72640">
+    <part id="6415" type="fa"/>
+    <part id="6416" type="fa"/>
+  </lib>
+  <lib id="hat_U_nftartistberet" revision="72640">
+    <part id="6413" type="ha"/>
+    <part id="6414" type="ha"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
