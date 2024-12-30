@@ -36473,6 +36473,7 @@ quests.Horse_12_7.1331039871766.desc=Gather 8 riders and stand in a horse shoe f
 quests.Horse_12_7.1331039871766.hint=Show off your formation riding skills - stand in a formation of a horse shoe consisting of 8 riders and stay in formation for 10 seconds.
 quests.Horse_12_7.1331039871766.name=Horse shoe formation
 quests.Horse_12_7.name=Home Straight
+quests.NY2024.name=Happy 2025!
 quests.PLAYBATTLE24.name=Battle Banzai Tutorial
 quests.PLAYFREEZE24.1715080822006.chaincaption=Play Freeze!
 quests.PLAYFREEZE24.1715080873408.completed=Yeah! You froze them good...
