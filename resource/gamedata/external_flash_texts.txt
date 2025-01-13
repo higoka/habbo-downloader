@@ -17861,6 +17861,7 @@ badge_name_SNY20=Drawing Penguin
 badge_name_SNY21=Drawing Reindeer 
 badge_name_SNY22=Drawing Snowflake 
 badge_name_SNY23=You completed all Drawing games
+badge_name_SNY25=Neo Set
 badge_name_SOF01=Sofas Offer One
 badge_name_SOF02=Sofas Offer Two
 badge_name_SOF03=Sofas Offer Three
