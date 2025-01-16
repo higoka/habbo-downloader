@@ -33745,7 +33745,6 @@ mod.alert.title=Message from Habbo Hotel
 mod.ban.title=Account Status: Banned
 mod.chatdisclaimer=Discussions in Habbo rooms may be monitored for moderation purposes
 moderation.appeal.link=https://help.habbo.com
-moderation.help.link=help.habbo.com
 money.gift.open=The gift contained money. You can find it in your Earnings.
 monsterplant.confirm.desc.compost=Are you sure you want to convert your dead Monster Plant into a warm pile of grass and dirt? This action can't be undone.
 monsterplant.confirm.title.compost=Compost Your Plant.
