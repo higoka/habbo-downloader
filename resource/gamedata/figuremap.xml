@@ -10173,6 +10173,56 @@
   <lib id="acc_face_U_nftsnaketeeth" revision="72723">
     <part id="6477" type="fa"/>
   </lib>
+  <lib id="shirt_M_mermaidstyleweddingdress" revision="72730">
+    <part id="6452" type="ch"/>
+    <part id="6452" type="ls"/>
+    <part id="6452" type="rs"/>
+  </lib>
+  <lib id="hat_U_roseweddingtophat" revision="72726">
+    <part id="6462" type="ha"/>
+    <part id="6463" type="ha"/>
+    <part id="6464" type="ha"/>
+  </lib>
+  <lib id="shirt_F_ducketshirt" revision="72727">
+    <part id="6206" type="ch"/>
+    <part id="6206" type="ls"/>
+    <part id="6206" type="rs"/>
+    <part id="6207" type="ch"/>
+  </lib>
+  <lib id="jacket_M_roseweddingtux" revision="72726">
+    <part id="6456" type="cc"/>
+    <part id="6456" type="lc"/>
+    <part id="6456" type="rc"/>
+    <part id="6457" type="cc"/>
+    <part id="6458" type="cc"/>
+  </lib>
+  <lib id="shirt_M_ducketshirt" revision="72727">
+    <part id="6204" type="ch"/>
+    <part id="6204" type="ls"/>
+    <part id="6204" type="rs"/>
+    <part id="6205" type="ch"/>
+  </lib>
+  <lib id="hat_U_duckethat" revision="72727">
+    <part id="6208" type="ha"/>
+    <part id="6209" type="ha"/>
+  </lib>
+  <lib id="jacket_F_roseweddingtux" revision="72726">
+    <part id="6459" type="cc"/>
+    <part id="6459" type="lc"/>
+    <part id="6459" type="rc"/>
+    <part id="6460" type="cc"/>
+    <part id="6461" type="cc"/>
+  </lib>
+  <lib id="shirt_F_mermaidstyleweddingdress" revision="72730">
+    <part id="6451" type="ch"/>
+    <part id="6451" type="ls"/>
+    <part id="6451" type="rs"/>
+  </lib>
+  <lib id="acc_head_U_fancyweddingveil" revision="72726">
+    <part id="6453" type="he"/>
+    <part id="6454" type="he"/>
+    <part id="6455" type="he"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
@@ -10574,7 +10624,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="72454">
+  <lib id="hh_human_item" revision="72732">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -10831,6 +10881,7 @@
     <part id="281" type="ri"/>
     <part id="282" type="ri"/>
     <part id="283" type="ri"/>
+    <part id="284" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
