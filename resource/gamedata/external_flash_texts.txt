@@ -25621,6 +25621,7 @@ handitem165=Marshmallow on a Stick
 handitem166=Finger Cupcake
 handitem167=Mini Vanilla Ice Cream
 handitem168=Potato
+handitem169=coxinha
 handitem16=cappuccino
 handitem17=java
 handitem18=tap water
