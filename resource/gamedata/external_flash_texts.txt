@@ -23450,6 +23450,7 @@ featured.offer.jan24statue.title=NEW: Year of the Dragon Statues!
 featured.offer.jan25cf.title=Golden Cracked Egg Credit Furni
 featured.offer.jan25crack1a.title=Diamond Gift Box 4.0
 featured.offer.jan25lnyacc.title=Year of the Snake Accessories!
+featured.offer.jan25lnyfurni.title=NEW: Lunar New Year Furni
 featured.offer.jan25r1.title=RARE Posh Waistcoat
 featured.offer.jan25r2.title=RARE Pygmy Hippo
 featured.offer.jan25r3.title=RARE Goose Friend
