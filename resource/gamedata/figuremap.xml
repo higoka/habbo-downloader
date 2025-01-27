@@ -10150,23 +10150,23 @@
     <part id="6413" type="ha"/>
     <part id="6414" type="ha"/>
   </lib>
-  <lib id="acc_print_U_nftsnakeyearmark1" revision="72723">
+  <lib id="acc_print_U_nftsnakeyearmark1" revision="72761">
     <part id="6478" type="cp"/>
   </lib>
-  <lib id="acc_print_U_nftsnakeyearmark2" revision="72723">
+  <lib id="acc_print_U_nftsnakeyearmark2" revision="72761">
     <part id="6479" type="cp"/>
   </lib>
-  <lib id="acc_print_U_nftsnakeyearmark3" revision="72723">
+  <lib id="acc_print_U_nftsnakeyearmark3" revision="72761">
     <part id="6480" type="cp"/>
   </lib>
-  <lib id="acc_print_U_nftsnakeyearmark4" revision="72723">
+  <lib id="acc_print_U_nftsnakeyearmark4" revision="72761">
     <part id="6481" type="cp"/>
   </lib>
   <lib id="pet_U_shiba1test" revision="72721">
     <part id="6490" type="pt"/>
     <part id="6491" type="pt"/>
   </lib>
-  <lib id="hat_U_nftsnakecrown" revision="72723">
+  <lib id="hat_U_nftsnakecrown" revision="72745">
     <part id="6482" type="ha"/>
     <part id="6483" type="ha"/>
   </lib>
@@ -10624,7 +10624,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="72732">
+  <lib id="hh_human_item" revision="72738">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -10882,6 +10882,7 @@
     <part id="282" type="ri"/>
     <part id="283" type="ri"/>
     <part id="284" type="ri"/>
+    <part id="285" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
