@@ -22671,6 +22671,7 @@ earnings.hc.label=HC payday bonus
 earnings.levelprogression.label=Level progression
 earnings.marketplace.label=Marketplace
 earnings.monthly.gift.claim.success=Gift claimed successfully.
+earnings.monthlygift.content.description=Check out the HC and VIP gifts. When in HC, choose from a selection of HC gifts. When in VIP you get to choose your gift from the limited VIP edition.
 earnings.monthlygift.content.title=Habbo Club gift selection
 earnings.monthlygift.description=To receive monthly gifts visit the shop and get your Habbo Club membership!
 earnings.monthlygift.no.gift.selected=Gift not selected.
