@@ -22424,6 +22424,7 @@ collectibles.set.relics_v11_general=Relic: V11 General
 collectibles.set.relics_v11_seasonal=Relic: V11 Seasonal
 collectibles.set.robots_23=Robots 2023
 collectibles.set.rockstars_23=Rock Stars 2023
+collectibles.set.sculpture_garden=Sculpture Garden 
 collectibles.set.smurfs_society_23=Smurfs Society 2023
 collectibles.set.spring_23=Spring 2023
 collectibles.set.summer_2024_clothing=Summer 2024 Clothing
