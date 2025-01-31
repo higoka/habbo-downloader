@@ -17740,6 +17740,7 @@ badge_name_SG009=SG Cherry Credit 6
 badge_name_SG018=Honour IP
 badge_name_SG1=test for Elkah
 badge_name_SG1_HHSG=Bronze Habbo of the Month
+badge_name_SG213=Habbo Brazil Birthday Bundle
 badge_name_SG213_name=Habbo Brazil Birthday Bundle
 badge_name_SG214=Wedding Ceremony Bundle
 badge_name_SG215=Miami Nightclub Bundle
