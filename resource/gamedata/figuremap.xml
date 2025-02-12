@@ -10403,7 +10403,7 @@
     <part id="6520" type="ey"/>
     <part id="6521" type="fc"/>
   </lib>
-  <lib id="face_U_nftsilver1" revision="72811">
+  <lib id="face_U_nftsilver1" revision="72839">
     <part id="6515" type="hd"/>
     <part id="6515" type="bd"/>
     <part id="6515" type="ey"/>
@@ -10416,7 +10416,7 @@
     <part id="6516" type="ey"/>
     <part id="6516" type="fc"/>
   </lib>
-  <lib id="face_U_nftbronze1" revision="72811">
+  <lib id="face_U_nftbronze1" revision="72839">
     <part id="6513" type="hd"/>
     <part id="6513" type="bd"/>
     <part id="6513" type="ey"/>
@@ -10429,7 +10429,7 @@
     <part id="6514" type="ey"/>
     <part id="6514" type="fc"/>
   </lib>
-  <lib id="face_U_nftgold1" revision="72811">
+  <lib id="face_U_nftgold1" revision="72839">
     <part id="6517" type="hd"/>
     <part id="6517" type="bd"/>
     <part id="6517" type="ey"/>
