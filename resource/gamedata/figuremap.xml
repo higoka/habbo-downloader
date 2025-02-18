@@ -1572,7 +1572,7 @@
     <part id="4315" type="ls"/>
     <part id="4315" type="rs"/>
   </lib>
-  <lib id="shirt_M_camotank" revision="59888">
+  <lib id="shirt_M_camotank" revision="72854">
     <part id="2730" type="ch"/>
     <part id="2730" type="ls"/>
     <part id="2730" type="rs"/>
@@ -1663,7 +1663,7 @@
     <part id="3778" type="ls"/>
     <part id="3778" type="rs"/>
   </lib>
-  <lib id="shirt_F_camotank" revision="58399">
+  <lib id="shirt_F_camotank" revision="72854">
     <part id="2732" type="ch"/>
     <part id="2732" type="ls"/>
     <part id="2732" type="rs"/>
