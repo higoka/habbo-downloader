@@ -10502,15 +10502,25 @@
     <part id="6567" type="fc"/>
     <part id="6567" type="ey"/>
   </lib>
-  <lib id="face_U_nfthearteyes2" revision="72846">
+  <lib id="face_U_nfthearteyes2" revision="72859">
     <part id="6564" type="fc"/>
     <part id="6565" type="fc"/>
     <part id="6565" type="ey"/>
   </lib>
-  <lib id="face_U_nftbluehearteyes2" revision="72846">
+  <lib id="face_U_nftbluehearteyes2" revision="72859">
     <part id="6568" type="fc"/>
     <part id="6569" type="fc"/>
     <part id="6569" type="ey"/>
+  </lib>
+  <lib id="acc_head_U_nftflowerfairy" revision="72872">
+    <part id="6570" type="he"/>
+    <part id="6571" type="he"/>
+    <part id="6572" type="he"/>
+  </lib>
+  <lib id="acc_head_U_nftflowerfairy2" revision="72872">
+    <part id="6583" type="he"/>
+    <part id="6584" type="he"/>
+    <part id="6585" type="he"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>

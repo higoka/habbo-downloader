@@ -17772,6 +17772,7 @@ badge_name_SG204=Lion Sculpture
 badge_name_SG205=Sheep Sculpture
 badge_name_SG206=Raccoon Sculpture
 badge_name_SG207=Swan Sculpture Lovelock
+badge_name_SG208=Habbo Vault 
 badge_name_SG209=Rare Dove Swing
 badge_name_SG210=Rare Valentines Bride
 badge_name_SG211=Rare Valentines Groom
