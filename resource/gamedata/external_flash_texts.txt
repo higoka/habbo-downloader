@@ -22526,6 +22526,7 @@ collectibles.set.xmas_22_toys=Xmas 2022 Toys
 collectibles.set.xmas_23_chocolate=Xmas 2023 Chocolates
 collectibles.set.xmas_23_clothes=Xmas 2023 Clothes
 collectibles.set.xmas_23_treats=Xmas 2023 Treats
+collectibles.shop.title=Shop 
 collectibles.sort.default=Default 
 collectibles.sort.progress=Progress 
 collectibles.sort.score=Score 
