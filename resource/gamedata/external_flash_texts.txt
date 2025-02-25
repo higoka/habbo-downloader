@@ -34753,6 +34753,7 @@ notifications.follow_friend_failed=That habbo is busy with something else right 
 notifications.gotbonus.ok=Yay!
 notifications.message_from_moderator=Message from moderator
 notifications.motd.title=Messages for you
+notifications.new_feature.daily_tasks.desc=Daily tasks are LIVE NOW!
 notifications.new_feature.new_achievements.desc=NEW achievements are available!
 notifications.purchasable_clothing_use.description=This furni will be removed, and you will be able to wear the item via looks editor.
 notifications.text.achievement.achievement_points=Achievement points: %achievement_points%
