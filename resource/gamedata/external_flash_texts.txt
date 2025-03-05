@@ -44770,7 +44770,7 @@ wiredfurni.params.length.minutes=Length: %minutes% minutes
 wiredfurni.params.level_selection=Set level: %level%
 wiredfurni.params.levelup.first_level_xp=Base XP:
 wiredfurni.params.levelup.increase_factor=Increase factor (%):
-wiredfurni.params.levelup.interpolation_placeholder=5
+wiredfurni.params.levelup.interpolation_placeholder=5=100             (Level 5 = 100 XP)\n10=500\n20=4000\n...
 wiredfurni.params.levelup.max_level=Max level:
 wiredfurni.params.levelup.mode.0=Manual input
 wiredfurni.params.levelup.mode.1=Linear
