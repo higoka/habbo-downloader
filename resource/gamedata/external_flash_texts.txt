@@ -39923,6 +39923,7 @@ quests.march25royal.1738834672294.completed=Well done! You've collected the Roya
 quests.march25royal.1738834672294.desc=Complete your Royal Gacha Machine plushie collection!
 quests.march25royal.1738834672294.hint=Find the Royal Owl Plushie and add it to your growing collection! Don't forget to wear the badge to move on to the next task.
 quests.march25royal.1738834672294.name=Royal Gacha Machine!
+quests.march25royal.name=Royal Gacha Machine Collection!
 quests.masterchocolatier1.1700047436117.chaincaption=Master Chocolatier
 quests.masterchocolatier1.1700047436117.chaininfo=Master Chocolatier
 quests.masterchocolatier1.1700047561809.completed=Congrats! Keep crafting to complete all the quests and win an exclusive badge!
