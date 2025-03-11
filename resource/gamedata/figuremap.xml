@@ -10522,6 +10522,82 @@
     <part id="6584" type="he"/>
     <part id="6585" type="he"/>
   </lib>
+  <lib id="face_M_nftscarface" revision="72908">
+    <part id="6601" type="fc"/>
+    <part id="6602" type="fc"/>
+    <part id="6602" type="ey"/>
+  </lib>
+  <lib id="face_M_nftscarface2" revision="72910"/>
+  <lib id="acc_chest_U_nftbigsword" revision="72926">
+    <part id="6600" type="ca"/>
+  </lib>
+  <lib id="face_F_nftscarface2" revision="72910"/>
+  <lib id="face_F_nftscarface" revision="72908">
+    <part id="6605" type="fc"/>
+    <part id="6606" type="fc"/>
+    <part id="6606" type="ey"/>
+  </lib>
+  <lib id="hat_U_nftcatheadband" revision="72927">
+    <part id="6592" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_nftcatmaidtail2" revision="72927">
+    <part id="6597" type="ca"/>
+  </lib>
+  <lib id="hat_U_nftcatheadband2" revision="72927">
+    <part id="6593" type="ha"/>
+  </lib>
+  <lib id="shoes_U_nftcatslippers" revision="72927">
+    <part id="6598" type="sh"/>
+  </lib>
+  <lib id="hair_U_nftakaiakuma" revision="72927">
+    <part id="6586" type="hr"/>
+    <part id="6586" type="hrb"/>
+    <part id="6587" type="hr"/>
+    <part id="6588" type="hr"/>
+  </lib>
+  <lib id="shoes_U_nftcatslippers2" revision="72927">
+    <part id="6599" type="sh"/>
+  </lib>
+  <lib id="shirt_U_nftcatmaiddress" revision="72927">
+    <part id="6594" type="ch"/>
+    <part id="6594" type="ls"/>
+    <part id="6594" type="rs"/>
+  </lib>
+  <lib id="shirt_U_nftcatmaiddress2" revision="72927">
+    <part id="6595" type="ch"/>
+    <part id="6595" type="ls"/>
+    <part id="6595" type="rs"/>
+  </lib>
+  <lib id="acc_chest_U_nftcatmaidtail" revision="72927">
+    <part id="6596" type="ca"/>
+  </lib>
+  <lib id="hair_U_nftyumekawa" revision="72927">
+    <part id="6589" type="hr"/>
+    <part id="6589" type="hrb"/>
+    <part id="6590" type="hr"/>
+    <part id="6591" type="hr"/>
+  </lib>
+  <lib id="acc_waist_U_bratzdylanbelt" revision="72932">
+    <part id="6493" type="wa"/>
+    <part id="6494" type="wa"/>
+  </lib>
+  <lib id="jacket_U_bratzchloebag" revision="72932">
+    <part id="6489" type="cc"/>
+    <part id="6489" type="lc"/>
+    <part id="6489" type="rc"/>
+    <part id="6492" type="cc"/>
+  </lib>
+  <lib id="trousers_U_bratzjadeskirt" revision="72935">
+    <part id="6474" type="lg"/>
+    <part id="6475" type="lg"/>
+    <part id="6476" type="lg"/>
+  </lib>
+  <lib id="acc_chest_U_bratzyasminpearls" revision="72932">
+    <part id="6488" type="ca"/>
+  </lib>
+  <lib id="acc_face_U_bratzyasminmole" revision="72934">
+    <part id="6487" type="fa"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
