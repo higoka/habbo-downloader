@@ -10512,7 +10512,7 @@
     <part id="6569" type="fc"/>
     <part id="6569" type="ey"/>
   </lib>
-  <lib id="acc_head_U_nftflowerfairy" revision="72872">
+  <lib id="acc_head_U_nftflowerfairy" revision="72958">
     <part id="6570" type="he"/>
     <part id="6571" type="he"/>
     <part id="6572" type="he"/>
@@ -10597,6 +10597,22 @@
   </lib>
   <lib id="acc_face_U_bratzyasminmole" revision="72934">
     <part id="6487" type="fa"/>
+  </lib>
+  <lib id="hair_U_bratzcameronhair" revision="72944">
+    <part id="6468" type="hr"/>
+    <part id="6468" type="hrb"/>
+  </lib>
+  <lib id="hair_U_bratzsashaponytail" revision="72944">
+    <part id="6465" type="hr"/>
+    <part id="6465" type="hrb"/>
+    <part id="6466" type="hr"/>
+  </lib>
+  <lib id="trousers_U_bratzjeans" revision="72944">
+    <part id="6467" type="lg"/>
+  </lib>
+  <lib id="face_U_bratzkobyface" revision="72956">
+    <part id="6469" type="fc"/>
+    <part id="6470" type="ey"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
