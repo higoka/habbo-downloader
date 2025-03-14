@@ -4976,10 +4976,9 @@
     <part id="2600" type="sh"/>
     <part id="2601" type="sh"/>
   </lib>
-  <lib id="hair_U_slickedbackhair" revision="65740">
-    <part id="3754" type="hr"/>
-    <part id="3754" type="hrb"/>
-    <part id="3755" type="hr"/>
+  <lib id="hair_U_slickedbackhair" revision="72980">
+    <part id="6450" type="hr"/>
+    <part id="6450" type="hrb"/>
   </lib>
   <lib id="jacket_F_aviator" revision="66187">
     <part id="4053" type="cc"/>
@@ -10558,12 +10557,12 @@
   <lib id="shoes_U_nftcatslippers2" revision="72927">
     <part id="6599" type="sh"/>
   </lib>
-  <lib id="shirt_U_nftcatmaiddress" revision="72927">
+  <lib id="shirt_U_nftcatmaiddress" revision="72978">
     <part id="6594" type="ch"/>
     <part id="6594" type="ls"/>
     <part id="6594" type="rs"/>
   </lib>
-  <lib id="shirt_U_nftcatmaiddress2" revision="72927">
+  <lib id="shirt_U_nftcatmaiddress2" revision="72978">
     <part id="6595" type="ch"/>
     <part id="6595" type="ls"/>
     <part id="6595" type="rs"/>
@@ -10613,6 +10612,249 @@
   <lib id="face_U_bratzkobyface" revision="72956">
     <part id="6469" type="fc"/>
     <part id="6470" type="ey"/>
+  </lib>
+  <lib id="hair_U_fashionhalfmanbunhair" revision="72960">
+    <part id="6346" type="hr"/>
+    <part id="6346" type="hrb"/>
+    <part id="6347" type="hr"/>
+  </lib>
+  <lib id="acc_eye_U_fashionsunglasses" revision="72960">
+    <part id="6314" type="ea"/>
+    <part id="6315" type="ea"/>
+    <part id="6316" type="ea"/>
+  </lib>
+  <lib id="shirt_F_floraltubetop" revision="72964">
+    <part id="6366" type="ch"/>
+    <part id="6366" type="ls"/>
+    <part id="6366" type="rs"/>
+    <part id="6367" type="ch"/>
+    <part id="6368" type="ch"/>
+  </lib>
+  <lib id="shirt_M_floraltubetop" revision="72964">
+    <part id="6380" type="ch"/>
+    <part id="6380" type="ls"/>
+    <part id="6380" type="rs"/>
+    <part id="6381" type="ch"/>
+    <part id="6382" type="ch"/>
+  </lib>
+  <lib id="shirt_M_strappysatindress" revision="72960">
+    <part id="6334" type="ch"/>
+    <part id="6334" type="ls"/>
+    <part id="6334" type="rs"/>
+    <part id="6335" type="ch"/>
+  </lib>
+  <lib id="shirt_F_fashionfloraldress" revision="72960">
+    <part id="6326" type="ch"/>
+    <part id="6326" type="ls"/>
+    <part id="6326" type="rs"/>
+    <part id="6327" type="ch"/>
+    <part id="6328" type="ch"/>
+  </lib>
+  <lib id="hair_U_slickedpartedhair" revision="72964">
+    <part id="6369" type="hr"/>
+    <part id="6369" type="hrb"/>
+  </lib>
+  <lib id="hair_U_twotonedplaitedwavehair" revision="72960">
+    <part id="6317" type="hr"/>
+    <part id="6317" type="hrb"/>
+    <part id="6318" type="hr"/>
+    <part id="6319" type="hr"/>
+  </lib>
+  <lib id="acc_chest_U_thinscarf" revision="72964">
+    <part id="6354" type="ca"/>
+    <part id="6355" type="ca"/>
+  </lib>
+  <lib id="shirt_F_animalprinthortsleevedshirt" revision="72980">
+    <part id="6436" type="ch"/>
+    <part id="6436" type="ls"/>
+    <part id="6436" type="rs"/>
+    <part id="6437" type="ch"/>
+  </lib>
+  <lib id="shirt_M_animalprinthortsleevedshirt" revision="72980">
+    <part id="6434" type="ch"/>
+    <part id="6434" type="ls"/>
+    <part id="6434" type="rs"/>
+    <part id="6435" type="ch"/>
+  </lib>
+  <lib id="shirt_F_strappysatindress" revision="72960">
+    <part id="6332" type="ch"/>
+    <part id="6332" type="ls"/>
+    <part id="6332" type="rs"/>
+    <part id="6333" type="ch"/>
+  </lib>
+  <lib id="shirt_F_knittedbikini" revision="72960">
+    <part id="6336" type="ch"/>
+    <part id="6336" type="ls"/>
+    <part id="6336" type="rs"/>
+    <part id="6337" type="ch"/>
+  </lib>
+  <lib id="acc_head_U_nfteastereggcrown" revision="72960">
+    <part id="6353" type="he"/>
+  </lib>
+  <lib id="shirt_F_stripedshortsleevedshirt" revision="72980">
+    <part id="6441" type="ch"/>
+    <part id="6441" type="ls"/>
+    <part id="6441" type="rs"/>
+    <part id="6442" type="ch"/>
+    <part id="6443" type="ch"/>
+  </lib>
+  <lib id="shirt_F_tubetop" revision="72964">
+    <part id="6356" type="ch"/>
+    <part id="6356" type="ls"/>
+    <part id="6356" type="rs"/>
+  </lib>
+  <lib id="shirt_M_knittedbikini" revision="72960">
+    <part id="6338" type="ch"/>
+    <part id="6338" type="ls"/>
+    <part id="6338" type="rs"/>
+    <part id="6339" type="ch"/>
+  </lib>
+  <lib id="jacket_U_bosscoat" revision="72980">
+    <part id="6421" type="cc"/>
+    <part id="6421" type="lc"/>
+    <part id="6421" type="rc"/>
+  </lib>
+  <lib id="face_U_bunbunface" revision="72960">
+    <part id="6349" type="fc"/>
+    <part id="6349" type="ey"/>
+    <part id="6350" type="fc"/>
+  </lib>
+  <lib id="hair_U_twotonedlonglocks" revision="72960">
+    <part id="6351" type="hr"/>
+    <part id="6351" type="hrb"/>
+    <part id="6352" type="hr"/>
+  </lib>
+  <lib id="shirt_M_fashionfloraldress" revision="72960">
+    <part id="6329" type="ch"/>
+    <part id="6329" type="ls"/>
+    <part id="6329" type="rs"/>
+    <part id="6330" type="ch"/>
+    <part id="6331" type="ch"/>
+  </lib>
+  <lib id="jacket_U_offshoulderjacket" revision="72964">
+    <part id="6372" type="cc"/>
+    <part id="6372" type="lc"/>
+    <part id="6372" type="rc"/>
+    <part id="6373" type="cc"/>
+  </lib>
+  <lib id="acc_head_U_bunbunearrings" revision="72960">
+    <part id="6344" type="he"/>
+    <part id="6345" type="he"/>
+  </lib>
+  <lib id="acc_eye_U_bunnyeyepatch" revision="72960">
+    <part id="6342" type="ea"/>
+    <part id="6343" type="ea"/>
+  </lib>
+  <lib id="shirt_F_buttontubetop" revision="72964">
+    <part id="6362" type="ch"/>
+    <part id="6362" type="ls"/>
+    <part id="6362" type="rs"/>
+    <part id="6363" type="ch"/>
+  </lib>
+  <lib id="shirt_F_polkaheartcutdress" revision="72960">
+    <part id="6322" type="ch"/>
+    <part id="6322" type="ls"/>
+    <part id="6322" type="rs"/>
+    <part id="6323" type="ch"/>
+  </lib>
+  <lib id="shirt_M_buttontubetop" revision="72964">
+    <part id="6364" type="ch"/>
+    <part id="6364" type="ls"/>
+    <part id="6364" type="rs"/>
+    <part id="6365" type="ch"/>
+  </lib>
+  <lib id="jacket_U_sharkplushie" revision="72964">
+    <part id="6370" type="cc"/>
+    <part id="6370" type="lc"/>
+    <part id="6370" type="rc"/>
+    <part id="6371" type="cc"/>
+  </lib>
+  <lib id="shirt_F_floralkshortsleevedshirt" revision="72980">
+    <part id="6431" type="ch"/>
+    <part id="6431" type="ls"/>
+    <part id="6431" type="rs"/>
+    <part id="6432" type="ch"/>
+    <part id="6433" type="ch"/>
+  </lib>
+  <lib id="shirt_M_shortsleevedshirt" revision="72980">
+    <part id="6422" type="ch"/>
+    <part id="6422" type="ls"/>
+    <part id="6422" type="rs"/>
+    <part id="6423" type="ch"/>
+  </lib>
+  <lib id="trousers_U_bunnyclipshorts" revision="72964">
+    <part id="6374" type="lg"/>
+    <part id="6375" type="lg"/>
+    <part id="6376" type="lg"/>
+  </lib>
+  <lib id="jacket_U_nftcat1" revision="72969">
+    <part id="6655" type="lc"/>
+    <part id="6655" type="rc"/>
+  </lib>
+  <lib id="jacket_U_nftcat2" revision="72969">
+    <part id="6656" type="cc"/>
+    <part id="6656" type="lc"/>
+    <part id="6656" type="rc"/>
+  </lib>
+  <lib id="shirt_F_longdressbase" revision="72960">
+    <part id="6320" type="ch"/>
+    <part id="6320" type="ls"/>
+    <part id="6320" type="rs"/>
+  </lib>
+  <lib id="shirt_M_longdressbase" revision="72960">
+    <part id="6321" type="ch"/>
+    <part id="6321" type="ls"/>
+    <part id="6321" type="rs"/>
+  </lib>
+  <lib id="shirt_F_denimtubetop" revision="72964">
+    <part id="6358" type="ch"/>
+    <part id="6358" type="ls"/>
+    <part id="6358" type="rs"/>
+    <part id="6359" type="ch"/>
+  </lib>
+  <lib id="shirt_M_stripedshortsleevedshirt" revision="72980">
+    <part id="6438" type="ch"/>
+    <part id="6438" type="ls"/>
+    <part id="6438" type="rs"/>
+    <part id="6439" type="ch"/>
+    <part id="6440" type="ch"/>
+  </lib>
+  <lib id="shirt_M_polkaheartcutdress" revision="72960">
+    <part id="6324" type="ch"/>
+    <part id="6324" type="ls"/>
+    <part id="6324" type="rs"/>
+    <part id="6325" type="ch"/>
+  </lib>
+  <lib id="shirt_F_shortsleevedshirt" revision="72980">
+    <part id="6425" type="ch"/>
+    <part id="6425" type="ls"/>
+    <part id="6425" type="rs"/>
+    <part id="6426" type="ch"/>
+  </lib>
+  <lib id="trousers_U_knittedbikini" revision="72960">
+    <part id="6340" type="lg"/>
+    <part id="6341" type="lg"/>
+  </lib>
+  <lib id="shirt_M_tubetop" revision="72964">
+    <part id="6357" type="ch"/>
+    <part id="6357" type="ls"/>
+    <part id="6357" type="rs"/>
+  </lib>
+  <lib id="shirt_M_floralkshortsleevedshirt" revision="72980">
+    <part id="6428" type="ch"/>
+    <part id="6428" type="ls"/>
+    <part id="6428" type="rs"/>
+    <part id="6429" type="ch"/>
+    <part id="6430" type="ch"/>
+  </lib>
+  <lib id="shoes_U_nftbunnyshoes" revision="72964">
+    <part id="6377" type="sh"/>
+  </lib>
+  <lib id="shirt_M_denimtubetop" revision="72964">
+    <part id="6360" type="ch"/>
+    <part id="6360" type="ls"/>
+    <part id="6360" type="rs"/>
+    <part id="6361" type="ch"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
