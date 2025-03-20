@@ -4976,9 +4976,10 @@
     <part id="2600" type="sh"/>
     <part id="2601" type="sh"/>
   </lib>
-  <lib id="hair_U_slickedbackhair" revision="72980">
-    <part id="6450" type="hr"/>
-    <part id="6450" type="hrb"/>
+  <lib id="hair_U_slickedbackhair" revision="72985">
+    <part id="3754" type="hr"/>
+    <part id="3754" type="hrb"/>
+    <part id="3755" type="hr"/>
   </lib>
   <lib id="jacket_F_aviator" revision="66187">
     <part id="4053" type="cc"/>
@@ -10576,7 +10577,7 @@
     <part id="6590" type="hr"/>
     <part id="6591" type="hr"/>
   </lib>
-  <lib id="acc_waist_U_bratzdylanbelt" revision="72932">
+  <lib id="acc_waist_U_bratzdylanbelt" revision="72984">
     <part id="6493" type="wa"/>
     <part id="6494" type="wa"/>
   </lib>
@@ -10609,10 +10610,6 @@
   <lib id="trousers_U_bratzjeans" revision="72944">
     <part id="6467" type="lg"/>
   </lib>
-  <lib id="face_U_bratzkobyface" revision="72956">
-    <part id="6469" type="fc"/>
-    <part id="6470" type="ey"/>
-  </lib>
   <lib id="hair_U_fashionhalfmanbunhair" revision="72960">
     <part id="6346" type="hr"/>
     <part id="6346" type="hrb"/>
@@ -10630,7 +10627,7 @@
     <part id="6367" type="ch"/>
     <part id="6368" type="ch"/>
   </lib>
-  <lib id="shirt_M_floraltubetop" revision="72964">
+  <lib id="shirt_M_floraltubetop" revision="72994">
     <part id="6380" type="ch"/>
     <part id="6380" type="ls"/>
     <part id="6380" type="rs"/>
@@ -10650,7 +10647,7 @@
     <part id="6327" type="ch"/>
     <part id="6328" type="ch"/>
   </lib>
-  <lib id="hair_U_slickedpartedhair" revision="72964">
+  <lib id="hair_U_slickedpartedhair" revision="73003">
     <part id="6369" type="hr"/>
     <part id="6369" type="hrb"/>
   </lib>
@@ -10688,10 +10685,10 @@
     <part id="6336" type="rs"/>
     <part id="6337" type="ch"/>
   </lib>
-  <lib id="acc_head_U_nfteastereggcrown" revision="72960">
+  <lib id="acc_head_U_nfteastereggcrown" revision="73019">
     <part id="6353" type="he"/>
   </lib>
-  <lib id="shirt_F_stripedshortsleevedshirt" revision="72980">
+  <lib id="shirt_F_stripedshortsleevedshirt" revision="72997">
     <part id="6441" type="ch"/>
     <part id="6441" type="ls"/>
     <part id="6441" type="rs"/>
@@ -10724,7 +10721,7 @@
     <part id="6351" type="hrb"/>
     <part id="6352" type="hr"/>
   </lib>
-  <lib id="shirt_M_fashionfloraldress" revision="72960">
+  <lib id="shirt_M_fashionfloraldress" revision="73006">
     <part id="6329" type="ch"/>
     <part id="6329" type="ls"/>
     <part id="6329" type="rs"/>
@@ -10776,7 +10773,7 @@
     <part id="6432" type="ch"/>
     <part id="6433" type="ch"/>
   </lib>
-  <lib id="shirt_M_shortsleevedshirt" revision="72980">
+  <lib id="shirt_M_shortsleevedshirt" revision="72997">
     <part id="6422" type="ch"/>
     <part id="6422" type="ls"/>
     <part id="6422" type="rs"/>
@@ -10812,7 +10809,7 @@
     <part id="6358" type="rs"/>
     <part id="6359" type="ch"/>
   </lib>
-  <lib id="shirt_M_stripedshortsleevedshirt" revision="72980">
+  <lib id="shirt_M_stripedshortsleevedshirt" revision="72997">
     <part id="6438" type="ch"/>
     <part id="6438" type="ls"/>
     <part id="6438" type="rs"/>
@@ -10825,7 +10822,7 @@
     <part id="6324" type="rs"/>
     <part id="6325" type="ch"/>
   </lib>
-  <lib id="shirt_F_shortsleevedshirt" revision="72980">
+  <lib id="shirt_F_shortsleevedshirt" revision="72997">
     <part id="6425" type="ch"/>
     <part id="6425" type="ls"/>
     <part id="6425" type="rs"/>
@@ -10855,6 +10852,79 @@
     <part id="6360" type="ls"/>
     <part id="6360" type="rs"/>
     <part id="6361" type="ch"/>
+  </lib>
+  <lib id="hair_U_slickedbackhair2" revision="72985">
+    <part id="6450" type="hr"/>
+    <part id="6450" type="hrb"/>
+  </lib>
+  <lib id="acc_chest_U_crystalnecklace" revision="72999">
+    <part id="6389" type="ca"/>
+    <part id="6390" type="ca"/>
+    <part id="6391" type="ca"/>
+  </lib>
+  <lib id="face_U_bratzboyface" revision="73002">
+    <part id="6658" type="fc"/>
+    <part id="6659" type="fc"/>
+    <part id="6659" type="ey"/>
+    <part id="6660" type="fc"/>
+  </lib>
+  <lib id="jacket_U_bunnycompanion" revision="72999">
+    <part id="6667" type="cc"/>
+    <part id="6667" type="lc"/>
+    <part id="6667" type="rc"/>
+  </lib>
+  <lib id="acc_chest_U_tribalnecklace" revision="72999">
+    <part id="6394" type="ca"/>
+    <part id="6395" type="ca"/>
+    <part id="6396" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_simplechainnecklace" revision="72999">
+    <part id="6392" type="ca"/>
+    <part id="6393" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_coinnecklace" revision="72999">
+    <part id="6387" type="ca"/>
+    <part id="6388" type="ca"/>
+  </lib>
+  <lib id="hair_U_casualshorthair" revision="72999">
+    <part id="6385" type="hr"/>
+    <part id="6385" type="hrb"/>
+    <part id="6386" type="hr"/>
+  </lib>
+  <lib id="hat_U_nftbunnyhood" revision="73013">
+    <part id="6410" type="ha"/>
+  </lib>
+  <lib id="shoes_U_fashionboots" revision="73007">
+    <part id="6408" type="sh"/>
+    <part id="6409" type="sh"/>
+  </lib>
+  <lib id="jacket_U_umbrella" revision="73007">
+    <part id="6406" type="cc"/>
+    <part id="6406" type="lc"/>
+    <part id="6406" type="rc"/>
+    <part id="6407" type="cc"/>
+  </lib>
+  <lib id="jacket_U_nftbunnycape" revision="73013">
+    <part id="6411" type="cc"/>
+    <part id="6411" type="lc"/>
+    <part id="6411" type="rc"/>
+  </lib>
+  <lib id="acc_chest_U_floralcanvasbag" revision="73021">
+    <part id="6401" type="ca"/>
+    <part id="6402" type="ca"/>
+    <part id="6403" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_knittedcanvasbag" revision="73021">
+    <part id="6404" type="ca"/>
+    <part id="6405" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_rainbowcanvasbag" revision="73021">
+    <part id="6399" type="ca"/>
+    <part id="6400" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_canvasbag" revision="73021">
+    <part id="6397" type="ca"/>
+    <part id="6398" type="ca"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
