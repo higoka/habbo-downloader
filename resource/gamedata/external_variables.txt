@@ -8328,6 +8328,7 @@ monsterplants.composting.enabled=true
 monsterplants.enabled=true
 monsterplants.game.enabled=false
 multi.item.trading.enabled=true
+my.reports.status.enabled=true
 mystery_box_toolbar_extension_minimised=false
 mysterybox.faq.url=https://help.habbo.com/entries/22500467-mystery-box-and-advent-calendar-2012
 mysterybox.number.colors.enabled=8
