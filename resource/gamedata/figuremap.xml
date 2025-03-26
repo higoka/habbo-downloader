@@ -10581,11 +10581,9 @@
     <part id="6493" type="wa"/>
     <part id="6494" type="wa"/>
   </lib>
-  <lib id="jacket_U_bratzchloebag" revision="72932">
-    <part id="6489" type="cc"/>
-    <part id="6489" type="lc"/>
-    <part id="6489" type="rc"/>
-    <part id="6492" type="cc"/>
+  <lib id="acc_chest_U_bratzcloebag" revision="73056">
+    <part id="6489" type="ca"/>
+    <part id="6492" type="ca"/>
   </lib>
   <lib id="trousers_U_bratzjadeskirt" revision="72935">
     <part id="6474" type="lg"/>
