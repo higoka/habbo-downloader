@@ -4945,7 +4945,7 @@
     <part id="2654" type="cc"/>
     <part id="2655" type="cc"/>
   </lib>
-  <lib id="acc_chest_U_bookbag" revision="65168">
+  <lib id="acc_chest_U_bookbag" revision="73071">
     <part id="3508" type="ca"/>
     <part id="3509" type="ca"/>
     <part id="3510" type="ca"/>
@@ -6429,7 +6429,7 @@
     <part id="2901" type="rc"/>
     <part id="2902" type="cc"/>
   </lib>
-  <lib id="jacket_U_camo" revision="69383">
+  <lib id="jacket_U_camo" revision="73071">
     <part id="2501" type="cc"/>
     <part id="2501" type="lc"/>
     <part id="2501" type="rc"/>
@@ -9297,7 +9297,7 @@
     <part id="5997" type="ha"/>
     <part id="5998" type="ha"/>
   </lib>
-  <lib id="shirt_F_cagedpetticoat" revision="71866">
+  <lib id="shirt_F_cagedpetticoat" revision="73071">
     <part id="5545" type="ch"/>
     <part id="5545" type="ls"/>
     <part id="5545" type="rs"/>
@@ -10923,6 +10923,22 @@
   <lib id="acc_chest_U_canvasbag" revision="73021">
     <part id="6397" type="ca"/>
     <part id="6398" type="ca"/>
+  </lib>
+  <lib id="hat_U_nftthebigcap" revision="73066">
+    <part id="6664" type="ha"/>
+    <part id="6665" type="ha"/>
+    <part id="6666" type="ha"/>
+  </lib>
+  <lib id="acc_eye_U_nftbunnyshades1" revision="73066">
+    <part id="6661" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_nftbunnyshades2" revision="73066">
+    <part id="6662" type="ea"/>
+  </lib>
+  <lib id="acc_chest_U_nftblingnecklace" revision="73066">
+    <part id="6663" type="ch"/>
+    <part id="6663" type="ls"/>
+    <part id="6663" type="rs"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
