@@ -23486,6 +23486,7 @@ featured.offer.easter18hat.title=RARE Bunny Hat
 featured.offer.easter18mammoth.title=RARE Mammoth Bunny
 featured.offer.easter18mask.title=RARE Bunny Mask
 featured.offer.easter18new.title=Easter Garden Furni
+featured.offer.easter18old.title=BACK: Classic Easter Furni!
 featured.offer.easter19book1.title=Ancient Storybooks
 featured.offer.easter19book2.title=Fairytale Storybook Items
 featured.offer.easter19chick.title=RARE Rainbow Forest Chicken
