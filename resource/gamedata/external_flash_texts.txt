@@ -22506,6 +22506,7 @@ collectibles.set.relics_club_gift_gen_2=Relic: Club Gift Gen 2
 collectibles.set.relics_collectibles=Relic: Collectibles
 collectibles.set.relics_diamond_paintings_2014=Relic: Diamond Paintings 2014
 collectibles.set.relics_diamond_paintings_2019=Diamond Paintings 2019 
+collectibles.set.relics_diamond_paintings_2021=Relic: Diamond Paintings 2021
 collectibles.set.relics_diamond_paintings_2022=Relic: Diamond Paintings 2022
 collectibles.set.relics_diamond_paintings_2023=Relic: Diamond Paintings 2023
 collectibles.set.relics_dragons_1=Relic: Dragons 1 

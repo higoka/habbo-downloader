@@ -10935,10 +10935,13 @@
   <lib id="acc_eye_U_nftbunnyshades2" revision="73066">
     <part id="6662" type="ea"/>
   </lib>
-  <lib id="acc_chest_U_nftblingnecklace" revision="73066">
-    <part id="6663" type="ch"/>
-    <part id="6663" type="ls"/>
-    <part id="6663" type="rs"/>
+  <lib id="acc_chest_U_nftblingnecklace" revision="73074">
+    <part id="6663" type="ca"/>
+  </lib>
+  <lib id="hair_U_nftmop" revision="73075">
+    <part id="6668" type="hr"/>
+    <part id="6668" type="hrb"/>
+    <part id="6669" type="hr"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
