@@ -8860,7 +8860,7 @@
     <part id="5520" type="fa"/>
     <part id="5521" type="fa"/>
   </lib>
-  <lib id="trousers_U_techpants" revision="71506">
+  <lib id="trousers_U_techpants" revision="73090">
     <part id="5601" type="lg"/>
     <part id="5602" type="lg"/>
     <part id="5603" type="lg"/>
@@ -10942,6 +10942,14 @@
     <part id="6668" type="hr"/>
     <part id="6668" type="hrb"/>
     <part id="6669" type="hr"/>
+  </lib>
+  <lib id="hat_U_nfttallcrown" revision="73093">
+    <part id="6671" type="ha"/>
+  </lib>
+  <lib id="jacket_U_nfttrench" revision="73092">
+    <part id="6670" type="cc"/>
+    <part id="6670" type="lc"/>
+    <part id="6670" type="rc"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
