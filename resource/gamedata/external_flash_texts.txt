@@ -6642,6 +6642,7 @@ badge_desc_NB098=You went on a bike ride through Amsterdam!
 badge_desc_NB099=Maybe you should try reading the real comic books...
 badge_desc_NB118=Find a friend and start your own flock!
 badge_desc_NB152=I found the pot of gold with the ambassadors
+badge_desc_NB159=I embarked on a safety refresher with Carl the duckie, bunnies, and the Ambassadors.
 badge_desc_NCD=National Compliments Day '09
 badge_desc_NCR01=For purchasing the crab fish tank
 badge_desc_NCR02=For purchasing the turtle fish tank
@@ -16560,6 +16561,7 @@ badge_name_NB098=[BaW] Global Collab: Amsterdam (NL/BE)
 badge_name_NB099=[BaW] Global Collab: Belgian Comic Books (NL/BE)
 badge_name_NB118=Duck Flocks - Amb Infobus Feb 2025
 badge_name_NB152=Ambassador's Pot of Gold!
+badge_name_NB159=Spring Renewal with the Ambassadors - Apr 2026
 badge_name_NCD=NCD Badge
 badge_name_NCR01=Crab Collector
 badge_name_NCR02=Turtle Collector
@@ -43780,6 +43782,10 @@ targeted.offer.april24_rm_dbl_tto214.desc=Get 220 credits and diamonds for the p
 targeted.offer.april24_rm_dbl_tto214.title=50 per cent Off 220 Credits
 targeted.offer.april24_rm_dbl_tto215.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
 targeted.offer.april24_rm_dbl_tto215.title=50 per cent Off 50 Credits
+targeted.offer.april25_rm_dbl_tto260.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.april25_rm_dbl_tto260.title=50 per cent Off 220 Credits
+targeted.offer.april25_rm_dbl_tto261.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
+targeted.offer.april25_rm_dbl_tto261.title=50 per cent Off 50 Credits
 targeted.offer.army15_tto_gr1.desc=Welcome to Habbo Forces, soldier. Here is your supply kit with everything you need to get you through your military career. Don't miss out...  <br><br>Offer is limited to one per person and includes:<br>- 75 Bronze coins (worth 75c)<br>- <a href="event:habbopages/habboclub">HC 1 month</a> (worth 25c)<br>- Military Parade Uniform (worth 15c)<br>- X-Ray Scanner Rare (worth25c)<br>- Rare Badge (for free)
 targeted.offer.army15_tto_gr1.title=Soldier Starter Pack
 targeted.offer.army15_tto_gr2.desc=You've trained hard and now you're at the top of the military food chain. As a sergeant you can get your hands on your very own SUPER snazzy supply kit. From a crisp new uniform to more diamonds than you can fit in your pockets - this supply kit is here to impress. Don't miss out...  <br><br>Offer is limited to one per person and includes:<br>- Emeral Ring (worth 100c)<br>- <a href="event:habbopages/habboclub">HC 3 months</a> (worth 60c)<br>- Military Parade Uniform (worth 15c)<br>- X-Ray Scanner Rare (worth 25c)<br>- Security Fence (x4) (worth 16c)<br>- Security Fence Corner (x4) (worth 12c)<br>- Exclusive Foot Locker (worth 4c)<br>- Rare Badge (for free)
