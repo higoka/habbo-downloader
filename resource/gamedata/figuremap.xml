@@ -10951,6 +10951,79 @@
     <part id="6670" type="lc"/>
     <part id="6670" type="rc"/>
   </lib>
+  <lib id="hat_U_knighthelmet" revision="73133">
+    <part id="6615" type="ha"/>
+    <part id="6616" type="ha"/>
+    <part id="6617" type="ha"/>
+  </lib>
+  <lib id="shirt_M_qohgown" revision="73116">
+    <part id="6635" type="ch"/>
+    <part id="6635" type="ls"/>
+    <part id="6635" type="rs"/>
+    <part id="6636" type="ch"/>
+    <part id="6637" type="ch"/>
+  </lib>
+  <lib id="acc_chest_U_wonderlandclock" revision="73116">
+    <part id="6621" type="ca"/>
+    <part id="6622" type="ca"/>
+    <part id="6623" type="ca"/>
+  </lib>
+  <lib id="acc_head_U_clubclip" revision="73137">
+    <part id="6654" type="he"/>
+  </lib>
+  <lib id="shirt_U_knightarmor" revision="73133">
+    <part id="6613" type="ch"/>
+    <part id="6613" type="ls"/>
+    <part id="6613" type="rs"/>
+    <part id="6614" type="ch"/>
+  </lib>
+  <lib id="hat_U_chesscrown" revision="73116">
+    <part id="6627" type="ha"/>
+    <part id="6628" type="ha"/>
+  </lib>
+  <lib id="acc_head_U_heartclip" revision="73137">
+    <part id="6652" type="he"/>
+  </lib>
+  <lib id="acc_head_U_diamondclip" revision="73137">
+    <part id="6651" type="he"/>
+  </lib>
+  <lib id="hair_U_alicehair" revision="73116">
+    <part id="6624" type="hr"/>
+    <part id="6624" type="hrb"/>
+    <part id="6625" type="hr"/>
+    <part id="6626" type="hr"/>
+  </lib>
+  <lib id="acc_waist_U_woodensword" revision="73128">
+    <part id="6657" type="wa"/>
+  </lib>
+  <lib id="shirt_F_qohgown" revision="73116">
+    <part id="6632" type="ch"/>
+    <part id="6632" type="ls"/>
+    <part id="6632" type="rs"/>
+    <part id="6633" type="ch"/>
+    <part id="6634" type="ch"/>
+  </lib>
+  <lib id="hat_U_teacuphead" revision="73116">
+    <part id="6629" type="ha"/>
+    <part id="6630" type="ha"/>
+    <part id="6631" type="ha"/>
+  </lib>
+  <lib id="jacket_U_hearttrumpet" revision="73128">
+    <part id="6610" type="cc"/>
+    <part id="6610" type="lc"/>
+    <part id="6610" type="rc"/>
+    <part id="6611" type="cc"/>
+    <part id="6612" type="cc"/>
+  </lib>
+  <lib id="shirt_U_alicedress" revision="73116">
+    <part id="6638" type="ch"/>
+    <part id="6638" type="ls"/>
+    <part id="6638" type="rs"/>
+    <part id="6639" type="ch"/>
+  </lib>
+  <lib id="acc_head_U_spadeclip" revision="73137">
+    <part id="6653" type="he"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
@@ -11352,7 +11425,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="72738">
+  <lib id="hh_human_item" revision="73136">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -11611,6 +11684,7 @@
     <part id="283" type="ri"/>
     <part id="284" type="ri"/>
     <part id="285" type="ri"/>
+    <part id="287" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
