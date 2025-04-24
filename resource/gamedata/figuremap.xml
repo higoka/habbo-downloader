@@ -11024,6 +11024,10 @@
   <lib id="acc_head_U_spadeclip" revision="73137">
     <part id="6653" type="he"/>
   </lib>
+  <lib id="acc_head_U_aliceheadband" revision="73176">
+    <part id="6709" type="he"/>
+    <part id="6710" type="he"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
