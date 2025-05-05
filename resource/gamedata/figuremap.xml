@@ -11028,6 +11028,133 @@
     <part id="6709" type="he"/>
     <part id="6710" type="he"/>
   </lib>
+  <lib id="acc_print_U_nft10shillings6p" revision="73231">
+    <part id="6700" type="cp"/>
+  </lib>
+  <lib id="face_M_sunburntface" revision="73228">
+    <part id="6556" type="fc"/>
+  </lib>
+  <lib id="shirt_M_strappybikinitop" revision="73228">
+    <part id="6509" type="ch"/>
+    <part id="6510" type="ch"/>
+  </lib>
+  <lib id="shirt_F_strappybikinitop" revision="73228">
+    <part id="6507" type="ch"/>
+    <part id="6508" type="ch"/>
+  </lib>
+  <lib id="face_F_sunburntface2" revision="73228">
+    <part id="6558" type="fc"/>
+  </lib>
+  <lib id="acc_face_U_nftcheshiregrin" revision="73231">
+    <part id="6699" type="fa"/>
+  </lib>
+  <lib id="shirt_U_nftplayingcardoutfit1" revision="73243">
+    <part id="6701" type="ch"/>
+    <part id="6701" type="ls"/>
+    <part id="6701" type="rs"/>
+  </lib>
+  <lib id="shirt_U_nftplayingcardoutfit2" revision="73243">
+    <part id="6702" type="ch"/>
+    <part id="6702" type="ls"/>
+    <part id="6702" type="rs"/>
+  </lib>
+  <lib id="shirt_U_nftplayingcardoutfit3" revision="73243">
+    <part id="6703" type="ch"/>
+    <part id="6703" type="ls"/>
+    <part id="6703" type="rs"/>
+  </lib>
+  <lib id="shirt_U_nftplayingcardoutfit4" revision="73243">
+    <part id="6704" type="ch"/>
+    <part id="6704" type="ls"/>
+    <part id="6704" type="rs"/>
+  </lib>
+  <lib id="trousers_U_strappybikinibottoms" revision="73228">
+    <part id="6511" type="lg"/>
+    <part id="6512" type="lg"/>
+  </lib>
+  <lib id="hair_U_curlylocksponytail" revision="73228">
+    <part id="6559" type="hr"/>
+    <part id="6559" type="hrb"/>
+    <part id="6560" type="hr"/>
+    <part id="6561" type="hr"/>
+  </lib>
+  <lib id="acc_chest_U_brzlnecklace" revision="73240">
+    <part id="6553" type="ca"/>
+    <part id="6554" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_sunflowerbrooch" revision="73240">
+    <part id="6551" type="ca"/>
+  </lib>
+  <lib id="shirt_M_botochest" revision="73242">
+    <part id="6543" type="ch"/>
+    <part id="6543" type="ls"/>
+    <part id="6543" type="rs"/>
+    <part id="6544" type="ch"/>
+    <part id="6545" type="ch"/>
+  </lib>
+  <lib id="hat_U_botohat" revision="73240">
+    <part id="6540" type="ha"/>
+    <part id="6541" type="ha"/>
+    <part id="6542" type="ha"/>
+  </lib>
+  <lib id="hair_U_iarahair" revision="73240">
+    <part id="6528" type="hr"/>
+    <part id="6528" type="hrb"/>
+    <part id="6529" type="hr"/>
+    <part id="6530" type="hr"/>
+  </lib>
+  <lib id="shirt_M_iaratop" revision="73240">
+    <part id="6534" type="ch"/>
+    <part id="6534" type="ls"/>
+    <part id="6534" type="rs"/>
+    <part id="6535" type="ch"/>
+    <part id="6536" type="ch"/>
+  </lib>
+  <lib id="trousers_U_bototrousers" revision="73240">
+    <part id="6548" type="lg"/>
+    <part id="6549" type="lg"/>
+    <part id="6550" type="lg"/>
+  </lib>
+  <lib id="shirt_M_tropicalplaysuit" revision="73245">
+    <part id="6575" type="ch"/>
+    <part id="6575" type="ls"/>
+    <part id="6575" type="rs"/>
+    <part id="6576" type="ch"/>
+  </lib>
+  <lib id="acc_head_U_sunfloweracc" revision="73240">
+    <part id="6552" type="he"/>
+  </lib>
+  <lib id="shirt_F_tropicalplaysuit" revision="73245">
+    <part id="6573" type="ch"/>
+    <part id="6573" type="ls"/>
+    <part id="6573" type="rs"/>
+    <part id="6574" type="ch"/>
+  </lib>
+  <lib id="shirt_F_botochest" revision="73242">
+    <part id="6546" type="ch"/>
+    <part id="6546" type="ls"/>
+    <part id="6546" type="rs"/>
+    <part id="6547" type="ch"/>
+  </lib>
+  <lib id="shirt_F_iaratop" revision="73240">
+    <part id="6531" type="ch"/>
+    <part id="6531" type="ls"/>
+    <part id="6531" type="rs"/>
+    <part id="6532" type="ch"/>
+    <part id="6533" type="ch"/>
+  </lib>
+  <lib id="trousers_U_iaratail" revision="73242">
+    <part id="6537" type="lg"/>
+    <part id="6538" type="lg"/>
+    <part id="6539" type="lg"/>
+  </lib>
+  <lib id="jacket_U_nftsnake" revision="73245">
+    <part id="6577" type="cc"/>
+    <part id="6577" type="lc"/>
+    <part id="6577" type="rc"/>
+    <part id="6578" type="cc"/>
+    <part id="6579" type="cc"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
@@ -11429,7 +11556,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="73136">
+  <lib id="hh_human_item" revision="73235">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -11688,6 +11815,7 @@
     <part id="283" type="ri"/>
     <part id="284" type="ri"/>
     <part id="285" type="ri"/>
+    <part id="286" type="ri"/>
     <part id="287" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
