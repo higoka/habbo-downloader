@@ -10951,7 +10951,7 @@
     <part id="6670" type="lc"/>
     <part id="6670" type="rc"/>
   </lib>
-  <lib id="hat_U_knighthelmet" revision="73133">
+  <lib id="hat_U_knighthelmet" revision="73246">
     <part id="6615" type="ha"/>
     <part id="6616" type="ha"/>
     <part id="6617" type="ha"/>
@@ -11154,6 +11154,20 @@
     <part id="6577" type="rc"/>
     <part id="6578" type="cc"/>
     <part id="6579" type="cc"/>
+  </lib>
+  <lib id="shirt_U_festashirt" revision="73266">
+    <part id="6727" type="ch"/>
+    <part id="6727" type="ls"/>
+    <part id="6727" type="rs"/>
+  </lib>
+  <lib id="acc_chest_U_brmothwings" revision="73269">
+    <part id="6580" type="ca"/>
+    <part id="6581" type="ca"/>
+    <part id="6582" type="ca"/>
+  </lib>
+  <lib id="hat_U_festastrawhat" revision="73266">
+    <part id="6725" type="ha"/>
+    <part id="6726" type="ha"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
