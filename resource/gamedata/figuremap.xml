@@ -11143,7 +11143,7 @@
     <part id="6532" type="ch"/>
     <part id="6533" type="ch"/>
   </lib>
-  <lib id="trousers_U_iaratail" revision="73242">
+  <lib id="trousers_U_iaratail" revision="73285">
     <part id="6537" type="lg"/>
     <part id="6538" type="lg"/>
     <part id="6539" type="lg"/>
@@ -11168,6 +11168,35 @@
   <lib id="hat_U_festastrawhat" revision="73266">
     <part id="6725" type="ha"/>
     <part id="6726" type="ha"/>
+  </lib>
+  <lib id="hair_U_nftbonnielonglonghair" revision="73279">
+    <part id="6646" type="hr"/>
+    <part id="6646" type="hrb"/>
+    <part id="6647" type="hr"/>
+  </lib>
+  <lib id="shirt_F_bonniehitcheddress" revision="73276">
+    <part id="6445" type="ch"/>
+    <part id="6643" type="ch"/>
+    <part id="6643" type="ls"/>
+    <part id="6643" type="rs"/>
+    <part id="6644" type="ch"/>
+  </lib>
+  <lib id="shoes_U_nftbonnieshoestights" revision="73279">
+    <part id="6648" type="sh"/>
+    <part id="6649" type="sh"/>
+    <part id="6650" type="sh"/>
+  </lib>
+  <lib id="shirt_M_bonniehitcheddress" revision="73276">
+    <part id="6640" type="ch"/>
+    <part id="6640" type="ls"/>
+    <part id="6640" type="rs"/>
+    <part id="6641" type="ch"/>
+    <part id="6642" type="ch"/>
+  </lib>
+  <lib id="acc_eye_U_bonniecateyeshades" revision="73288">
+    <part id="6618" type="ea"/>
+    <part id="6619" type="ea"/>
+    <part id="6620" type="ea"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
