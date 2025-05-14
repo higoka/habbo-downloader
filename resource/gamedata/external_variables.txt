@@ -8800,7 +8800,7 @@ xmas2012.calendar.startdate=2012-12-02 00:00
 zendesk.url=https://help.habbo.com/home
 zoom.enabled=1
 
-flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202505091843-66599338/
+flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202505141816-785491815/
 new.user.flow.roomTypes=10,11,12
 external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/a18f40f78e19c2ce52c570f147045afc8e7857ff
 external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/3ddaf2af03d6556e4c6015d8838ef3f38fddb97e

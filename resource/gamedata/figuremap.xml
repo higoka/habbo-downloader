@@ -10889,7 +10889,7 @@
     <part id="6385" type="hrb"/>
     <part id="6386" type="hr"/>
   </lib>
-  <lib id="hat_U_nftbunnyhood" revision="73013">
+  <lib id="hat_U_nftbunnyhood" revision="73300">
     <part id="6410" type="ha"/>
   </lib>
   <lib id="shoes_U_fashionboots" revision="73007">
@@ -10901,11 +10901,6 @@
     <part id="6406" type="lc"/>
     <part id="6406" type="rc"/>
     <part id="6407" type="cc"/>
-  </lib>
-  <lib id="jacket_U_nftbunnycape" revision="73013">
-    <part id="6411" type="cc"/>
-    <part id="6411" type="lc"/>
-    <part id="6411" type="rc"/>
   </lib>
   <lib id="acc_chest_U_floralcanvasbag" revision="73021">
     <part id="6401" type="ca"/>
@@ -11155,7 +11150,7 @@
     <part id="6578" type="cc"/>
     <part id="6579" type="cc"/>
   </lib>
-  <lib id="shirt_U_festashirt" revision="73266">
+  <lib id="shirt_U_festashirt" revision="73324">
     <part id="6727" type="ch"/>
     <part id="6727" type="ls"/>
     <part id="6727" type="rs"/>
@@ -11197,6 +11192,15 @@
     <part id="6618" type="ea"/>
     <part id="6619" type="ea"/>
     <part id="6620" type="ea"/>
+  </lib>
+  <lib id="jacket_U_nftbunnycape" revision="73303">
+    <part id="6411" type="cc"/>
+    <part id="6411" type="lc"/>
+    <part id="6411" type="rc"/>
+  </lib>
+  <lib id="acc_head_U_floatingrainbow" revision="73322">
+    <part id="6740" type="he"/>
+    <part id="6741" type="he"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
