@@ -22720,6 +22720,7 @@ collectibles.set.summer_craftable_clothes_23=Summer Craftable Clothes 2023
 collectibles.set.thrones=Thrones
 collectibles.set.tokyo_gacha=Tokyo Gacha 
 collectibles.set.trippy_items_23=Trippy 1
+collectibles.set.trippy_items_25=Trippy 2
 collectibles.set.ugc=UGC 2023
 collectibles.set.ugc_2024=UGC 2024
 collectibles.set.vintaque=Vintaque
