@@ -11202,6 +11202,54 @@
     <part id="6740" type="he"/>
     <part id="6741" type="he"/>
   </lib>
+  <lib id="hat_U_funshinebear" revision="73416">
+    <part id="6713" type="ha"/>
+  </lib>
+  <lib id="jacket_U_grumpybear" revision="73417">
+    <part id="6721" type="cc"/>
+    <part id="6721" type="lc"/>
+    <part id="6721" type="rc"/>
+  </lib>
+  <lib id="hat_U_goodluckbear" revision="73417">
+    <part id="6714" type="ha"/>
+  </lib>
+  <lib id="jacket_U_tenderheart" revision="73418">
+    <part id="6718" type="cc"/>
+    <part id="6718" type="lc"/>
+    <part id="6718" type="rc"/>
+  </lib>
+  <lib id="hat_U_tenderheart" revision="73417">
+    <part id="6712" type="ha"/>
+  </lib>
+  <lib id="hat_U_sharebear" revision="73417">
+    <part id="6715" type="ha"/>
+  </lib>
+  <lib id="jacket_U_funshinebear" revision="73418">
+    <part id="6719" type="cc"/>
+    <part id="6719" type="lc"/>
+    <part id="6719" type="rc"/>
+  </lib>
+  <lib id="hat_U_grumpybear" revision="73417">
+    <part id="6716" type="ha"/>
+  </lib>
+  <lib id="jacket_U_goodluckbear" revision="73416">
+    <part id="6728" type="cc"/>
+    <part id="6728" type="lc"/>
+    <part id="6728" type="rc"/>
+  </lib>
+  <lib id="hat_U_cheerbear" revision="73416">
+    <part id="6711" type="ha"/>
+  </lib>
+  <lib id="jacket_U_sharebear" revision="73418">
+    <part id="6720" type="cc"/>
+    <part id="6720" type="lc"/>
+    <part id="6720" type="rc"/>
+  </lib>
+  <lib id="jacket_U_cheerbear" revision="73416">
+    <part id="6717" type="cc"/>
+    <part id="6717" type="lc"/>
+    <part id="6717" type="rc"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
