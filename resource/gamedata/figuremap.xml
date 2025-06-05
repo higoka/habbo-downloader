@@ -10131,16 +10131,8 @@
     <part id="6196" type="rc"/>
     <part id="6197" type="cc"/>
   </lib>
-  <lib id="acc_chest_M_nftartistapron" revision="72640">
-    <part id="6417" type="ca"/>
-    <part id="6418" type="ca"/>
-  </lib>
   <lib id="acc_print_U_nft2025" revision="72640">
     <part id="6412" type="cp"/>
-  </lib>
-  <lib id="acc_chest_F_nftartistapron" revision="72640">
-    <part id="6419" type="ca"/>
-    <part id="6420" type="ca"/>
   </lib>
   <lib id="acc_face_U_nftartistpencil" revision="72640">
     <part id="6415" type="fa"/>
@@ -10892,6 +10884,10 @@
   <lib id="hat_U_nftbunnyhood" revision="73300">
     <part id="6410" type="ha"/>
   </lib>
+  <lib id="jacket_F_nftartistapron" revision="73456">
+    <part id="6419" type="cc"/>
+    <part id="6420" type="cc"/>
+  </lib>
   <lib id="shoes_U_fashionboots" revision="73007">
     <part id="6408" type="sh"/>
     <part id="6409" type="sh"/>
@@ -11249,6 +11245,23 @@
     <part id="6717" type="cc"/>
     <part id="6717" type="lc"/>
     <part id="6717" type="rc"/>
+  </lib>
+  <lib id="jacket_U_nftmonkeyfriend" revision="73444">
+    <part id="6767" type="cc"/>
+    <part id="6767" type="lc"/>
+    <part id="6767" type="rc"/>
+  </lib>
+  <lib id="jacket_U_animtest" revision="73448">
+    <part id="6768" type="cc"/>
+    <part id="6768" type="lc"/>
+    <part id="6768" type="rc"/>
+  </lib>
+  <lib id="acc_chest_U_nftbackmonkey" revision="73444">
+    <part id="6766" type="ca"/>
+  </lib>
+  <lib id="jacket_M_nftartistapron" revision="73456">
+    <part id="6417" type="cc"/>
+    <part id="6418" type="cc"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
@@ -11651,7 +11664,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="73235">
+  <lib id="hh_human_item" revision="73430">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -11912,6 +11925,8 @@
     <part id="285" type="ri"/>
     <part id="286" type="ri"/>
     <part id="287" type="ri"/>
+    <part id="291" type="ri"/>
+    <part id="292" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
