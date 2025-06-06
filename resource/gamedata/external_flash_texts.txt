@@ -23365,6 +23365,7 @@ facebook.link_creation_description=To sign up with Facebook, please go to our we
 facebook.link_creation_title=Link account to Facebook
 featured.offer..jun22femaleb.title=Idol Beauty Merch!
 featured.offer.21adsttb.title=Introducing: The Teletubbies!
+featured.offer.441.title=Welcome To Brazil Bundle
 featured.offer.ads_drs1.title=Introducing: Don Robbie from DR Sports!
 featured.offer.ads_kit2.title=Introducing: My Melody! (Latam only)
 featured.offer.ads_kit3.title=Introducing: Badtz-Maru! (Latam only)
