@@ -885,6 +885,9 @@
 25brazil01.image=web_promo_small/spromo_25brazil01.png
 25brazil01.text=You're a key part of protecting the amazing wildlife in this area. Some poachers have been spotted hurting animals and messing up the environment. We need your help to step in and save the Amazon!\n\nHow to play:\n\n- Stand next to poachers to catch them.\n- Step on fires to put them out.\n- Say "*" near injured animals (look for the red arrow to know where to stand) to heal them.\n\nYou can do all of these at the same time—but to win, you’ll need to:\n\n- Catch all 4 poachers\n- Heal X injured animals\n- Put out all the fires\n\nAnd you’ve only got 1 minute and 30 seconds to do it! Good luck—and thanks for helping protect the Amazon!
 25brazil01.title=Festa no Brasil!
+25brazil02.image=web_promo_small/spromo_25brazil02.png
+25brazil02.text=Sabores do Brasil!\n\nThink you know Brazilian culture? It’s time to prove it!\n\nDive into an adventure where your knowledge of Brazil’s vibrant customs will be your best ally. But there's a twist — you’re not just answering questions… you're also on a delivery mission!Race through colorful neighborhoods delivering delicious dishes. Get those orders in fast — before Caramelo, the ever-hungry (and very sneaky) street dog, catches up to you!\n\nHow to play:\n\n- Go to the arrow plates and start testing your knowledge about Portuguese onomatopoeia by answering the correct answers.\n- Once you've answered all questions correctly, you will be teleported to the next game.\n- Guide the motorcycle by clicking in front and behind of it. In each stage, you can only move in one direction. From each direction, a dog will chase you, so don't go too slow!\n- Your goal is to reach ""Bar da Loura"" and make two deliveries within two minutes.\n- The dogs / ball can hit you twice. If you're hit three times, you will return to the queue to try again!\n- If you manage to do the deliveries and arrive home within two minutes you will complete the game. Good luck!
+25brazil02.title=Festa no Brasil!
 25brazil04.image=web_promo_small/spromo_25brazil04.png
 25brazil04.text=São João!\n\nThe festival has begun, and the square is buzzing with music, colors, and celebration!\n Help the locals prepare for the party, and earn your place as a true São João festival hero.\n\nHow to play:\n\n- Step on the green circle to start dancing with the quadrilheiros!\n - Only step on the tiles when they’re green. If you step on a red tile or miss a step, you’ll lose.\n- Once you finish dancing, head to the kissing booth to collect a letter, then go to Forró do Frank and find the right person to deliver it to by sitting on one of the chairs next to the bots.\n- After delivering the letter, help the groom escape from the police by blocking their paths.\n- When he’s safe, step on the ring plate to complete the game! 
 25brazil04.title=Festa no Brasil!
@@ -14375,6 +14378,7 @@ badge_name_FNB13=Riverboat Cruise Bundle - Part Three
 badge_name_FNB14=São João Bundle
 badge_name_FNB15=Fishing Day Bundle
 badge_name_FNB16=Wildwatch: Amazon Rescue
+badge_name_FNB17=Brazilian Culture Pro!
 badge_name_FNB19=São João Star
 badge_name_FNB20=Discover the real Brazil!
 badge_name_FNB21=Exploring Brazilian Culture
