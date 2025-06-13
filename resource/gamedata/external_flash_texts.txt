@@ -14386,6 +14386,7 @@ badge_name_FNB24=Sunflower Hair Clip
 badge_name_FNB25=Sunflower Pin
 badge_name_FNB26=Sunflower Plant
 badge_name_FNB27=Festa Shirt
+badge_name_FNB29=Locking the Love
 badge_name_FOOL1=Habbo Clown
 badge_name_FOOL2=Safety Noob
 badge_name_FPB01=Frank's Floral Farm Bundle
