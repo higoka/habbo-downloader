@@ -888,6 +888,9 @@
 25brazil02.image=web_promo_small/spromo_25brazil02.png
 25brazil02.text=Sabores do Brasil!\n\nThink you know Brazilian culture? It’s time to prove it!\n\nDive into an adventure where your knowledge of Brazil’s vibrant customs will be your best ally. But there's a twist — you’re not just answering questions… you're also on a delivery mission!Race through colorful neighborhoods delivering delicious dishes. Get those orders in fast — before Caramelo, the ever-hungry (and very sneaky) street dog, catches up to you!\n\nHow to play:\n\n- Go to the arrow plates and start testing your knowledge about Portuguese onomatopoeia by answering the correct answers.\n- Once you've answered all questions correctly, you will be teleported to the next game.\n- Guide the motorcycle by clicking in front and behind of it. In each stage, you can only move in one direction. From each direction, a dog will chase you, so don't go too slow!\n- Your goal is to reach ""Bar da Loura"" and make two deliveries within two minutes.\n- The dogs / ball can hit you twice. If you're hit three times, you will return to the queue to try again!\n- If you manage to do the deliveries and arrive home within two minutes you will complete the game. Good luck!
 25brazil02.title=Festa no Brasil!
+25brazil03.image=web_promo_small/spromo_25brazil03.png
+25brazil03.text=Brazilian folklore\n\nStep into the mysterious world of Brazilian folklore and meet the legendary trickster himself — Saci Pererê! With his whirlwind spins, single leg, and magical red cap, he’s always up to mischief… but today, you hold the power. Your mission? Steal his magical hat! But be warned, he won’t let it go without a fight.\n\nHold onto it, and Saci just might strike a deal. Complete his challenge, and he’ll grant you a favor in return...\n\nh2. How to play:\n\n- While Saci is sitting on the riverbank, you need to move forward when he's is not facing you. If you don’t sit (:sit) on the ground before he looks at you, Saci will catch you and you will be eliminated. Stand behind the Saci when he's not looking and click on his hat to steal it.\n\- Now that you have Saci's hat, he desperately wants to grant you a favor to get it back. Use the arrow plates to guide Saci to the box and give his hat back.
+25brazil03.title=Festa no Brasil!
 25brazil04.image=web_promo_small/spromo_25brazil04.png
 25brazil04.text=São João!\n\nThe festival has begun, and the square is buzzing with music, colors, and celebration!\n Help the locals prepare for the party, and earn your place as a true São João festival hero.\n\nHow to play:\n\n- Step on the green circle to start dancing with the quadrilheiros!\n - Only step on the tiles when they’re green. If you step on a red tile or miss a step, you’ll lose.\n- Once you finish dancing, head to the kissing booth to collect a letter, then go to Forró do Frank and find the right person to deliver it to by sitting on one of the chairs next to the bots.\n- After delivering the letter, help the groom escape from the police by blocking their paths.\n- When he’s safe, step on the ring plate to complete the game! 
 25brazil04.title=Festa no Brasil!
@@ -14383,6 +14386,7 @@ badge_name_FNB14=São João Bundle
 badge_name_FNB15=Fishing Day Bundle
 badge_name_FNB16=Wildwatch: Amazon Rescue
 badge_name_FNB17=Brazilian Culture Pro!
+badge_name_FNB18=Saci's Trickster
 badge_name_FNB19=São João Star
 badge_name_FNB20=Discover the real Brazil!
 badge_name_FNB21=Exploring Brazilian Culture
