@@ -11382,6 +11382,20 @@
   <lib id="acc_eye_U_nfts25glasses2" revision="73528">
     <part id="6770" type="ea"/>
   </lib>
+  <lib id="jacket_M_rainbowpatchjacket" revision="73554">
+    <part id="6794" type="cc"/>
+    <part id="6794" type="lc"/>
+    <part id="6794" type="rc"/>
+    <part id="6795" type="cc"/>
+    <part id="6796" type="cc"/>
+  </lib>
+  <lib id="jacket_F_rainbowpatchjacket" revision="73554">
+    <part id="6797" type="cc"/>
+    <part id="6797" type="lc"/>
+    <part id="6797" type="rc"/>
+    <part id="6798" type="cc"/>
+    <part id="6799" type="cc"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
