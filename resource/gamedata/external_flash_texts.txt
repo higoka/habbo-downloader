@@ -24275,6 +24275,7 @@ featured.offer.june25r1.title=RARE Boitatá
 featured.offer.june25r2.title=RARE Pink Lapacho Tree
 featured.offer.june25r3.title=RARE Mermaid Iara Outfit
 featured.offer.june25r4.title=RARE Atlas Moth Wings
+featured.offer.june25rainbow.title=Floating Rainbow
 featured.offer.lab18axe.title=RARE Axe to the Head
 featured.offer.lab18chem.title=RARE Antique Chemistry Set
 featured.offer.lab18cloth.title=Infected Laboratory clothing
