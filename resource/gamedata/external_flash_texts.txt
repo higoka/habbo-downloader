@@ -23849,6 +23849,7 @@ featured.offer.bundle441.title=Welcome To Brazil Bundle
 featured.offer.bundle442.title=Piccolo's Zen Den Suite
 featured.offer.bundle443.title=Frank's Kitchen Suite
 featured.offer.bundle444.title=Bonnie's Bathroom Suite
+featured.offer.bundle4442.title=Bonnie's Bathroom Suite
 featured.offer.bundle445.title=Santini's Lounge Suite
 featured.offer.bundle47.title=Frosty Winter Castle Bundle
 featured.offer.bundle48.title=Fireside Chalet Bundle
