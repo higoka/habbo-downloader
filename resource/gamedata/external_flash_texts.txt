@@ -22260,6 +22260,7 @@ catalog.alert.petname.short=Pet name is too short.
 catalog.alert.published.description=We just made some changes in the Shop! To avoid errors, the Shop window had to be closed. You can re-open it now!
 catalog.alert.published.title=Please re-open the Shop.
 catalog.alert.purchaseerror.badgeexists.description=You (or the Habbo you're purchasing for) already own this badge! You can't purchase it again!
+catalog.alert.purchaseerror.description.12=Frank is handling the purchases of some early LTD buyers. Check back in a bit to see if there's any left for the grabs!
 catalog.alert.purchaseerror.description.1=You, or the gift recipient already has this badge, no need to purchase it again.
 catalog.alert.purchaseerror.description.3=You can't trade because you have a trade lock.
 catalog.alert.purchaseerror.description.5=You can't buy this effect as you already own it
