@@ -11409,7 +11409,7 @@
     <part id="6697" type="he"/>
     <part id="6698" type="he"/>
   </lib>
-  <lib id="shirt_M_frillybikinitop" revision="73650">
+  <lib id="shirt_M_frillybikinitop" revision="73696">
     <part id="6684" type="ch"/>
     <part id="6684" type="ls"/>
     <part id="6684" type="rs"/>
@@ -11423,7 +11423,7 @@
     <part id="6705" type="ha"/>
     <part id="6706" type="ha"/>
   </lib>
-  <lib id="shirt_F_frillybikinitop" revision="73650">
+  <lib id="shirt_F_frillybikinitop" revision="73696">
     <part id="6682" type="ch"/>
     <part id="6682" type="ls"/>
     <part id="6682" type="rs"/>
@@ -11479,7 +11479,7 @@
   <lib id="hat_U_loyaltycrown_25" revision="73669">
     <part id="6696" type="ha"/>
   </lib>
-  <lib id="acc_chest_U_iridescentstarbag" revision="73671">
+  <lib id="acc_chest_U_iridescentstarbag" revision="73691">
     <part id="6745" type="ca"/>
   </lib>
   <lib id="acc_chest_U_nftseashellp1" revision="73675">
@@ -11511,6 +11511,22 @@
   </lib>
   <lib id="hat_U_cathat2" revision="73681">
     <part id="6858" type="ha"/>
+  </lib>
+  <lib id="hat_U_nftwatermelonhelmet" revision="73692">
+    <part id="6857" type="ha"/>
+  </lib>
+  <lib id="jacket_U_patchlongscarf" revision="73689">
+    <part id="6722" type="cc"/>
+    <part id="6722" type="lc"/>
+    <part id="6722" type="rc"/>
+    <part id="6723" type="cc"/>
+    <part id="6724" type="cc"/>
+  </lib>
+  <lib id="acc_eye_U_nftbrokenglasses" revision="73692">
+    <part id="6856" type="ea"/>
+  </lib>
+  <lib id="acc_chest_U_nftcola" revision="73698">
+    <part id="6859" type="ca"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
