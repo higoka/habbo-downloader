@@ -18169,6 +18169,7 @@ badge_name_SHH21=Rare Unicorn Friend
 badge_name_SHH22=Rare Toast Cat
 badge_name_SHH23=Rare Tangerine Fountain
 badge_name_SHH24=Professional Skateboarder Outfit Offer
+badge_name_SHH25=Quacking Bonnie LTD
 badge_name_SHH26=Ginger Cat Hat
 badge_name_SHL01=Rare Consulting Detective Outfit
 badge_name_SHL02=Rare Spidery Waves
