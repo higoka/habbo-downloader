@@ -11202,7 +11202,7 @@
     <part id="6641" type="ch"/>
     <part id="6642" type="ch"/>
   </lib>
-  <lib id="acc_eye_U_bonniecateyeshades" revision="73288">
+  <lib id="acc_eye_U_bonniecateyeshades" revision="73711">
     <part id="6618" type="ea"/>
     <part id="6619" type="ea"/>
     <part id="6620" type="ea"/>
@@ -11527,6 +11527,13 @@
   </lib>
   <lib id="acc_chest_U_nftcola" revision="73698">
     <part id="6859" type="ca"/>
+  </lib>
+  <lib id="jacket_U_nftbionic" revision="73719">
+    <part id="6860" type="lc"/>
+    <part id="6860" type="rc"/>
+    <part id="6860" type="cc"/>
+    <part id="6861" type="lc"/>
+    <part id="6862" type="lc"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
@@ -11929,7 +11936,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="73661">
+  <lib id="hh_human_item" revision="73711">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -12192,6 +12199,7 @@
     <part id="287" type="ri"/>
     <part id="288" type="ri"/>
     <part id="289" type="ri"/>
+    <part id="290" type="ri"/>
     <part id="291" type="ri"/>
     <part id="292" type="ri"/>
     <part id="293" type="ri"/>
