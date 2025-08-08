@@ -22810,6 +22810,7 @@ collectibles.set.clothing_factory_legendary=Clothing Factory: Legendary
 collectibles.set.clothing_factory_mythic=Clothing Factory: Mythic
 collectibles.set.clothing_factory_rare=Clothing Factory: Rare
 collectibles.set.clothing_factory_uncommon=Clothing Factory: Uncommon
+collectibles.set.collectimatic_1=Collecti-Matic 1
 collectibles.set.collector_rewards_22_23=Collector Rewards 2022-2023
 collectibles.set.collectors_guild=Collectors Guild
 collectibles.set.community_rewards_22=Community Rewards 2022
