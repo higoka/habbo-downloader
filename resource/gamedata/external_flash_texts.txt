@@ -38583,6 +38583,7 @@ quests.anniv25_coinrush.1750244065406.name=Combo Breaker 2
 quests.anniv25_coinrush.1750244650915.completed=Congratulations!
 quests.anniv25_coinrush.1750244650915.desc=Get a 10x combo in a game of Coin Rush
 quests.anniv25_coinrush.1750244650915.name=Combo Breaker 3
+quests.anniv25_coinrush.name=Coin Rush Quests
 quests.anniv25_quest1.1750769483986.completed=He thought he could hide... adorable.
 quests.anniv25_quest1.1750769483986.desc=Who's that celeb? Click!
 quests.anniv25_quest1.1750769483986.hint=Mr. Welcome Lounge himself. Habbo's one true icon
