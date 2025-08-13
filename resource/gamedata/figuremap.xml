@@ -11535,6 +11535,87 @@
     <part id="6861" type="lc"/>
     <part id="6862" type="lc"/>
   </lib>
+  <lib id="acc_head_U_blessedheadpiece" revision="73757">
+    <part id="6842" type="he"/>
+  </lib>
+  <lib id="jacket_U_basicgreekcape" revision="73765">
+    <part id="6826" type="cc"/>
+    <part id="6826" type="lc"/>
+    <part id="6826" type="rc"/>
+    <part id="6827" type="cc"/>
+  </lib>
+  <lib id="shoes_U_olympiansandals" revision="73757">
+    <part id="6840" type="sh"/>
+  </lib>
+  <lib id="shirt_F_blessedtoga" revision="73757">
+    <part id="6838" type="ch"/>
+    <part id="6838" type="ls"/>
+    <part id="6838" type="rs"/>
+    <part id="6839" type="ch"/>
+  </lib>
+  <lib id="acc_head_U_aphroditehearts" revision="73756">
+    <part id="6822" type="he"/>
+    <part id="6823" type="he"/>
+  </lib>
+  <lib id="shirt_F_basictoga" revision="73756">
+    <part id="6828" type="ch"/>
+    <part id="6828" type="ls"/>
+    <part id="6828" type="rs"/>
+    <part id="6829" type="ch"/>
+    <part id="6830" type="ch"/>
+  </lib>
+  <lib id="shirt_M_blessedtoga" revision="73757">
+    <part id="6836" type="ch"/>
+    <part id="6836" type="ls"/>
+    <part id="6836" type="rs"/>
+    <part id="6837" type="ch"/>
+  </lib>
+  <lib id="acc_chest_U_zeuslightning" revision="73762">
+    <part id="6873" type="ca"/>
+  </lib>
+  <lib id="hat_U_grapes" revision="73762">
+    <part id="6875" type="ha"/>
+  </lib>
+  <lib id="jacket_U_cerberuscompanion" revision="73757">
+    <part id="6834" type="cc"/>
+    <part id="6834" type="lc"/>
+    <part id="6834" type="rc"/>
+    <part id="6835" type="cc"/>
+  </lib>
+  <lib id="acc_chest_U_dionysianwinebarrel" revision="73763">
+    <part id="6874" type="ca"/>
+  </lib>
+  <lib id="shirt_M_basictoga" revision="73756">
+    <part id="6831" type="ch"/>
+    <part id="6831" type="ls"/>
+    <part id="6831" type="rs"/>
+    <part id="6832" type="ch"/>
+    <part id="6833" type="ch"/>
+  </lib>
+  <lib id="face_U_goddesseyes" revision="73756">
+    <part id="6778" type="fc"/>
+    <part id="6779" type="fc"/>
+    <part id="6779" type="ey"/>
+    <part id="6780" type="fc"/>
+  </lib>
+  <lib id="jacket_U_blessedcape" revision="73765">
+    <part id="6843" type="cc"/>
+    <part id="6843" type="lc"/>
+    <part id="6843" type="rc"/>
+    <part id="6844" type="cc"/>
+  </lib>
+  <lib id="hat_U_nemeanlion" revision="73759">
+    <part id="6871" type="ha"/>
+    <part id="6872" type="ha"/>
+  </lib>
+  <lib id="hair_U_botticellihair" revision="73756">
+    <part id="6824" type="hr"/>
+    <part id="6824" type="hrb"/>
+    <part id="6825" type="hr"/>
+  </lib>
+  <lib id="shoes_U_blessedsandals" revision="73757">
+    <part id="6841" type="sh"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
