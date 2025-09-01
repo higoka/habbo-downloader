@@ -11616,6 +11616,31 @@
   <lib id="shoes_U_blessedsandals" revision="73757">
     <part id="6841" type="sh"/>
   </lib>
+  <lib id="shirt_F_footlocker" revision="73826">
+    <part id="6864" type="ch"/>
+    <part id="6864" type="ls"/>
+    <part id="6864" type="rs"/>
+  </lib>
+  <lib id="shirt_M_footlocker" revision="73825">
+    <part id="6863" type="ch"/>
+    <part id="6863" type="ls"/>
+    <part id="6863" type="rs"/>
+  </lib>
+  <lib id="acc_chest_U_nftbowandquiver2" revision="73847">
+    <part id="6886" type="ca"/>
+    <part id="6887" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nftbowandquiver" revision="73847">
+    <part id="6883" type="ca"/>
+    <part id="6884" type="ca"/>
+    <part id="6885" type="ca"/>
+  </lib>
+  <lib id="face_U_goddesseyesslim" revision="73857">
+    <part id="6890" type="fc"/>
+    <part id="6891" type="fc"/>
+    <part id="6891" type="ey"/>
+    <part id="6892" type="fc"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
