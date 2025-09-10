@@ -1,0 +1,688 @@
+<?xml version="1.0"?>
+<actions>
+
+    <!-- Main actions -->
+    <action  id="Lay" state="lay" precedence="100" main="1" geometrytype="horizontal" activepartset="figure" assetpartdefinition="lay" prevents="fx.1,fx.2,fx.3,fx.5,fx.6,fx.14,fx.15,fx.16,fx.17,fx.18,fx.19,fx.20,fx.21,fx.22,fx.26,fx.27,fx.31,fx.32,fx.33,fx.34,fx.35,fx.36,fx.38,fx.39,fx.45,fx.46,fx.47,fx.48,fx.53,fx.54,fx.55,fx.56,fx.57,fx.58,fx.60,fx.61,fx.62,fx.63,fx.64,fx.65,fx.66,fx.67,fx.69,fx.70,fx.71,fx.72,fx.73,fx.74,fx.75,fx.76,fx.78,fx.79,fx.80,fx.81,fx.82,fx.83,fx.84,fx.85,fx.86,fx.87,fx.88,fx.89,fx.90,fx.91,fx.92,fx.93,fx.94,fx.97,fx.99,fx.100,fx.101,fx.104,fx.105,fx.106,fx.107,fx.108,fx.109,fx.110,fx.111,fx.112,fx.113,fx.114,fx.115,fx.116,fx.117,fx.118,fx.119,fx.120,fx.121,fx.122,fx.123,fx.124,fx.125,fx.126,fx.127,fx.128,fx.129,fx.130,fx.131,fx.132,fx.133,fx.134,fx.135,fx.136,fx.137,fx.138,fx.139,fx.140,fx.141,fx.142,fx.143,fx.144,fx.145,fx.146,fx.147,fx.148,fx.149,fx.150,fx.151,fx.152,fx.153,fx.154,fx.155,fx.156,fx.157,fx.158,fx.159,fx.160,fx.161,fx.162,fx.164,fx.165,fx.166,fx.167,fx.168,fx.169,fx.171,fx.172,fx.173,fx.174,fx.175,fx.176,fx.177,fx.179,fx.180,fx.181,fx.182,fx.183,fx.184,fx.185,fx.186,fx.188,fx.189,fx.190,fx.191,fx.192,fx.193,fx.194,fx.195,fx.196,fx.197,fx.198,fx.199,fx.207,fx.208,fx.209,fx.210,fx.211,fx.212,fx.214,fx.215,fx.216,fx.217,fx.218,fx.219,fx.221,fx.222,fx.223,fx.229,fx.230,fx.231,fx.232,fx.233,fx.234,fx.235,fx.236,spk,gest,sml,sad,agr,srp,usei,cri,blow"/>
+    <action  id="Float" state="float" precedence="101" main="1" geometrytype="swim" activepartset="swim" assetpartdefinition="sws" prevents="fx.2,fx.3,fx.5,fx.6,fx.14,fx.15,fx.16,fx.17,fx.18,fx.19,fx.20,fx.21,fx.22,fx.23,fx.26,fx.27,fx.31,fx.32,fx.33,fx.34,fx.35,fx.36,fx.38,fx.39,fx.45,fx.46,fx.48,fx.54,fx.55,fx.56,fx.57,fx.58,fx.63,fx.65,fx.66,fx.69,fx.71,fx.72,fx.74,fx.75,fx.76,fx.89,fx.90,fx.91,fx.92,fx.94,fx.97,fx.99,fx.100,fx.101,fx.104,fx.105,fx.106,fx.107,fx.109,fx.110,fx.111,fx.113,fx.114,fx.115,fx.116,fx.117,fx.118,fx.119,fx.120,fx.121,fx.122,fx.123,fx.124,fx.125,fx.127,fx.129,fx.130,fx.131,fx.132,fx.134,fx.135,fx.136,fx.139,fx.140,fx.141,fx.142,fx.143,fx.144,fx.145,fx.146,fx.147,fx.148,fx.149,fx.150,fx.151,fx.152,fx.153,fx.154,fx.155,fx.156,fx.157,fx.158,fx.159,fx.160,fx.161,fx.162,fx.164,fx.165,fx.166,fx.167,fx.168,fx.169,fx.170,fx.171,fx.172,fx.173,fx.174,fx.175,fx.176,fx.177,fx.102,fx.178,fx.179,fx.180,fx.181,fx.182,fx.183,fx.186,fx.188,fx.189,fx.190,fx.191,fx.192,fx.193,fx.194,fx.195,fx.196,fx.197,fx.198,fx.199,fx.207,fx.208,fx.209,fx.210,fx.211,fx.212,fx.214,fx.215,fx.216,fx.217,fx.218,fx.219,fx.221,fx.227,fx.228,fx.229,fx.230,fx.231,fx.232,fx.233,fx.234,fx.235,fx.236,dance,usei,cri,sign"/>
+    <action  id="Swim" state="swim" precedence="102" main="1" geometrytype="swim" activepartset="swim" assetpartdefinition="swm" prevents="fx.2,fx.3,fx.5,fx.6,fx.14,fx.15,fx.16,fx.17,fx.18,fx.19,fx.20,fx.21,fx.22,fx.23,fx.26,fx.27,fx.32,fx.33,fx.34,fx.35,fx.36,fx.38,fx.39,fx.45,fx.46,fx.48,fx.54,fx.55,fx.56,fx.57,fx.58,fx.63,fx.65,fx.66,fx.69,fx.71,fx.72,fx.74,fx.75,fx.76,fx.89,fx.90,fx.91,fx.92,fx.94,fx.97,fx.100,fx.101,fx.104,fx.105,fx.106,fx.107,fx.109,fx.110,fx.111,fx.113,fx.114,fx.115,fx.116,fx.117,fx.118,fx.119,fx.120,fx.121,fx.122,fx.123,fx.124,fx.125,fx.127,fx.129,fx.130,fx.131,fx.132,fx.134,fx.135,fx.136,fx.139,fx.140,fx.141,fx.142,fx.143,fx.144,fx.145,fx.146,fx.147,fx.148,fx.149,fx.150,fx.151,fx.152,fx.153,fx.154,fx.155,fx.156,fx.157,fx.158,fx.159,fx.160,fx.161,fx.162,fx.164,fx.165,fx.166,fx.167,fx.168,fx.168,fx.170,fx.171,fx.172,fx.173,fx.174,fx.175,fx.176,fx.177,fx.102,fx.178,fx.179,fx.180,fx.181,fx.182,fx.183,fx.186,fx.188,fx.189,fx.190,fx.191,fx.192,fx.193,fx.194,fx.195,fx.196,fx.197,fx.198,fx.199,fx.207,fx.208,fx.209,fx.210,fx.211,fx.212,fx.214,fx.215,fx.216,fx.217,fx.218,fx.219,fx.221,fx.227,fx.228,fx.229,fx.230,fx.231,fx.232,fx.233,fx.234,fx.235,fx.236,dance,usei,cri,sign"/>
+    <action  id="Sit" state="sit" precedence="103" main="1" geometrytype="sitting" activepartset="sit" assetpartdefinition="sit" prevents="fx.2,fx.3,fx.6,fx.14,fx.15,fx.17,fx.18,fx.19,fx.20,fx.21,fx.22,fx.33,fx.34,fx.35,fx.36,fx.38,fx.39,fx.48,fx.54,fx.55,fx.56,fx.69,fx.71,fx.72,fx.92,fx.94,fx.97,fx.100,fx.104,fx.115,fx.117,fx.132,fx.134,fx.135,fx.136,fx.140,fx.156,fx.174,fx.175,fx.176,fx.188,fx.189,fx.190,fx.191,fx.193,fx.194,fx.195,fx.197,fx.198,fx.199,fx.215,fx.216,fx.217,fx.218,fx.219,fx.221,fx.229,fx.230,fx.231,fx.232,dance"/>
+
+    <action  id="Snowboard360" state="sb360" precedence="140" animation="1" main="1" geometrytype="vertical" activepartset="figure" assetpartdefinition="sb360" startfromframezero="true" prevents="usei,cri,wave,sign"/>
+    <action  id="SnowboardOllie" state="sbollie" precedence="141" animation="1" main="1" geometrytype="vertical" activepartset="figure" assetpartdefinition="sbollie" startfromframezero="true" prevents="usei,cri,wave,sign"/>
+    <action  id="SnowboardUp" state="sbup" precedence="142" animation="1" main="1" geometrytype="vertical" activepartset="figure" assetpartdefinition="std" startfromframezero="true" />
+    <action  id="SnowboardSquat" state="sbsq" precedence="143" animation="1" main="1" geometrytype="vertical" activepartset="figure" assetpartdefinition="std" startfromframezero="true" />
+
+    <action  id="RideJump" state="ridejump" precedence="144" animation="1" main="1" geometrytype="vertical" activepartset="figure" assetpartdefinition="std" startfromframezero="true" />
+
+    <action  id="Respect" state="respect" precedence="204" geometrytype="vertical" activepartset="handLeft" startfromframezero="true" assetpartdefinition="respect" prevents="dance"/>
+    <action  id="Wave" state="wave" precedence="205" geometrytype="vertical" activepartset="handLeft" assetpartdefinition="wav" prevents="dance"/>
+    <action  id="Sign" state="sign" precedence="210" geometrytype="vertical" activepartset="handLeft" assetpartdefinition="sig" prevents="dance"/>
+    <action  id="Blow" state="blow" precedence="211" geometrytype="vertical" activepartset="handRightAndHead" assetpartdefinition="blw" startfromframezero="true" preventheadturn="true" prevents="dance"/>
+    <action  id="Laugh" state="laugh" precedence="211" geometrytype="vertical" activepartset="handRightAndHead" assetpartdefinition="lgh" startfromframezero="true" preventheadturn="true" prevents="dance"/>
+    <action  id="Idle" state="idle" precedence="211" geometrytype="vertical" activepartset="head" assetpartdefinition="idl" preventheadturn="true" prevents="dance"/>
+
+    <action  id="AvatarEffect" state="fx" precedence="220" geometrytype="vertical" animation="1" assetpartdefinition="std" prevents="dance,blow,laugh">
+        <type id="1" animated="false" />
+        <type id="5" prevents="usei,cri" />
+        <type id="11" animated="false" />
+        <type id="12" animated="false" />
+        <type id="13" animated="false" />
+        <type id="16" animated="false" prevents="usei,cri" />
+        <type id="19" animated="false" />
+        <type id="20" animated="false" />
+        <type id="21" animated="false" />
+        <type id="22" animated="false" />
+        <type id="26" prevents="usei,cri" />
+        <type id="27" animated="false" />
+        <type id="28" prevents="usei,cri,wave,sign"/>
+        <type id="29" prevents="usei,cri,wave,sign"/>
+        <type id="31" animated="false" />
+        <type id="32" animated="false" preventheadturn="true"/>
+        <type id="33" preventheadturn="true" prevents="Sleep,gest,sml,sad,agr,srp"/>
+        <type id="34" preventheadturn="true" prevents="Sleep,gest,sml,sad,agr,srp"/>
+        <type id="35" preventheadturn="true" prevents="Sleep,gest,sml,sad,agr,srp"/>
+        <type id="36" preventheadturn="true" prevents="Sleep,gest,sml,sad,agr,srp"/>
+        <type id="38" animated="false" />
+        <type id="39" animated="false" />
+        <type id="40" animated="false" />
+        <type id="41" animated="false" />
+        <type id="42" animated="false" />
+        <type id="43" animated="false" />
+        <type id="47" animated="false" />
+        <type id="48" animated="false" />
+        <type id="55" animated="false" />
+        <type id="56" animated="false" />
+        <type id="57" animated="false" />
+        <type id="58" animated="false" />
+        <type id="60" animated="false" />
+        <type id="64" prevents="usei,cri" />
+        <type id="69" animated="false" />
+        <type id="71" animated="false" />
+        <type id="72" animated="false" />
+        <type id="74" animated="false" />
+        <type id="75" animated="false" />
+        <type id="76" animated="false" />
+        <type id="79" animated="false" preventheadturn="true"/>
+        <type id="80" animated="false" preventheadturn="true"/>
+        <type id="81" animated="false" preventheadturn="true"/>
+        <type id="82" animated="false" preventheadturn="true"/>
+        <type id="83" animated="false" preventheadturn="true"/>
+        <type id="84" animated="false" preventheadturn="true"/>
+        <type id="85" animated="false" preventheadturn="true"/>
+        <type id="86" animated="false" preventheadturn="true"/>
+        <type id="87" animated="false" preventheadturn="true"/>
+        <type id="88" animated="false" preventheadturn="true"/>
+        <type id="89" animated="false" />
+        <type id="90" animated="false" />
+        <type id="91" animated="false" />
+        <type id="94" animated="false" />
+        <type id="97" />
+        <type id="100" animated="false" />
+        <type id="101" animated="true" prevents="usei,cri"/>
+        <type id="102" animated="true" />
+        <type id="104" animated="false" />
+        <type id="105" animated="false" />
+        <type id="106" prevents="usei,cri" />
+        <type id="107" animated="false" prevents="usei,cri,wave" />
+        <type id="108" animated="true" prevents="wave,sign,sit,Swim" />
+        <type id="109" animated="false" />
+        <type id="110" animated="false" />
+        <type id="111" animated="false" />
+        <type id="114" prevents="usei,cri,wave,sign" />
+        <type id="115" animated="false" preventheadturn="true" prevents="usei,cri,wave,sign,Sleep,gest,sml,sad,agr,srp"/>
+        <type id="116" animated="false"/>
+        <type id="117" animated="false" preventheadturn="true"/>
+        <type id="118" animated="false" preventheadturn="true"/>
+        <type id="119" animated="false" preventheadturn="true"/>
+        <type id="120" animated="true" preventheadturn="true"/>
+        <type id="121" animated="false" preventheadturn="true"/>
+        <type id="122" animated="true" preventheadturn="true"/>
+        <type id="123" animated="true" preventheadturn="true"/>
+        <type id="124" animated="false" preventheadturn="true"/>
+        <type id="125" animated="true" preventheadturn="true"/>
+        <type id="126" animated="false" preventheadturn="true"/>
+        <type id="127" animated="false" preventheadturn="true"/>
+        <type id="128" animated="false" preventheadturn="true"/>
+        <type id="129" animated="false" />
+        <type id="130" animated="false" />
+        <type id="131" animated="false" />
+        <type id="132" animated="true" preventheadturn="true"/>
+        <type id="134" animated="false"/>
+        <type id="135" animated="false" preventheadturn="true"/>
+        <type id="136" animated="true"/>
+        <type id="137" animated="false"/>
+        <type id="138" animated="false" preventheadturn="true"/>
+        <type id="139" animated="true" prevents="usei,cri" />
+        <type id="140" animated="true" />
+        <type id="141" animated="false" preventheadturn="true"/>
+        <type id="142" animated="false" preventheadturn="true"/>
+        <type id="143" animated="false" preventheadturn="true"/>
+        <type id="144" animated="false" preventheadturn="true"/>
+        <type id="145" animated="false" preventheadturn="true"/>
+        <type id="146" animated="false" preventheadturn="true"/>
+        <type id="147" animated="false" preventheadturn="true"/>
+        <type id="148" animated="false" preventheadturn="true"/>
+        <type id="149" animated="false" preventheadturn="true"/>
+        <type id="150" animated="false" preventheadturn="true"/>
+        <type id="151" animated="false" preventheadturn="true"/>
+        <type id="152" animated="false" preventheadturn="true"/>
+        <type id="153" animated="false" preventheadturn="true"/>
+        <type id="154" animated="false" />
+        <type id="155" animated="false" />
+        <type id="156" animated="true" />
+        <type id="157" animated="true" preventheadturn="true"/>
+        <type id="158" animated="false" prevents="usei,cri" preventheadturn="true"/>
+        <type id="159" animated="false" />
+        <type id="160" animated="false" preventheadturn="true" prevents="usei" />
+        <type id="161" animated="false" preventheadturn="true" prevents="usei,cri" />
+        <type id="162" animated="false" prevents="usei,cri" />
+        <type id="163" animated="false" prevents="usei,cri,wave,sign,respect"/>
+        <type id="164" animated="false" prevents="usei,cri" />
+        <type id="165" animated="true" />
+        <type id="166" animated="false" preventheadturn="true"/>
+        <type id="167" animated="false" preventheadturn="true"/>
+        <type id="168" animated="true" />
+        <type id="169" animated="true" />
+        <type id="170" animated="true" prevents="usei,cri,wave,sign" />
+        <type id="171" animated="false" preventheadturn="true" prevents="usei" />
+        <type id="172" animated="true" preventheadturn="true" prevents="usei" />
+        <type id="173" animated="true" preventheadturn="true" prevents="usei" />
+        <type id="175" animated="true" />
+        <type id="176" animated="true" />
+        <type id="177" animated="false" preventheadturn="true" prevents="usei" />
+        <type id="178" animated="true" />
+        <type id="179" animated="true" preventheadturn="true" prevents="usei" />
+        <type id="180" animated="false" preventheadturn="true"/>
+        <type id="181" animated="false" preventheadturn="true"/>
+        <type id="182" animated="false" prevents="usei,cri" />
+        <type id="183" animated="false" prevents="usei,cri" />
+        <type id="184" animated="true" prevents="usei,cri,wave,sign"/>
+        <type id="185" animated="true" prevents="usei,cri,wave,sign"/>
+        <type id="186" animated="true" prevents="usei,cri"/>
+        <type id="187" animated="true"/>
+        <type id="188" animated="true" prevents="usei,cri,wave,sign"/>
+        <type id="189" animated="true" prevents="usei,cri,wave,sign,respect"/>
+        <type id="190" animated="true" prevents="usei,cri,wave,sign,respect"/>
+        <type id="191" animated="true"/>
+        <type id="192" animated="false" prevents="usei,cri" />
+        <type id="193" animated="true"/>
+        <type id="194" animated="true"/>
+        <type id="195" animated="true"/>
+        <type id="196" animated="true" prevents="usei,cri" />/>
+        <type id="198" animated="true" prevents="usei,cri,wave,sign,respect"/>
+        <type id="207" animated="true" prevents="usei,cri"/>
+        <type id="208" animated="true" prevents="usei,cri"/>
+        <type id="209" animated="true" prevents="usei,cri"/>
+        <type id="210" animated="true" prevents="usei,cri"/>
+        <type id="211" animated="true" prevents="usei,cri"/>
+        <type id="212" animated="true" prevents="usei,cri"/>
+        <type id="214" animated="true" prevents="usei,cri"/>
+        <type id="215" animated="true" prevents="usei,cri"/>
+        <type id="216" animated="true" prevents="usei,cri"/>
+        <type id="217" animated="true" prevents="usei,cri"/>
+        <type id="218" animated="true"/>
+        <type id="219" animated="true" prevents="usei,cri,wave,sign"/>
+        <type id="221" animated="true" prevents="usei,cri,wave,sign"/>
+        <type id="222" animated="true"/>
+        <type id="223" animated="false"/>
+        <type id="227" animated="true" prevents="usei,cri,wave,sign,respect"/>
+        <type id="228" animated="true" prevents="usei,cri,wave,sign,respect"/>
+        <type id="229" animated="true" prevents="usei,cri,wave,sign,respect,Sleep,talk,gest,sml,sad,agr,srp"/>
+        <type id="230" animated="true"/>
+        <type id="231" animated="true"/>
+        <type id="232" animated="true"/>
+        <type id="233" animated="false" preventheadturn="true"/>
+        <type id="234" animated="true"/>
+        <type id="235" animated="true"/>
+        <type id="236" animated="true"/>
+
+
+
+
+    </action>
+
+    <action  id="Dance" state="dance" precedence="230" geometrytype="vertical" activepartset="figure" animation="1" assetpartdefinition="std" prevents="cri,usei,Sleep,talk,gest,sml,sad,agr,srp"/>
+
+    <!-- Hand actions -->
+    <action  id="UseItem" state="usei" preventheadturn="true" precedence="200" geometrytype="vertical" activepartset="handRight" assetpartdefinition="drk">
+        <param id="default" value="1"/>
+        <param id="1" value="6"/>
+        <param id="2" value="6"/>
+        <param id="3" value="2"/>
+        <param id="4" value="3"/>
+        <param id="8" value="6"/>
+        <param id="9" value="6"/>
+        <param id="10" value="6"/>
+        <param id="11" value="6"/>
+        <param id="12" value="6"/>
+        <param id="13" value="6"/>
+        <param id="14" value="6"/>
+        <param id="15" value="6"/>
+        <param id="16" value="6"/>
+        <param id="17" value="6"/>
+        <param id="18" value="1"/>
+        <param id="19" value="5"/>
+        <param id="20" value="75"/>
+        <param id="21" value="4"/>
+        <param id="22" value="7"/>
+        <param id="23" value="8"/>
+        <param id="24" value="667"/>
+        <param id="25" value="9"/>
+        <param id="26" value="33"/>
+        <param id="27" value="6"/>
+        <param id="28" value="42"/>
+        <param id="29" value="43"/>
+        <param id="30" value="44"/>
+        <param id="31" value="45"/>
+        <param id="32" value="45"/>
+        <param id="33" value="5"/>
+        <param id="34" value="46"/>
+        <param id="35" value="47"/>
+        <param id="36" value="50"/>
+        <param id="37" value="51"/>
+        <param id="38" value="52"/>
+        <param id="39" value="53"/>
+        <param id="40" value="54"/>
+        <param id="41" value="6"/>
+        <param id="42" value="48"/>
+        <param id="43" value="55"/>
+        <param id="44" value="56"/>
+        <param id="45" value="57"/>
+        <param id="46" value="58"/>
+        <param id="47" value="59"/>
+        <param id="48" value="60"/>
+        <param id="49" value="61"/>
+        <param id="50" value="62"/>
+        <param id="51" value="63"/>
+        <param id="52" value="64"/>
+        <param id="53" value="65"/>
+        <param id="54" value="66"/>
+        <param id="55" value="67"/>
+        <param id="56" value="64"/>
+        <param id="57" value="43"/>
+        <param id="58" value="68"/>
+        <param id="59" value="69"/>
+        <param id="60" value="70"/>
+        <param id="61" value="71"/>
+        <param id="62" value="72"/>
+        <param id="63" value="73"/>
+        <param id="64" value="44"/>
+
+        <param id="66" value="75"/>
+        <param id="67" value="92"/>
+        <param id="68" value="93"/>
+        <param id="69" value="94"/>
+        <param id="70" value="105"/>
+        <param id="71" value="106"/>
+        <param id="72" value="109"/>
+        <param id="73" value="126"/>
+        <param id="74" value="127"/>
+        <param id="75" value="128"/>
+        <param id="76" value="129"/>
+        <param id="77" value="130"/>
+        <param id="79" value="132"/>
+        <param id="80" value="133"/>
+        <param id="81" value="134"/>
+        <param id="82" value="136"/>
+        <param id="83" value="137"/>
+        <param id="84" value="139"/>
+        <param id="85" value="144"/>
+        <param id="86" value="145"/>
+        <param id="87" value="152"/>
+        <param id="88" value="153"/>
+        <param id="89" value="159"/>
+        <param id="90" value="160"/>
+        <param id="91" value="164"/>
+        <param id="92" value="168"/>
+        <param id="93" value="169"/>
+        <param id="94" value="170"/>
+        <param id="95" value="171"/>
+        <param id="96" value="178"/>
+        <param id="97" value="179"/>
+        <param id="98" value="180"/>
+        <param id="99" value="181"/>
+        <param id="100" value="182"/>
+        <param id="101" value="183"/>
+        <param id="102" value="185"/>
+        <param id="103" value="186"/>
+        <param id="104" value="187"/>
+        <param id="105" value="188"/>
+        <param id="106" value="189"/>
+        <param id="107" value="190"/>
+        <param id="108" value="191"/>
+        <param id="109" value="192"/>
+        <param id="110" value="193"/>
+        <param id="111" value="194"/>
+        <param id="112" value="196"/>
+        <param id="113" value="197"/>
+        <param id="114" value="198"/>
+        <param id="115" value="199"/>
+        <param id="116" value="200"/>
+        <param id="117" value="201"/>
+        <param id="118" value="202"/>
+        <param id="119" value="203"/>
+        <param id="120" value="206"/>
+        <param id="121" value="207"/>
+        <param id="122" value="208"/>
+        <param id="123" value="209"/>
+        <param id="124" value="210"/>
+        <param id="125" value="211"/>
+        <param id="126" value="212"/>
+        <param id="127" value="213"/>
+        <param id="128" value="214"/>
+        <param id="129" value="218"/>
+        <param id="130" value="219"/>
+        <param id="131" value="220"/>
+        <param id="132" value="221"/>
+        <param id="133" value="222"/>
+        <param id="134" value="223"/>
+        <param id="135" value="225"/>
+        <param id="136" value="226"/>
+        <param id="137" value="231"/>
+        <param id="138" value="232"/>
+        <param id="142" value="234"/>
+        <param id="143" value="238"/>
+        <param id="144" value="239"/>
+        <param id="145" value="243"/>
+        <param id="146" value="245"/>
+	    <param id="147" value="246"/>
+	    <param id="148" value="247"/>
+	    <param id="149" value="248"/>
+        <param id="150" value="250"/>
+        <param id="151" value="251"/>
+        <param id="152" value="252"/>
+        <param id="153" value="259"/>
+        <param id="154" value="262"/>
+        <param id="155" value="263"/>
+        <param id="156" value="264"/>
+        <param id="157" value="265"/>
+        <param id="158" value="266"/>
+        <param id="159" value="267"/>
+        <param id="160" value="268"/>
+        <param id="161" value="269"/>
+        <param id="162" value="270"/>
+		<param id="163" value="271"/>
+		<param id="165" value="273"/>
+        <param id="166" value="274"/>
+		<param id="167" value="278"/>
+		<param id="168" value="281"/>
+		<param id="169" value="284"/>
+        <param id="170" value="287"/>
+        <param id="171" value="290"/>
+        <param id="172" value="291"/>
+        <param id="173" value="292"/>
+        <param id="174" value="293"/>
+        <param id="176" value="295"/>
+        <param id="177" value="296"/>
+
+
+
+
+
+    </action>
+    <action  id="CarryItem" state="cri" precedence="205" geometrytype="vertical" activepartset="handRight" assetpartdefinition="crr">
+        <param id="default" value="1"/>
+        <param id="1" value="6"/>
+        <param id="3" value="2"/>
+        <param id="4" value="3"/>
+        <param id="8" value="6"/>
+        <param id="9" value="6"/>
+        <param id="10" value="6"/>
+        <param id="11" value="6"/>
+        <param id="12" value="6"/>
+        <param id="13" value="6"/>
+        <param id="14" value="6"/>
+        <param id="15" value="6"/>
+        <param id="16" value="6"/>
+        <param id="17" value="6"/>
+        <param id="18" value="1"/>
+        <param id="19" value="5"/>
+        <param id="20" value="75"/>
+        <param id="21" value="4"/>
+        <param id="22" value="7"/>
+        <param id="23" value="8"/>
+        <param id="24" value="667"/>
+        <param id="25" value="9"/>
+        <param id="26" value="33"/>
+        <param id="27" value="6"/>
+        <param id="28" value="42"/>
+        <param id="29" value="43"/>
+        <param id="30" value="44"/>
+        <param id="31" value="45"/>
+        <param id="32" value="45"/>
+        <param id="33" value="5"/>
+        <param id="34" value="46"/>
+        <param id="35" value="47"/>
+        <param id="36" value="50"/>
+        <param id="37" value="51"/>
+        <param id="38" value="52"/>
+        <param id="39" value="53"/>
+        <param id="40" value="54"/>
+        <param id="41" value="6"/>
+        <param id="42" value="48"/>
+        <param id="43" value="55"/>
+        <param id="44" value="56"/>
+        <param id="45" value="57"/>
+        <param id="46" value="58"/>
+        <param id="47" value="59"/>
+        <param id="48" value="60"/>
+        <param id="49" value="61"/>
+        <param id="50" value="62"/>
+        <param id="51" value="63"/>
+        <param id="52" value="64"/>
+        <param id="53" value="65"/>
+        <param id="54" value="66"/>
+        <param id="55" value="67"/>
+        <param id="56" value="64"/>
+        <param id="57" value="43"/>
+        <param id="58" value="68"/>
+        <param id="59" value="69"/>
+        <param id="60" value="70"/>
+        <param id="61" value="71"/>
+        <param id="62" value="72"/>
+        <param id="63" value="73"/>
+        <param id="64" value="44"/>
+        <param id="66" value="75"/>
+        <param id="67" value="92"/>
+        <param id="68" value="93"/>
+        <param id="69" value="94"/>
+        <param id="70" value="105"/>
+        <param id="71" value="106"/>
+        <param id="72" value="109"/>
+        <param id="73" value="126"/>
+        <param id="74" value="127"/>
+        <param id="75" value="128"/>
+        <param id="76" value="129"/>
+        <param id="77" value="130"/>
+        <param id="79" value="132"/>
+        <param id="80" value="133"/>
+        <param id="81" value="134"/>
+        <param id="82" value="136"/>
+        <param id="83" value="137"/>
+        <param id="84" value="139"/>
+        <param id="85" value="144"/>
+        <param id="86" value="145"/>
+        <param id="87" value="152"/>
+        <param id="88" value="153"/>
+        <param id="89" value="159"/>
+        <param id="90" value="160"/>
+        <param id="91" value="164"/>
+        <param id="92" value="168"/>
+        <param id="93" value="169"/>
+        <param id="94" value="170"/>
+        <param id="95" value="171"/>
+        <param id="96" value="178"/>
+        <param id="97" value="179"/>
+        <param id="98" value="180"/>
+        <param id="99" value="181"/>
+        <param id="100" value="182"/>
+        <param id="101" value="183"/>
+        <param id="102" value="185"/>
+        <param id="103" value="186"/>
+        <param id="104" value="187"/>
+        <param id="105" value="188"/>
+        <param id="106" value="189"/>
+        <param id="107" value="190"/>
+        <param id="108" value="191"/>
+        <param id="109" value="192"/>
+        <param id="110" value="193"/>
+        <param id="111" value="194"/>
+        <param id="112" value="196"/>
+        <param id="113" value="197"/>
+        <param id="114" value="198"/>
+        <param id="115" value="199"/>
+        <param id="116" value="200"/>
+        <param id="117" value="201"/>
+        <param id="118" value="202"/>
+        <param id="119" value="203"/>
+        <param id="120" value="206"/>
+        <param id="121" value="207"/>
+        <param id="122" value="208"/>
+        <param id="123" value="209"/>
+        <param id="124" value="210"/>
+        <param id="125" value="211"/>
+        <param id="126" value="212"/>
+        <param id="127" value="213"/>
+        <param id="128" value="214"/>
+        <param id="129" value="218"/>
+        <param id="130" value="219"/>
+        <param id="131" value="220"/>
+        <param id="132" value="221"/>
+        <param id="133" value="222"/>
+        <param id="134" value="223"/>
+        <param id="135" value="225"/>
+        <param id="136" value="226"/>
+        <param id="137" value="231"/>
+        <param id="138" value="232"/>
+        <param id="142" value="234"/>
+        <param id="143" value="238"/>
+        <param id="144" value="239"/>
+        <param id="145" value="243"/>
+        <param id="146" value="245"/>
+ 	    <param id="147" value="246"/>
+        <param id="148" value="247"/>
+        <param id="149" value="248"/>
+        <param id="150" value="250"/>
+        <param id="151" value="251"/>
+        <param id="152" value="252"/>
+        <param id="153" value="259"/>
+        <param id="154" value="262"/>
+        <param id="155" value="263"/>
+        <param id="156" value="264"/>
+        <param id="157" value="265"/>
+        <param id="158" value="266"/>
+        <param id="159" value="267"/>
+        <param id="160" value="268"/>
+        <param id="161" value="269"/>
+        <param id="162" value="270"/>
+		<param id="163" value="271"/>
+		<param id="165" value="273"/>
+        <param id="166" value="274"/>
+		<param id="167" value="278"/>
+		<param id="168" value="281"/>
+		<param id="169" value="284"/>
+        <param id="170" value="287"/>
+        <param id="171" value="290"/>
+        <param id="172" value="291"/>
+        <param id="173" value="292"/>
+        <param id="174" value="293"/>
+        <param id="176" value="295"/>
+        <param id="177" value="296"/>
+ 
+
+
+
+        <param id="1000" value="76"/>
+        <param id="1001" value="77"/>
+        <param id="1002" value="78"/>
+        <param id="1003" value="79"/>
+        <param id="1004" value="80"/>
+        <param id="1005" value="81"/>
+        <param id="1006" value="82"/>
+        <param id="1007" value="83"/>
+        <param id="1008" value="84"/>
+        <param id="1009" value="85"/>
+        <param id="1011" value="87"/>
+        <param id="1013" value="89"/>
+        <param id="1014" value="90"/>
+        <param id="1015" value="91"/>
+        <param id="1019" value="95"/>
+        <param id="1021" value="97"/>
+        <param id="1022" value="98"/>
+        <param id="1023" value="99"/>
+        <param id="1024" value="100"/>
+        <param id="1025" value="101"/>
+        <param id="1026" value="102"/>
+        <param id="1027" value="103"/>
+        <param id="1028" value="107"/>
+        <param id="1029" value="108"/>
+        <param id="1030" value="110"/>
+        <param id="1031" value="111"/>
+        <param id="1032" value="112"/>
+        <param id="1033" value="113"/>
+        <param id="1034" value="114"/>
+        <param id="1035" value="115"/>
+        <param id="1036" value="116"/>
+        <param id="1037" value="117"/>
+        <param id="1038" value="118"/>
+        <param id="1039" value="119"/>
+        <param id="1040" value="120"/>
+        <param id="1041" value="121"/>
+        <param id="1042" value="122"/>
+        <param id="1043" value="123"/>
+        <param id="1044" value="124"/>
+        <param id="1045" value="125"/>
+        <param id="1046" value="131"/>
+        <param id="1047" value="135"/>
+        <param id="1048" value="138"/>
+        <param id="1049" value="140"/>
+        <param id="1050" value="141"/>
+        <param id="1051" value="142"/>
+        <param id="1052" value="143"/>
+        <param id="1053" value="146"/>
+        <param id="1054" value="147"/>
+        <param id="1055" value="148"/>
+        <param id="1056" value="149"/>
+        <param id="1057" value="150"/>
+        <param id="1058" value="151"/>
+        <param id="1059" value="154"/>
+        <param id="1060" value="74"/>
+        <param id="1061" value="155"/>
+        <param id="1062" value="156"/>
+        <param id="1063" value="157"/>
+        <param id="1064" value="158"/>
+        <param id="1065" value="161"/>
+        <param id="1066" value="162"/>
+        <param id="1067" value="163"/>
+        <param id="1068" value="165"/>
+        <param id="1069" value="166"/>
+        <param id="1070" value="167"/>
+        <param id="1071" value="172"/>
+        <param id="1072" value="173"/>
+        <param id="1073" value="174"/>
+        <param id="1074" value="175"/>
+        <param id="1075" value="176"/>
+        <param id="1076" value="177"/>
+        <param id="1077" value="184"/>
+        <param id="1078" value="195"/>
+        <param id="1079" value="204"/>
+        <param id="1080" value="205"/>
+        <param id="1081" value="215"/>
+        <param id="1082" value="216"/>
+        <param id="1083" value="217"/>
+        <param id="1084" value="224"/>
+        <param id="1085" value="227"/>
+        <param id="1086" value="228"/>
+        <param id="1087" value="229"/>
+        <param id="1088" value="230"/>
+        <param id="1089" value="233"/>
+        <param id="1090" value="235"/>
+	    <param id="1091" value="236"/>
+	    <param id="1092" value="237"/>
+	    <param id="1093" value="240"/>
+        <param id="1094" value="241"/>
+        <param id="1095" value="242"/>
+	    <param id="1096" value="244"/>
+	    <param id="1097" value="249"/>
+        <param id="1098" value="253"/>
+        <param id="1099" value="254"/>
+        <param id="1100" value="255"/>
+        <param id="1101" value="256"/>
+        <param id="1102" value="257"/>
+        <param id="1103" value="258"/>
+        <param id="1104" value="260"/>
+        <param id="1105" value="261"/>
+        <param id="1106" value="272"/>
+		<param id="1107" value="275"/>
+        <param id="1108" value="276"/>
+        <param id="1109" value="277"/>
+		<param id="1110" value="279"/>
+        <param id="1111" value="280"/>
+        <param id="1112" value="282"/>
+        <param id="1113" value="283"/>
+        <param id="1114" value="285"/>
+        <param id="1115" value="286"/>
+		<param id="1116" value="288"/>
+        <param id="1117" value="289"/>
+
+
+        <param id="999999999" value="-1"/><!-- Scratching -->
+
+    </action>
+
+    <!-- Face actions -->
+    <action  id="Talk" state="talk" precedence="500" geometrytype="vertical" activepartset="speak" assetpartdefinition="spk" lay="lsp"/>
+
+    <action  id="Gesture" state="gest" precedence="510" geometrytype="vertical" activepartset="gesture" assetpartdefinition="USE_PARAMETER"/>
+    <action  id="GestureSmile" state="sml" precedence="510" geometrytype="vertical" activepartset="gesture" assetpartdefinition="sml" lay="lsm"/>
+    <action  id="GestureSad" state="sad" precedence="510" geometrytype="vertical" activepartset="gesture" assetpartdefinition="sad" lay="lsa"/>
+    <action  id="GestureAngry" state="agr" precedence="510" geometrytype="vertical" activepartset="gesture" assetpartdefinition="agr" lay="lag"/>
+    <action  id="GestureSurprised" state="srp" precedence="510" geometrytype="vertical" activepartset="gesture" assetpartdefinition="srp" lay="lsr"/>
+
+    <action  id="Sleep" state="Sleep" precedence="520" geometrytype="vertical" activepartset="eye" preventheadturn="true" assetpartdefinition="eyb" lay="ley"/>
+
+    <!-- Lower priority full body actions -->
+    <action  id="Move" state="mv" precedence="600" geometrytype="vertical" activepartset="walk" assetpartdefinition="wlk" prevents="Sleep"/>
+    <action  id="Default" precedence="1000" state="std" main="1" isdefault="1" geometrytype="vertical" activepartset="figure" assetpartdefinition="std"/>
+
+</actions>
