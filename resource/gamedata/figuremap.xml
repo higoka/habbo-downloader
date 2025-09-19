@@ -11641,6 +11641,42 @@
     <part id="6891" type="ey"/>
     <part id="6892" type="fc"/>
   </lib>
+  <lib id="face_U_nftsilvereyes" revision="73940">
+    <part id="6894" type="fc"/>
+    <part id="6895" type="ey"/>
+    <part id="6896" type="fc"/>
+  </lib>
+  <lib id="hair_U_nftombrecut1" revision="73940">
+    <part id="6900" type="hr"/>
+    <part id="6900" type="hrb"/>
+    <part id="6901" type="hr"/>
+    <part id="6902" type="hr"/>
+  </lib>
+  <lib id="hair_U_nftombrecut2" revision="73940">
+    <part id="6903" type="hr"/>
+    <part id="6903" type="hrb"/>
+    <part id="6904" type="hr"/>
+    <part id="6905" type="hr"/>
+  </lib>
+  <lib id="jacket_U_nftcakeoutfit" revision="73940">
+    <part id="6923" type="cc"/>
+    <part id="6924" type="cc"/>
+    <part id="6925" type="cc"/>
+  </lib>
+  <lib id="acc_chest_U_nfthobbyhorse1" revision="73940">
+    <part id="6920" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nfthobbyhorse2" revision="73940">
+    <part id="6921" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nfthobbyhorse3" revision="73940">
+    <part id="6922" type="ca"/>
+  </lib>
+  <lib id="face_U_nftsilvereyes2" revision="73941">
+    <part id="6897" type="fc"/>
+    <part id="6898" type="ey"/>
+    <part id="6899" type="fc"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
