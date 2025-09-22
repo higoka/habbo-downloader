@@ -11677,6 +11677,61 @@
     <part id="6898" type="ey"/>
     <part id="6899" type="fc"/>
   </lib>
+  <lib id="shirt_F_scruffyplaidshirt" revision="73998">
+    <part id="6909" type="ch"/>
+    <part id="6909" type="ls"/>
+    <part id="6909" type="rs"/>
+    <part id="6910" type="ch"/>
+    <part id="6911" type="ch"/>
+  </lib>
+  <lib id="jacket_U_nftbiohazardjacket" revision="74006">
+    <part id="6928" type="cc"/>
+    <part id="6928" type="lc"/>
+    <part id="6928" type="rc"/>
+    <part id="6929" type="cc"/>
+  </lib>
+  <lib id="acc_chest_U_medbackpack" revision="73997">
+    <part id="6791" type="ca"/>
+    <part id="6792" type="ca"/>
+    <part id="6793" type="ca"/>
+  </lib>
+  <lib id="acc_face_U_nftwarpaint" revision="74006">
+    <part id="6927" type="fc"/>
+  </lib>
+  <lib id="jacket_U_shroomie" revision="74002">
+    <part id="6803" type="lc"/>
+    <part id="6803" type="rc"/>
+    <part id="6804" type="lc"/>
+    <part id="6805" type="lc"/>
+  </lib>
+  <lib id="jacket_U_mushroomcape" revision="73997">
+    <part id="6787" type="cc"/>
+    <part id="6787" type="lc"/>
+    <part id="6787" type="rc"/>
+    <part id="6788" type="cc"/>
+  </lib>
+  <lib id="trousers_U_scruffyjeans" revision="73997">
+    <part id="6789" type="lg"/>
+    <part id="6790" type="lg"/>
+  </lib>
+  <lib id="acc_eye_U_nftfungalinfection" revision="74006">
+    <part id="6926" type="ea"/>
+    <part id="6926" type="he"/>
+  </lib>
+  <lib id="acc_face_U_nftwarpaint2" revision="74006">
+    <part id="6956" type="fc"/>
+  </lib>
+  <lib id="shirt_M_scruffyplaidshirt" revision="73998">
+    <part id="6906" type="ch"/>
+    <part id="6906" type="ls"/>
+    <part id="6906" type="rs"/>
+    <part id="6907" type="ch"/>
+    <part id="6908" type="ch"/>
+  </lib>
+  <lib id="acc_waist_U_nftflashlight" revision="74006">
+    <part id="6930" type="wa"/>
+    <part id="6931" type="wa"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
