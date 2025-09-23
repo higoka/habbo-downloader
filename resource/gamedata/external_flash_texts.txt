@@ -17291,6 +17291,7 @@ badge_name_OHC17=Eerie Porch Bundle
 badge_name_OHC18=Foot Locker Shopper
 badge_name_OHC19=Care Bears Furni Collector
 badge_name_OHC20=Care Bears Furni Pack
+badge_name_OHC21=Goddess' Eyes Offer
 badge_name_OHC22=Back to School Bundle 2
 badge_name_OHC23=Back to School Bundle 3
 badge_name_OHC24=Olympian Crafter
