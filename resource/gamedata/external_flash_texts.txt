@@ -22439,6 +22439,7 @@ catalog.alert.purchaseerror.description.3=You can't trade because you have a tra
 catalog.alert.purchaseerror.description.5=You can't buy this effect as you already own it
 catalog.alert.purchaseerror.description.6=Sorry, but LTD item purchases are limited. Please wait for a while and try again.
 catalog.alert.purchaseerror.description.8=Your account is safety locked, you can't complete this action until it's unlocked.
+catalog.alert.purchaseerror.description.9=Invalid/inappropriate gift message.
 catalog.alert.purchaseerror.description=There was a problem processing your purchase. Please retry.
 catalog.alert.purchaseerror.title=Oops, please try again.
 catalog.alert.purchasenotallowed.hc.description=You have to be a member of Habbo Club to be able to buy this.
