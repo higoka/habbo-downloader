@@ -3970,7 +3970,7 @@
     <part id="3473" type="lc"/>
     <part id="3473" type="rc"/>
   </lib>
-  <lib id="hair_U_mohawk" revision="74010">
+  <lib id="hair_U_mohawk" revision="74032">
     <part id="2080" type="hr"/>
     <part id="2080" type="hrb"/>
     <part id="2081" type="hr"/>
@@ -11772,6 +11772,22 @@
     <part id="6771" type="wa"/>
     <part id="6772" type="wa"/>
     <part id="6773" type="wa"/>
+  </lib>
+  <lib id="hat_U_autumnberet" revision="74027">
+    <part id="6865" type="ha"/>
+    <part id="6866" type="ha"/>
+  </lib>
+  <lib id="jacket_F_autumnjacket" revision="74027">
+    <part id="6869" type="cc"/>
+    <part id="6869" type="lc"/>
+    <part id="6869" type="rc"/>
+    <part id="6870" type="cc"/>
+  </lib>
+  <lib id="jacket_M_autumnjacket" revision="74027">
+    <part id="6867" type="cc"/>
+    <part id="6867" type="lc"/>
+    <part id="6867" type="rc"/>
+    <part id="6868" type="cc"/>
   </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
