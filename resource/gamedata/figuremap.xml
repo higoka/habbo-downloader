@@ -7319,7 +7319,7 @@
     <part id="5259" type="cc"/>
     <part id="5260" type="cc"/>
   </lib>
-  <lib id="face_U_nftbrighteyes2" revision="70368">
+  <lib id="face_U_nftbrighteyes2" revision="74041">
     <part id="5197" type="ey"/>
     <part id="5198" type="fc"/>
   </lib>
@@ -7466,7 +7466,7 @@
     <part id="4764" type="rc"/>
     <part id="4765" type="cc"/>
   </lib>
-  <lib id="face_U_nftbrighteyes" revision="70368">
+  <lib id="face_U_nftbrighteyes" revision="74041">
     <part id="5194" type="ey"/>
     <part id="5195" type="fc"/>
   </lib>
@@ -7566,7 +7566,7 @@
   <lib id="hat_U_nftunicornhoodie" revision="70161">
     <part id="5147" type="ha"/>
   </lib>
-  <lib id="face_U_nftvivideyes2" revision="70368">
+  <lib id="face_U_nftvivideyes2" revision="74041">
     <part id="5203" type="ey"/>
     <part id="5204" type="fc"/>
   </lib>
@@ -7715,7 +7715,7 @@
     <part id="5182" type="ch"/>
     <part id="5183" type="ch"/>
   </lib>
-  <lib id="face_U_nftvivideyes" revision="70368">
+  <lib id="face_U_nftvivideyes" revision="74041">
     <part id="5200" type="ey"/>
     <part id="5201" type="fc"/>
   </lib>
@@ -10305,7 +10305,7 @@
     <part id="6284" type="cp"/>
     <part id="6285" type="cp"/>
   </lib>
-  <lib id="face_U_nftantagonist" revision="72807">
+  <lib id="face_U_nftantagonist" revision="74041">
     <part id="6305" type="fc"/>
     <part id="6306" type="ey"/>
     <part id="6307" type="fc"/>
@@ -10370,27 +10370,27 @@
     <part id="6505" type="he"/>
     <part id="6506" type="he"/>
   </lib>
-  <lib id="face_U_nftcartoonhero" revision="72812">
+  <lib id="face_U_nftcartoonhero" revision="74041">
     <part id="6299" type="fc"/>
     <part id="6300" type="ey"/>
     <part id="6301" type="fc"/>
   </lib>
-  <lib id="face_U_nftcartoonheroine2" revision="72829">
+  <lib id="face_U_nftcartoonheroine2" revision="74041">
     <part id="6522" type="fc"/>
     <part id="6523" type="ey"/>
     <part id="6524" type="fc"/>
   </lib>
-  <lib id="face_U_nftantagonist2" revision="72829">
+  <lib id="face_U_nftantagonist2" revision="74041">
     <part id="6525" type="fc"/>
     <part id="6526" type="ey"/>
     <part id="6527" type="fc"/>
   </lib>
-  <lib id="face_U_nftcartoonheroine" revision="72812">
+  <lib id="face_U_nftcartoonheroine" revision="74041">
     <part id="6302" type="fc"/>
     <part id="6303" type="ey"/>
     <part id="6304" type="fc"/>
   </lib>
-  <lib id="face_U_nftcartoonhero2" revision="72829">
+  <lib id="face_U_nftcartoonhero2" revision="74041">
     <part id="6519" type="fc"/>
     <part id="6520" type="ey"/>
     <part id="6521" type="fc"/>
@@ -11641,7 +11641,7 @@
     <part id="6891" type="ey"/>
     <part id="6892" type="fc"/>
   </lib>
-  <lib id="face_U_nftsilvereyes" revision="73940">
+  <lib id="face_U_nftsilvereyes" revision="74041">
     <part id="6894" type="fc"/>
     <part id="6895" type="ey"/>
     <part id="6896" type="fc"/>
@@ -11672,7 +11672,7 @@
   <lib id="acc_chest_U_nfthobbyhorse3" revision="73940">
     <part id="6922" type="ca"/>
   </lib>
-  <lib id="face_U_nftsilvereyes2" revision="73941">
+  <lib id="face_U_nftsilvereyes2" revision="74041">
     <part id="6897" type="fc"/>
     <part id="6898" type="ey"/>
     <part id="6899" type="fc"/>
