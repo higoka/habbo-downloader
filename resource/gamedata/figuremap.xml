@@ -11789,6 +11789,12 @@
     <part id="6867" type="rc"/>
     <part id="6868" type="cc"/>
   </lib>
+  <lib id="face_U_nftskeleton" revision="74044">
+    <part id="6961" type="hd"/>
+    <part id="6961" type="bd"/>
+    <part id="6961" type="lh"/>
+    <part id="6961" type="rh"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="50491">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
