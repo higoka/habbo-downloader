@@ -9984,15 +9984,15 @@
   <lib id="acc_head_U_nftgoodvsevil3" revision="72550">
     <part id="6201" type="he"/>
   </lib>
-  <lib id="face_U_nftfreckles2" revision="72564">
+  <lib id="face_U_nftfreckles2" revision="74059">
     <part id="6228" type="ey"/>
     <part id="6229" type="fc"/>
   </lib>
-  <lib id="face_U_nftfrecklesb" revision="72566">
+  <lib id="face_U_nftfrecklesb" revision="74059">
     <part id="6225" type="ey"/>
     <part id="6226" type="fc"/>
   </lib>
-  <lib id="face_U_nftfreckles2b" revision="72569">
+  <lib id="face_U_nftfreckles2b" revision="74059">
     <part id="6231" type="ey"/>
     <part id="6232" type="fc"/>
   </lib>
@@ -10008,7 +10008,7 @@
     <part id="6235" type="lc"/>
     <part id="6235" type="rc"/>
   </lib>
-  <lib id="face_U_nftfreckles" revision="72562">
+  <lib id="face_U_nftfreckles" revision="74059">
     <part id="6222" type="ey"/>
     <part id="6223" type="fc"/>
   </lib>
@@ -11728,8 +11728,9 @@
     <part id="6907" type="ch"/>
     <part id="6908" type="ch"/>
   </lib>
-  <lib id="acc_waist_U_nftflashlight" revision="74006">
+  <lib id="acc_waist_U_nftflashlight" revision="74059">
     <part id="6930" type="wa"/>
+    <part id="6930" type="rc"/>
     <part id="6931" type="wa"/>
   </lib>
   <lib id="acc_waist_U_bandagedtorso" revision="74007">
