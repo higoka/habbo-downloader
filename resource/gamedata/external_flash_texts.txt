@@ -46833,6 +46833,10 @@ targeted.offer.oct24_rm_dbl_tto238.desc=Get 220 credits and diamonds for the pri
 targeted.offer.oct24_rm_dbl_tto238.title=50 per cent Off 200 Credits
 targeted.offer.oct24_rm_dbl_tto239.desc=Get 50 credits and diamonds for the price of 25 credits! Offer available for 48 hours, limited to 1 per person
 targeted.offer.oct24_rm_dbl_tto239.title=50 per cent Off 50 Credits
+targeted.offer.oct25_rm_dbl_tto273.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.oct25_rm_dbl_tto273.title=50 per cent Off 220 Credits
+targeted.offer.oct25_rm_dbl_tto274.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.oct25_rm_dbl_tto274.title=50 per cent Off 220 Credits
 targeted.offer.open.habbomall=Open the Shop
 targeted.offer.palooza_tko_gr1.desc=The time has come to look for the best spot to pitch your tent! With this pack you can ensure you have access to the BEST clothes and hairstyles in the Hotel with HC membership, plus grab a shiny new badge AND a bunch of sweet-looking furni… come to Habbo 15 prepared; don't miss out! <br><br>Offer is limited to one per person and includes:<br>- 65 Bronze coins (worth 65c)<br>- <a href="event:habbopages/habboclub">HC 1 month</a> (worth 25c)<br>- Hoopla Tent (worth 20c)<br>- Hook-a-Duck (worth 15c)<br>- Red Plane Landing Pad (worth 8c)<br>- Blue Plane Landing Pad (worth 8c)<br>- Badge (for free)
 targeted.offer.palooza_tko_gr1.title=Habbo 15 Festival Pack
