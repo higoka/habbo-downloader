@@ -90,11 +90,13 @@ classic.collectibles.hub.enabled=true
 client.allow.external.links=1
 client.allow.facebook.like=1
 client.connection.failed.url=${url.prefix}/client_connection_failed
+client.donation.enabled=false
 client.fatal.error.url=${url.prefix}/flash_client_error
 client.hotel_view.image=
 client.minimail.embed.enabled=true
 client.news.embed.enabled=true
 client.reload.url=${url.prefix}/account/reauthenticate?page=/flash_client
+client.stargems.enabled=false
 client.toolbar.static.enabled=true
 club.membership.extend.basic.promotion.enabled=true
 club.membership.extend.vip.promotion.enabled=true
