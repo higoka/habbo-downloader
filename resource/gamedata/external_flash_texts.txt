@@ -22985,6 +22985,7 @@ collectibles.set.collector_rewards_22_23=Collector Rewards 2022-2023
 collectibles.set.collectors_guild=Collectors Guild
 collectibles.set.community_rewards_22=Community Rewards 2022
 collectibles.set.community_rewards_23=Community Rewards 2023
+collectibles.set.community_rewards_25=Community Rewards 2025
 collectibles.set.cpu_parts=CPU Parts
 collectibles.set.disco_baller=Disco Baller
 collectibles.set.dragonfly_farmstead=Dragonfly Farmstead 
