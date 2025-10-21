@@ -11796,7 +11796,70 @@
     <part id="6961" type="lh"/>
     <part id="6961" type="rh"/>
   </lib>
-  <lib id="hh_human_acc_head" revision="50491">
+  <lib id="acc_head_U_fyoratiara" revision="74144">
+    <part id="6933" type="he"/>
+    <part id="6934" type="he"/>
+  </lib>
+  <lib id="hat_U_shoyruhat" revision="74144">
+    <part id="6953" type="ha"/>
+    <part id="6954" type="ha"/>
+    <part id="6955" type="ha"/>
+  </lib>
+  <lib id="hat_U_cybunnyhat" revision="74144">
+    <part id="6950" type="ha"/>
+    <part id="6951" type="ha"/>
+    <part id="6952" type="ha"/>
+  </lib>
+  <lib id="hat_U_kougrahat" revision="74139">
+    <part id="6962" type="ha"/>
+    <part id="6963" type="ha"/>
+    <part id="6964" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_fyorawings" revision="74144">
+    <part id="6932" type="ca"/>
+  </lib>
+  <lib id="hat_U_aishahat" revision="74139">
+    <part id="6942" type="ha"/>
+    <part id="6943" type="ha"/>
+    <part id="6944" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_illusenwings" revision="74144">
+    <part id="6949" type="ca"/>
+  </lib>
+  <lib id="hat_U_lupehat" revision="74139">
+    <part id="6945" type="ha"/>
+    <part id="6946" type="ha"/>
+    <part id="6947" type="ha"/>
+  </lib>
+  <lib id="jacket_U_yellowaisha" revision="74156">
+    <part id="6893" type="cc"/>
+    <part id="6893" type="lc"/>
+    <part id="6893" type="rc"/>
+  </lib>
+  <lib id="hat_U_eyriehat" revision="74139">
+    <part id="6965" type="ha"/>
+    <part id="6966" type="ha"/>
+    <part id="6967" type="ha"/>
+  </lib>
+  <lib id="jacket_U_nftumbrella2" revision="74157">
+    <part id="6968" type="cc"/>
+    <part id="6968" type="lc"/>
+    <part id="6968" type="rc"/>
+    <part id="6969" type="cc"/>
+    <part id="6970" type="cc"/>
+    <part id="6970" type="he"/>
+  </lib>
+  <lib id="jacket_U_nftumbrella" revision="74157">
+    <part id="6958" type="cc"/>
+    <part id="6958" type="lc"/>
+    <part id="6958" type="rc"/>
+    <part id="6959" type="cc"/>
+    <part id="6960" type="cc"/>
+  </lib>
+  <lib id="acc_chest_U_nftrockstar" revision="74167">
+    <part id="6252" type="ca"/>
+  </lib>
+  <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
     <part id="3" type="he"/>
@@ -12092,7 +12155,7 @@
     <part id="5" type="ea"/>
     <part id="6" type="ea"/>
   </lib>
-  <lib id="hh_human_shirt" revision="33156">
+  <lib id="hh_human_shirt" revision="74162">
     <part id="1" type="ch"/>
     <part id="1" type="rs"/>
     <part id="1" type="ls"/>
