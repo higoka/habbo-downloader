@@ -11865,6 +11865,12 @@
     <part id="6974" type="ca"/>
     <part id="6975" type="ca"/>
   </lib>
+  <lib id="jacket_U_nftswordnshield" revision="74218">
+    <part id="6978" type="rc"/>
+    <part id="6978" type="lc"/>
+    <part id="6979" type="rc"/>
+    <part id="6980" type="lc"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
