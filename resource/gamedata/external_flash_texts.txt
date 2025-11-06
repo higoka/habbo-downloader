@@ -48544,6 +48544,7 @@ wiredfurni.params.variables.operation.102=Bitwise XOR
 wiredfurni.params.variables.operation.103=Bitwise NOT
 wiredfurni.params.variables.operation.104=Left shift (<<)
 wiredfurni.params.variables.operation.105=Right shift (>>)
+wiredfurni.params.variables.operation.110=Bit count
 wiredfurni.params.variables.operation.1=Add
 wiredfurni.params.variables.operation.2=Subtract
 wiredfurni.params.variables.operation.3=Multiply
