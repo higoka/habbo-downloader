@@ -47281,6 +47281,8 @@ targeted.offer.nov25_rm_dbl_tto277.desc=Get 220 credits and diamonds for the pri
 targeted.offer.nov25_rm_dbl_tto277.title=50 per cent Off 220 Credits
 targeted.offer.nov25_rm_dbl_tto278.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
 targeted.offer.nov25_rm_dbl_tto278.title=50 per cent Off 220 Credits
+targeted.offer.nov25_rm_dbl_tto279.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.nov25_rm_dbl_tto279.title=50 per cent Off 220 Credits
 targeted.offer.ny16_tko_gr1.desc=Don't turn up to a New Years Eve party without this must-have party furni this year! Confetti, drinks, stars... Don't miss out! <br><br>Offer is limited to one per person and includes:<br>- 70 bronze coins (worth 70c)<br>- <a href="event:habbopages/habboclub">HC 1 month</a> (worth 25c)<br>- Rare Snazzy Star Decoration (worth 25c)<br>- Party Bar (worth 8c)<br>- Confetti Ball (worth 6c)<br>- Small Confetti Floor (worth 2c)<br>- Rare Badge (for free)
 targeted.offer.ny16_tko_gr1.title=Starry New Years Offer
 targeted.offer.ny16_tko_gr2.desc=Make sure your New Years Eve party is talked about for years to come with this SPECTACULAR deal! <br><br>Offer is limited to one per person and includes:<br>- Emerald Ring (worth 100c)<br>- <a href="event:habbopages/habboclub">HC 3 months</a> (worth 60c)<br>- Rare Snazzy Star Decoration (worth 25c)<br>- Party Bar (worth 8c)<br>- Confetti Ball (worth 6c)<br>- Large Confetti Floor x4 (worth 16c)<br>- Drinks tray (worth 3c)<br>- New Years Balloons (worth 3c)<br>- Rare Badge (for free)
