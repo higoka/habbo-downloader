@@ -11598,7 +11598,7 @@
     <part id="6779" type="ey"/>
     <part id="6780" type="fc"/>
   </lib>
-  <lib id="jacket_U_blessedcape" revision="73765">
+  <lib id="jacket_U_blessedcape" revision="74265">
     <part id="6843" type="cc"/>
     <part id="6843" type="lc"/>
     <part id="6843" type="rc"/>
@@ -11871,26 +11871,26 @@
     <part id="6979" type="rc"/>
     <part id="6980" type="lc"/>
   </lib>
-  <lib id="shirt_U_nftwizardsrobe" revision="74238">
+  <lib id="shirt_U_nftwizardsrobe" revision="74308">
     <part id="7008" type="ch"/>
     <part id="7008" type="ls"/>
     <part id="7008" type="rs"/>
     <part id="7009" type="ch"/>
     <part id="7010" type="ch"/>
   </lib>
-  <lib id="hair_U_nftwizardshaircut" revision="74226">
+  <lib id="hair_U_nftwizardshaircut" revision="74306">
     <part id="6997" type="hr"/>
     <part id="6997" type="hrb"/>
     <part id="6998" type="hr"/>
   </lib>
-  <lib id="acc_face_U_nftwizardsbeard" revision="74238">
+  <lib id="acc_face_U_nftwizardsbeard" revision="74294">
     <part id="6701" type="fa"/>
     <part id="7000" type="fa"/>
   </lib>
-  <lib id="acc_eye_U_nftwizardsglasses" revision="74226">
+  <lib id="acc_eye_U_nftwizardsglasses" revision="74306">
     <part id="6999" type="ea"/>
   </lib>
-  <lib id="hat_U_nftwizardshat" revision="74238">
+  <lib id="hat_U_nftwizardshat" revision="74306">
     <part id="7003" type="ha"/>
     <part id="7004" type="ha"/>
     <part id="7005" type="ha"/>
@@ -11898,6 +11898,87 @@
   <lib id="acc_head_U_nftbighorns" revision="74228">
     <part id="6976" type="he"/>
     <part id="6977" type="he"/>
+  </lib>
+  <lib id="jacket_U_polkadotmittens" revision="74276">
+    <part id="6876" type="lc"/>
+    <part id="6876" type="rc"/>
+    <part id="6877" type="lc"/>
+  </lib>
+  <lib id="acc_head_U_fleeceheadwrap" revision="74273">
+    <part id="6912" type="he"/>
+    <part id="6913" type="he"/>
+  </lib>
+  <lib id="hat_U_penguinhat" revision="74273">
+    <part id="6914" type="ha"/>
+    <part id="6915" type="ha"/>
+    <part id="6916" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_kittybag" revision="74285">
+    <part id="6917" type="ca"/>
+    <part id="6918" type="ca"/>
+    <part id="6919" type="ca"/>
+  </lib>
+  <lib id="acc_face_U_nftwizardsbeard2" revision="74294">
+    <part id="7002" type="fa"/>
+  </lib>
+  <lib id="acc_head_U_polkadotbow" revision="74300">
+    <part id="6888" type="he"/>
+    <part id="6889" type="he"/>
+  </lib>
+  <lib id="hat_U_xmaspatch" revision="74289">
+    <part id="6957" type="ha"/>
+  </lib>
+  <lib id="hat_U_nftwizardshat2" revision="74306">
+    <part id="7013" type="ha"/>
+    <part id="7014" type="ha"/>
+    <part id="7015" type="ha"/>
+  </lib>
+  <lib id="hair_U_icytipsponytail" revision="74285">
+    <part id="6879" type="hr"/>
+    <part id="6879" type="hrb"/>
+    <part id="6880" type="hr"/>
+    <part id="6881" type="hr"/>
+  </lib>
+  <lib id="acc_chest_U_snowflakenecklace" revision="74285">
+    <part id="6882" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_goldenhabubu" revision="74282">
+    <part id="6941" type="ca"/>
+    <part id="6948" type="ca"/>
+  </lib>
+  <lib id="acc_head_U_headlamp" revision="74282">
+    <part id="6935" type="he"/>
+    <part id="6936" type="he"/>
+    <part id="6937" type="he"/>
+  </lib>
+  <lib id="acc_chest_U_habubu" revision="74282">
+    <part id="6938" type="ca"/>
+    <part id="6939" type="ca"/>
+    <part id="6940" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nystargarland1" revision="74285">
+    <part id="6981" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nystargarland2" revision="74285">
+    <part id="6982" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nystargarland3" revision="74285">
+    <part id="6983" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nystargarland4" revision="74285">
+    <part id="6984" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nystargarland5" revision="74285">
+    <part id="6985" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nystargarland6" revision="74285">
+    <part id="6986" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nystargarland7" revision="74285">
+    <part id="6987" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nystargarland8" revision="74285">
+    <part id="6988" type="ca"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
