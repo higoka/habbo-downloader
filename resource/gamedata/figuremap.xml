@@ -11980,6 +11980,22 @@
   <lib id="acc_chest_U_nystargarland8" revision="74285">
     <part id="6988" type="ca"/>
   </lib>
+  <lib id="hat_U_nftregalblackcrown" revision="74347">
+    <part id="7029" type="ha"/>
+  </lib>
+  <lib id="face_U_blocked" revision="74364">
+    <part id="7039" type="hd"/>
+    <part id="7039" type="bd"/>
+    <part id="7039" type="ey"/>
+    <part id="7039" type="lh"/>
+    <part id="7039" type="rh"/>
+  </lib>
+  <lib id="hat_U_turkeyhat" revision="74365">
+    <part id="7052" type="ha"/>
+  </lib>
+  <lib id="hat_U_pineapplehelmet" revision="74367">
+    <part id="7051" type="ha"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
