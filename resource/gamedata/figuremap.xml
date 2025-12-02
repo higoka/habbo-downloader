@@ -4938,7 +4938,7 @@
     <part id="4587" type="ha"/>
     <part id="4588" type="ha"/>
   </lib>
-  <lib id="jacket_M_cyzipped" revision="69383">
+  <lib id="jacket_M_cyzipped" revision="74373">
     <part id="2653" type="cc"/>
     <part id="2653" type="lc"/>
     <part id="2653" type="rc"/>
@@ -5041,7 +5041,7 @@
   <lib id="acc_chest_U_chococatbag" revision="67611">
     <part id="4544" type="ca"/>
   </lib>
-  <lib id="jacket_F_cyzipped" revision="62091">
+  <lib id="jacket_F_cyzipped" revision="74373">
     <part id="2656" type="cc"/>
     <part id="2656" type="lc"/>
     <part id="2656" type="rc"/>
@@ -11995,6 +11995,38 @@
   </lib>
   <lib id="hat_U_pineapplehelmet" revision="74367">
     <part id="7051" type="ha"/>
+  </lib>
+  <lib id="trousers_U_nftwinter25" revision="74381">
+    <part id="7056" type="lg"/>
+    <part id="7057" type="lg"/>
+  </lib>
+  <lib id="hat_U_nftwinter25" revision="74381">
+    <part id="7053" type="ha"/>
+    <part id="7054" type="ha"/>
+    <part id="7055" type="ha"/>
+  </lib>
+  <lib id="jacket_F_nftwinter25" revision="74382">
+    <part id="7065" type="cc"/>
+    <part id="7067" type="cc"/>
+  </lib>
+  <lib id="jacket_M_nftwinter25" revision="74385">
+    <part id="7062" type="cc"/>
+    <part id="7062" type="lc"/>
+    <part id="7062" type="rc"/>
+    <part id="7063" type="cc"/>
+    <part id="7064" type="cc"/>
+  </lib>
+  <lib id="acc_face_U_nftwinter25" revision="74381">
+    <part id="7058" type="fa"/>
+  </lib>
+  <lib id="shoes_U_nftwinter25" revision="74381">
+    <part id="7059" type="sh"/>
+    <part id="7060" type="sh"/>
+    <part id="7061" type="sh"/>
+  </lib>
+  <lib id="acc_face_U_nftxmaslollipop" revision="74380">
+    <part id="6274" type="fa"/>
+    <part id="6275" type="fa"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
