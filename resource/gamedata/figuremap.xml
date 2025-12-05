@@ -11983,7 +11983,7 @@
   <lib id="hat_U_nftregalblackcrown" revision="74347">
     <part id="7029" type="ha"/>
   </lib>
-  <lib id="face_U_blocked" revision="74364">
+  <lib id="face_U_blocked" revision="74416">
     <part id="7039" type="hd"/>
     <part id="7039" type="bd"/>
     <part id="7039" type="ey"/>
@@ -12016,7 +12016,7 @@
     <part id="7063" type="cc"/>
     <part id="7064" type="cc"/>
   </lib>
-  <lib id="acc_face_U_nftwinter25" revision="74381">
+  <lib id="acc_face_U_nftwinter25" revision="74417">
     <part id="7058" type="fa"/>
   </lib>
   <lib id="shoes_U_nftwinter25" revision="74381">
@@ -12027,6 +12027,56 @@
   <lib id="acc_face_U_nftxmaslollipop" revision="74380">
     <part id="6274" type="fa"/>
     <part id="6275" type="fa"/>
+  </lib>
+  <lib id="acc_face_U_nftheartfacepaint" revision="74413">
+    <part id="7024" type="fc"/>
+  </lib>
+  <lib id="acc_print_F_nftxmasbonnieprint" revision="74413">
+    <part id="7084" type="cp"/>
+  </lib>
+  <lib id="acc_print_U_nfthohohoprint" revision="74413">
+    <part id="7019" type="cp"/>
+  </lib>
+  <lib id="acc_print_M_nftrastasantaprint" revision="74413">
+    <part id="7016" type="cp"/>
+  </lib>
+  <lib id="trousers_U_nftsatyr" revision="74415">
+    <part id="7028" type="lg"/>
+  </lib>
+  <lib id="acc_print_M_nftrudolphprint" revision="74413">
+    <part id="7017" type="cp"/>
+  </lib>
+  <lib id="acc_print_U_nfthappy2026print" revision="74413">
+    <part id="7025" type="cp"/>
+  </lib>
+  <lib id="acc_print_M_nftxmasbonnieprint" revision="74413">
+    <part id="7018" type="cp"/>
+  </lib>
+  <lib id="hat_U_nft2025santahat" revision="74413">
+    <part id="7021" type="cp"/>
+  </lib>
+  <lib id="acc_print_F_nftrudolphprint" revision="74413">
+    <part id="7083" type="cp"/>
+  </lib>
+  <lib id="acc_print_U_nftmerryxmasprint" revision="74413">
+    <part id="7020" type="cp"/>
+  </lib>
+  <lib id="acc_face_U_nftrudolphsnose" revision="74413">
+    <part id="7022" type="fa"/>
+  </lib>
+  <lib id="acc_print_U_nft2026" revision="74413">
+    <part id="7026" type="cp"/>
+  </lib>
+  <lib id="hair_U_nftsnowmanbun" revision="74415">
+    <part id="7086" type="hr"/>
+    <part id="7086" type="hrb"/>
+    <part id="7087" type="hr"/>
+  </lib>
+  <lib id="acc_face_U_nftstarfacepaint" revision="74413">
+    <part id="7023" type="fc"/>
+  </lib>
+  <lib id="acc_print_F_nftrastasantaprint" revision="74413">
+    <part id="7085" type="cp"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
