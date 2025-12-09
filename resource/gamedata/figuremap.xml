@@ -12028,7 +12028,7 @@
     <part id="6274" type="fa"/>
     <part id="6275" type="fa"/>
   </lib>
-  <lib id="acc_face_U_nftheartfacepaint" revision="74413">
+  <lib id="acc_face_U_nftheartfacepaint" revision="74425">
     <part id="7024" type="fc"/>
   </lib>
   <lib id="acc_print_F_nftxmasbonnieprint" revision="74413">
@@ -12052,8 +12052,8 @@
   <lib id="acc_print_M_nftxmasbonnieprint" revision="74413">
     <part id="7018" type="cp"/>
   </lib>
-  <lib id="hat_U_nft2025santahat" revision="74413">
-    <part id="7021" type="cp"/>
+  <lib id="hat_U_nft2025santahat" revision="74423">
+    <part id="7021" type="ha"/>
   </lib>
   <lib id="acc_print_F_nftrudolphprint" revision="74413">
     <part id="7083" type="cp"/>
@@ -12072,11 +12072,15 @@
     <part id="7086" type="hrb"/>
     <part id="7087" type="hr"/>
   </lib>
-  <lib id="acc_face_U_nftstarfacepaint" revision="74413">
+  <lib id="acc_face_U_nftstarfacepaint" revision="74425">
     <part id="7023" type="fc"/>
   </lib>
   <lib id="acc_print_F_nftrastasantaprint" revision="74413">
     <part id="7085" type="cp"/>
+  </lib>
+  <lib id="acc_chest_U_glitterwings" revision="74424">
+    <part id="7011" type="ca"/>
+    <part id="7012" type="ca"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
