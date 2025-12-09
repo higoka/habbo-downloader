@@ -23852,7 +23852,7 @@ extendedprofile.add.friends.alert.body=This link will take you to a friend findi
 extendedprofile.add.friends.alert.title=Leave room?
 extendedprofile.add.friends=Add friends
 extendedprofile.addasafriend=Add as a friend
-extendedprofile.block_player.desc=Are you sure you want to block this user?The user will be:* Unable to enter your rooms* Appearing as an anonymous ghost* Unable to send gifts, friend requests, or start trades
+extendedprofile.block_player.desc=Are you sure you want to block this user?\nThe user will be:\n* Unable to enter your rooms\n* Appearing as an anonymous ghost\n* Unable to send gifts, friend requests, or start trades
 extendedprofile.block_player.title=Block user
 extendedprofile.block_player.tooltip=Block this user
 extendedprofile.blocked=<b>Drama level:</b> 100%!<br><b>User:</b> blocked.<br><b>Balance:</b> restored.<br><br><u><a href="event:profile/unblock">Click here</a></u> to unleash chaos.
@@ -46079,7 +46079,7 @@ quests.xmas25game1.1763473171479.hint=Wear the Ultimate Potato Counter badge to 
 quests.xmas25game1.1763473171479.name=Claim Your Penguin!
 quests.xmas25game1.name=Penguin Pursuit I
 quests.xmas25game2.1763475523502.desc=Claim a Kimimanu Penguin!
-quests.xmas25game2.1763475523502.hint=Wear the badge from Game 2 to get a Kimimanu Penguin!
+quests.xmas25game2.1763475523502.hint=Wear the Snowball Showdown bagde to complete this quest!
 quests.xmas25game2.1763475523502.name=Claim Your Penguin!
 quests.xmas25game2.name=Penguin Pursuit II
 quests.xmas25game3.1763476331490.desc=Claim an Ice Penguin!
