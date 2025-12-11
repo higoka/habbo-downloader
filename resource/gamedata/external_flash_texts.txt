@@ -46347,6 +46347,7 @@ recycler.prizes.odds.5=You only have %odds% chance of getting this. You can do i
 recycler.prizes.odds.6=${recycler.prizes.odds}
 recycler.prizes.odds=%odds% chances to get one of these
 recycler.prizes.title=Show rewards
+recycler.title=Furni-Matic
 redballoon.currency.name=Red Balloons
 redeem=Redeem
 register.avatar.name=Habbo name
