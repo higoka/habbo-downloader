@@ -12082,6 +12082,16 @@
     <part id="7011" type="ca"/>
     <part id="7012" type="ca"/>
   </lib>
+  <lib id="jacket_U_minielephant" revision="74444">
+    <part id="6992" type="cc"/>
+    <part id="6992" type="lc"/>
+    <part id="6992" type="rc"/>
+  </lib>
+  <lib id="acc_chest_U_ducketpenguinbackpack" revision="74451">
+    <part id="7099" type="ca"/>
+    <part id="7100" type="ca"/>
+    <part id="7101" type="ca"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
