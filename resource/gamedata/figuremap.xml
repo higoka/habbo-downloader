@@ -12092,6 +12092,12 @@
     <part id="7100" type="ca"/>
     <part id="7101" type="ca"/>
   </lib>
+  <lib id="jacket_U_nftshoulderdragon1" revision="74454">
+    <part id="7148" type="cc"/>
+    <part id="7148" type="lc"/>
+    <part id="7148" type="rc"/>
+    <part id="7149" type="cc"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
