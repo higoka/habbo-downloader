@@ -12098,6 +12098,91 @@
     <part id="7148" type="rc"/>
     <part id="7149" type="cc"/>
   </lib>
+  <lib id="acc_eye_U_nftheterochromia1" revision="74459">
+    <part id="7110" type="sh"/>
+    <part id="7111" type="ea"/>
+    <part id="7112" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_nftheterochromia2" revision="74459">
+    <part id="7113" type="ea"/>
+    <part id="7113" type="sh"/>
+    <part id="7114" type="ea"/>
+    <part id="7115" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_nftheterochromia3" revision="74459">
+    <part id="7116" type="sh"/>
+    <part id="7117" type="ea"/>
+    <part id="7118" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_nftheterochromia4" revision="74459">
+    <part id="7119" type="ea"/>
+    <part id="7119" type="sh"/>
+    <part id="7120" type="ea"/>
+    <part id="7121" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_nftheterochromia5" revision="74459">
+    <part id="7122" type="ea"/>
+    <part id="7122" type="sh"/>
+    <part id="7123" type="ea"/>
+    <part id="7124" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_nftheterochromia6" revision="74459">
+    <part id="7125" type="ea"/>
+    <part id="7125" type="sh"/>
+    <part id="7126" type="ea"/>
+    <part id="7127" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_nftheterochromia7" revision="74459">
+    <part id="7128" type="ea"/>
+    <part id="7128" type="sh"/>
+    <part id="7129" type="ea"/>
+    <part id="7130" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_nftheterochromia8" revision="74459">
+    <part id="7131" type="ea"/>
+    <part id="7131" type="sh"/>
+    <part id="7132" type="ea"/>
+    <part id="7133" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_nftheterochromia9" revision="74459">
+    <part id="7134" type="ea"/>
+    <part id="7134" type="sh"/>
+    <part id="7135" type="ea"/>
+    <part id="7136" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_nftheterochromia10" revision="74459">
+    <part id="7137" type="ea"/>
+    <part id="7137" type="sh"/>
+    <part id="7138" type="ea"/>
+    <part id="7139" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_nftheterochromia11" revision="74459">
+    <part id="7140" type="ea"/>
+    <part id="7140" type="sh"/>
+    <part id="7141" type="ea"/>
+    <part id="7142" type="ea"/>
+  </lib>
+  <lib id="acc_eye_U_nftheterochromia12" revision="74459">
+    <part id="7143" type="ea"/>
+    <part id="7143" type="sh"/>
+    <part id="7144" type="ea"/>
+    <part id="7145" type="ea"/>
+  </lib>
+  <lib id="face_U_nftpolarnight" revision="74459">
+    <part id="7027" type="hd"/>
+    <part id="7027" type="bd"/>
+    <part id="7027" type="ey"/>
+    <part id="7027" type="lh"/>
+    <part id="7027" type="rh"/>
+    <part id="7027" type="fc"/>
+  </lib>
+  <lib id="acc_waist_U_cnyhorsetail" revision="74463">
+    <part id="6991" type="wa"/>
+  </lib>
+  <lib id="acc_head_U_cnyhorseears" revision="74463">
+    <part id="6989" type="he"/>
+    <part id="6990" type="he"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
