@@ -11990,9 +11990,6 @@
     <part id="7039" type="lh"/>
     <part id="7039" type="rh"/>
   </lib>
-  <lib id="hat_U_turkeyhat" revision="74365">
-    <part id="7052" type="ha"/>
-  </lib>
   <lib id="hat_U_pineapplehelmet" revision="74367">
     <part id="7051" type="ha"/>
   </lib>
@@ -12186,6 +12183,9 @@
   <lib id="hat_U_nfticaruscrown" revision="74480">
     <part id="7175" type="ha"/>
     <part id="7176" type="ha"/>
+  </lib>
+  <lib id="hat_U_nftturkeyhat" revision="74486">
+    <part id="7052" type="ha"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
