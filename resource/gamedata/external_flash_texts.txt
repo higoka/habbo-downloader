@@ -16286,6 +16286,7 @@ badge_name_ITG73=HabboQuests believes in fairies, don’t you?
 badge_name_ITG95=Be a seeker of everyday magic.
 badge_name_ITH15=[BaW] Global Collab: Around Italy (IT)
 badge_name_ITH16=[BaW] Global Collab: Typical Italian Food (IT)
+badge_name_ITH60=So Long, 2025!
 badge_name_J14B1=Frosty Winter Castle Bundle
 badge_name_J14B2=Fireside Chalet Bundle
 badge_name_J2101=Messy Room Bundle
