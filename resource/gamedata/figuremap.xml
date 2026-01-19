@@ -12187,6 +12187,130 @@
   <lib id="hat_U_nftturkeyhat" revision="74486">
     <part id="7052" type="ha"/>
   </lib>
+  <lib id="shirt_U_sharkonesie" revision="74523">
+    <part id="7105" type="ch"/>
+    <part id="7105" type="ls"/>
+    <part id="7105" type="rs"/>
+    <part id="7106" type="ch"/>
+  </lib>
+  <lib id="shirt_M_chiseledabs" revision="74524">
+    <part id="7170" type="ch"/>
+    <part id="7170" type="ls"/>
+    <part id="7170" type="rs"/>
+  </lib>
+  <lib id="shirt_M_bigsleepyshirt1" revision="74533">
+    <part id="7158" type="ch"/>
+    <part id="7158" type="ls"/>
+    <part id="7158" type="rs"/>
+    <part id="7159" type="ch"/>
+  </lib>
+  <lib id="shirt_M_bigsleepyshirt2" revision="74533">
+    <part id="7162" type="ch"/>
+    <part id="7162" type="ls"/>
+    <part id="7162" type="rs"/>
+    <part id="7163" type="ch"/>
+  </lib>
+  <lib id="shirt_M_bigsleepyshirt3" revision="74533">
+    <part id="7166" type="ch"/>
+    <part id="7166" type="ls"/>
+    <part id="7166" type="rs"/>
+    <part id="7167" type="ch"/>
+  </lib>
+  <lib id="hat_U_sharkonesiehead" revision="74523">
+    <part id="7103" type="ha"/>
+    <part id="7104" type="ha"/>
+  </lib>
+  <lib id="shirt_F_bigsleepyshirt1" revision="74533">
+    <part id="7160" type="ch"/>
+    <part id="7160" type="ls"/>
+    <part id="7160" type="rs"/>
+    <part id="7161" type="ch"/>
+  </lib>
+  <lib id="shirt_F_bigsleepyshirt2" revision="74533">
+    <part id="7164" type="ch"/>
+    <part id="7164" type="ls"/>
+    <part id="7164" type="rs"/>
+    <part id="7165" type="ch"/>
+  </lib>
+  <lib id="shirt_F_bigsleepyshirt3" revision="74533">
+    <part id="7168" type="ch"/>
+    <part id="7168" type="ls"/>
+    <part id="7168" type="rs"/>
+    <part id="7169" type="ch"/>
+  </lib>
+  <lib id="acc_chest_U_ducketstripedscarf" revision="74524">
+    <part id="7107" type="ca"/>
+    <part id="7108" type="ca"/>
+    <part id="7109" type="ca"/>
+  </lib>
+  <lib id="hair_U_bedheadbun" revision="74524">
+    <part id="7154" type="hr"/>
+    <part id="7154" type="hrb"/>
+  </lib>
+  <lib id="shirt_F_chiseledabs" revision="74524">
+    <part id="7171" type="ch"/>
+    <part id="7171" type="ls"/>
+    <part id="7171" type="rs"/>
+    <part id="7172" type="ch"/>
+  </lib>
+  <lib id="jacket_U_bedroll" revision="74523">
+    <part id="7146" type="cc"/>
+    <part id="7146" type="lc"/>
+    <part id="7146" type="rc"/>
+    <part id="7147" type="cc"/>
+  </lib>
+  <lib id="trousers_U_heartundies" revision="74524">
+    <part id="7173" type="lg"/>
+    <part id="7174" type="lg"/>
+  </lib>
+  <lib id="acc_chest_U_plushiewings" revision="74523">
+    <part id="7102" type="ca"/>
+  </lib>
+  <lib id="acc_head_U_bedheadband" revision="74524">
+    <part id="7153" type="he"/>
+  </lib>
+  <lib id="acc_face_U_nftpandamask" revision="74535">
+    <part id="7202" type="ea"/>
+  </lib>
+  <lib id="acc_face_U_nftteddymask" revision="74535">
+    <part id="7201" type="ea"/>
+  </lib>
+  <lib id="acc_head_U_nftflyingheart" revision="74535">
+    <part id="7198" type="he"/>
+    <part id="7199" type="he"/>
+    <part id="7200" type="he"/>
+  </lib>
+  <lib id="hat_U_nfthorsecrown" revision="74537">
+    <part id="7192" type="ha"/>
+    <part id="7193" type="ha"/>
+    <part id="7194" type="ha"/>
+  </lib>
+  <lib id="acc_face_U_nftkissmark" revision="74535">
+    <part id="6367" type="fc"/>
+  </lib>
+  <lib id="acc_head_U_nftheartearrings" revision="74535">
+    <part id="7196" type="he"/>
+  </lib>
+  <lib id="acc_print_U_nfthorseyearmark1" revision="74535">
+    <part id="7188" type="cp"/>
+  </lib>
+  <lib id="acc_print_U_nfthorseyearmark2" revision="74535">
+    <part id="7189" type="cp"/>
+  </lib>
+  <lib id="acc_print_U_nfthorseyearmark3" revision="74535">
+    <part id="7190" type="cp"/>
+  </lib>
+  <lib id="acc_print_U_nfthorseyearmark4" revision="74535">
+    <part id="7191" type="cp"/>
+  </lib>
+  <lib id="jacket_U_nftbluerose" revision="74535">
+    <part id="7197" type="cc"/>
+    <part id="7197" type="lc"/>
+    <part id="7197" type="rc"/>
+  </lib>
+  <lib id="acc_head_U_countingsheep" revision="74545">
+    <part id="7209" type="he"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
@@ -12588,7 +12712,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="74011">
+  <lib id="hh_human_item" revision="74524">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -12858,6 +12982,8 @@
     <part id="294" type="ri"/>
     <part id="295" type="ri"/>
     <part id="296" type="ri"/>
+    <part id="298" type="ri"/>
+    <part id="299" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
