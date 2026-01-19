@@ -48654,6 +48654,7 @@ widget.furni.ecotronbox.open=Open
 widget.furni.ecotronbox.title=Furni-Matic Box
 widget.furni.furnimaticbox.open=Open the box
 widget.furni.furnimaticbox.title=Furni-Matic box
+widget.furni.furnimaticbox.yes=${widget.furni.furnimaticbox.open}
 widget.furni.info.url=https://habbohelpen.zendesk.com/entries/272634-What-are-Habbo-Credits-
 widget.furni.present.close=Close
 widget.furni.present.give_gift=Send a return gift to %name%
