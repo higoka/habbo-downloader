@@ -18576,6 +18576,7 @@ badge_name_SLO05=Revamped Rainy Day 2.0 Bundle
 badge_name_SLO06=Princess Bundle
 badge_name_SLO07=Star Gazer Bundle
 badge_name_SLO08=February 2026 Crafting Bundle
+badge_name_SLO12=Habbo Brazil Birthday Bundle
 badge_name_SM001=Ghost Hunter Instagram Competition
 badge_name_SMB01=Bronze level #HabboCreator
 badge_name_SMB02=Silver level #HabboCreator
