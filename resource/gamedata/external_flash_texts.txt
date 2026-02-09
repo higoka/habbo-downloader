@@ -36746,6 +36746,7 @@ notification.invisible.room.bc=This room is hidden from other people because of 
 notification.invisible.room.short=This room is currently hidden from other people
 notification.invisible.room=This room is hidden from other people. Would you like to show it to the world?
 notification.kicked_from_room=Whee, you were kicked from the room.
+notification.moderation.alert.message=You got alerted for {reason}. This was detected by {sanctionSource} and the alert was decided by {decidedBy}. You can appeal within 6 months at {link}.
 notification.moderation.ambassador.mute.message=You have been muted by Ambassador until {expiryDate}. You can appeal within 6 months at {link}.
 notification.moderation.decided.automatically=by an automated system
 notification.moderation.decided.manually=by a human moderator
