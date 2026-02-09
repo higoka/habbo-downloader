@@ -11980,7 +11980,7 @@
   <lib id="acc_chest_U_nystargarland8" revision="74285">
     <part id="6988" type="ca"/>
   </lib>
-  <lib id="hat_U_nftregalblackcrown" revision="74489">
+  <lib id="hat_U_nftregalblackcrown" revision="74620">
     <part id="7029" type="ha"/>
   </lib>
   <lib id="face_U_blocked" revision="74420">
@@ -12303,13 +12303,24 @@
   <lib id="acc_print_U_nfthorseyearmark4" revision="74535">
     <part id="7191" type="cp"/>
   </lib>
-  <lib id="jacket_U_nftbluerose" revision="74535">
-    <part id="7197" type="cc"/>
-    <part id="7197" type="lc"/>
-    <part id="7197" type="rc"/>
-  </lib>
   <lib id="acc_head_U_countingsheep" revision="74545">
     <part id="7209" type="he"/>
+  </lib>
+  <lib id="misc_U_simpleglovetest" revision="74596">
+    <part id="7220" type="mc"/>
+    <part id="7220" type="mcl"/>
+    <part id="7220" type="mcr"/>
+  </lib>
+  <lib id="pet_U_shroomietest" revision="74596">
+    <part id="7217" type="ptl"/>
+    <part id="7217" type="ptr"/>
+    <part id="7218" type="ptl"/>
+    <part id="7219" type="ptl"/>
+  </lib>
+  <lib id="misc_U_nftbluerose" revision="74620">
+    <part id="7197" type="mc"/>
+    <part id="7197" type="mcl"/>
+    <part id="7197" type="mcr"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
