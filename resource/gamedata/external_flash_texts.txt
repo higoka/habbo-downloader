@@ -950,6 +950,9 @@
 26gameroom.image=web_promo_small/spromo_wildlife.png
 26gameroom.text=h2. How to play:\n\n- To start, move forward in the queue. When you’re the first player, click the rock seat in front of you to be teleported to the drawing area.\n- Depending on the image, you’ll have 2 minutes or 2 minutes 30 seconds to reproduce it.\n\nh2. How to draw :\n\n- Click a colour on the palette (12 colours + 1 white to erase), then click the squares you want to colour on your platform.\n- Once you’ve finished your drawing, click the badge display near the game counter to submit it.\n- If you’ve made a mistake, a message will appear and you’ll be able to fix it, as long as there’s time left.\nPS : if you want to watch your friends play, say: **look**\nGood luck !
 26gameroom.title=Wild Life in Colors
+26sidgame.image=web_promo_small/spromo_sidgame.png
+26sidgame.text=Test your knowledge and see if you can spot what’s Safe and what’s a Scam. Pay close attention, think smart, and prove you know how to stay safe online!\n\nh2. How to play:\n\n1) Lobby Room:\n\n- Start by sitting on one of the sofas in the center of the lobby and listen carefully to the speeches given by Frank or Piccolo.\n- Once all messages have finished, you will be automatically teleported to the next room.\n2) Queue Room:\n\n- There, use the classic BB ticket to join the queue and wait patiently for your turn.\n3) Scam or Safe?:\n\n- When you enter the game area, different scenarios will be acted out in front of you.\n- After each one, Frank will ask “Scam or Safe?”\n- Choose your answer by pressing the red button for Scam or the green button for Safe.\n- Identify all 6 scenarios correctly in order to win, one wrong answer will get you eliminated, so think carefully!\n
+26sidgame.title=Welcome to Safer Internet Day!
 50S_badge_name=GreenRecordBadge
 70S_badge_name=PurpleDiscoBadge
 AC4_HHSG_badge_name=TheMightyEagle
@@ -18578,6 +18581,7 @@ badge_name_SLO05=Revamped Rainy Day 2.0 Bundle
 badge_name_SLO06=Princess Bundle
 badge_name_SLO07=Star Gazer Bundle
 badge_name_SLO08=February 2026 Crafting Bundle
+badge_name_SLO09=Happy Safer Internet Day 2026!
 badge_name_SLO12=Habbo Brazil Birthday Bundle
 badge_name_SM001=Ghost Hunter Instagram Competition
 badge_name_SMB01=Bronze level #HabboCreator
