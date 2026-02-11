@@ -12322,6 +12322,68 @@
     <part id="7197" type="mcl"/>
     <part id="7197" type="mcr"/>
   </lib>
+  <lib id="acc_waist_U_fantasydemontail" revision="74627">
+    <part id="7225" type="wa"/>
+  </lib>
+  <lib id="acc_head_U_crownedfantasydemonhorns" revision="74627">
+    <part id="7226" type="he"/>
+    <part id="7227" type="he"/>
+  </lib>
+  <lib id="acc_waist_U_crownedfantasydemontail" revision="74631">
+    <part id="7228" type="wa"/>
+    <part id="7229" type="wa"/>
+  </lib>
+  <lib id="pet_U_robotcompanion" revision="74629">
+    <part id="7208" type="pt"/>
+    <part id="7208" type="ptl"/>
+    <part id="7208" type="ptr"/>
+  </lib>
+  <lib id="acc_chest_U_snakeyscarf" revision="74635">
+    <part id="7150" type="ca"/>
+    <part id="7151" type="ca"/>
+    <part id="7152" type="ca"/>
+  </lib>
+  <lib id="acc_eye_U_flowereye" revision="74623">
+    <part id="7177" type="ea"/>
+    <part id="7178" type="ea"/>
+    <part id="7179" type="ea"/>
+  </lib>
+  <lib id="hat_U_flowerpot" revision="74623">
+    <part id="7207" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_flowerheart" revision="74623">
+    <part id="7180" type="ca"/>
+    <part id="7181" type="ca"/>
+    <part id="7182" type="ca"/>
+  </lib>
+  <lib id="face_U_mannequin" revision="74624">
+    <part id="7186" type="hd"/>
+    <part id="7186" type="bd"/>
+    <part id="7186" type="ey"/>
+    <part id="7186" type="lh"/>
+    <part id="7186" type="rh"/>
+    <part id="7186" type="fc"/>
+    <part id="7187" type="hd"/>
+  </lib>
+  <lib id="hair_U_flowerpothair" revision="74623">
+    <part id="7204" type="hr"/>
+    <part id="7204" type="hrb"/>
+    <part id="7205" type="hr"/>
+    <part id="7206" type="hr"/>
+  </lib>
+  <lib id="acc_head_U_fantasydemonhorns" revision="74631">
+    <part id="7224" type="he"/>
+  </lib>
+  <lib id="misc_U_kittyplushie" revision="74630">
+    <part id="7155" type="mc"/>
+    <part id="7155" type="mcl"/>
+    <part id="7155" type="mcr"/>
+    <part id="7156" type="mc"/>
+    <part id="7157" type="mc"/>
+  </lib>
+  <lib id="acc_head_U_nftmoon" revision="74638">
+    <part id="7203" type="he"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
@@ -12723,7 +12785,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="74524">
+  <lib id="hh_human_item" revision="74625">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -12995,6 +13057,7 @@
     <part id="296" type="ri"/>
     <part id="298" type="ri"/>
     <part id="299" type="ri"/>
+    <part id="300" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
