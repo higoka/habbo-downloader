@@ -98,6 +98,7 @@ client.news.embed.enabled=true
 client.reload.url=${url.prefix}/account/reauthenticate?page=/flash_client
 client.stargems.enabled=false
 client.toolbar.static.enabled=true
+clothing.misc.tab.enabled=true
 club.membership.extend.basic.promotion.enabled=true
 club.membership.extend.vip.promotion.enabled=true
 club.subscription.disabled=1
