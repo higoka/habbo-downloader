@@ -12101,7 +12101,7 @@
     <part id="6993" type="rs"/>
     <part id="6994" type="ch"/>
   </lib>
-  <lib id="shirt_F_controller" revision="74666">
+  <lib id="shirt_F_controller" revision="74672">
     <part id="6995" type="ch"/>
     <part id="6995" type="ls"/>
     <part id="6995" type="rs"/>
@@ -12231,7 +12231,7 @@
     <part id="6406" type="mcr"/>
     <part id="6407" type="mc"/>
   </lib>
-  <lib id="pet_U_yellowaisha" revision="74668">
+  <lib id="pet_U_yellowaisha" revision="74688">
     <part id="6893" type="pt"/>
     <part id="6893" type="ptl"/>
     <part id="6893" type="ptr"/>
@@ -12334,7 +12334,7 @@
     <part id="6656" type="ptl"/>
     <part id="6656" type="ptr"/>
   </lib>
-  <lib id="pet_U_minielephant" revision="74668">
+  <lib id="pet_U_minielephant" revision="74688">
     <part id="6992" type="pt"/>
     <part id="6992" type="ptl"/>
     <part id="6992" type="ptr"/>
@@ -12401,6 +12401,21 @@
     <part id="2609" type="mc"/>
     <part id="2609" type="mcl"/>
     <part id="2609" type="mcr"/>
+  </lib>
+  <lib id="acc_face_U_nfthollywoodsmile" revision="74690">
+    <part id="7244" type="fa"/>
+  </lib>
+  <lib id="acc_chest_U_nftsoda" revision="74690">
+    <part id="7241" type="ca"/>
+  </lib>
+  <lib id="acc_chest_U_nftpopcorn" revision="74690">
+    <part id="7243" type="ca"/>
+  </lib>
+  <lib id="acc_waist_U_nftsoda" revision="74690">
+    <part id="7240" type="wa"/>
+  </lib>
+  <lib id="acc_waist_U_nftpopcorn" revision="74690">
+    <part id="7242" type="wa"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
@@ -12803,7 +12818,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="74663">
+  <lib id="hh_human_item" revision="74689">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -13074,6 +13089,9 @@
     <part id="295" type="ri"/>
     <part id="296" type="ri"/>
     <part id="297" type="ri"/>
+    <part id="298" type="ri"/>
+    <part id="299" type="ri"/>
+    <part id="300" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">

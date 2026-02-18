@@ -224,7 +224,7 @@
   <effect id="218" lib="Freeze" type="fx" revision="69848"/>
   <effect id="219" lib="Hide" type="fx" revision="74656"/>
   <effect id="220" lib="NFTCoin7" type="fx" revision="69950"/>
-  <effect id="221" lib="Cat" type="fx" revision="74656"/>
+  <effect id="221" lib="Cat" type="fx" revision="74668"/>
   <effect id="222" lib="TrippyHalo" type="fx" revision="70588"/>
   <effect id="223" lib="WiredTeamRed" type="fx" revision="70688"/>
   <effect id="224" lib="WiredTeamBlue" type="fx" revision="70689"/>
@@ -240,4 +240,5 @@
   <effect id="234" lib="RoomtoRoomTele" type="fx" revision="72758"/>
   <effect id="235" lib="BlueTwinkle" type="fx" revision="72784"/>
   <effect id="236" lib="CompletelyConfused" type="fx" revision="73549"/>
+  <effect id="237" lib="HideBody" type="fx" revision="74693"/>
 </map>
