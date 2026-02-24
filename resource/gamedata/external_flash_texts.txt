@@ -18595,6 +18595,7 @@ badge_name_SLO09=Happy Safer Internet Day 2026!
 badge_name_SLO10=Love All the Way
 badge_name_SLO11=Letter Sender
 badge_name_SLO12=Habbo Brazil Birthday Bundle
+badge_name_SLO14=Lime Green Dragon Lamp
 badge_name_SM001=Ghost Hunter Instagram Competition
 badge_name_SMB01=Bronze level #HabboCreator
 badge_name_SMB02=Silver level #HabboCreator
