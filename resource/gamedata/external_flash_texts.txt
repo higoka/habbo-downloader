@@ -23305,6 +23305,7 @@ collectibles.set.fansites_23=Fansites 2023
 collectibles.set.farmstead_florist=Farmstead Florist
 collectibles.set.fashion_month_2025=Fashion Month 2025
 collectibles.set.festa_no_brasil=Festa no Brasil 
+collectibles.set.film_buff=Film Buff
 collectibles.set.forged=Forged
 collectibles.set.frozen_xmas=Frozen Xmas
 collectibles.set.furni_factory_bliss_rares=Furni Factory: Bliss Rares
