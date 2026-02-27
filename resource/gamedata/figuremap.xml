@@ -10175,7 +10175,7 @@
     <part id="6262" type="rs"/>
     <part id="6263" type="ch"/>
   </lib>
-  <lib id="acc_print_F_nftanime" revision="72791">
+  <lib id="acc_print_F_nftanime" revision="74737">
     <part id="6280" type="cp"/>
     <part id="6281" type="cp"/>
   </lib>
@@ -12076,7 +12076,7 @@
     <part id="7186" type="fc"/>
     <part id="7187" type="hd"/>
   </lib>
-  <lib id="hair_U_flowerpothair" revision="74623">
+  <lib id="hair_U_flowerpothair" revision="74748">
     <part id="7204" type="hr"/>
     <part id="7204" type="hrb"/>
     <part id="7205" type="hr"/>

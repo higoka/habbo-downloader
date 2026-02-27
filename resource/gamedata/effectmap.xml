@@ -240,5 +240,8 @@
   <effect id="234" lib="RoomtoRoomTele" type="fx" revision="72758"/>
   <effect id="235" lib="BlueTwinkle" type="fx" revision="72784"/>
   <effect id="236" lib="CompletelyConfused" type="fx" revision="73549"/>
-  <effect id="237" lib="HideBody" type="fx" revision="74693"/>
+  <effect id="237" lib="HideBody" type="fx" revision="74713"/>
+  <effect id="238" lib="MagicalBlueOrb" type="fx" revision="74742"/>
+  <effect id="239" lib="MagicalPinkOrb" type="fx" revision="74744"/>
+  <effect id="240" lib="ElvenGreenStaff" type="fx" revision="74750"/>
 </map>
