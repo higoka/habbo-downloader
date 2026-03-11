@@ -243,5 +243,6 @@
   <effect id="237" lib="HideBody" type="fx" revision="74713"/>
   <effect id="238" lib="MagicalBlueOrb" type="fx" revision="74742"/>
   <effect id="239" lib="MagicalPinkOrb" type="fx" revision="74744"/>
-  <effect id="240" lib="ElvenGreenStaff" type="fx" revision="74759"/>
+  <effect id="240" lib="ElvenGreenStaff" type="fx" revision="74797"/>
+  <effect id="241" lib="ElvenYellowStaff" type="fx" revision="74797"/>
 </map>

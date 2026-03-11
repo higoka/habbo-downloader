@@ -1030,7 +1030,7 @@
     <part id="3947" type="ca"/>
     <part id="3948" type="ca"/>
   </lib>
-  <lib id="acc_face_U_wedveil" revision="67198">
+  <lib id="acc_face_U_wedveil" revision="74812">
     <part id="2948" type="fa"/>
     <part id="2949" type="fa"/>
     <part id="2950" type="fa"/>
@@ -11958,6 +11958,11 @@
     <part id="7154" type="hr"/>
     <part id="7154" type="hrb"/>
   </lib>
+  <lib id="acc_chest_U_ducketbearbag" revision="74816">
+    <part id="7214" type="ca"/>
+    <part id="7215" type="ca"/>
+    <part id="7216" type="ca"/>
+  </lib>
   <lib id="shirt_F_chiseledabs" revision="74524">
     <part id="7171" type="ch"/>
     <part id="7171" type="ls"/>
@@ -12417,6 +12422,132 @@
   <lib id="acc_waist_U_nftpopcorn" revision="74690">
     <part id="7242" type="wa"/>
   </lib>
+  <lib id="pet_U_mysticdragon" revision="74800">
+    <part id="7048" type="pt"/>
+    <part id="7048" type="ptl"/>
+    <part id="7048" type="ptr"/>
+    <part id="7049" type="pt"/>
+    <part id="7050" type="pt"/>
+  </lib>
+  <lib id="pet_U_wisp" revision="74813">
+    <part id="7097" type="pt"/>
+    <part id="7097" type="ptl"/>
+    <part id="7097" type="ptr"/>
+  </lib>
+  <lib id="acc_waist_U_elvensatchel" revision="74809">
+    <part id="7088" type="wa"/>
+    <part id="7089" type="wa"/>
+    <part id="7090" type="wa"/>
+  </lib>
+  <lib id="acc_head_U_flowerantlers" revision="74800">
+    <part id="7040" type="he"/>
+    <part id="7041" type="he"/>
+    <part id="7042" type="he"/>
+  </lib>
+  <lib id="hair_U_longelvenhair" revision="74809">
+    <part id="7098" type="hr"/>
+    <part id="7098" type="hrb"/>
+  </lib>
+  <lib id="acc_waist_U_elvenlamp" revision="74800">
+    <part id="7045" type="wa"/>
+    <part id="7046" type="wa"/>
+    <part id="7047" type="wa"/>
+  </lib>
+  <lib id="acc_head_U_leafantlers" revision="74800">
+    <part id="7043" type="he"/>
+    <part id="7044" type="he"/>
+  </lib>
+  <lib id="shirt_M_elvenmithriltop" revision="74809">
+    <part id="7091" type="ch"/>
+    <part id="7091" type="ls"/>
+    <part id="7091" type="rs"/>
+    <part id="7092" type="ch"/>
+    <part id="7093" type="ch"/>
+  </lib>
+  <lib id="shirt_F_elvenmithriltop" revision="74809">
+    <part id="7094" type="ch"/>
+    <part id="7094" type="ls"/>
+    <part id="7094" type="rs"/>
+    <part id="7095" type="ch"/>
+    <part id="7096" type="ch"/>
+  </lib>
+  <lib id="acc_head_U_elfearslong" revision="74810">
+    <part id="7068" type="he"/>
+  </lib>
+  <lib id="acc_chest_U_leafbrooch" revision="74822">
+    <part id="7183" type="ca"/>
+    <part id="7184" type="ca"/>
+  </lib>
+  <lib id="acc_head_U_elvenearring" revision="74812">
+    <part id="7185" type="he"/>
+  </lib>
+  <lib id="shirt_M_elvendress" revision="74823">
+    <part id="7033" type="ch"/>
+    <part id="7033" type="ls"/>
+    <part id="7033" type="rs"/>
+    <part id="7034" type="ch"/>
+    <part id="7035" type="ch"/>
+  </lib>
+  <lib id="jacket_U_elvenleafcape" revision="74812">
+    <part id="7036" type="cc"/>
+    <part id="7036" type="lc"/>
+    <part id="7036" type="rc"/>
+    <part id="7037" type="cc"/>
+    <part id="7038" type="cc"/>
+  </lib>
+  <lib id="shirt_M_elventunic" revision="74810">
+    <part id="7073" type="ch"/>
+    <part id="7073" type="ls"/>
+    <part id="7073" type="rs"/>
+    <part id="7074" type="ch"/>
+    <part id="7075" type="ch"/>
+  </lib>
+  <lib id="jacket_U_elvenbasiccape" revision="74834">
+    <part id="7070" type="cc"/>
+    <part id="7070" type="lc"/>
+    <part id="7070" type="rc"/>
+    <part id="7071" type="cc"/>
+    <part id="7072" type="cc"/>
+  </lib>
+  <lib id="shirt_F_elvendress" revision="74823">
+    <part id="7030" type="rs"/>
+    <part id="7030" type="ls"/>
+    <part id="7030" type="ch"/>
+    <part id="7031" type="ch"/>
+    <part id="7032" type="ch"/>
+  </lib>
+  <lib id="hair_U_shortelvenhair" revision="74822">
+    <part id="7079" type="hr"/>
+    <part id="7079" type="hrb"/>
+    <part id="7080" type="hr"/>
+  </lib>
+  <lib id="hair_U_longbraidedelvenhair" revision="74812">
+    <part id="7081" type="hr"/>
+    <part id="7081" type="hrb"/>
+    <part id="7082" type="hr"/>
+  </lib>
+  <lib id="acc_head_U_elfearsmedium" revision="74810">
+    <part id="7069" type="he"/>
+  </lib>
+  <lib id="shirt_F_elventunic" revision="74810">
+    <part id="7076" type="ch"/>
+    <part id="7076" type="ls"/>
+    <part id="7076" type="rs"/>
+    <part id="7077" type="ch"/>
+    <part id="7078" type="ch"/>
+  </lib>
+  <lib id="shirt_M_duckethoneyshirt" revision="74836">
+    <part id="7210" type="ch"/>
+    <part id="7210" type="ls"/>
+    <part id="7210" type="rs"/>
+    <part id="7211" type="ch"/>
+  </lib>
+  <lib id="shirt_F_duckethoneyshirt" revision="74836">
+    <part id="7212" type="ch"/>
+    <part id="7212" type="ls"/>
+    <part id="7212" type="rs"/>
+    <part id="7213" type="ch"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
@@ -12818,7 +12949,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="74689">
+  <lib id="hh_human_item" revision="74843">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -13092,6 +13223,7 @@
     <part id="298" type="ri"/>
     <part id="299" type="ri"/>
     <part id="300" type="ri"/>
+    <part id="301" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
