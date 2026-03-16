@@ -12481,14 +12481,14 @@
   <lib id="acc_head_U_elvenearring" revision="74812">
     <part id="7185" type="he"/>
   </lib>
-  <lib id="shirt_M_elvendress" revision="74823">
+  <lib id="shirt_M_elvendress" revision="74862">
     <part id="7033" type="ch"/>
     <part id="7033" type="ls"/>
     <part id="7033" type="rs"/>
     <part id="7034" type="ch"/>
     <part id="7035" type="ch"/>
   </lib>
-  <lib id="jacket_U_elvenleafcape" revision="74812">
+  <lib id="jacket_U_elvenleafcape" revision="74862">
     <part id="7036" type="cc"/>
     <part id="7036" type="lc"/>
     <part id="7036" type="rc"/>
@@ -12509,14 +12509,14 @@
     <part id="7071" type="cc"/>
     <part id="7072" type="cc"/>
   </lib>
-  <lib id="shirt_F_elvendress" revision="74823">
+  <lib id="shirt_F_elvendress" revision="74862">
     <part id="7030" type="rs"/>
     <part id="7030" type="ls"/>
     <part id="7030" type="ch"/>
     <part id="7031" type="ch"/>
     <part id="7032" type="ch"/>
   </lib>
-  <lib id="hair_U_shortelvenhair" revision="74822">
+  <lib id="hair_U_shortelvenhair" revision="74866">
     <part id="7079" type="hr"/>
     <part id="7079" type="hrb"/>
     <part id="7080" type="hr"/>
