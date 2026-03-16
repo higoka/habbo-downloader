@@ -1,4 +1,4 @@
-achievements.new=FurniOrganizer,GamerPaycheck
+achievements.new=FurniOrganizer,GamerPaycheck,MoneyPrinter,Spr
 activity.point.display.enabled=true
 activitypoint.name.0=tooltip.duckets
 activitypoint.name.101=${seasonalcurrency.id.101}.currency.name
@@ -2348,6 +2348,6 @@ flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-2026031
 new.user.flow.roomTypes=10,11,12
 external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/778a1d5b2c3a5a9518fc5c67609d7b752c896e9c
 external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/af3c95394d2861e3cddda0781edeebf1256c0175
-productdata.load.url=https://www.habbo.com/gamedata/productdata/9497880783adc5119f4e4fcde1d8cfa175cf5c1f
-furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/45248370a93fc491806e918db28b0b69abeb6b4e
+productdata.load.url=https://www.habbo.com/gamedata/productdata/ecced279242a3a701bf05172db675da680e75338
+furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/0a10997e43876f226c88d816982acd2c8e6220ad
 external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/778a1d5b2c3a5a9518fc5c67609d7b752c896e9c
