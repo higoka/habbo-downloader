@@ -15571,6 +15571,7 @@ badge_name_HOB07=Sunken Ship Bundle
 badge_name_HOB08=Cozy Garden Bundle
 badge_name_HOB12=International Women's Day 2026
 badge_name_HOB13=Dark Mansion Staircase Bundle
+badge_name_HOB15=Leprechaun badge
 badge_name_HOL02=Black Hole Experience 2011
 badge_name_HOL03=Black Art Badge
 badge_name_HOP01=Habbolympics Gold Medal
