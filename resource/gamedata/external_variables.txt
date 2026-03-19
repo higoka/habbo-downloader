@@ -2155,7 +2155,7 @@ quests.unity.enabled=true
 raycasting.alpha_threshold=127
 recycler.ducket_cost=10
 recycler.enabled=true
-recycler.number_of_slots=4
+recycler.number_of_slots=8
 recycler.timeout_seconds=10
 register.allowed.characters=_-=?!@:.,
 register.allowed_unicode_blocks=Basic Latin
