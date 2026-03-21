@@ -27765,6 +27765,7 @@ hubu.info.title=
 hubu.info.url1=
 hubu.info.url2=
 hubu.info=Thanks for visiting the Info Bus. We're closed right now. For information on when the bus may be open in the future please visit www.Habbo.com/groups/InfoBus
+huu=haa
 hween24_neonparty.1726142081441.completed=Now we now it! When the time comes we will say it again!
 hween24_neonparty.1726142081441.desc=Let's find out how to say the spell
 hween24_neonparty.1726142081441.hint=Get back to the forest, find the lost spell Elvira told you about. Order the phrases and get back to tell Elvira the spell. You will get and extra badge. Use it to complete this quest.
