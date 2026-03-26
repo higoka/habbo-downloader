@@ -12655,6 +12655,132 @@
     <part id="7339" type="ptl"/>
     <part id="7339" type="ptr"/>
   </lib>
+  <lib id="hair_U_bouncyafro" revision="74902">
+    <part id="7292" type="hr"/>
+    <part id="7292" type="hrb"/>
+    <part id="7293" type="hr"/>
+  </lib>
+  <lib id="hair_U_70sshorthair" revision="74902">
+    <part id="7294" type="hr"/>
+    <part id="7294" type="hrb"/>
+  </lib>
+  <lib id="misc_U_boombox" revision="74902">
+    <part id="7325" type="mc"/>
+    <part id="7325" type="mcl"/>
+    <part id="7325" type="mcr"/>
+    <part id="7326" type="mc"/>
+    <part id="7327" type="mc"/>
+  </lib>
+  <lib id="shoe_U_mixandmatchskates" revision="74902">
+    <part id="7303" type="sh"/>
+    <part id="7304" type="sh"/>
+    <part id="7305" type="sh"/>
+  </lib>
+  <lib id="misc_U_keychaintoast" revision="74903">
+    <part id="7269" type="mc"/>
+    <part id="7269" type="mcl"/>
+    <part id="7269" type="mcr"/>
+  </lib>
+  <lib id="acc_face_U_roboface" revision="74907">
+    <part id="7349" type="fa"/>
+    <part id="7350" type="fa"/>
+  </lib>
+  <lib id="misc_U_keychainegg" revision="74903">
+    <part id="7268" type="mc"/>
+    <part id="7268" type="mcl"/>
+    <part id="7268" type="mcr"/>
+  </lib>
+  <lib id="misc_U_keychainshark" revision="74903">
+    <part id="7270" type="mc"/>
+    <part id="7270" type="mcl"/>
+    <part id="7270" type="mcr"/>
+    <part id="7271" type="mc"/>
+  </lib>
+  <lib id="hat_U_iridescentrainhood" revision="74902">
+    <part id="7295" type="ha"/>
+    <part id="7296" type="ha"/>
+  </lib>
+  <lib id="jacket_U_iridescentraincoat" revision="74902">
+    <part id="7297" type="cc"/>
+    <part id="7297" type="lc"/>
+    <part id="7297" type="rc"/>
+    <part id="7298" type="cc"/>
+    <part id="7299" type="cc"/>
+  </lib>
+  <lib id="hair_U_heartbuns" revision="74903">
+    <part id="7322" type="hr"/>
+    <part id="7322" type="hrb"/>
+  </lib>
+  <lib id="face_U_iridescentskin1" revision="74902">
+    <part id="7323" type="hd"/>
+    <part id="7323" type="bd"/>
+    <part id="7323" type="ey"/>
+    <part id="7323" type="lh"/>
+    <part id="7323" type="rh"/>
+    <part id="7323" type="fc"/>
+  </lib>
+  <lib id="face_U_iridescentskin2" revision="74902">
+    <part id="7324" type="hd"/>
+    <part id="7324" type="bd"/>
+    <part id="7324" type="ey"/>
+    <part id="7324" type="lh"/>
+    <part id="7324" type="rh"/>
+    <part id="7324" type="fc"/>
+  </lib>
+  <lib id="misc_U_lasersword" revision="74902">
+    <part id="7300" type="mc"/>
+    <part id="7300" type="mcl"/>
+    <part id="7300" type="mcr"/>
+    <part id="7301" type="mc"/>
+    <part id="7302" type="mc"/>
+  </lib>
+  <lib id="jacket_U_croppedhoodie" revision="74905">
+    <part id="7272" type="cc"/>
+    <part id="7272" type="lc"/>
+    <part id="7272" type="rc"/>
+    <part id="7273" type="cc"/>
+  </lib>
+  <lib id="trousers_U_fishnetsskirt" revision="74903">
+    <part id="7274" type="lg"/>
+    <part id="7275" type="lg"/>
+    <part id="7276" type="lg"/>
+  </lib>
+  <lib id="acc_print_U_crmic" revision="74911">
+    <part id="7263" type="cp"/>
+    <part id="7264" type="cp"/>
+  </lib>
+  <lib id="acc_print_U_crphoto" revision="74909">
+    <part id="7255" type="cp"/>
+    <part id="7256" type="cp"/>
+  </lib>
+  <lib id="acc_print_U_crchatter" revision="74908">
+    <part id="5758" type="cp"/>
+    <part id="7257" type="cp"/>
+  </lib>
+  <lib id="shirt_F_creatorhoodie" revision="74911">
+    <part id="7253" type="ch"/>
+    <part id="7253" type="ls"/>
+    <part id="7253" type="rs"/>
+    <part id="7254" type="ch"/>
+  </lib>
+  <lib id="shirt_M_creatorhoodie" revision="74911">
+    <part id="7251" type="ch"/>
+    <part id="7251" type="ls"/>
+    <part id="7251" type="rs"/>
+    <part id="7252" type="ch"/>
+  </lib>
+  <lib id="misc_U_nftwarhammer" revision="74908">
+    <part id="7351" type="mcl"/>
+    <part id="7351" type="mcr"/>
+  </lib>
+  <lib id="acc_print_U_crfilm" revision="74908">
+    <part id="7261" type="cp"/>
+    <part id="7262" type="cp"/>
+  </lib>
+  <lib id="acc_print_U_crdance" revision="74908">
+    <part id="7259" type="cp"/>
+    <part id="7260" type="cp"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
@@ -13056,7 +13182,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="74843">
+  <lib id="hh_human_item" revision="74903">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -13331,6 +13457,8 @@
     <part id="299" type="ri"/>
     <part id="300" type="ri"/>
     <part id="301" type="ri"/>
+    <part id="307" type="ri"/>
+    <part id="308" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
