@@ -12740,10 +12740,9 @@
     <part id="7272" type="rc"/>
     <part id="7273" type="cc"/>
   </lib>
-  <lib id="trousers_U_fishnetsskirt" revision="74903">
+  <lib id="trousers_U_fishnetsskirt" revision="74917">
     <part id="7274" type="lg"/>
     <part id="7275" type="lg"/>
-    <part id="7276" type="lg"/>
   </lib>
   <lib id="acc_print_U_crmic" revision="74911">
     <part id="7263" type="cp"/>
@@ -12769,7 +12768,7 @@
     <part id="7251" type="rs"/>
     <part id="7252" type="ch"/>
   </lib>
-  <lib id="misc_U_nftwarhammer" revision="74908">
+  <lib id="misc_U_nftwarhammer" revision="74915">
     <part id="7351" type="mcl"/>
     <part id="7351" type="mcr"/>
   </lib>
@@ -12780,6 +12779,13 @@
   <lib id="acc_print_U_crdance" revision="74908">
     <part id="7259" type="cp"/>
     <part id="7260" type="cp"/>
+  </lib>
+  <lib id="shoes_U_fishnetsshoes" revision="74917">
+    <part id="7358" type="sh"/>
+    <part id="7359" type="sh"/>
+  </lib>
+  <lib id="shoes_U_fishnets" revision="74917">
+    <part id="6454" type="sh"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
