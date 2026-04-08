@@ -12548,94 +12548,6 @@
     <part id="7212" type="rs"/>
     <part id="7213" type="ch"/>
   </lib>
-  <lib id="shirt_M_mhandshirt" revision="74885">
-    <part id="7282" type="ch"/>
-    <part id="7282" type="ls"/>
-    <part id="7282" type="rs"/>
-    <part id="7283" type="ch"/>
-  </lib>
-  <lib id="shirt_M_mteeduck" revision="74877">
-    <part id="7314" type="ch"/>
-    <part id="7314" type="ls"/>
-    <part id="7314" type="rs"/>
-    <part id="7315" type="ch"/>
-  </lib>
-  <lib id="shirt_F_mhandshirt" revision="74883">
-    <part id="7280" type="ch"/>
-    <part id="7280" type="ls"/>
-    <part id="7280" type="rs"/>
-    <part id="7281" type="ch"/>
-  </lib>
-  <lib id="shirt_F_mltdshirt" revision="74883">
-    <part id="7288" type="ch"/>
-    <part id="7288" type="ls"/>
-    <part id="7288" type="rs"/>
-    <part id="7289" type="ch"/>
-  </lib>
-  <lib id="jacket_F_mhoodieicons" revision="74877">
-    <part id="7306" type="cc"/>
-    <part id="7306" type="lc"/>
-    <part id="7306" type="rc"/>
-    <part id="7307" type="cc"/>
-  </lib>
-  <lib id="shirt_F_mteeduckgang" revision="74877">
-    <part id="7320" type="ch"/>
-    <part id="7320" type="ls"/>
-    <part id="7320" type="rs"/>
-    <part id="7321" type="ch"/>
-  </lib>
-  <lib id="hat_U_mduckhat" revision="74876">
-    <part id="7277" type="ha"/>
-    <part id="7278" type="ha"/>
-  </lib>
-  <lib id="jacket_M_msweatshirtrooms" revision="74888">
-    <part id="7310" type="cc"/>
-    <part id="7310" type="lc"/>
-    <part id="7310" type="rc"/>
-    <part id="7311" type="cc"/>
-  </lib>
-  <lib id="shirt_M_mrareshirt" revision="74885">
-    <part id="7286" type="ch"/>
-    <part id="7286" type="ls"/>
-    <part id="7286" type="rs"/>
-    <part id="7287" type="ch"/>
-  </lib>
-  <lib id="jacket_F_msweatshirtrooms" revision="74890">
-    <part id="7312" type="cc"/>
-    <part id="7312" type="lc"/>
-    <part id="7312" type="rc"/>
-    <part id="7313" type="cc"/>
-  </lib>
-  <lib id="jacket_M_mhoodieicons" revision="74877">
-    <part id="7308" type="cc"/>
-    <part id="7308" type="lc"/>
-    <part id="7308" type="rc"/>
-    <part id="7309" type="cc"/>
-  </lib>
-  <lib id="shirt_F_mrareshirt" revision="74883">
-    <part id="7284" type="ch"/>
-    <part id="7284" type="ls"/>
-    <part id="7284" type="rs"/>
-    <part id="7285" type="ch"/>
-  </lib>
-  <lib id="shirt_M_mltdshirt" revision="74875">
-    <part id="7290" type="ch"/>
-    <part id="7290" type="ls"/>
-    <part id="7290" type="rs"/>
-    <part id="7291" type="ch"/>
-  </lib>
-  <lib id="shirt_M_mteeduckgang" revision="74877">
-    <part id="7318" type="ch"/>
-    <part id="7318" type="ls"/>
-    <part id="7318" type="rs"/>
-    <part id="7319" type="ch"/>
-  </lib>
-  <lib id="shirt_F_mteeduck" revision="74877">
-    <part id="7316" type="ch"/>
-    <part id="7316" type="ls"/>
-    <part id="7316" type="rs"/>
-    <part id="7317" type="ch"/>
-  </lib>
   <lib id="face_U_nftelvenface2b" revision="74880">
     <part id="7338" type="ey"/>
   </lib>
@@ -12786,6 +12698,94 @@
   </lib>
   <lib id="shoes_U_fishnets" revision="74917">
     <part id="6454" type="sh"/>
+  </lib>
+  <lib id="jacket_F_nftmsweatshirtrooms" revision="74933">
+    <part id="7312" type="cc"/>
+    <part id="7312" type="lc"/>
+    <part id="7312" type="rc"/>
+    <part id="7313" type="cc"/>
+  </lib>
+  <lib id="shirt_F_nftmhandshirt" revision="74934">
+    <part id="7280" type="ch"/>
+    <part id="7280" type="ls"/>
+    <part id="7280" type="rs"/>
+    <part id="7281" type="ch"/>
+  </lib>
+  <lib id="shirt_M_nftmhandshirt" revision="74934">
+    <part id="7282" type="ch"/>
+    <part id="7282" type="ls"/>
+    <part id="7282" type="rs"/>
+    <part id="7283" type="ch"/>
+  </lib>
+  <lib id="hat_U_nftmduckhat" revision="74958">
+    <part id="7277" type="ha"/>
+    <part id="7278" type="ha"/>
+  </lib>
+  <lib id="jacket_M_nftmhoodieicons" revision="74960">
+    <part id="7308" type="cc"/>
+    <part id="7308" type="lc"/>
+    <part id="7308" type="rc"/>
+    <part id="7309" type="cc"/>
+  </lib>
+  <lib id="shirt_M_nftmteeduckgang" revision="74933">
+    <part id="7318" type="ch"/>
+    <part id="7318" type="ls"/>
+    <part id="7318" type="rs"/>
+    <part id="7319" type="ch"/>
+  </lib>
+  <lib id="shirt_F_nftmteeduck" revision="74933">
+    <part id="7316" type="ch"/>
+    <part id="7316" type="ls"/>
+    <part id="7316" type="rs"/>
+    <part id="7317" type="ch"/>
+  </lib>
+  <lib id="jacket_F_nftmhoodieicons" revision="74960">
+    <part id="7306" type="cc"/>
+    <part id="7306" type="lc"/>
+    <part id="7306" type="rc"/>
+    <part id="7307" type="cc"/>
+  </lib>
+  <lib id="shirt_F_nftmteeduckgang" revision="74933">
+    <part id="7320" type="ch"/>
+    <part id="7320" type="ls"/>
+    <part id="7320" type="rs"/>
+    <part id="7321" type="ch"/>
+  </lib>
+  <lib id="jacket_M_nftmsweatshirtrooms" revision="74933">
+    <part id="7310" type="cc"/>
+    <part id="7310" type="lc"/>
+    <part id="7310" type="rc"/>
+    <part id="7311" type="cc"/>
+  </lib>
+  <lib id="shirt_F_nftmrareshirt" revision="74934">
+    <part id="7284" type="ch"/>
+    <part id="7284" type="ls"/>
+    <part id="7284" type="rs"/>
+    <part id="7285" type="ch"/>
+  </lib>
+  <lib id="shirt_F_nftmltdshirt" revision="74934">
+    <part id="7288" type="ch"/>
+    <part id="7288" type="ls"/>
+    <part id="7288" type="rs"/>
+    <part id="7289" type="ch"/>
+  </lib>
+  <lib id="shirt_M_nftmrareshirt" revision="74934">
+    <part id="7286" type="ch"/>
+    <part id="7286" type="ls"/>
+    <part id="7286" type="rs"/>
+    <part id="7287" type="ch"/>
+  </lib>
+  <lib id="shirt_M_nftmteeduck" revision="74933">
+    <part id="7314" type="ch"/>
+    <part id="7314" type="ls"/>
+    <part id="7314" type="rs"/>
+    <part id="7315" type="ch"/>
+  </lib>
+  <lib id="shirt_M_nftmltdshirt" revision="74934">
+    <part id="7290" type="ch"/>
+    <part id="7290" type="ls"/>
+    <part id="7290" type="rs"/>
+    <part id="7291" type="ch"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
@@ -13188,7 +13188,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="74903">
+  <lib id="hh_human_item" revision="74961">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -13465,6 +13465,9 @@
     <part id="301" type="ri"/>
     <part id="307" type="ri"/>
     <part id="308" type="ri"/>
+    <part id="309" type="ri"/>
+    <part id="310" type="ri"/>
+    <part id="311" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
