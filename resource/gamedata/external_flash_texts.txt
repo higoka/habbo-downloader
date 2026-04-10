@@ -2286,6 +2286,7 @@ achievements.total_levels_achieved=Total levels achieved: %levels%
 achievements_desc=Achievements are tasks that you can do in Habbo Hotel. For each Achievement you receive a badge and some pixels.
 achievements_score_description=Achievements score: %score%
 achievements_tab_title=Achievements
+acorn.currency.name=Acorn
 acorns.currency.name=Acorn
 activities.achievement=%username% completed achievement: %achievement%
 activities.default=If you're idle, Frank recommends trying some achievements.
