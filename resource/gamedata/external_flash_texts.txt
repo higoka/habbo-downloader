@@ -27329,6 +27329,7 @@ handitem1110=Brick Phone
 handitem1115=Cocoa
 handitem1116=Pink Duck
 handitem1117=Knife
+handitem1118=console
 handitem1119=Diamond Ring
 handitem111=Crab
 handitem1120=Diamond Blade
