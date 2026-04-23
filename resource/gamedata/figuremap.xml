@@ -12787,6 +12787,102 @@
     <part id="7290" type="rs"/>
     <part id="7291" type="ch"/>
   </lib>
+  <lib id="hair_U_scruffystyle" revision="74976">
+    <part id="7245" type="hr"/>
+    <part id="7245" type="hrb"/>
+    <part id="7246" type="hr"/>
+  </lib>
+  <lib id="acc_head_U_triangularearrings" revision="74973">
+    <part id="7238" type="he"/>
+    <part id="7239" type="he"/>
+  </lib>
+  <lib id="acc_chest_U_vinewings" revision="75050">
+    <part id="7249" type="ca"/>
+    <part id="7250" type="ca"/>
+  </lib>
+  <lib id="acc_face_U_scruffystylebeard" revision="74973">
+    <part id="7247" type="fa"/>
+    <part id="7248" type="fa"/>
+  </lib>
+  <lib id="shirt_U_tigeronesie" revision="74985">
+    <part id="7230" type="ch"/>
+    <part id="7230" type="ls"/>
+    <part id="7230" type="rs"/>
+    <part id="7231" type="ch"/>
+    <part id="7232" type="ch"/>
+  </lib>
+  <lib id="pet_U_toucan" revision="74979">
+    <part id="7221" type="pt"/>
+    <part id="7221" type="ptl"/>
+    <part id="7221" type="ptr"/>
+    <part id="7222" type="pt"/>
+    <part id="7223" type="pt"/>
+  </lib>
+  <lib id="hat_U_tigeronesiehead" revision="74982">
+    <part id="7233" type="ha"/>
+    <part id="7234" type="ha"/>
+    <part id="7235" type="ha"/>
+  </lib>
+  <lib id="acc_head_U_spider" revision="74982">
+    <part id="7236" type="he"/>
+    <part id="7237" type="he"/>
+  </lib>
+  <lib id="misc_U_nftmusicalnotes" revision="75049">
+    <part id="7347" type="mc"/>
+    <part id="7347" type="mcl"/>
+    <part id="7347" type="mcr"/>
+  </lib>
+  <lib id="hair_U_nftrollerdisco1" revision="75047">
+    <part id="7381" type="hr"/>
+    <part id="7381" type="hrb"/>
+    <part id="7382" type="hr"/>
+    <part id="7383" type="hr"/>
+  </lib>
+  <lib id="hair_U_nftrollerdisco2" revision="75047">
+    <part id="7384" type="hr"/>
+    <part id="7384" type="hrb"/>
+    <part id="7385" type="hr"/>
+  </lib>
+  <lib id="hair_U_nftrollerdisco3" revision="75047">
+    <part id="7386" type="hr"/>
+    <part id="7386" type="hrb"/>
+    <part id="7387" type="hr"/>
+  </lib>
+  <lib id="acc_eye_U_nftrollerskatershades" revision="75049">
+    <part id="7396" type="ea"/>
+  </lib>
+  <lib id="misc_U_nftledbracelet2" revision="75054">
+    <part id="7344" type="mc"/>
+    <part id="7344" type="mcl"/>
+    <part id="7344" type="mcr"/>
+    <part id="7345" type="mc"/>
+  </lib>
+  <lib id="misc_U_nftkeytar" revision="75047">
+    <part id="7388" type="mc"/>
+    <part id="7388" type="mcl"/>
+    <part id="7388" type="mcr"/>
+    <part id="7389" type="mc"/>
+  </lib>
+  <lib id="acc_head_U_nftledhorns" revision="75054">
+    <part id="7343" type="he"/>
+  </lib>
+  <lib id="acc_head_U_nftledhorns2" revision="75049">
+    <part id="7341" type="he"/>
+    <part id="7342" type="he"/>
+  </lib>
+  <lib id="misc_U_nftledbracelet" revision="75049">
+    <part id="7343" type="mc"/>
+    <part id="7343" type="mcl"/>
+    <part id="7343" type="mcr"/>
+  </lib>
+  <lib id="misc_U_nftyoyo" revision="75049">
+    <part id="7348" type="mc"/>
+    <part id="7348" type="mcl"/>
+    <part id="7348" type="mcr"/>
+  </lib>
+  <lib id="acc_eye_U_nfttintedglasses" revision="75049">
+    <part id="7346" type="ea"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
@@ -13188,7 +13284,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="74961">
+  <lib id="hh_human_item" revision="74999">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -13463,6 +13559,11 @@
     <part id="299" type="ri"/>
     <part id="300" type="ri"/>
     <part id="301" type="ri"/>
+    <part id="302" type="ri"/>
+    <part id="303" type="ri"/>
+    <part id="304" type="ri"/>
+    <part id="305" type="ri"/>
+    <part id="306" type="ri"/>
     <part id="307" type="ri"/>
     <part id="308" type="ri"/>
     <part id="309" type="ri"/>

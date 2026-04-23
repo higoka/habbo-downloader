@@ -245,4 +245,8 @@
   <effect id="239" lib="MagicalPinkOrb" type="fx" revision="74744"/>
   <effect id="240" lib="ElvenGreenStaff" type="fx" revision="74797"/>
   <effect id="241" lib="ElvenYellowStaff" type="fx" revision="74797"/>
+  <effect id="242" lib="LeavesBlown" type="fx" revision="75001"/>
+  <effect id="243" lib="Lightning" type="fx" revision="74989"/>
+  <effect id="244" lib="Mystic" type="fx" revision="75006"/>
+  <effect id="245" lib="DuckGod" type="fx" revision="74993"/>
 </map>
