@@ -12883,6 +12883,30 @@
   <lib id="acc_eye_U_nfttintedglasses" revision="75049">
     <part id="7346" type="ea"/>
   </lib>
+  <lib id="acc_chest_U_refereewhistle" revision="75113">
+    <part id="7401" type="ca"/>
+    <part id="7402" type="ca"/>
+  </lib>
+  <lib id="shirt_M_fb26" revision="75141">
+    <part id="7403" type="ch"/>
+    <part id="7403" type="ls"/>
+    <part id="7403" type="rs"/>
+    <part id="7404" type="ch"/>
+  </lib>
+  <lib id="shoes_U_fb2026" revision="75144">
+    <part id="7418" type="sh"/>
+    <part id="7419" type="sh"/>
+  </lib>
+  <lib id="shirt_F_fb26" revision="75141">
+    <part id="7405" type="ch"/>
+    <part id="7405" type="ls"/>
+    <part id="7405" type="rs"/>
+    <part id="7406" type="ch"/>
+  </lib>
+  <lib id="trousers_U_fbb26" revision="75147">
+    <part id="7407" type="lg"/>
+    <part id="7408" type="lg"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
