@@ -12548,6 +12548,21 @@
     <part id="7212" type="rs"/>
     <part id="7213" type="ch"/>
   </lib>
+  <lib id="misc_U_nftrollerskate" revision="75163">
+    <part id="7415" type="mc"/>
+    <part id="7415" type="mcl"/>
+    <part id="7415" type="mcr"/>
+    <part id="7416" type="mc"/>
+    <part id="7417" type="mc"/>
+  </lib>
+  <lib id="acc_head_U_nftflowerearrings" revision="75173">
+    <part id="7429" type="he"/>
+    <part id="7430" type="he"/>
+  </lib>
+  <lib id="shirt_M_ducketcropshirt" revision="75166">
+    <part id="7461" type="ch"/>
+    <part id="7462" type="ch"/>
+  </lib>
   <lib id="face_U_nftelvenface2b" revision="74880">
     <part id="7338" type="ey"/>
   </lib>
@@ -12893,7 +12908,7 @@
     <part id="7403" type="rs"/>
     <part id="7404" type="ch"/>
   </lib>
-  <lib id="shoes_U_fb2026" revision="75144">
+  <lib id="shoes_U_fb2026" revision="75169">
     <part id="7418" type="sh"/>
     <part id="7419" type="sh"/>
   </lib>
@@ -12906,6 +12921,23 @@
   <lib id="trousers_U_fbb26" revision="75147">
     <part id="7407" type="lg"/>
     <part id="7408" type="lg"/>
+  </lib>
+  <lib id="pet_U_nftlittlemonkey" revision="75173">
+    <part id="7425" type="pt"/>
+    <part id="7425" type="ptl"/>
+    <part id="7425" type="ptr"/>
+  </lib>
+  <lib id="misc_U_nfttreasurechest" revision="75173">
+    <part id="7423" type="mc"/>
+    <part id="7423" type="mcl"/>
+    <part id="7423" type="mcr"/>
+    <part id="7424" type="mc"/>
+  </lib>
+  <lib id="shirt_F_ducketcropshirt" revision="75178">
+    <part id="7459" type="ch"/>
+    <part id="7459" type="ls"/>
+    <part id="7459" type="rs"/>
+    <part id="7460" type="ch"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
