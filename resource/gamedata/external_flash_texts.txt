@@ -38347,6 +38347,7 @@ petpackage.header.title=Pet Package
 petprofile.level=Level: %level%/%maxlevel%
 petprofile.scratches_used=You have used all your scratches for today.
 petprofile.skill_level=Skill level
+ping.timeout.notification=Tiny connection hiccup. Recovering...
 play_preview=Play Preview
 play_preview_button=Play
 playlist.editor.add.songs.to.your.playlist=Add songs to your playlist
