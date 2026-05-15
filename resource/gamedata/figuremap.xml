@@ -12566,6 +12566,23 @@
   <lib id="acc_face_U_nftbronzejunglemask" revision="75189">
     <part id="7420" type="fa"/>
   </lib>
+  <lib id="face_F_roxieface" revision="75190">
+    <part id="7467" type="hd"/>
+    <part id="7468" type="fc"/>
+    <part id="7469" type="ey"/>
+  </lib>
+  <lib id="misc_F_roxiephone" revision="75190">
+    <part id="7471" type="mc"/>
+    <part id="7471" type="mcl"/>
+    <part id="7471" type="mcr"/>
+  </lib>
+  <lib id="trousers_F_roxieskirt" revision="75194">
+    <part id="7473" type="lg"/>
+  </lib>
+  <lib id="hair_F_roxiehair" revision="75190">
+    <part id="7470" type="hr"/>
+    <part id="7470" type="hrb"/>
+  </lib>
   <lib id="face_U_nftelvenface2b" revision="74880">
     <part id="7338" type="ey"/>
   </lib>
@@ -12947,6 +12964,14 @@
   </lib>
   <lib id="acc_face_U_nftsilverjunglemask" revision="75189">
     <part id="7421" type="fa"/>
+  </lib>
+  <lib id="shirt_F_roxieshirt" revision="75194">
+    <part id="7472" type="ch"/>
+    <part id="7472" type="ls"/>
+    <part id="7472" type="rs"/>
+  </lib>
+  <lib id="acc_head_F_roxiepuds" revision="75190">
+    <part id="7466" type="he"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
