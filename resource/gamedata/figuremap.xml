@@ -12699,9 +12699,9 @@
     <part id="7255" type="cp"/>
     <part id="7256" type="cp"/>
   </lib>
-  <lib id="acc_print_U_crchatter" revision="74908">
-    <part id="5758" type="cp"/>
+  <lib id="acc_print_U_crchatter" revision="75200">
     <part id="7257" type="cp"/>
+    <part id="7258" type="cp"/>
   </lib>
   <lib id="shirt_F_creatorhoodie" revision="74911">
     <part id="7253" type="ch"/>
