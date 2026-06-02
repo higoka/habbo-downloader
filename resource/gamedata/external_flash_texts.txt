@@ -23454,6 +23454,7 @@ collectibles.item.type=Type
 collectibles.item.xp=XP
 collectibles.level=Level
 collectibles.no_claims=Nothing to claim at the moment. Please come back later! We give out monthly rewards based on your collector level so there should be something for you soon!
+collectibles.preview.bonus_claim_ended=Bonus item claim period ended - %date%
 collectibles.preview.buy=Buy this item and receive <b>%amount%</b> XP
 collectibles.preview.collect_reward=Reward for completing the set for the first time!
 collectibles.preview.completion_bonus=Completion bonus:
