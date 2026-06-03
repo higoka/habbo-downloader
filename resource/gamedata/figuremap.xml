@@ -12583,6 +12583,32 @@
     <part id="7470" type="hr"/>
     <part id="7470" type="hrb"/>
   </lib>
+  <lib id="shirt_F_nftrainbowbikini" revision="75242">
+    <part id="7498" type="ch"/>
+    <part id="7498" type="ls"/>
+    <part id="7498" type="rs"/>
+  </lib>
+  <lib id="pet_U_adorablepetshark" revision="75246">
+    <part id="7474" type="pt"/>
+    <part id="7474" type="ptl"/>
+    <part id="7474" type="ptr"/>
+    <part id="7475" type="pt"/>
+    <part id="7476" type="pt"/>
+  </lib>
+  <lib id="hair_U_letitgrow" revision="75236">
+    <part id="7465" type="hr"/>
+    <part id="7465" type="hrb"/>
+  </lib>
+  <lib id="trousers_U_nftrainbowswimshorts" revision="75242">
+    <part id="7497" type="lg"/>
+  </lib>
+  <lib id="pet_U_scallywagseagull" revision="75236">
+    <part id="7426" type="pt"/>
+    <part id="7426" type="ptl"/>
+    <part id="7426" type="ptr"/>
+    <part id="7427" type="pt"/>
+    <part id="7428" type="pt"/>
+  </lib>
   <lib id="face_U_nftelvenface2b" revision="74880">
     <part id="7338" type="ey"/>
   </lib>
@@ -12867,7 +12893,7 @@
     <part id="7347" type="mcl"/>
     <part id="7347" type="mcr"/>
   </lib>
-  <lib id="hair_U_nftrollerdisco1" revision="75047">
+  <lib id="hair_U_nftrollerdisco1" revision="75272">
     <part id="7381" type="hr"/>
     <part id="7381" type="hrb"/>
     <part id="7382" type="hr"/>
@@ -12972,6 +12998,108 @@
   </lib>
   <lib id="acc_head_F_roxiepuds" revision="75190">
     <part id="7466" type="he"/>
+  </lib>
+  <lib id="shirt_M_nftrainbowbikini" revision="75242">
+    <part id="7499" type="ch"/>
+    <part id="7499" type="ls"/>
+    <part id="7499" type="rs"/>
+  </lib>
+  <lib id="shirt_F_vintageswimsuit" revision="75240">
+    <part id="7479" type="ch"/>
+    <part id="7480" type="ch"/>
+    <part id="7481" type="ch"/>
+  </lib>
+  <lib id="acc_face_U_sunburntcheeks" revision="75236">
+    <part id="7464" type="fa"/>
+  </lib>
+  <lib id="shirt_M_cozysailorshirt" revision="75239">
+    <part id="7438" type="ch"/>
+    <part id="7438" type="ls"/>
+    <part id="7438" type="rs"/>
+    <part id="7439" type="ch"/>
+    <part id="7440" type="ch"/>
+  </lib>
+  <lib id="shirt_F_cozysailorshirt" revision="75239">
+    <part id="7441" type="ch"/>
+    <part id="7441" type="ls"/>
+    <part id="7441" type="rs"/>
+    <part id="7442" type="ch"/>
+    <part id="7443" type="ch"/>
+  </lib>
+  <lib id="acc_head_U_summerbraid" revision="75236">
+    <part id="7463" type="he"/>
+  </lib>
+  <lib id="trousers_U_cozysailortrousers" revision="75239">
+    <part id="7436" type="lg"/>
+    <part id="7437" type="lg"/>
+  </lib>
+  <lib id="hat_U_beachvisor" revision="75242">
+    <part id="7504" type="ha"/>
+    <part id="7505" type="ha"/>
+  </lib>
+  <lib id="hair_U_jellyfishcut" revision="75267">
+    <part id="7457" type="hr"/>
+    <part id="7457" type="hrb"/>
+    <part id="7458" type="hr"/>
+  </lib>
+  <lib id="acc_chest_U_mantabag" revision="75239">
+    <part id="7433" type="ca"/>
+    <part id="7434" type="ca"/>
+    <part id="7435" type="ca"/>
+  </lib>
+  <lib id="trousers_U_nftrainbowbikini" revision="75242">
+    <part id="7500" type="lg"/>
+  </lib>
+  <lib id="hair_U_nftbeachboy" revision="75242">
+    <part id="7447" type="hr"/>
+    <part id="7447" type="hrb"/>
+    <part id="7448" type="hr"/>
+  </lib>
+  <lib id="hair_U_nftpalmbraid" revision="75242">
+    <part id="7444" type="hr"/>
+    <part id="7444" type="hrb"/>
+    <part id="7445" type="hr"/>
+    <part id="7446" type="hr"/>
+  </lib>
+  <lib id="shirt_M_vintageswimsuit" revision="75241">
+    <part id="7482" type="ch"/>
+    <part id="7483" type="ch"/>
+    <part id="7484" type="ch"/>
+  </lib>
+  <lib id="acc_eye_U_nftrainbowpartyshades" revision="75255">
+    <part id="7496" type="ea"/>
+  </lib>
+  <lib id="misc_U_nftpinwheel" revision="75255">
+    <part id="7501" type="mc"/>
+    <part id="7501" type="mcl"/>
+    <part id="7501" type="mcr"/>
+    <part id="7502" type="mc"/>
+    <part id="7503" type="mc"/>
+  </lib>
+  <lib id="acc_eye_U_nftpartyshades" revision="75255">
+    <part id="7495" type="ea"/>
+  </lib>
+  <lib id="hat_U_happyoctoplush" revision="75260">
+    <part id="7412" type="ha"/>
+    <part id="7413" type="ha"/>
+    <part id="7414" type="ha"/>
+  </lib>
+  <lib id="shirt_F_tentacledress" revision="75265">
+    <part id="7485" type="ch"/>
+    <part id="7485" type="ls"/>
+    <part id="7485" type="rs"/>
+    <part id="7486" type="ch"/>
+  </lib>
+  <lib id="shirt_M_tentacledress" revision="75265">
+    <part id="7487" type="ch"/>
+    <part id="7487" type="ls"/>
+    <part id="7487" type="rs"/>
+    <part id="7488" type="ch"/>
+  </lib>
+  <lib id="hat_U_angryoctoplush" revision="75260">
+    <part id="7409" type="ha"/>
+    <part id="7410" type="ha"/>
+    <part id="7411" type="ha"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
