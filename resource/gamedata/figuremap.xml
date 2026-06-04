@@ -13037,7 +13037,7 @@
     <part id="7504" type="ha"/>
     <part id="7505" type="ha"/>
   </lib>
-  <lib id="hair_U_jellyfishcut" revision="75267">
+  <lib id="hair_U_jellyfishcut" revision="75273">
     <part id="7457" type="hr"/>
     <part id="7457" type="hrb"/>
     <part id="7458" type="hr"/>
@@ -13100,6 +13100,17 @@
     <part id="7409" type="ha"/>
     <part id="7410" type="ha"/>
     <part id="7411" type="ha"/>
+  </lib>
+  <lib id="hat_U_cozysailorhat" revision="75275">
+    <part id="7431" type="ha"/>
+    <part id="7432" type="ha"/>
+  </lib>
+  <lib id="jacket_U_lifesaver" revision="75276">
+    <part id="7477" type="cc"/>
+    <part id="7477" type="lc"/>
+    <part id="7477" type="rc"/>
+    <part id="7478" type="cc"/>
+    <part id="7489" type="cc"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
