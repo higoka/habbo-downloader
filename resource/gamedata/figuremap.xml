@@ -9685,10 +9685,6 @@
   <lib id="hat_U_gold25" revision="72567">
     <part id="6242" type="ha"/>
   </lib>
-  <lib id="acc_head_U_dreamsparkles" revision="72379">
-    <part id="6161" type="he"/>
-    <part id="6162" type="he"/>
-  </lib>
   <lib id="shoes_U_cloudslippers" revision="72345">
     <part id="6152" type="sh"/>
   </lib>
@@ -13111,6 +13107,12 @@
     <part id="7477" type="rc"/>
     <part id="7478" type="cc"/>
     <part id="7489" type="cc"/>
+  </lib>
+  <lib id="misc_U_dreamsparkles" revision="75285">
+    <part id="6161" type="mc"/>
+    <part id="6161" type="mcl"/>
+    <part id="6161" type="mcr"/>
+    <part id="6162" type="mc"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
