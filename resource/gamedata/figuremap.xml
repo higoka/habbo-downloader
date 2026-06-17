@@ -13205,6 +13205,28 @@
     <part id="7400" type="ha"/>
     <part id="7513" type="ha"/>
   </lib>
+  <lib id="hat_U_nftnewsboycap" revision="75341">
+    <part id="7394" type="ha"/>
+    <part id="7395" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_mafiarose" revision="75350">
+    <part id="7455" type="ca"/>
+    <part id="7456" type="ca"/>
+  </lib>
+  <lib id="shirt_F_mafiatattoo" revision="75356">
+    <part id="7452" type="ch"/>
+    <part id="7452" type="ls"/>
+    <part id="7452" type="rs"/>
+    <part id="7453" type="ch"/>
+    <part id="7454" type="ch"/>
+  </lib>
+  <lib id="shirt_M_mafiatattoo" revision="75349">
+    <part id="7449" type="ch"/>
+    <part id="7449" type="ls"/>
+    <part id="7449" type="rs"/>
+    <part id="7450" type="ch"/>
+    <part id="7451" type="ch"/>
+  </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
     <part id="2" type="he"/>
@@ -13606,7 +13628,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="75296">
+  <lib id="hh_human_item" revision="75369">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -13892,6 +13914,7 @@
     <part id="310" type="ri"/>
     <part id="311" type="ri"/>
     <part id="312" type="ri"/>
+    <part id=" 313" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
