@@ -12598,7 +12598,7 @@
   <lib id="trousers_U_nftrainbowswimshorts" revision="75242">
     <part id="7497" type="lg"/>
   </lib>
-  <lib id="pet_U_scallywagseagull" revision="75236">
+  <lib id="pet_U_scallywagseagull" revision="75401">
     <part id="7426" type="pt"/>
     <part id="7426" type="ptl"/>
     <part id="7426" type="ptr"/>
@@ -13226,6 +13226,11 @@
     <part id="7449" type="rs"/>
     <part id="7450" type="ch"/>
     <part id="7451" type="ch"/>
+  </lib>
+  <lib id="pet_U_toastfriend" revision="75385">
+    <part id="7525" type="pt"/>
+    <part id="7525" type="ptl"/>
+    <part id="7525" type="ptr"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>

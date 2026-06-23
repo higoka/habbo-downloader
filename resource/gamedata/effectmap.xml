@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <map>
-  <effect id="dance.1" lib="Dance1" type="dance" revision="59200"/>
-  <effect id="dance.2" lib="Dance2" type="dance" revision="59200"/>
-  <effect id="dance.3" lib="Dance3" type="dance" revision="59200"/>
-  <effect id="dance.4" lib="Dance4" type="dance" revision="59200"/>
+  <effect id="dance.1" lib="Dance1" type="dance" revision="75398"/>
+  <effect id="dance.2" lib="Dance2" type="dance" revision="75398"/>
+  <effect id="dance.3" lib="Dance3" type="dance" revision="75398"/>
+  <effect id="dance.4" lib="Dance4" type="dance" revision="75398"/>
   <effect id="1" lib="Spotlight" type="fx" revision="59200"/>
   <effect id="2" lib="Hoverboard" type="fx" revision="59200"/>
   <effect id="3" lib="UFOblue" type="fx" revision="59200"/>
