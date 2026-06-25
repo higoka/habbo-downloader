@@ -2697,5 +2697,5 @@ new.user.flow.roomTypes=10,11,12
 external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/f79d88be2c28490f72d67fc6504bfd860ab0d97a
 external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/07da10ea7a67b5d86fc1b98853a3540631ad60c2
 productdata.load.url=https://www.habbo.com/gamedata/productdata/7b56afb615a301d7789c8a0640d6140c76723682
-furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/80bcdc917dad74bd8870d79d76028bf3a2fc2988
+furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/19a3cb19eca72a7fec5370f43af20274e5e37e29
 external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/f79d88be2c28490f72d67fc6504bfd860ab0d97a
