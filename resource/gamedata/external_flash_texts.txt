@@ -3564,7 +3564,6 @@ badge_desc_ACH_Tokyo7=For making %limit% clothing items using the Toolbot crafti
 badge_desc_ACH_Tokyo8=For making %limit% clothing items using the Toolbot crafting table.
 badge_desc_ACH_Tokyo9=For making %limit% clothing items using the Toolbot crafting table.
 badge_desc_ACH_TradeCount=For completing %limit% trades. Time to get Habbo rich!
-badge_desc_ACH_TraderPass1=Without a trading pass you can't trade: you have to have an account that is 1 day old and you have to verify your email.
 badge_desc_ACH_TraderPass1_HHCA=Achieved by verifying your email, having your Habbo for at least 1 day and being online at least 1 h. Worth 20 pixels.
 badge_desc_ACH_TraderPass=Without a trading pass you can't trade: you have to complete a part of the Introduction Reward Track to claim it.
 badge_desc_ACH_TradingPass1=For completing tutorial.
