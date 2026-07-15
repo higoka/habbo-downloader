@@ -21747,6 +21747,7 @@ badge_name_W26W4=World Cup 2026 - Winners: Match 07.07: Argentina
 badge_name_W26W5=World Cup 2026 - Winners: Match 09.07: France
 badge_name_W26W6=World Cup 2026 - Winners: Match 10.07: Spain
 badge_name_W26W7=World Cup 2026 - Winners: Match 11.07: England
+badge_name_W26W8=World Cup 2026 - Winners: Match 14.07: Spain
 badge_name_WAA00=Waasa Fan!
 badge_name_WAC01=Rainbow Road Winner
 badge_name_WAC03=Memory
