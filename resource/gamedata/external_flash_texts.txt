@@ -49545,6 +49545,8 @@ targeted.offer.aug25_rm_dbl_tto269.desc=Get 220 credits and diamonds for the pri
 targeted.offer.aug25_rm_dbl_tto269.title=50 per cent Off 220 Credits
 targeted.offer.aug25_rm_dbl_tto270.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
 targeted.offer.aug25_rm_dbl_tto270.title=50 per cent Off 220 Credits
+targeted.offer.aug26_rm_dbl_tto291.desc=Get 220 credits and diamonds for the price of 110 credits! Offer available for 48 hours, limited to 3 per person
+targeted.offer.aug26_rm_dbl_tto291.title=50 per cent Off 220 Credits
 targeted.offer.bbroboraretr_tto.desc=Bright lights and big robots, thats what Banzai is about. This Robo Rare is the biggest, baddest and brightest in the whole wide Habboverse, and sure to set your Banzai  arena above the rest. <br><br>Offer is limited to 3 per person and includes: <br>- Banzai Robo Rare (worth 25c) <br>- Banzai Robo Badge (for free)
 targeted.offer.bbroboraretr_tto.title=Banzai Robo Rare
 targeted.offer.bf16_tko_gr1.desc=Save 20% on 1x (EXCLUSIVE) Oversized Scarf, 70 bronze coins, <a href="event:habbopages/habboclub">1 month HC</a>, badge, 1x Snowy Roof, 1x Building, 1x Building Bottom, Snack and Milk & Cookies!
