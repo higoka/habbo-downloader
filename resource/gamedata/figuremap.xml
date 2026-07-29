@@ -10508,10 +10508,10 @@
     <part id="6442" type="ch"/>
     <part id="6443" type="ch"/>
   </lib>
-  <lib id="shirt_F_tubetop" revision="72964">
-    <part id="6356" type="ch"/>
-    <part id="6356" type="ls"/>
-    <part id="6356" type="rs"/>
+  <lib id="shirt_F_tubetop" revision="75473">
+    <part id="7509" type="ch"/>
+    <part id="7509" type="ls"/>
+    <part id="7509" type="rs"/>
   </lib>
   <lib id="shirt_M_knittedbikini" revision="72960">
     <part id="6338" type="ch"/>
@@ -10630,10 +10630,10 @@
     <part id="6340" type="lg"/>
     <part id="6341" type="lg"/>
   </lib>
-  <lib id="shirt_M_tubetop" revision="72964">
-    <part id="6357" type="ch"/>
-    <part id="6357" type="ls"/>
-    <part id="6357" type="rs"/>
+  <lib id="shirt_M_tubetop" revision="75473">
+    <part id="7510" type="ch"/>
+    <part id="7510" type="ls"/>
+    <part id="7510" type="rs"/>
   </lib>
   <lib id="shirt_M_floralkshortsleevedshirt" revision="72980">
     <part id="6428" type="ch"/>
@@ -13261,6 +13261,46 @@
     <part id="7519" type="ha"/>
     <part id="7520" type="ha"/>
     <part id="7521" type="ha"/>
+  </lib>
+  <lib id="jacket_U_tasselvest" revision="75476">
+    <part id="7511" type="cc"/>
+    <part id="7511" type="lc"/>
+    <part id="7511" type="rc"/>
+    <part id="7512" type="cc"/>
+  </lib>
+  <lib id="hat_U_nftstrawhat" revision="75487">
+    <part id="7532" type="ha"/>
+    <part id="7533" type="ha"/>
+  </lib>
+  <lib id="shirt_M_nftwesternshirt" revision="75489">
+    <part id="7528" type="ch"/>
+    <part id="7528" type="ls"/>
+    <part id="7528" type="rs"/>
+    <part id="7529" type="ch"/>
+  </lib>
+  <lib id="acc_face_U_nftstrawmouth" revision="75487">
+    <part id="7534" type="fa"/>
+  </lib>
+  <lib id="shirt_F_nftwesternshirt" revision="75487">
+    <part id="7530" type="ch"/>
+    <part id="7530" type="ls"/>
+    <part id="7530" type="rs"/>
+    <part id="7531" type="ch"/>
+  </lib>
+  <lib id="hat_U_nftwesternhat" revision="75487">
+    <part id="7526" type="ha"/>
+    <part id="7527" type="ha"/>
+  </lib>
+  <lib id="acc_chest_U_pumpkinbag2" revision="75487">
+    <part id="7535" type="ca"/>
+    <part id="7536" type="ca"/>
+    <part id="7537" type="ca"/>
+  </lib>
+  <lib id="misc_U_glowingfireflies" revision="75490">
+    <part id="7542" type="mc"/>
+    <part id="7542" type="mcl"/>
+    <part id="7542" type="mcr"/>
+    <part id="7543" type="mc"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
