@@ -10508,10 +10508,10 @@
     <part id="6442" type="ch"/>
     <part id="6443" type="ch"/>
   </lib>
-  <lib id="shirt_F_tubetop" revision="75473">
-    <part id="7509" type="ch"/>
-    <part id="7509" type="ls"/>
-    <part id="7509" type="rs"/>
+  <lib id="shirt_F_tubetop" revision="75511">
+    <part id="6356" type="ch"/>
+    <part id="6356" type="ls"/>
+    <part id="6356" type="rs"/>
   </lib>
   <lib id="shirt_M_knittedbikini" revision="72960">
     <part id="6338" type="ch"/>
@@ -10630,10 +10630,10 @@
     <part id="6340" type="lg"/>
     <part id="6341" type="lg"/>
   </lib>
-  <lib id="shirt_M_tubetop" revision="75473">
-    <part id="7510" type="ch"/>
-    <part id="7510" type="ls"/>
-    <part id="7510" type="rs"/>
+  <lib id="shirt_M_tubetop" revision="75511">
+    <part id="6357" type="ch"/>
+    <part id="6357" type="ls"/>
+    <part id="6357" type="rs"/>
   </lib>
   <lib id="shirt_M_floralkshortsleevedshirt" revision="72980">
     <part id="6428" type="ch"/>
@@ -13262,7 +13262,7 @@
     <part id="7520" type="ha"/>
     <part id="7521" type="ha"/>
   </lib>
-  <lib id="jacket_U_tasselvest" revision="75476">
+  <lib id="jacket_U_tasselvest" revision="75526">
     <part id="7511" type="cc"/>
     <part id="7511" type="lc"/>
     <part id="7511" type="rc"/>
@@ -13278,7 +13278,7 @@
     <part id="7528" type="rs"/>
     <part id="7529" type="ch"/>
   </lib>
-  <lib id="acc_face_U_nftstrawmouth" revision="75487">
+  <lib id="acc_face_U_nftstrawmouth" revision="75550">
     <part id="7534" type="fa"/>
   </lib>
   <lib id="shirt_F_nftwesternshirt" revision="75487">
@@ -13287,7 +13287,7 @@
     <part id="7530" type="rs"/>
     <part id="7531" type="ch"/>
   </lib>
-  <lib id="hat_U_nftwesternhat" revision="75487">
+  <lib id="hat_U_nftwesternhat" revision="75551">
     <part id="7526" type="ha"/>
     <part id="7527" type="ha"/>
   </lib>
@@ -13301,6 +13301,37 @@
     <part id="7542" type="mcl"/>
     <part id="7542" type="mcr"/>
     <part id="7543" type="mc"/>
+  </lib>
+  <lib id="shirt_F_tubetop2" revision="75511">
+    <part id="7509" type="ch"/>
+    <part id="7509" type="ls"/>
+    <part id="7509" type="rs"/>
+  </lib>
+  <lib id="shirt_M_tubetop2" revision="75511">
+    <part id="7510" type="ch"/>
+    <part id="7510" type="ls"/>
+    <part id="7510" type="rs"/>
+  </lib>
+  <lib id="face_U_scarecrow1" revision="75518">
+    <part id="7493" type="hd"/>
+    <part id="7493" type="bd"/>
+    <part id="7493" type="ey"/>
+    <part id="7493" type="lh"/>
+    <part id="7493" type="rh"/>
+  </lib>
+  <lib id="face_U_scarecrow2" revision="75518">
+    <part id="7494" type="hd"/>
+    <part id="7494" type="bd"/>
+    <part id="7494" type="ey"/>
+    <part id="7494" type="lh"/>
+    <part id="7494" type="rh"/>
+  </lib>
+  <lib id="misc_U_lambplush" revision="75518">
+    <part id="7539" type="mc"/>
+    <part id="7539" type="mcl"/>
+    <part id="7539" type="mcr"/>
+    <part id="7540" type="mc"/>
+    <part id="7541" type="mc"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
@@ -13703,7 +13734,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="75369">
+  <lib id="hh_human_item" revision="75501">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -13989,7 +14020,7 @@
     <part id="310" type="ri"/>
     <part id="311" type="ri"/>
     <part id="312" type="ri"/>
-    <part id=" 313" type="ri"/>
+    <part id="313" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
