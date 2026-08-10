@@ -23690,6 +23690,7 @@ collectibles.set.collectors_guild=Collectors Guild
 collectibles.set.community_rewards_22=Community Rewards 2022
 collectibles.set.community_rewards_23=Community Rewards 2023
 collectibles.set.community_rewards_25=Community Rewards 2025
+collectibles.set.community_rewards_26=Community Rewards 2026 
 collectibles.set.cpu_parts=CPU Parts
 collectibles.set.disco_baller=Disco Baller
 collectibles.set.dragon_familiars=Dragon Familiars
