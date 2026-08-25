@@ -13205,7 +13205,7 @@
     <part id="7400" type="ha"/>
     <part id="7513" type="ha"/>
   </lib>
-  <lib id="hat_U_nftnewsboycap" revision="75341">
+  <lib id="hat_U_nftnewsboycap" revision="75641">
     <part id="7394" type="ha"/>
     <part id="7395" type="ha"/>
   </lib>
@@ -13332,6 +13332,138 @@
     <part id="7539" type="mcr"/>
     <part id="7540" type="mc"/>
     <part id="7541" type="mc"/>
+  </lib>
+  <lib id="shoes_U_loosesocks" revision="75603">
+    <part id="7556" type="sh"/>
+    <part id="7557" type="sh"/>
+    <part id="7558" type="sh"/>
+  </lib>
+  <lib id="misc_U_ruffledcuffs" revision="75603">
+    <part id="7552" type="mc"/>
+    <part id="7552" type="mcl"/>
+    <part id="7552" type="mcr"/>
+    <part id="7553" type="mc"/>
+  </lib>
+  <lib id="face_U_academiagothicmakeup" revision="75603">
+    <part id="7562" type="fc"/>
+    <part id="7563" type="fc"/>
+    <part id="7564" type="ey"/>
+  </lib>
+  <lib id="pet_U_persiancat" revision="75607">
+    <part id="7571" type="pt"/>
+    <part id="7571" type="ptl"/>
+    <part id="7571" type="ptr"/>
+    <part id="7572" type="pt"/>
+    <part id="7573" type="pt"/>
+  </lib>
+  <lib id="pet_U_batfriend" revision="75611">
+    <part id="7587" type="pt"/>
+    <part id="7587" type="ptl"/>
+    <part id="7587" type="ptr"/>
+    <part id="7588" type="pt"/>
+    <part id="7589" type="pt"/>
+  </lib>
+  <lib id="hat_U_batonesie" revision="75603">
+    <part id="7584" type="ha"/>
+    <part id="7585" type="ha"/>
+    <part id="7586" type="ha"/>
+  </lib>
+  <lib id="jacket_M_studentcardigan" revision="75607">
+    <part id="7594" type="cc"/>
+    <part id="7594" type="lc"/>
+    <part id="7594" type="rc"/>
+    <part id="7595" type="cc"/>
+  </lib>
+  <lib id="jacket_F_studentcardigan" revision="75607">
+    <part id="7596" type="cc"/>
+    <part id="7596" type="lc"/>
+    <part id="7596" type="rc"/>
+    <part id="7597" type="cc"/>
+  </lib>
+  <lib id="shirt_U_batonesie" revision="75610">
+    <part id="7584" type="ch"/>
+    <part id="7584" type="ls"/>
+    <part id="7584" type="rs"/>
+    <part id="7585" type="ch"/>
+    <part id="7586" type="ch"/>
+  </lib>
+  <lib id="hair_U_academiadollhairdo" revision="75603">
+    <part id="7550" type="hr"/>
+    <part id="7550" type="hrb"/>
+    <part id="7551" type="hr"/>
+  </lib>
+  <lib id="pet_U_raven" revision="75603">
+    <part id="7559" type="pt"/>
+    <part id="7559" type="ptl"/>
+    <part id="7559" type="ptr"/>
+    <part id="7560" type="pt"/>
+    <part id="7561" type="pt"/>
+  </lib>
+  <lib id="face_U_academiagothicmakeup2" revision="75603">
+    <part id="7565" type="fc"/>
+    <part id="7566" type="fc"/>
+    <part id="7567" type="ey"/>
+  </lib>
+  <lib id="hair_U_wizardcurls" revision="75603">
+    <part id="7590" type="hr"/>
+    <part id="7590" type="hrb"/>
+    <part id="7591" type="hr"/>
+  </lib>
+  <lib id="acc_head_U_ducketleafcrown" revision="75603">
+    <part id="7518" type="he"/>
+  </lib>
+  <lib id="jacket_F_wizardgarb" revision="75640">
+    <part id="7607" type="cc"/>
+    <part id="7608" type="cc"/>
+    <part id="7609" type="cc"/>
+  </lib>
+  <lib id="pet_U_hauntedpuppet" revision="75609">
+    <part id="7568" type="pt"/>
+    <part id="7568" type="ptl"/>
+    <part id="7568" type="ptr"/>
+    <part id="7569" type="pt"/>
+    <part id="7570" type="pt"/>
+  </lib>
+  <lib id="pet_U_tinyowl" revision="75614">
+    <part id="7592" type="pt"/>
+    <part id="7592" type="ptl"/>
+    <part id="7592" type="ptr"/>
+    <part id="7593" type="pt"/>
+  </lib>
+  <lib id="misc_U_wand" revision="75639">
+    <part id="7610" type="mc"/>
+    <part id="7610" type="mcl"/>
+    <part id="7610" type="mcr"/>
+    <part id="7611" type="mc"/>
+  </lib>
+  <lib id="jacket_M_wizardgarb" revision="75639">
+    <part id="7604" type="cc"/>
+    <part id="7604" type="lc"/>
+    <part id="7604" type="rc"/>
+    <part id="7605" type="cc"/>
+    <part id="7606" type="cc"/>
+  </lib>
+  <lib id="misc_U_darkaura" revision="75660">
+    <part id="7579" type="mc"/>
+    <part id="7579" type="mcl"/>
+    <part id="7579" type="mcr"/>
+    <part id="7580" type="mc"/>
+  </lib>
+  <lib id="pet_U_possessedpumpkin" revision="75653">
+    <part id="7618" type="pt"/>
+    <part id="7618" type="ptr"/>
+    <part id="7618" type="ptl"/>
+    <part id="7619" type="pt"/>
+    <part id="7620" type="pt"/>
+  </lib>
+  <lib id="acc_chest_U_vintagebag" revision="75664">
+    <part id="7574" type="ca"/>
+    <part id="7575" type="ca"/>
+  </lib>
+  <lib id="acc_head_U_skeletalheadband" revision="75664">
+    <part id="7624" type="he"/>
+    <part id="7625" type="he"/>
+    <part id="7626" type="he"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
@@ -13734,7 +13866,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="75501">
+  <lib id="hh_human_item" revision="75603">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -14021,6 +14153,8 @@
     <part id="311" type="ri"/>
     <part id="312" type="ri"/>
     <part id="313" type="ri"/>
+    <part id="314" type="ri"/>
+    <part id="315" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
