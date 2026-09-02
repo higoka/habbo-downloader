@@ -9779,7 +9779,7 @@
     <part id="6083" type="cc"/>
     <part id="6084" type="cc"/>
   </lib>
-  <lib id="hair_U_clippedupdo" revision="72387">
+  <lib id="hair_U_clippedupdo" revision="75698">
     <part id="6108" type="hr"/>
     <part id="6108" type="hrb"/>
     <part id="6109" type="hr"/>
@@ -13287,7 +13287,7 @@
     <part id="7530" type="rs"/>
     <part id="7531" type="ch"/>
   </lib>
-  <lib id="hat_U_nftwesternhat" revision="75551">
+  <lib id="hat_U_nftwesternhat" revision="75709">
     <part id="7526" type="ha"/>
     <part id="7527" type="ha"/>
   </lib>
@@ -13443,7 +13443,7 @@
     <part id="7605" type="cc"/>
     <part id="7606" type="cc"/>
   </lib>
-  <lib id="misc_U_darkaura" revision="75660">
+  <lib id="misc_U_darkaura" revision="75707">
     <part id="7579" type="mc"/>
     <part id="7579" type="mcl"/>
     <part id="7579" type="mcr"/>
@@ -13464,6 +13464,25 @@
     <part id="7624" type="he"/>
     <part id="7625" type="he"/>
     <part id="7626" type="he"/>
+  </lib>
+  <lib id="jacket_F_nftwitchcape" revision="75689">
+    <part id="7630" type="cc"/>
+    <part id="7630" type="lc"/>
+    <part id="7630" type="rc"/>
+    <part id="7631" type="cc"/>
+    <part id="7632" type="cc"/>
+  </lib>
+  <lib id="jacket_M_nftwitchcape" revision="75689">
+    <part id="7627" type="cc"/>
+    <part id="7627" type="lc"/>
+    <part id="7627" type="rc"/>
+    <part id="7628" type="cc"/>
+    <part id="7629" type="cc"/>
+  </lib>
+  <lib id="trousers_U_checkerskirt" revision="75684">
+    <part id="7576" type="lg"/>
+    <part id="7577" type="lg"/>
+    <part id="7578" type="lg"/>
   </lib>
   <lib id="hh_human_acc_head" revision="74162">
     <part id="1" type="he"/>
