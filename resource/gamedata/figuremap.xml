@@ -13430,7 +13430,7 @@
     <part id="7592" type="ptr"/>
     <part id="7593" type="pt"/>
   </lib>
-  <lib id="misc_U_wand" revision="75639">
+  <lib id="misc_U_wand" revision="75722">
     <part id="7610" type="mc"/>
     <part id="7610" type="mcl"/>
     <part id="7610" type="mcr"/>
