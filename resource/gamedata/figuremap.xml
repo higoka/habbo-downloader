@@ -13495,7 +13495,7 @@
     <part id="7678" type="rc"/>
     <part id="7679" type="cc"/>
   </lib>
-  <lib id="hair_U_survivalbraid" revision="75786">
+  <lib id="hair_U_survivalbraid" revision="75806">
     <part id="7598" type="hr"/>
     <part id="7598" type="hrb"/>
     <part id="7599" type="hr"/>
@@ -13505,7 +13505,7 @@
     <part id="7683" type="ca"/>
     <part id="7684" type="ca"/>
   </lib>
-  <lib id="acc_chest_U_c26_bow3" revision="75788">
+  <lib id="acc_chest_U_c26_bow3" revision="75802">
     <part id="7686" type="ca"/>
     <part id="7687" type="ca"/>
     <part id="7688" type="ca"/>
@@ -13543,7 +13543,7 @@
     <part id="7517" type="mcl"/>
     <part id="7517" type="mcr"/>
   </lib>
-  <lib id="acc_chest_U_c26_bow" revision="75760">
+  <lib id="acc_chest_U_c26_bow" revision="75802">
     <part id="7680" type="ca"/>
     <part id="7681" type="ca"/>
     <part id="7682" type="ca"/>
@@ -13554,12 +13554,12 @@
     <part id="7649" type="rs"/>
     <part id="7650" type="ch"/>
   </lib>
-  <lib id="misc_U_tomahawk" revision="75783">
+  <lib id="misc_U_tomahawk" revision="75799">
     <part id="7623" type="mc"/>
     <part id="7623" type="mcl"/>
     <part id="7623" type="mcr"/>
   </lib>
-  <lib id="acc_chest_U_mksftsword" revision="75784">
+  <lib id="acc_chest_U_mksftsword" revision="75795">
     <part id="7621" type="ca"/>
     <part id="7622" type="ca"/>
   </lib>
@@ -13613,6 +13613,18 @@
     <part id="7689" type="mcr"/>
     <part id="7690" type="mc"/>
     <part id="7691" type="mc"/>
+  </lib>
+  <lib id="misc_U_cyberlimbs" revision="75804">
+    <part id="7673" type="mc"/>
+    <part id="7673" type="mcl"/>
+    <part id="7673" type="mcr"/>
+    <part id="7674" type="mc"/>
+  </lib>
+  <lib id="jacket_U_nfttasselvest" revision="75801">
+    <part id="7708" type="cc"/>
+    <part id="7708" type="lc"/>
+    <part id="7708" type="rc"/>
+    <part id="7709" type="cc"/>
   </lib>
   <lib id="hh_people_pool" revision="50491">
     <part id="s03" type="ss"/>
