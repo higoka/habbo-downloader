@@ -3446,7 +3446,7 @@
     <part id="3057" type="ch"/>
     <part id="3058" type="ch"/>
   </lib>
-  <lib id="face_U_iridescentskin1" revision="74902">
+  <lib id="face_U_iridescentskin1" revision="75832">
     <part id="7323" type="hd"/>
     <part id="7323" type="bd"/>
     <part id="7323" type="ey"/>
@@ -3457,7 +3457,7 @@
   <lib id="acc_chest_U_vibrantguitar" revision="72239">
     <part id="6026" type="ca"/>
   </lib>
-  <lib id="face_U_iridescentskin2" revision="74902">
+  <lib id="face_U_iridescentskin2" revision="75832">
     <part id="7324" type="hd"/>
     <part id="7324" type="bd"/>
     <part id="7324" type="ey"/>
@@ -3675,7 +3675,7 @@
     <part id="2780" type="ca"/>
     <part id="2794" type="ca"/>
   </lib>
-  <lib id="face_U_mannequin" revision="74624">
+  <lib id="face_U_mannequin" revision="75836">
     <part id="7186" type="hd"/>
     <part id="7186" type="bd"/>
     <part id="7186" type="ey"/>
@@ -8607,7 +8607,7 @@
     <part id="3580" type="lc"/>
     <part id="3580" type="rc"/>
   </lib>
-  <lib id="face_U_mafiascars" revision="75297">
+  <lib id="face_U_mafiascars" revision="75837">
     <part id="7360" type="hd"/>
     <part id="7360" type="bd"/>
     <part id="7360" type="ey"/>
@@ -13666,6 +13666,29 @@
     <part id="7668" type="ha"/>
     <part id="7669" type="ha"/>
     <part id="7670" type="ha"/>
+  </lib>
+  <lib id="face_U_nftdeterminedface" revision="75827">
+    <part id="7651" type="fc"/>
+    <part id="7652" type="ey"/>
+    <part id="7653" type="fc"/>
+  </lib>
+  <lib id="face_U_nftdeterminedface2" revision="75830">
+    <part id="7662" type="fc"/>
+    <part id="7663" type="ey"/>
+    <part id="7664" type="fc"/>
+  </lib>
+  <lib id="face_U_nfthopefulface" revision="75827">
+    <part id="7654" type="fc"/>
+    <part id="7655" type="ey"/>
+    <part id="7656" type="fc"/>
+  </lib>
+  <lib id="face_U_nfthopefulface2" revision="75830">
+    <part id="7665" type="fc"/>
+    <part id="7666" type="ey"/>
+    <part id="7667" type="fc"/>
+  </lib>
+  <lib id="acc_print_U_nftcollectiblesprint" revision="75827">
+    <part id="7707" type="cp"/>
   </lib>
   <lib id="hh_people_pool" revision="50491">
     <part id="s03" type="ss"/>
