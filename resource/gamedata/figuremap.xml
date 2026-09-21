@@ -13554,7 +13554,7 @@
     <part id="7649" type="rs"/>
     <part id="7650" type="ch"/>
   </lib>
-  <lib id="misc_U_tomahawk" revision="75799">
+  <lib id="misc_U_tomahawk" revision="75825">
     <part id="7623" type="mc"/>
     <part id="7623" type="mcl"/>
     <part id="7623" type="mcr"/>
@@ -13607,7 +13607,7 @@
     <part id="7645" type="ha"/>
     <part id="7646" type="ha"/>
   </lib>
-  <lib id="misc_U_survivalsword" revision="75782">
+  <lib id="misc_U_survivalsword" revision="75822">
     <part id="7689" type="mc"/>
     <part id="7689" type="mcl"/>
     <part id="7689" type="mcr"/>
@@ -13625,6 +13625,47 @@
     <part id="7708" type="lc"/>
     <part id="7708" type="rc"/>
     <part id="7709" type="cc"/>
+  </lib>
+  <lib id="trousers_U_paintoutfit" revision="75820">
+    <part id="7704" type="lg"/>
+    <part id="7705" type="lg"/>
+    <part id="7706" type="lg"/>
+  </lib>
+  <lib id="shirt_F_paintoutfit" revision="75820">
+    <part id="7701" type="ch"/>
+    <part id="7701" type="ls"/>
+    <part id="7701" type="rs"/>
+    <part id="7702" type="ch"/>
+    <part id="7703" type="ch"/>
+  </lib>
+  <lib id="shirt_M_paintoutfit" revision="75820">
+    <part id="7698" type="ch"/>
+    <part id="7698" type="ls"/>
+    <part id="7698" type="rs"/>
+    <part id="7699" type="ch"/>
+    <part id="7700" type="ch"/>
+  </lib>
+  <lib id="pet_U_nftballoonbuddy" revision="75817">
+    <part id="7712" type="pt"/>
+    <part id="7712" type="ptl"/>
+    <part id="7712" type="ptr"/>
+    <part id="7713" type="pt"/>
+  </lib>
+  <lib id="face_U_nftemeraldskin1" revision="75818">
+    <part id="7710" type="hd"/>
+    <part id="7710" type="bd"/>
+    <part id="7710" type="ey"/>
+    <part id="7710" type="lh"/>
+    <part id="7710" type="rh"/>
+    <part id="7710" type="fc"/>
+  </lib>
+  <lib id="face_U_nftemeraldskin2" revision="75819">
+    <part id="7711" type="hd"/>
+  </lib>
+  <lib id="hat_U_recylcerpainthat" revision="75824">
+    <part id="7668" type="ha"/>
+    <part id="7669" type="ha"/>
+    <part id="7670" type="ha"/>
   </lib>
   <lib id="hh_people_pool" revision="50491">
     <part id="s03" type="ss"/>
