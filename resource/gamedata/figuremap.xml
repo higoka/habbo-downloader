@@ -13690,7 +13690,7 @@
   <lib id="acc_print_U_nftcollectiblesprint" revision="75827">
     <part id="7707" type="cp"/>
   </lib>
-  <lib id="misc_U_nftcutlery" revision="75841">
+  <lib id="misc_U_nftcutlery" revision="75854">
     <part id="7657" type="mc"/>
     <part id="7657" type="mcl"/>
     <part id="7657" type="mcr"/>
@@ -13698,7 +13698,7 @@
   <lib id="acc_head_U_nfthaircomb" revision="75841">
     <part id="7723" type="he"/>
   </lib>
-  <lib id="misc_U_nfttrashcan" revision="75841">
+  <lib id="misc_U_nfttrashcan" revision="75854">
     <part id="7720" type="mc"/>
     <part id="7720" type="mcl"/>
     <part id="7720" type="mcr"/>
@@ -13721,7 +13721,10 @@
     <part id="7694" type="ha"/>
     <part id="7695" type="ha"/>
   </lib>
-  <lib id="hat_U_bananahelmet" revision="75848">
+  <lib id="hat_U_bananahelmet" revision="75855">
+    <part id="7696" type="ha"/>
+  </lib>
+  <lib id="hat_U_nftbananahelmet" revision="75864">
     <part id="7696" type="ha"/>
   </lib>
   <lib id="hh_people_pool" revision="50491">

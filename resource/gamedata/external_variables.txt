@@ -3025,10 +3025,10 @@ xmas2012.calendar.startdate=2012-12-02 00:00
 zendesk.url=https://help.habbo.com/home
 zoom.enabled=1
 
-flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202609231357-410749075/
+flash.client.url=https://images.habbo.com/gordon/flash-assets-PRODUCTION-202609231918-344049401/
 new.user.flow.roomTypes=10,11,12
-external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/3fb1be6bdbe3d650707f9ef550575fe24889def7
+external.texts.txt=https://www.habbo.com/gamedata/external_flash_texts/3f70e69f22ce64d9b8b9c66599f6ad48db43427b
 external.figurepartlist.txt=https://www.habbo.com/gamedata/figuredata/eb571bef3deb011536e57cf587671bf97fd758b9
-productdata.load.url=https://www.habbo.com/gamedata/productdata/236db0c4afd657bbd02762dfddac8e7cc274c449
-furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/7ca5197e0fcc27d6e9a0986cf7513195d411d601
-external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/3fb1be6bdbe3d650707f9ef550575fe24889def7
+productdata.load.url=https://www.habbo.com/gamedata/productdata/be0368f5d2bdd14bec75652a0a1c31173eff0c45
+furnidata.load.url=https://www.habbo.com/gamedata/furnidata_xml/d4c0bc787dd1bdba020d90686f014c14e9fe2cfc
+external.override.texts.txt=https://www.habbo.com/gamedata/override/external_flash_override_texts/3f70e69f22ce64d9b8b9c66599f6ad48db43427b
