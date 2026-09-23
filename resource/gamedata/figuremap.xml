@@ -3446,7 +3446,7 @@
     <part id="3057" type="ch"/>
     <part id="3058" type="ch"/>
   </lib>
-  <lib id="face_U_iridescentskin1" revision="75832">
+  <lib id="face_U_iridescentskin1" revision="75840">
     <part id="7323" type="hd"/>
     <part id="7323" type="bd"/>
     <part id="7323" type="ey"/>
@@ -3457,7 +3457,7 @@
   <lib id="acc_chest_U_vibrantguitar" revision="72239">
     <part id="6026" type="ca"/>
   </lib>
-  <lib id="face_U_iridescentskin2" revision="75832">
+  <lib id="face_U_iridescentskin2" revision="75840">
     <part id="7324" type="hd"/>
     <part id="7324" type="bd"/>
     <part id="7324" type="ey"/>
@@ -3675,7 +3675,7 @@
     <part id="2780" type="ca"/>
     <part id="2794" type="ca"/>
   </lib>
-  <lib id="face_U_mannequin" revision="75836">
+  <lib id="face_U_mannequin" revision="75839">
     <part id="7186" type="hd"/>
     <part id="7186" type="bd"/>
     <part id="7186" type="ey"/>
@@ -8607,7 +8607,7 @@
     <part id="3580" type="lc"/>
     <part id="3580" type="rc"/>
   </lib>
-  <lib id="face_U_mafiascars" revision="75837">
+  <lib id="face_U_mafiascars" revision="75839">
     <part id="7360" type="hd"/>
     <part id="7360" type="bd"/>
     <part id="7360" type="ey"/>
@@ -13510,7 +13510,7 @@
     <part id="7687" type="ca"/>
     <part id="7688" type="ca"/>
   </lib>
-  <lib id="face_U_bloodbath2" revision="75778">
+  <lib id="face_U_bloodbath2" revision="75840">
     <part id="7615" type="hd"/>
     <part id="7615" type="bd"/>
     <part id="7615" type="lh"/>
@@ -13594,7 +13594,7 @@
     <part id="7637" type="mc"/>
     <part id="7638" type="mc"/>
   </lib>
-  <lib id="face_U_bloodbath" revision="75778">
+  <lib id="face_U_bloodbath" revision="75840">
     <part id="7612" type="hd"/>
     <part id="7612" type="bd"/>
     <part id="7612" type="lh"/>
@@ -13672,7 +13672,7 @@
     <part id="7652" type="ey"/>
     <part id="7653" type="fc"/>
   </lib>
-  <lib id="face_U_nftdeterminedface2" revision="75830">
+  <lib id="face_U_nftdeterminedface2" revision="75841">
     <part id="7662" type="fc"/>
     <part id="7663" type="ey"/>
     <part id="7664" type="fc"/>
@@ -13689,6 +13689,40 @@
   </lib>
   <lib id="acc_print_U_nftcollectiblesprint" revision="75827">
     <part id="7707" type="cp"/>
+  </lib>
+  <lib id="misc_U_nftcutlery" revision="75841">
+    <part id="7657" type="mc"/>
+    <part id="7657" type="mcl"/>
+    <part id="7657" type="mcr"/>
+  </lib>
+  <lib id="acc_head_U_nfthaircomb" revision="75841">
+    <part id="7723" type="he"/>
+  </lib>
+  <lib id="misc_U_nfttrashcan" revision="75841">
+    <part id="7720" type="mc"/>
+    <part id="7720" type="mcl"/>
+    <part id="7720" type="mcr"/>
+  </lib>
+  <lib id="hat_U_nfttrashcan" revision="75841">
+    <part id="7721" type="ha"/>
+  </lib>
+  <lib id="acc_face_U_nftzigzagstache" revision="75841">
+    <part id="7722" type="fa"/>
+  </lib>
+  <lib id="misc_U_nftcottoncandy" revision="75841">
+    <part id="0" type="mc"/>
+    <part id="0" type="mcl"/>
+    <part id="0" type="mcr"/>
+    <part id="1" type="mc"/>
+    <part id="2" type="mc"/>
+  </lib>
+  <lib id="hat_U_nftbirdnest" revision="75843">
+    <part id="7693" type="ha"/>
+    <part id="7694" type="ha"/>
+    <part id="7695" type="ha"/>
+  </lib>
+  <lib id="hat_U_bananahelmet" revision="75848">
+    <part id="7696" type="ha"/>
   </lib>
   <lib id="hh_people_pool" revision="50491">
     <part id="s03" type="ss"/>
