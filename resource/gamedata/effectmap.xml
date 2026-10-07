@@ -232,7 +232,7 @@
   <effect id="226" lib="WiredTeamGreen" type="fx" revision="70689"/>
   <effect id="227" lib="Chocolate1" type="fx" revision="70826"/>
   <effect id="228" lib="Chocolate2" type="fx" revision="70826"/>
-  <effect id="229" lib="Holo" type="fx" revision="70973"/>
+  <effect id="229" lib="Holo" type="fx" revision="75915"/>
   <effect id="230" lib="RedDragonSpirit" type="fx" revision="71157"/>
   <effect id="231" lib="BlueDragonSpirit" type="fx" revision="71157"/>
   <effect id="232" lib="GreenDragonSpirit" type="fx" revision="71157"/>
@@ -250,5 +250,6 @@
   <effect id="244" lib="Mystic" type="fx" revision="75006"/>
   <effect id="245" lib="DuckGod" type="fx" revision="74993"/>
   <effect id="246" lib="TestFX246" type="fx" revision="75628"/>
-  <effect id="247" lib="EnchantedBroomstick" type="fx" revision="75705"/>
+  <effect id="247" lib="EnchantedBroomstick" type="fx" revision="75898"/>
+  <effect id="248" lib="Spin" type="fx" revision="75915"/>
 </map>

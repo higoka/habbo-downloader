@@ -51984,6 +51984,7 @@ wiredfurni.conflictingtriggers.caption=Warning: Incompatible Triggers
 wiredfurni.conflictingtriggers.text=This Effect needs a user to activate it.You have stacked this effect with Triggers (%triggers%) that do not provide an activating user.
 wiredfurni.danger.1.change.confirm.body=You have selected "Invert" without filtering. This will select all furni/users that do NOT match the requirement, which COULD be the entire room. Are you sure? (DANGEROUS!)
 wiredfurni.danger.1.change.confirm.title=Are you sure?
+wiredfurni.editor.error.unsupported_client=This Wired furni cannot be configured in this client yet.
 wiredfurni.enter_code=enter code
 wiredfurni.enter_id=enter ID
 wiredfurni.enter_name=enter name

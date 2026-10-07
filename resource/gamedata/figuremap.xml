@@ -1361,7 +1361,7 @@
     <part id="6109" type="hr"/>
     <part id="6110" type="hr"/>
   </lib>
-  <lib id="shirt_F_pinstripesuit" revision="75297">
+  <lib id="shirt_F_pinstripesuit" revision="75886">
     <part id="7376" type="ch"/>
     <part id="7376" type="ls"/>
     <part id="7376" type="rs"/>
@@ -1521,7 +1521,7 @@
     <part id="2592" type="ha"/>
     <part id="2593" type="ha"/>
   </lib>
-  <lib id="shirt_M_pinstripesuit" revision="75297">
+  <lib id="shirt_M_pinstripesuit" revision="75886">
     <part id="7373" type="ch"/>
     <part id="7373" type="ls"/>
     <part id="7373" type="rs"/>
@@ -12474,11 +12474,9 @@
     <part id="6012" type="rs"/>
     <part id="6013" type="ch"/>
   </lib>
-  <lib id="misc_U_darkaura" revision="75707">
-    <part id="7579" type="mc"/>
-    <part id="7579" type="mcl"/>
-    <part id="7579" type="mcr"/>
-    <part id="7580" type="mc"/>
+  <lib id="misc_U_darkaura" revision="75880">
+    <part id="7579" type="mco"/>
+    <part id="7580" type="mco"/>
   </lib>
   <lib id="shirt_M_colourfuloutfit" revision="70355">
     <part id="4919" type="ch"/>
