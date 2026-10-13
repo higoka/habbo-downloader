@@ -13707,12 +13707,12 @@
   <lib id="acc_face_U_nftzigzagstache" revision="75841">
     <part id="7722" type="fa"/>
   </lib>
-  <lib id="misc_U_nftcottoncandy" revision="75841">
-    <part id="0" type="mc"/>
-    <part id="0" type="mcl"/>
-    <part id="0" type="mcr"/>
-    <part id="1" type="mc"/>
-    <part id="2" type="mc"/>
+  <lib id="misc_U_nftcottoncandy" revision="75972">
+    <part id="7659" type="mc"/>
+    <part id="7659" type="mcl"/>
+    <part id="7659" type="mcr"/>
+    <part id="7660" type="mc"/>
+    <part id="7661" type="mc"/>
   </lib>
   <lib id="hat_U_nftbirdnest" revision="75843">
     <part id="7693" type="ha"/>
