@@ -38496,6 +38496,7 @@ notifications.new_feature.leg_day.desc=Get those legs moving!
 notifications.new_feature.new_achievements.desc=NEW achievements are available!
 notifications.new_feature.new_wired.desc=NEW Wired is available!
 notifications.new_feature.recycler_return.desc=The recycler is BACK!
+notifications.new_feature.rewardtrack_habboween2026.desc=Habboween Reward Track
 notifications.new_feature.rewardtrack_intro.desc=Start your Habbo Journey!
 notifications.new_feature.room_teleportation.desc=Room teleportation wired is HERE!
 notifications.new_feature.wf15.desc=15th Wired Anniversary!
