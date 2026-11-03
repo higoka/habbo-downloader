@@ -13725,6 +13725,197 @@
     <part id="2857" type="hr"/>
     <part id="2857" type="hrb"/>
   </lib>
+  <lib id="pet_U_friendlygingerbread" revision="76046">
+    <part id="7750" type="pt"/>
+    <part id="7750" type="ptl"/>
+    <part id="7750" type="ptr"/>
+    <part id="7751" type="pt"/>
+  </lib>
+  <lib id="hair_U_winterprincesshair" revision="76039">
+    <part id="7736" type="hr"/>
+    <part id="7736" type="hrb"/>
+    <part id="7737" type="hr"/>
+    <part id="7738" type="hr"/>
+  </lib>
+  <lib id="acc_print_U_nftduckchestprint" revision="76044">
+    <part id="7763" type="cp"/>
+    <part id="7764" type="cp"/>
+    <part id="7765" type="cp"/>
+  </lib>
+  <lib id="jacket_M_gingerbreadshortcape" revision="76111">
+    <part id="7733" type="cc"/>
+    <part id="7733" type="lc"/>
+    <part id="7733" type="rc"/>
+    <part id="7734" type="cc"/>
+    <part id="7735" type="cc"/>
+  </lib>
+  <lib id="hat_U_nftduckonesiehead" revision="76062">
+    <part id="7766" type="ha"/>
+    <part id="7767" type="ha"/>
+    <part id="7768" type="ha"/>
+  </lib>
+  <lib id="shirt_M_gingerbreaddress" revision="76049">
+    <part id="7727" type="ch"/>
+    <part id="7727" type="ls"/>
+    <part id="7727" type="rs"/>
+    <part id="7728" type="ch"/>
+    <part id="7729" type="ch"/>
+  </lib>
+  <lib id="pet_U_polarbearcub" revision="76063">
+    <part id="7772" type="pt"/>
+    <part id="7772" type="ptl"/>
+    <part id="7772" type="ptr"/>
+    <part id="7773" type="pt"/>
+  </lib>
+  <lib id="shirt_F_gingerbreaddress" revision="76049">
+    <part id="7724" type="ch"/>
+    <part id="7724" type="ls"/>
+    <part id="7724" type="rs"/>
+    <part id="7725" type="ch"/>
+    <part id="7726" type="ch"/>
+  </lib>
+  <lib id="misc_U_santakeyring" revision="76039">
+    <part id="7743" type="mc"/>
+    <part id="7743" type="mcl"/>
+    <part id="7743" type="mcr"/>
+    <part id="7743" type="mco"/>
+    <part id="7743" type="mcu"/>
+    <part id="7744" type="mc"/>
+  </lib>
+  <lib id="jacket_F_gingerbreadshortcape" revision="76111">
+    <part id="7730" type="cc"/>
+    <part id="7730" type="lc"/>
+    <part id="7730" type="rc"/>
+    <part id="7731" type="cc"/>
+    <part id="7732" type="cc"/>
+  </lib>
+  <lib id="shirt_U_nftduckonesie" revision="76064">
+    <part id="7769" type="ch"/>
+    <part id="7769" type="ls"/>
+    <part id="7769" type="rs"/>
+    <part id="7770" type="ch"/>
+    <part id="7771" type="ch"/>
+  </lib>
+  <lib id="hat_U_nft26polarbearhat" revision="76110">
+    <part id="7761" type="ha"/>
+    <part id="7762" type="ha"/>
+  </lib>
+  <lib id="acc_head_U_nftduckheadband" revision="76044">
+    <part id="7759" type="he"/>
+  </lib>
+  <lib id="misc_U_reindeerlongscarf" revision="76039">
+    <part id="7745" type="mc"/>
+    <part id="7745" type="mcl"/>
+    <part id="7745" type="mcr"/>
+    <part id="7745" type="mco"/>
+    <part id="7745" type="mcu"/>
+    <part id="7746" type="mc"/>
+    <part id="7747" type="mc"/>
+  </lib>
+  <lib id="hair_U_winterprincesshair2" revision="76039">
+    <part id="7739" type="hr"/>
+    <part id="7739" type="hrb"/>
+    <part id="7740" type="hr"/>
+  </lib>
+  <lib id="hat_U_nft26nutcrackerhat" revision="76079">
+    <part id="7759" type="ha"/>
+    <part id="7760" type="ha"/>
+  </lib>
+  <lib id="acc_head_U_winterprincesstiara" revision="76039">
+    <part id="7741" type="he"/>
+    <part id="7742" type="he"/>
+  </lib>
+  <lib id="acc_face_U_santamask" revision="76076">
+    <part id="7748" type="fa"/>
+    <part id="7749" type="fa"/>
+  </lib>
+  <lib id="acc_head_U_themeparkheadband" revision="76074">
+    <part id="7714" type="he"/>
+    <part id="7715" type="he"/>
+    <part id="7716" type="he"/>
+  </lib>
+  <lib id="hat_U_xmastophat" revision="76074">
+    <part id="7717" type="ha"/>
+    <part id="7718" type="ha"/>
+    <part id="7719" type="ha"/>
+  </lib>
+  <lib id="jacket_M_nftsnowstorm" revision="76104">
+    <part id="7789" type="cc"/>
+    <part id="7789" type="lc"/>
+    <part id="7789" type="rc"/>
+    <part id="7790" type="cc"/>
+  </lib>
+  <lib id="hat_U_nftstarcrown" revision="76092">
+    <part id="7788" type="ha"/>
+  </lib>
+  <lib id="face_U_nftnutcracker1" revision="76109">
+    <part id="7796" type="fc"/>
+    <part id="7797" type="fc"/>
+    <part id="7798" type="ey"/>
+  </lib>
+  <lib id="face_U_nftnutcracker2" revision="76109">
+    <part id="7800" type="fc"/>
+  </lib>
+  <lib id="shoes_U_nftduckslippers" revision="76092">
+    <part id="7779" type="sh"/>
+    <part id="7780" type="sh"/>
+  </lib>
+  <lib id="hair_U_nftcandycanehair" revision="76112">
+    <part id="7776" type="hr"/>
+    <part id="7776" type="hrb"/>
+    <part id="7777" type="hr"/>
+    <part id="7778" type="hr"/>
+  </lib>
+  <lib id="shoes_U_nftsnowstorm" revision="76095">
+    <part id="7793" type="sh"/>
+    <part id="7794" type="sh"/>
+  </lib>
+  <lib id="misc_U_nftcandycanecane" revision="76081">
+    <part id="7795" type="mc"/>
+    <part id="7795" type="mcl"/>
+    <part id="7795" type="mcr"/>
+  </lib>
+  <lib id="acc_head_U_nftstarfriend" revision="76092">
+    <part id="7786" type="he"/>
+    <part id="7787" type="he"/>
+  </lib>
+  <lib id="misc_U_nftstarkeyring" revision="76092">
+    <part id="7784" type="mc"/>
+    <part id="7784" type="mcl"/>
+    <part id="7784" type="mcr"/>
+    <part id="7784" type="mco"/>
+    <part id="7784" type="mcu"/>
+    <part id="7785" type="mc"/>
+  </lib>
+  <lib id="jacket_F_nftsnowstorm" revision="76104">
+    <part id="7791" type="cc"/>
+  </lib>
+  <lib id="misc_U_gigagiftbow" revision="76092">
+    <part id="7774" type="mc"/>
+    <part id="7774" type="mco"/>
+    <part id="7774" type="mcu"/>
+    <part id="7775" type="mc"/>
+    <part id="7775" type="mcl"/>
+    <part id="7775" type="mcr"/>
+  </lib>
+  <lib id="acc_print_U_nftstarchestprint" revision="76092">
+    <part id="7781" type="cp"/>
+    <part id="7782" type="cp"/>
+    <part id="7783" type="cp"/>
+  </lib>
+  <lib id="hat_U_nftpenguinheadband" revision="76098">
+    <part id="7754" type="ha"/>
+    <part id="7755" type="ha"/>
+  </lib>
+  <lib id="hair_U_shortshag" revision="76098">
+    <part id="7756" type="hr"/>
+    <part id="7756" type="hrb"/>
+    <part id="7757" type="hr"/>
+  </lib>
+  <lib id="acc_chest_U_gingerbreadbackpack" revision="76098">
+    <part id="7752" type="ca"/>
+    <part id="7753" type="ca"/>
+  </lib>
   <lib id="hh_human_acc_chest" revision="50491">
     <part id="1" type="ca"/>
     <part id="2" type="ca"/>
@@ -14102,7 +14293,7 @@
     <part id="10" type="ey"/>
     <part id="11" type="ey"/>
   </lib>
-  <lib id="hh_human_item" revision="75603">
+  <lib id="hh_human_item" revision="76072">
     <part id="0" type="li"/>
     <part id="1" type="ri"/>
     <part id="2" type="ri"/>
@@ -14391,6 +14582,7 @@
     <part id="313" type="ri"/>
     <part id="314" type="ri"/>
     <part id="315" type="ri"/>
+    <part id="317" type="ri"/>
     <part id="667" type="ri"/>
   </lib>
   <lib id="hh_human_shoe" revision="61743">
