@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <map>
-  <effect id="dance.1" lib="Dance1" type="dance" revision="75398"/>
-  <effect id="dance.2" lib="Dance2" type="dance" revision="75398"/>
-  <effect id="dance.3" lib="Dance3" type="dance" revision="75398"/>
-  <effect id="dance.4" lib="Dance4" type="dance" revision="75398"/>
+  <effect id="dance.1" lib="Dance1" type="dance" revision="76117"/>
+  <effect id="dance.2" lib="Dance2" type="dance" revision="76117"/>
+  <effect id="dance.3" lib="Dance3" type="dance" revision="76117"/>
+  <effect id="dance.4" lib="Dance4" type="dance" revision="76117"/>
   <effect id="1" lib="Spotlight" type="fx" revision="59200"/>
   <effect id="2" lib="Hoverboard" type="fx" revision="59200"/>
   <effect id="3" lib="UFOblue" type="fx" revision="59200"/>
@@ -143,7 +143,7 @@
   <effect id="137" lib="GoldSpotlight" type="fx" revision="59200"/>
   <effect id="138" lib="GoldenGlasses" type="fx" revision="59200"/>
   <effect id="139" lib="GoldMicrophone" type="fx" revision="63790"/>
-  <effect id="140" lib="HabnamDance" type="fx" revision="75403"/>
+  <effect id="140" lib="HabnamDance" type="fx" revision="76117"/>
   <effect id="141" lib="Flowermask" type="fx" revision="59200"/>
   <effect id="142" lib="Goatmask" type="fx" revision="59200"/>
   <effect id="143" lib="Feathermask1" type="fx" revision="59200"/>
